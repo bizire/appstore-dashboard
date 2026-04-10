@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App Store Chart Monitor</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0d1117;
+            color: #e6edf3;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 { text-align: center; margin-bottom: 8px; font-size: 1.5rem; }
+        .subtitle { text-align: center; color: #8b949e; margin-bottom: 24px; font-size: 0.9rem; }
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 16px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+        }
+        .stat-card {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 14px 22px;
+            text-align: center;
+            min-width: 130px;
+        }
+        .stat-card .label { color: #8b949e; font-size: 0.75rem; text-transform: uppercase; }
+        .stat-card .value { font-size: 1.6rem; font-weight: 700; margin-top: 4px; }
+        .stat-card .value.total { color: #58a6ff; }
+        .stat-card .value.entered { color: #3fb950; }
+        .stat-card .value.exited { color: #f85149; }
+        .stat-card .value.changed { color: #d29922; }
+        .period-selector, .filter-row {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+        }
+        .btn {
+            background: #21262d;
+            border: 1px solid #30363d;
+            color: #8b949e;
+            padding: 6px 14px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.85rem;
+        }
+        .btn.active {
+            background: #1f6feb;
+            border-color: #1f6feb;
+            color: #fff;
+        }
+        .chart-container {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .chart-container h2 { font-size: 0.95rem; margin-bottom: 12px; color: #8b949e; }
+        .table-container {
+            background: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 8px;
+            padding: 16px;
+            margin-bottom: 20px;
+            overflow-x: auto;
+        }
+        .table-container h2 { font-size: 0.95rem; margin-bottom: 12px; color: #8b949e; }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.88rem;
+        }
+        th, td {
+            text-align: left;
+            padding: 8px 10px;
+            border-bottom: 1px solid #21262d;
+        }
+        th {
+            color: #8b949e;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.72rem;
+            letter-spacing: 0.5px;
+        }
+        td.time { color: #8b949e; font-variant-numeric: tabular-nums; white-space: nowrap; }
+        td.app { font-weight: 600; }
+        .badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: 0.72rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        .badge.free { background: rgba(88, 166, 255, 0.15); color: #58a6ff; }
+        .badge.paid { background: rgba(210, 153, 34, 0.15); color: #d29922; }
+        .badge.entered { background: rgba(63, 185, 80, 0.15); color: #3fb950; }
+        .badge.exited { background: rgba(248, 81, 73, 0.15); color: #f85149; }
+        .badge.rank_change { background: rgba(210, 153, 34, 0.15); color: #d29922; }
+        .rank-delta .up { color: #3fb950; }
+        .rank-delta .down { color: #f85149; }
+        .empty { text-align: center; color: #484f58; padding: 24px; }
+        .last-update { text-align: center; color: #484f58; font-size: 0.75rem; margin-top: 16px; }
+        .pagination {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            margin-top: 12px;
+        }
+    </style>
+</head>
+<body>
+    <h1>App Store Chart Monitor</h1>
+    <p class="subtitle">US iPhone · Top Free & Top Paid · times in US/Eastern</p>
+
+    <div class="stats">
+        <div class="stat-card">
+            <div class="label">Events</div>
+            <div class="value total" id="stat-total">0</div>
+        </div>
+        <div class="stat-card">
+            <div class="label">Entered</div>
+            <div class="value entered" id="stat-entered">0</div>
+        </div>
+        <div class="stat-card">
+            <div class="label">Exited</div>
+            <div class="value exited" id="stat-exited">0</div>
+        </div>
+        <div class="stat-card">
+            <div class="label">Rank changes</div>
+            <div class="value changed" id="stat-changed">0</div>
+        </div>
+    </div>
+
+    <div class="period-selector">
+        <button class="btn" data-hours="24">24h</button>
+        <button class="btn" data-hours="72">3d</button>
+        <button class="btn active" data-hours="168">7d</button>
+        <button class="btn" data-hours="720">30d</button>
+        <button class="btn" data-hours="0">All</button>
+    </div>
+
+    <div class="filter-row">
+        <button class="btn chart-filter active" data-chart="all">All charts</button>
+        <button class="btn chart-filter" data-chart="free">Free</button>
+        <button class="btn chart-filter" data-chart="paid">Paid</button>
+    </div>
+
+    <div class="filter-row">
+        <button class="btn type-filter active" data-type="all">All events</button>
+        <button class="btn type-filter" data-type="entered">Entered</button>
+        <button class="btn type-filter" data-type="exited">Exited</button>
+        <button class="btn type-filter" data-type="rank_change">Rank change</button>
+    </div>
+
+    <div class="chart-container">
+        <h2>Events by hour of day (US/Eastern)</h2>
+        <canvas id="histogram"></canvas>
+    </div>
+
+    <div class="table-container">
+        <h2>Recent events</h2>
+        <table id="events-table">
+            <thead>
+                <tr>
+                    <th>Time (ET)</th>
+                    <th>Chart</th>
+                    <th>App</th>
+                    <th>Event</th>
+                    <th>Rank</th>
+                </tr>
+            </thead>
+            <tbody id="events-tbody"></tbody>
+        </table>
+        <div class="pagination">
+            <button class="btn" id="show-more">Show more</button>
+        </div>
+    </div>
+
+    <div class="last-update" id="last-update"></div>
+
+    <script>
+        const TZ = 'America/New_York';
+        let allEvents = [];
+        let periodHours = 168;
+        let chartFilter = 'all';
+        let typeFilter = 'all';
+        let visibleCount = 100;
+        let histogramChart = null;
+
+        const fmtTime = new Intl.DateTimeFormat('en-US', {
+            timeZone: TZ,
+            month: 'short', day: '2-digit',
+            hour: '2-digit', minute: '2-digit',
+            hour12: false,
+        });
+
+        function hourInET(iso) {
+            const parts = new Intl.DateTimeFormat('en-US', {
+                timeZone: TZ, hour: '2-digit', hour12: false,
+            }).formatToParts(new Date(iso));
+            const h = parts.find(p => p.type === 'hour').value;
+            return parseInt(h, 10) % 24;
+        }
+
+        async function loadData() {
+            const resp = await fetch('data/events.json?t=' + Date.now());
+            allEvents = await resp.json();
+            render();
+        }
+
+        function filterEvents() {
+            const cutoff = periodHours === 0 ? 0 : Date.now() - periodHours * 3600 * 1000;
+            return allEvents.filter(e => {
+                if (new Date(e.ts).getTime() < cutoff) return false;
+                if (chartFilter !== 'all' && e.chart !== chartFilter) return false;
+                if (typeFilter !== 'all' && e.type !== typeFilter) return false;
+                return true;
+            });
+        }
+
+        function render() {
+            const filtered = filterEvents();
+            renderStats(filtered);
+            renderHistogram(filtered);
+            renderTable(filtered);
+            if (allEvents.length > 0) {
+                const last = allEvents[allEvents.length - 1];
+                document.getElementById('last-update').textContent =
+                    'Last update: ' + fmtTime.format(new Date(last.ts)) + ' ET · ' +
+                    allEvents.length + ' total events';
+            }
+        }
+
+        function renderStats(events) {
+            document.getElementById('stat-total').textContent = events.length;
+            document.getElementById('stat-entered').textContent = events.filter(e => e.type === 'entered').length;
+            document.getElementById('stat-exited').textContent = events.filter(e => e.type === 'exited').length;
+            document.getElementById('stat-changed').textContent = events.filter(e => e.type === 'rank_change').length;
+        }
+
+        function renderHistogram(events) {
+            const buckets = new Array(24).fill(0);
+            for (const e of events) buckets[hourInET(e.ts)]++;
+
+            if (histogramChart) histogramChart.destroy();
+            histogramChart = new Chart(document.getElementById('histogram'), {
+                type: 'bar',
+                data: {
+                    labels: Array.from({length: 24}, (_, i) => i.toString().padStart(2, '0') + ':00'),
+                    datasets: [{
+                        label: 'Events',
+                        data: buckets,
+                        backgroundColor: 'rgba(88, 166, 255, 0.6)',
+                        borderColor: '#58a6ff',
+                        borderWidth: 1,
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    animation: false,
+                    plugins: { legend: { display: false } },
+                    scales: {
+                        x: { grid: { color: '#21262d' }, ticks: { color: '#8b949e' } },
+                        y: {
+                            grid: { color: '#21262d' },
+                            ticks: { color: '#8b949e', precision: 0 },
+                            beginAtZero: true,
+                        }
+                    }
+                }
+            });
+        }
+
+        function rankCell(e) {
+            if (e.type === 'entered') return `<span class="rank-delta">→ #${e.to}</span>`;
+            if (e.type === 'exited')  return `<span class="rank-delta">#${e.from} →</span>`;
+            if (e.type === 'rank_change') {
+                const arrow = e.to < e.from
+                    ? `<span class="up">▲</span>`
+                    : `<span class="down">▼</span>`;
+                return `<span class="rank-delta">#${e.from} → #${e.to} ${arrow}</span>`;
+            }
+            return '';
+        }
+
+        function renderTable(events) {
+            const tbody = document.getElementById('events-tbody');
+            if (events.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="5" class="empty">No events in this period</td></tr>';
+                document.getElementById('show-more').style.display = 'none';
+                return;
+            }
+            const sorted = [...events].reverse();
+            const slice = sorted.slice(0, visibleCount);
+            tbody.innerHTML = slice.map(e => `
+                <tr>
+                    <td class="time">${fmtTime.format(new Date(e.ts))}</td>
+                    <td><span class="badge ${e.chart}">${e.chart}</span></td>
+                    <td class="app">${escapeHtml(e.app)}</td>
+                    <td><span class="badge ${e.type}">${e.type.replace('_', ' ')}</span></td>
+                    <td>${rankCell(e)}</td>
+                </tr>
+            `).join('');
+            document.getElementById('show-more').style.display =
+                sorted.length > visibleCount ? 'inline-block' : 'none';
+        }
+
+        function escapeHtml(s) {
+            return String(s).replace(/[&<>"']/g, c => ({
+                '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+            }[c]));
+        }
+
+        document.querySelectorAll('.period-selector .btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.period-selector .btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                periodHours = parseInt(btn.dataset.hours, 10);
+                visibleCount = 100;
+                render();
+            });
+        });
+        document.querySelectorAll('.chart-filter').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.chart-filter').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                chartFilter = btn.dataset.chart;
+                visibleCount = 100;
+                render();
+            });
+        });
+        document.querySelectorAll('.type-filter').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.type-filter').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                typeFilter = btn.dataset.type;
+                visibleCount = 100;
+                render();
+            });
+        });
+        document.getElementById('show-more').addEventListener('click', () => {
+            visibleCount += 100;
+            render();
+        });
+
+        loadData();
+    </script>
+</body>
+</html>
