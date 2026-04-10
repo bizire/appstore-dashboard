@@ -1,1 +1,226 @@
-[]
+[
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Meta AI - Assistant & Glasses",
+    "from": 6,
+    "to": 4
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "The Masters Tournament",
+    "from": 4,
+    "to": 5
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Gemini",
+    "from": 5,
+    "to": 6
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "WhatsApp Messenger",
+    "from": 13,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "CapCut: Photo & Video Editor",
+    "from": 12,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Gmail - Email by Google",
+    "from": 17,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TikTok - Videos, Shop & LIVE",
+    "from": 16,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Authenticator",
+    "from": 21,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Netflix Game Controller",
+    "from": 19,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Teams",
+    "from": 20,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Chrome",
+    "from": 24,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Facebook",
+    "from": 22,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "SHEIN - Shopping Online",
+    "from": 23,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 10,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Taskmaster The App",
+    "from": 9,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Paprika Recipe Manager 3",
+    "from": 12,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "imo video calls and chat HD",
+    "from": 13,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "QuickBend: Conduit Bending",
+    "from": 14,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSleep: Watch Sleep Tracker",
+    "from": 11,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Solocator - GPS Field Camera",
+    "from": 18,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarScope",
+    "from": 19,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Streaks",
+    "from": 16,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 17,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Walkout Song DJ",
+    "from": 21,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSnore: Snoring Recorder",
+    "from": 20,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Things 3",
+    "from": 25,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Noir - Dark Mode for Safari",
+    "from": 23,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-10T23:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PDG PROmote 2026+",
+    "from": 24,
+    "to": 25
+  }
+]

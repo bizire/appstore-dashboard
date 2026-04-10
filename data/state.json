@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T23:15:09Z",
+  "updated_at": "2026-04-10T23:30:11Z",
   "charts": {
     "free": [
       {
@@ -19,18 +19,18 @@
       },
       {
         "rank": 4,
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
+      },
+      {
+        "rank": 5,
         "id": "309025938",
         "title": "The Masters Tournament"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "id": "6477489729",
         "title": "Google Gemini"
-      },
-      {
-        "rank": 6,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 7,
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 13,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 14,
@@ -79,13 +79,13 @@
       },
       {
         "rank": 16,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 17,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 18,
@@ -94,33 +94,33 @@
       },
       {
         "rank": 19,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 20,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
-      },
-      {
-        "rank": 21,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
+        "rank": 20,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
+        "rank": 21,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
         "rank": 22,
+        "id": "535886823",
+        "title": "Google Chrome"
+      },
+      {
+        "rank": 23,
         "id": "284882215",
         "title": "Facebook"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 24,
-        "id": "535886823",
-        "title": "Google Chrome"
       },
       {
         "rank": 25,
@@ -171,33 +171,33 @@
       },
       {
         "rank": 9,
-        "id": "1553774029",
-        "title": "Taskmaster The App"
-      },
-      {
-        "rank": 10,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 11,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "rank": 10,
+        "id": "1553774029",
+        "title": "Taskmaster The App"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 14,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 15,
@@ -206,33 +206,33 @@
       },
       {
         "rank": 16,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 17,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 18,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
+        "rank": 18,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 19,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
         "rank": 20,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       },
       {
         "rank": 21,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 24,
         "id": "1581140954",
         "title": "Noir - Dark Mode for Safari"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "id": "482303584",
         "title": "PDG PROmote 2026+"
-      },
-      {
-        "rank": 25,
-        "id": "904237743",
-        "title": "Things 3"
       }
     ]
   }
