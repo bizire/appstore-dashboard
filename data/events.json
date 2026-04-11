@@ -812,5 +812,175 @@
     "type": "exited",
     "app": "LiveATC Air Radio",
     "from": 25
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "The Roku App (Official)",
+    "to": 18
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Grok - AI Chat & Video",
+    "to": 24
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "X",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Netflix Game Controller",
+    "from": 2,
+    "to": 1
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "MONOPOLY GO!Chat",
+    "from": 1,
+    "to": 2
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Temu: Shop Like a Billionaire",
+    "from": 9,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Freecash - Get Paid Real Money",
+    "from": 11,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google",
+    "from": 8,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Threads",
+    "from": 12,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "7-Eleven: Rewards & Shopping",
+    "from": 10,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Whatnot: Shop, Sell, Connect",
+    "from": 15,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Maps",
+    "from": 14,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "DoorDash: Food, Grocery, More",
+    "from": 17,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "WhatsApp Messenger",
+    "from": 16,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "SHEIN - Shopping Online",
+    "from": 21,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Uber - Request a ride",
+    "from": 24,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TikTok - Videos, Shop & LIVE",
+    "from": 18,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Amazon Prime Video",
+    "from": 23,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Gmail - Email by Google",
+    "from": 19,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Instagram",
+    "from": 20
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Spotify: Music and Podcasts",
+    "from": 22
+  },
+  {
+    "ts": "2026-04-11T07:45:11Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Walmart: Shopping & Savings",
+    "from": 25
   }
 ]
