@@ -222,5 +222,113 @@
     "app": "PDG PROmote 2026+",
     "from": 24,
     "to": 25
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Koala Sampler â¢ Beat Maker",
+    "to": 24
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "LiveATC Air Radio",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "FL Studio Mobile",
+    "from": 15,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "imo video calls and chat HD",
+    "from": 12,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "QuickBend: Conduit Bending",
+    "from": 13,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Walkout Song DJ",
+    "from": 20,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 19,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarScope",
+    "from": 17,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Solocator - GPS Field Camera",
+    "from": 16,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Streaks",
+    "from": 18,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PeakFinder",
+    "from": 22,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSnore: Snoring Recorder",
+    "from": 21,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "Noir - Dark Mode for Safari",
+    "from": 24
+  },
+  {
+    "ts": "2026-04-11T01:45:09Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "PDG PROmote 2026+",
+    "from": 25
   }
 ]
