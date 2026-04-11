@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T19:15:13Z",
+  "updated_at": "2026-04-11T19:30:14Z",
   "charts": {
     "free": [
       {
@@ -59,18 +59,18 @@
       },
       {
         "rank": 12,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 13,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 14,
-        "id": "585027354",
-        "title": "Google Maps"
       },
       {
         "rank": 15,
@@ -104,18 +104,18 @@
       },
       {
         "rank": 21,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 22,
         "id": "333903271",
         "title": "X"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 23,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "482066631",
-        "title": "The Roku App (Official)"
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
       }
     ],
     "paid": [
@@ -141,13 +141,13 @@
       },
       {
         "rank": 3,
-        "id": "916366645",
-        "title": "Procreate Pocket"
+        "id": "373493387",
+        "title": "AnkiMobile Flashcards"
       },
       {
         "rank": 4,
-        "id": "373493387",
-        "title": "AnkiMobile Flashcards"
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 5,
@@ -166,18 +166,18 @@
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
-      },
-      {
-        "rank": 9,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
+        "rank": 9,
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
+      },
+      {
         "rank": 10,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       },
       {
         "rank": 11,
@@ -186,8 +186,8 @@
       },
       {
         "rank": 12,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 13,
@@ -196,33 +196,33 @@
       },
       {
         "rank": 14,
-        "id": "1499236474",
-        "title": "CE5 Contact"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 15,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
-      },
-      {
-        "rank": 16,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
+        "rank": 16,
+        "id": "1499236474",
+        "title": "CE5 Contact"
+      },
+      {
         "rank": 17,
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
+      },
+      {
+        "rank": 18,
         "id": "1581140954",
         "title": "Noir - Dark Mode for Safari"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 19,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "1553774029",
-        "title": "Taskmaster The App"
-      },
-      {
-        "rank": 22,
-        "id": "1596063349",
-        "title": "Stash - Rule Based Proxy"
-      },
-      {
-        "rank": 23,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 24,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
+        "rank": 22,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 23,
+        "id": "1553774029",
+        "title": "Taskmaster The App"
+      },
+      {
+        "rank": 24,
+        "id": "1596063349",
+        "title": "Stash - Rule Based Proxy"
+      },
+      {
         "rank": 25,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "329937776",
+        "title": "Tour Tempo"
       }
     ]
   }

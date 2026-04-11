@@ -1816,5 +1816,209 @@
     "app": "The Roku App (Official)",
     "from": 21,
     "to": 25
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Spotify: Music and Podcasts",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Maps",
+    "from": 14,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "CapCut: Photo & Video Editor",
+    "from": 12,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Temu: Shop Like a Billionaire",
+    "from": 13,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Gmail - Email by Google",
+    "from": 23,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "X",
+    "from": 21,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Grok - AI Chat & Video",
+    "from": 22,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "The Roku App (Official)",
+    "from": 25
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Tour Tempo",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AnkiMobile Flashcards",
+    "from": 4,
+    "to": 3
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Procreate Pocket",
+    "from": 3,
+    "to": 4
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 9,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "TonalEnergy Tuner & Metronome",
+    "from": 8,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Walkout Song DJ",
+    "from": 15,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "FL Studio Mobile",
+    "from": 10,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSleep: Watch Sleep Tracker",
+    "from": 12,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarScope",
+    "from": 16,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "CE5 Contact",
+    "from": 14,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSnore: Snoring Recorder",
+    "from": 19,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Noir - Dark Mode for Safari",
+    "from": 17,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 18,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Moment Pro Camera II",
+    "from": 24,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "QuickBend: Conduit Bending",
+    "from": 23,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Taskmaster The App",
+    "from": 21,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Stash - Rule Based Proxy",
+    "from": 22,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-11T19:30:14Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "Pocket God",
+    "from": 25
   }
 ]
