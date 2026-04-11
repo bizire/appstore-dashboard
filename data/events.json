@@ -330,5 +330,147 @@
     "type": "exited",
     "app": "PDG PROmote 2026+",
     "from": 25
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "DoorDash: Food, Grocery, More",
+    "to": 20
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Meta AI - Assistant & Glasses",
+    "from": 4,
+    "to": 3
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Claude by Anthropic",
+    "from": 3,
+    "to": 4
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "7-Eleven: Rewards & Shopping",
+    "from": 11,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Threads",
+    "from": 9,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Freecash - Get Paid Real Money",
+    "from": 10,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Maps",
+    "from": 14,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "WhatsApp Messenger",
+    "from": 12,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Netflix Game Controller",
+    "from": 20,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Whatnot: Shop, Sell, Connect",
+    "from": 15,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Gmail - Email by Google",
+    "from": 16,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TikTok - Videos, Shop & LIVE",
+    "from": 17,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Instagram",
+    "from": 18,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Authenticator",
+    "from": 19,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Teams",
+    "from": 21,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Chrome",
+    "from": 22,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Facebook",
+    "from": 23,
+    "to": 25
+  },
+  {
+    "ts": "2026-04-11T02:00:12Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Spotify: Music and Podcasts",
+    "from": 25
   }
 ]
