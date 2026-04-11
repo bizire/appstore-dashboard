@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T07:45:11Z",
+  "updated_at": "2026-04-11T08:00:15Z",
   "charts": {
     "free": [
       {
@@ -131,13 +131,13 @@
     "paid": [
       {
         "rank": 1,
-        "id": "932747118",
-        "title": "Shadowrocket"
+        "id": "294934058",
+        "title": "HotSchedules"
       },
       {
         "rank": 2,
-        "id": "294934058",
-        "title": "HotSchedules"
+        "id": "932747118",
+        "title": "Shadowrocket"
       },
       {
         "rank": 3,
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 9,
@@ -186,13 +186,13 @@
       },
       {
         "rank": 12,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 13,
-        "id": "1553774029",
-        "title": "Taskmaster The App"
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       },
       {
         "rank": 14,
@@ -201,8 +201,8 @@
       },
       {
         "rank": 15,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "1553774029",
+        "title": "Taskmaster The App"
       },
       {
         "rank": 16,
@@ -211,48 +211,48 @@
       },
       {
         "rank": 17,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 18,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 19,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 20,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "rank": 18,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
-        "rank": 21,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 22,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
-      },
-      {
-        "rank": 23,
+        "rank": 19,
         "id": "1499236474",
         "title": "CE5 Contact"
       },
       {
-        "rank": 24,
+        "rank": 20,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 21,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
+        "rank": 22,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
+        "rank": 23,
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
+      },
+      {
+        "rank": 24,
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
+      },
+      {
         "rank": 25,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       }
     ]
   }
