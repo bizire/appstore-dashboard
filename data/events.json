@@ -1626,5 +1626,99 @@
     "type": "exited",
     "app": "Spirit Talker Â®",
     "from": 25
+  },
+  {
+    "ts": "2026-04-11T16:30:17Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Stash - Rule Based Proxy",
+    "to": 22
+  },
+  {
+    "ts": "2026-04-11T16:30:17Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "MilGPS",
+    "from": 8,
+    "to": 7
+  },
+  {
+    "ts": "2026-04-11T16:30:17Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "TonalEnergy Tuner & Metronome",
+    "from": 7,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-11T16:30:17Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Paprika Recipe Manager 3",
+    "from": 13,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-11T16:30:17Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "imo video calls and chat HD",
+    "from": 11,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-11T16:30:17Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Walkout Song DJ",
+    "from": 16,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-11T16:30:17Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarScope",
+    "from": 15,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-11T16:30:17Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSnore: Snoring Recorder",
+    "from": 22,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-11T16:30:17Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Taskmaster The App",
+    "from": 19,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-11T16:30:17Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "QuickBend: Conduit Bending",
+    "from": 21,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-11T16:30:17Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Moment Pro Camera II",
+    "from": 23,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-11T16:30:17Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "Koala Sampler â¢ Beat Maker",
+    "from": 24
   }
 ]
