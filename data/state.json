@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-11T10:30:13Z",
+  "updated_at": "2026-04-11T10:45:14Z",
   "charts": {
     "free": [
       {
@@ -39,33 +39,33 @@
       },
       {
         "rank": 8,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 9,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
-        "rank": 10,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 11,
+        "rank": 9,
         "id": "6446901002",
         "title": "Threads"
       },
       {
+        "rank": 10,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 11,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
         "rank": 12,
-        "id": "589653414",
-        "title": "7-Eleven: Rewards & Shopping"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 13,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "589653414",
+        "title": "7-Eleven: Rewards & Shopping"
       },
       {
         "rank": 14,
@@ -94,8 +94,8 @@
       },
       {
         "rank": 19,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 20,
@@ -104,40 +104,40 @@
       },
       {
         "rank": 21,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 22,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 23,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 24,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
       },
       {
+        "rank": 24,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
         "rank": 25,
-        "id": "333903271",
-        "title": "X"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       }
     ],
     "paid": [
       {
         "rank": 1,
-        "id": "294934058",
-        "title": "HotSchedules"
+        "id": "932747118",
+        "title": "Shadowrocket"
       },
       {
         "rank": 2,
-        "id": "932747118",
-        "title": "Shadowrocket"
+        "id": "294934058",
+        "title": "HotSchedules"
       },
       {
         "rank": 3,
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "6761159805",
-        "title": "DualShot Recorder"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "6761159805",
+        "title": "DualShot Recorder"
       },
       {
         "rank": 7,
@@ -176,83 +176,83 @@
       },
       {
         "rank": 10,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 11,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 12,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 13,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
-      },
-      {
-        "rank": 14,
+        "rank": 11,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 15,
-        "id": "1553774029",
-        "title": "Taskmaster The App"
+        "rank": 12,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 16,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 17,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 18,
+        "rank": 13,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 19,
+        "rank": 14,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
+        "rank": 15,
         "id": "1499236474",
         "title": "CE5 Contact"
       },
       {
-        "rank": 20,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "rank": 16,
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       },
       {
-        "rank": 21,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "rank": 17,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 22,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "rank": 18,
+        "id": "1553774029",
+        "title": "Taskmaster The App"
       },
       {
-        "rank": 23,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
-      },
-      {
-        "rank": 24,
+        "rank": 19,
         "id": "1581140954",
         "title": "Noir - Dark Mode for Safari"
       },
       {
+        "rank": 20,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 21,
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
+      },
+      {
+        "rank": 22,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 23,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
+        "rank": 24,
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
         "rank": 25,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       }
     ]
   }
