@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-04-11T22:30:15Z",
+  "updated_at": "2026-04-11T22:45:12Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 2,
@@ -14,18 +14,18 @@
       },
       {
         "rank": 3,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 4,
-        "id": "6747054496",
-        "title": "MONOPOLY GO!Chat"
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
         "rank": 5,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "6747054496",
+        "title": "MONOPOLY GO!Chat"
       },
       {
         "rank": 6,
@@ -44,33 +44,33 @@
       },
       {
         "rank": 9,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 10,
-        "id": "589653414",
-        "title": "7-Eleven: Rewards & Shopping"
-      },
-      {
-        "rank": 11,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 12,
+        "rank": 10,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 11,
+        "id": "589653414",
+        "title": "7-Eleven: Rewards & Shopping"
+      },
+      {
+        "rank": 12,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 13,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 14,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 15,
@@ -84,48 +84,48 @@
       },
       {
         "rank": 17,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 18,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
-        "rank": 19,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
-      },
-      {
-        "rank": 20,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 21,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 22,
-        "id": "333903271",
-        "title": "X"
-      },
-      {
-        "rank": 23,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 24,
+        "rank": 18,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 25,
+        "rank": 19,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 20,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 21,
         "id": "324684580",
         "title": "Spotify: Music and Podcasts"
+      },
+      {
+        "rank": 22,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 23,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 24,
+        "id": "544007664",
+        "title": "YouTube"
+      },
+      {
+        "rank": 25,
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       }
     ],
     "paid": [
@@ -141,13 +141,13 @@
       },
       {
         "rank": 3,
-        "id": "373493387",
-        "title": "AnkiMobile Flashcards"
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 4,
-        "id": "916366645",
-        "title": "Procreate Pocket"
+        "id": "373493387",
+        "title": "AnkiMobile Flashcards"
       },
       {
         "rank": 5,
@@ -156,43 +156,43 @@
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 7,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 8,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "rank": 7,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 10,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
-      },
-      {
-        "rank": 11,
+        "rank": 9,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
+        "rank": 10,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 11,
+        "id": "741990930",
+        "title": "Walkout Song DJ"
+      },
+      {
         "rank": 12,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 13,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 14,
@@ -216,43 +216,43 @@
       },
       {
         "rank": 18,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
-      },
-      {
-        "rank": 19,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
+        "rank": 21,
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
+      },
+      {
         "rank": 22,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
+        "rank": 23,
+        "id": "329937776",
+        "title": "Tour Tempo"
+      },
+      {
+        "rank": 24,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
-        "rank": 23,
-        "id": "1553774029",
-        "title": "Taskmaster The App"
-      },
-      {
-        "rank": 24,
-        "id": "1596063349",
-        "title": "Stash - Rule Based Proxy"
-      },
-      {
         "rank": 25,
-        "id": "329937776",
-        "title": "Tour Tempo"
+        "id": "435871950",
+        "title": "HappyCow - Vegan Food Near You"
       }
     ]
   }
