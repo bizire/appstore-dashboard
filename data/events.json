@@ -1390,5 +1390,241 @@
     "type": "exited",
     "app": "LiveATC Air Radio",
     "from": 25
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Instagram",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Meta AI - Assistant & Glasses",
+    "from": 3,
+    "to": 2
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "MONOPOLY GO!Chat",
+    "from": 2,
+    "to": 3
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Threads",
+    "from": 9,
+    "to": 7
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "The Masters Tournament",
+    "from": 7,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Maps",
+    "from": 15,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Whatnot: Shop, Sell, Connect",
+    "from": 14,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "WhatsApp Messenger",
+    "from": 17,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "DoorDash: Food, Grocery, More",
+    "from": 16,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TikTok - Videos, Shop & LIVE",
+    "from": 19,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Uber - Request a ride",
+    "from": 20,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "X",
+    "from": 21,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "The Roku App (Official)",
+    "from": 18,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Grok - AI Chat & Video",
+    "from": 23,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "SHEIN - Shopping Online",
+    "from": 22,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Amazon Prime Video",
+    "from": 25
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Pocket God",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "DualShot Recorder",
+    "from": 6,
+    "to": 5
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "SkyViewÂ®",
+    "from": 5,
+    "to": 6
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "imo video calls and chat HD",
+    "from": 13,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSleep: Watch Sleep Tracker",
+    "from": 11,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Paprika Recipe Manager 3",
+    "from": 12,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "CE5 Contact",
+    "from": 15,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarScope",
+    "from": 14,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Noir - Dark Mode for Safari",
+    "from": 19,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 17,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Taskmaster The App",
+    "from": 18,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "QuickBend: Conduit Bending",
+    "from": 22,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSnore: Snoring Recorder",
+    "from": 21,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-11T13:45:12Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "Spirit Talker Â®",
+    "from": 25
   }
 ]
