@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T22:30:12Z",
+  "updated_at": "2026-04-12T22:45:09Z",
   "charts": {
     "free": [
       {
@@ -39,33 +39,33 @@
       },
       {
         "rank": 8,
+        "id": "309025938",
+        "title": "The Masters Tournament"
+      },
+      {
+        "rank": 9,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "id": "1636235979",
         "title": "ReelShort - Stream Drama & TV"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "id": "589653414",
         "title": "7-Eleven: Rewards & Shopping"
-      },
-      {
-        "rank": 13,
-        "id": "585027354",
-        "title": "Google Maps"
       },
       {
         "rank": 14,
@@ -74,13 +74,13 @@
       },
       {
         "rank": 15,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 16,
-        "id": "309025938",
-        "title": "The Masters Tournament"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 17,
@@ -89,33 +89,33 @@
       },
       {
         "rank": 18,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 19,
-        "id": "530168168",
-        "title": "Paramount+"
-      },
-      {
-        "rank": 20,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
-        "rank": 21,
+        "rank": 19,
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
+      },
+      {
+        "rank": 20,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
+        "rank": 21,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
         "rank": 22,
-        "id": "284882215",
-        "title": "Facebook"
+        "id": "530168168",
+        "title": "Paramount+"
       },
       {
         "rank": 23,
-        "id": "544007664",
-        "title": "YouTube"
+        "id": "284882215",
+        "title": "Facebook"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "324684580",
-        "title": "Spotify: Music and Podcasts"
+        "id": "544007664",
+        "title": "YouTube"
       }
     ],
     "paid": [
@@ -166,28 +166,28 @@
       },
       {
         "rank": 8,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 9,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 10,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 11,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
+        "rank": 9,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
+        "rank": 10,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 11,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
         "rank": 12,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 13,
@@ -196,8 +196,8 @@
       },
       {
         "rank": 14,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 15,
@@ -221,8 +221,8 @@
       },
       {
         "rank": 19,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "301387274",
-        "title": "Pocket God"
-      },
-      {
-        "rank": 22,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
+        "rank": 22,
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
         "rank": 23,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 24,
         "id": "1499236474",
         "title": "CE5 Contact"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "id": "329937776",
         "title": "Tour Tempo"
-      },
-      {
-        "rank": 25,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
       }
     ]
   }
