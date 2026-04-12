@@ -3922,5 +3922,131 @@
     "type": "exited",
     "app": "The Roku App (Official)",
     "from": 25
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Tour Tempo",
+    "to": 24
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Paprika Recipe Manager 3",
+    "from": 7,
+    "to": 6
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "SkyViewÂ®",
+    "from": 6,
+    "to": 7
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 11,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "FL Studio Mobile",
+    "from": 8,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "MilGPS",
+    "from": 12,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "TonalEnergy Tuner & Metronome",
+    "from": 9,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSleep: Watch Sleep Tracker",
+    "from": 10,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PeakFinder",
+    "from": 21,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 16,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSnore: Snoring Recorder",
+    "from": 23,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Pocket God",
+    "from": 18,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Moment Pro Camera II",
+    "from": 20,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "CE5 Contact",
+    "from": 22,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Noir - Dark Mode for Safari",
+    "from": 24,
+    "to": 25
+  },
+  {
+    "ts": "2026-04-12T20:00:19Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "Wipr 2",
+    "from": 25
   }
 ]
