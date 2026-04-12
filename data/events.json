@@ -3524,5 +3524,115 @@
     "type": "exited",
     "app": "AutoSnore: Snoring Recorder",
     "from": 23
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "AutoSnore: Snoring Recorder",
+    "to": 23
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 13,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarScope",
+    "from": 11,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "imo video calls and chat HD",
+    "from": 15,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Walkout Song DJ",
+    "from": 14,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 17,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Streaks",
+    "from": 19,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Koala Sampler â¢ Beat Maker",
+    "from": 16,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Moment Pro Camera II",
+    "from": 21,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PeakFinder",
+    "from": 22,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "CE5 Contact",
+    "from": 20,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Noir - Dark Mode for Safari",
+    "from": 25,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Wipr 2",
+    "from": 24,
+    "to": 25
+  },
+  {
+    "ts": "2026-04-12T16:45:10Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "Spirit Talker Â®",
+    "from": 23
   }
 ]
