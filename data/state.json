@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T07:30:20Z",
+  "updated_at": "2026-04-12T07:45:11Z",
   "charts": {
     "free": [
       {
@@ -34,18 +34,18 @@
       },
       {
         "rank": 7,
-        "id": "6747054496",
-        "title": "MONOPOLY GO!Chat"
-      },
-      {
-        "rank": 8,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
+        "rank": 8,
+        "id": "530168168",
+        "title": "Paramount+"
+      },
+      {
         "rank": 9,
-        "id": "284815942",
-        "title": "Google"
+        "id": "6747054496",
+        "title": "MONOPOLY GO!Chat"
       },
       {
         "rank": 10,
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "530168168",
-        "title": "Paramount+"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 12,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 13,
@@ -69,63 +69,63 @@
       },
       {
         "rank": 14,
-        "id": "589653414",
-        "title": "7-Eleven: Rewards & Shopping"
-      },
-      {
-        "rank": 15,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 16,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
+        "rank": 15,
+        "id": "589653414",
+        "title": "7-Eleven: Rewards & Shopping"
+      },
+      {
+        "rank": 16,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
         "rank": 17,
-        "id": "309025938",
-        "title": "The Masters Tournament"
-      },
-      {
-        "rank": 18,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 19,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 20,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 21,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 22,
         "id": "368677368",
         "title": "Uber - Request a ride"
       },
       {
+        "rank": 18,
+        "id": "309025938",
+        "title": "The Masters Tournament"
+      },
+      {
+        "rank": 19,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 20,
+        "id": "482066631",
+        "title": "The Roku App (Official)"
+      },
+      {
+        "rank": 21,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 22,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
         "rank": 23,
-        "id": "324684580",
-        "title": "Spotify: Music and Podcasts"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 24,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       },
       {
         "rank": 25,
-        "id": "482066631",
-        "title": "The Roku App (Official)"
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
       }
     ],
     "paid": [
@@ -171,8 +171,8 @@
       },
       {
         "rank": 9,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 10,
@@ -181,78 +181,78 @@
       },
       {
         "rank": 11,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
-      },
-      {
-        "rank": 12,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
+        "rank": 12,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 14,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 15,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
+        "rank": 14,
+        "id": "741990930",
+        "title": "Walkout Song DJ"
+      },
+      {
+        "rank": 15,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
         "rank": 16,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 17,
-        "id": "1499236474",
-        "title": "CE5 Contact"
-      },
-      {
-        "rank": 18,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 19,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
-      },
-      {
-        "rank": 20,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 21,
         "id": "1449584007",
         "title": "Koala Sampler â¢ Beat Maker"
       },
       {
-        "rank": 22,
+        "rank": 17,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 18,
+        "id": "1499236474",
+        "title": "CE5 Contact"
+      },
+      {
+        "rank": 19,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
+        "rank": 20,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
+        "rank": 21,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 22,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
         "rank": 23,
-        "id": "435871950",
-        "title": "HappyCow - Vegan Food Near You"
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
       },
       {
         "rank": 24,
-        "id": "329937776",
-        "title": "Tour Tempo"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 25,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
+        "id": "329937776",
+        "title": "Tour Tempo"
       }
     ]
   }
