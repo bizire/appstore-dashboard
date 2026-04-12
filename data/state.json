@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-12T10:15:09Z",
+  "updated_at": "2026-04-12T10:30:18Z",
   "charts": {
     "free": [
       {
@@ -14,13 +14,13 @@
       },
       {
         "rank": 3,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
         "rank": 4,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 5,
@@ -39,28 +39,28 @@
       },
       {
         "rank": 8,
-        "id": "530168168",
-        "title": "Paramount+"
-      },
-      {
-        "rank": 9,
-        "id": "6747054496",
-        "title": "MONOPOLY GO!Chat"
-      },
-      {
-        "rank": 10,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 11,
+        "rank": 9,
+        "id": "530168168",
+        "title": "Paramount+"
+      },
+      {
+        "rank": 10,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "id": "6446901002",
         "title": "Threads"
+      },
+      {
+        "rank": 12,
+        "id": "6747054496",
+        "title": "MONOPOLY GO!Chat"
       },
       {
         "rank": 13,
@@ -74,13 +74,13 @@
       },
       {
         "rank": 15,
-        "id": "589653414",
-        "title": "7-Eleven: Rewards & Shopping"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 16,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "589653414",
+        "title": "7-Eleven: Rewards & Shopping"
       },
       {
         "rank": 17,
@@ -89,23 +89,23 @@
       },
       {
         "rank": 18,
-        "id": "309025938",
-        "title": "The Masters Tournament"
-      },
-      {
-        "rank": 19,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "482066631",
         "title": "The Roku App (Official)"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "310633997",
         "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 21,
+        "id": "309025938",
+        "title": "The Masters Tournament"
       },
       {
         "rank": 22,
@@ -114,8 +114,8 @@
       },
       {
         "rank": 23,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "1636235979",
+        "title": "ReelShort - Stream Drama & TV"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "324684580",
-        "title": "Spotify: Music and Podcasts"
+        "id": "389801252",
+        "title": "Instagram"
       }
     ],
     "paid": [
@@ -166,33 +166,33 @@
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
-      },
-      {
-        "rank": 9,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 10,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "rank": 9,
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
+        "rank": 11,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
         "rank": 12,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 13,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 14,
@@ -206,13 +206,13 @@
       },
       {
         "rank": 16,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 17,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       },
       {
         "rank": 18,
@@ -221,18 +221,18 @@
       },
       {
         "rank": 19,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 20,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 21,
-        "id": "963034692",
-        "title": "Streaks"
       },
       {
         "rank": 22,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 25,
-        "id": "329937776",
-        "title": "Tour Tempo"
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
       }
     ]
   }

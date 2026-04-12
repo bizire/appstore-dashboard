@@ -3108,5 +3108,247 @@
     "type": "exited",
     "app": "Noir - Dark Mode for Safari",
     "from": 25
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "ReelShort - Stream Drama & TV",
+    "to": 23
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Claude by Anthropic",
+    "from": 4,
+    "to": 3
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Meta AI - Assistant & Glasses",
+    "from": 3,
+    "to": 4
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "CapCut: Photo & Video Editor",
+    "from": 10,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Paramount+",
+    "from": 8,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google",
+    "from": 11,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Threads",
+    "from": 12,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "MONOPOLY GO!Chat",
+    "from": 9,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Maps",
+    "from": 16,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "7-Eleven: Rewards & Shopping",
+    "from": 15,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "SHEIN - Shopping Online",
+    "from": 19,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "The Roku App (Official)",
+    "from": 20,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "WhatsApp Messenger",
+    "from": 21,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "The Masters Tournament",
+    "from": 18,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Instagram",
+    "from": 23,
+    "to": 25
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Spotify: Music and Podcasts",
+    "from": 25
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Wipr 2",
+    "to": 24
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Noir - Dark Mode for Safari",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "FL Studio Mobile",
+    "from": 9,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "TonalEnergy Tuner & Metronome",
+    "from": 8,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarScope",
+    "from": 11,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSleep: Watch Sleep Tracker",
+    "from": 13,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 10,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "MilGPS",
+    "from": 12,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 17,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Koala Sampler â¢ Beat Maker",
+    "from": 16,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Streaks",
+    "from": 21,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PeakFinder",
+    "from": 19,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Moment Pro Camera II",
+    "from": 20,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "LiveATC Air Radio",
+    "from": 24
+  },
+  {
+    "ts": "2026-04-12T10:30:18Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "Tour Tempo",
+    "from": 25
   }
 ]
