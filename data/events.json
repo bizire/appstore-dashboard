@@ -3350,5 +3350,179 @@
     "type": "exited",
     "app": "Tour Tempo",
     "from": 25
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Threads",
+    "from": 11,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Paramount+",
+    "from": 9,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Whatnot: Shop, Sell, Connect",
+    "from": 14,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Maps",
+    "from": 15,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "DoorDash: Food, Grocery, More",
+    "from": 13,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "WhatsApp Messenger",
+    "from": 20,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "ReelShort - Stream Drama & TV",
+    "from": 23,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TikTok - Videos, Shop & LIVE",
+    "from": 22,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "The Roku App (Official)",
+    "from": 19,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Grok - AI Chat & Video",
+    "from": 24,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "The Masters Tournament",
+    "from": 21,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Pocket God",
+    "to": 18
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSleep: Watch Sleep Tracker",
+    "from": 11,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarScope",
+    "from": 10,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "MilGPS",
+    "from": 13,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 12,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Koala Sampler â¢ Beat Maker",
+    "from": 17,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 16,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "CE5 Contact",
+    "from": 18,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PeakFinder",
+    "from": 20,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Spirit Talker Â®",
+    "from": 22,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-12T14:00:18Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "AutoSnore: Snoring Recorder",
+    "from": 23
   }
 ]
