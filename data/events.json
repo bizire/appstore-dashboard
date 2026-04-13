@@ -6012,5 +6012,277 @@
     "type": "exited",
     "app": "Noir - Dark Mode for Safari",
     "from": 22
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Facebook",
+    "to": 23
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Google Chrome",
+    "to": 24
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "ChatGPT",
+    "from": 2,
+    "to": 1
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Netflix Game Controller",
+    "from": 1,
+    "to": 2
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Meta AI - Assistant & Glasses",
+    "from": 6,
+    "to": 5
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Gemini",
+    "from": 5,
+    "to": 6
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google",
+    "from": 9,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Threads",
+    "from": 8,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TurboTax: File Your Tax Return",
+    "from": 14,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "CapCut: Photo & Video Editor",
+    "from": 10,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Authenticator",
+    "from": 15,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "WhatsApp Messenger",
+    "from": 17,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Whatnot: Shop, Sell, Connect",
+    "from": 12,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "ReelShort - Stream Drama & TV",
+    "from": 13,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Gmail - Email by Google",
+    "from": 20,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TikTok - Videos, Shop & LIVE",
+    "from": 22,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "SHEIN - Shopping Online",
+    "from": 18,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Grok - AI Chat & Video",
+    "from": 19,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Instagram",
+    "from": 24,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "X",
+    "from": 21,
+    "to": 25
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "DoorDash: Food, Grocery, More",
+    "from": 23
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Telegram Messenger",
+    "from": 25
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "PDG PROmote 2026+",
+    "to": 24
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Solocator - GPS Field Camera",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "MilGPS",
+    "from": 8,
+    "to": 7
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "TonalEnergy Tuner & Metronome",
+    "from": 9,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "SkyViewÂ®",
+    "from": 7,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "imo video calls and chat HD",
+    "from": 13,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 14,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Streaks",
+    "from": 12,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Stylebook",
+    "from": 22,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSnore: Snoring Recorder",
+    "from": 17,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Things 3",
+    "from": 18,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "LiveATC Air Radio",
+    "from": 24
+  },
+  {
+    "ts": "2026-04-13T22:30:13Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "Moment Pro Camera II",
+    "from": 25
   }
 ]
