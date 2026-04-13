@@ -4276,5 +4276,91 @@
     "type": "exited",
     "app": "Noir - Dark Mode for Safari",
     "from": 25
+  },
+  {
+    "ts": "2026-04-13T01:45:12Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Walmart: Shopping & Savings",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-13T01:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "The Masters Tournament",
+    "from": 8,
+    "to": 7
+  },
+  {
+    "ts": "2026-04-13T01:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Temu: Shop Like a Billionaire",
+    "from": 7,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-13T01:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "7-Eleven: Rewards & Shopping",
+    "from": 13,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-13T01:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "HBO Max: Stream Movies & TV",
+    "from": 19,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-13T01:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Threads",
+    "from": 12,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-13T01:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Whatnot: Shop, Sell, Connect",
+    "from": 14,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-13T01:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Maps",
+    "from": 15,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-13T01:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TikTok - Videos, Shop & LIVE",
+    "from": 16,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-13T01:45:12Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "SHEIN - Shopping Online",
+    "from": 18,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-13T01:45:12Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "YouTube",
+    "from": 25
   }
 ]

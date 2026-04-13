@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T01:30:12Z",
+  "updated_at": "2026-04-13T01:45:12Z",
   "charts": {
     "free": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "309025938",
+        "title": "The Masters Tournament"
       },
       {
         "rank": 8,
-        "id": "309025938",
-        "title": "The Masters Tournament"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 9,
@@ -59,28 +59,28 @@
       },
       {
         "rank": 12,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 13,
         "id": "589653414",
         "title": "7-Eleven: Rewards & Shopping"
       },
       {
+        "rank": 13,
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
+      },
+      {
         "rank": 14,
+        "id": "6446901002",
+        "title": "Threads"
+      },
+      {
+        "rank": 15,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "id": "585027354",
         "title": "Google Maps"
-      },
-      {
-        "rank": 16,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 17,
@@ -89,13 +89,13 @@
       },
       {
         "rank": 18,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 19,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 20,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "544007664",
-        "title": "YouTube"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       }
     ],
     "paid": [
