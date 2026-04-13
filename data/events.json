@@ -4362,5 +4362,61 @@
     "type": "exited",
     "app": "YouTube",
     "from": 25
+  },
+  {
+    "ts": "2026-04-13T02:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 10,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-13T02:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarScope",
+    "from": 13,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-13T02:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "MilGPS",
+    "from": 9,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-13T02:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "imo video calls and chat HD",
+    "from": 12,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-13T02:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Koala Sampler â¢ Beat Maker",
+    "from": 22,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-13T02:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "LiveATC Air Radio",
+    "from": 23,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-13T02:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSnore: Snoring Recorder",
+    "from": 20,
+    "to": 23
   }
 ]
