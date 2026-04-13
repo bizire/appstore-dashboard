@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T10:45:08Z",
+  "updated_at": "2026-04-13T11:00:20Z",
   "charts": {
     "free": [
       {
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 13,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 14,
@@ -79,48 +79,48 @@
       },
       {
         "rank": 16,
-        "id": "309025938",
-        "title": "The Masters Tournament"
-      },
-      {
-        "rank": 17,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 18,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 19,
-        "id": "940247939",
-        "title": "TurboTax: File Your Tax Return"
-      },
-      {
-        "rank": 20,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 21,
+        "rank": 17,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
       },
       {
+        "rank": 18,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 19,
+        "id": "309025938",
+        "title": "The Masters Tournament"
+      },
+      {
+        "rank": 20,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 21,
+        "id": "940247939",
+        "title": "TurboTax: File Your Tax Return"
+      },
+      {
         "rank": 22,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
+        "rank": 23,
         "id": "482066631",
         "title": "The Roku App (Official)"
       },
       {
-        "rank": 23,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
         "rank": 24,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 25,
@@ -171,43 +171,43 @@
       },
       {
         "rank": 9,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 10,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 11,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "rank": 10,
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "rank": 12,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 16,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 17,
@@ -221,38 +221,38 @@
       },
       {
         "rank": 19,
-        "id": "6755342612",
-        "title": "iScore5 AP Human Geography"
-      },
-      {
-        "rank": 20,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "904237743",
         "title": "Things 3"
       },
       {
+        "rank": 21,
+        "id": "6755342612",
+        "title": "iScore5 AP Human Geography"
+      },
+      {
         "rank": 22,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "335709058",
+        "title": "Stylebook"
       },
       {
         "rank": 23,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       },
       {
         "rank": 24,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
       },
       {
         "rank": 25,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
       }
     ]
   }
