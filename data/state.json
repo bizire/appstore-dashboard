@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T04:45:10Z",
+  "updated_at": "2026-04-13T05:00:20Z",
   "charts": {
     "free": [
       {
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "6761159805",
-        "title": "DualShot Recorder"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "6761159805",
+        "title": "DualShot Recorder"
       },
       {
         "rank": 7,
@@ -171,13 +171,13 @@
       },
       {
         "rank": 9,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 10,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 11,
@@ -206,23 +206,23 @@
       },
       {
         "rank": 16,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 17,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 17,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
         "rank": 18,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 19,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "6755342612",
+        "title": "iScore5 AP Human Geography"
       },
       {
         "rank": 22,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 23,
         "id": "6746705608",
         "title": "AutoSnore: Snoring Recorder"
       },
       {
+        "rank": 23,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
         "rank": 24,
-        "id": "1499236474",
-        "title": "CE5 Contact"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 25,
-        "id": "329937776",
-        "title": "Tour Tempo"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       }
     ]
   }

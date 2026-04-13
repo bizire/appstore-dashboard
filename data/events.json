@@ -4560,5 +4560,121 @@
     "type": "exited",
     "app": "Paramount+",
     "from": 22
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "iScore5 AP Human Geography",
+    "to": 21
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Wipr 2",
+    "to": 23
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Paprika Recipe Manager 3",
+    "from": 6,
+    "to": 5
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "DualShot Recorder",
+    "from": 5,
+    "to": 6
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarScope",
+    "from": 10,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 9,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Streaks",
+    "from": 17,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PeakFinder",
+    "from": 16,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Pocket God",
+    "from": 19,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 18,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSnore: Snoring Recorder",
+    "from": 23,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "LiveATC Air Radio",
+    "from": 22,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Moment Pro Camera II",
+    "from": 21,
+    "to": 25
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "CE5 Contact",
+    "from": 24
+  },
+  {
+    "ts": "2026-04-13T05:00:20Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "Tour Tempo",
+    "from": 25
   }
 ]
