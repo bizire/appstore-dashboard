@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T15:00:15Z",
+  "updated_at": "2026-04-13T15:15:09Z",
   "charts": {
     "free": [
       {
@@ -29,103 +29,103 @@
       },
       {
         "rank": 6,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
-      },
-      {
-        "rank": 7,
         "id": "1558240027",
         "title": "Meta AI - Assistant & Glasses"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "id": "1636235979",
         "title": "ReelShort - Stream Drama & TV"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "589653414",
         "title": "7-Eleven: Rewards & Shopping"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "940247939",
         "title": "TurboTax: File Your Tax Return"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "333903271",
         "title": "X"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "309025938",
         "title": "The Masters Tournament"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 25,
+        "rank": 24,
         "id": "482066631",
         "title": "The Roku App (Official)"
+      },
+      {
+        "rank": 25,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       }
     ],
     "paid": [
