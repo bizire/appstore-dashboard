@@ -6522,5 +6522,123 @@
     "type": "exited",
     "app": "Solocator - GPS Field Camera",
     "from": 25
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "RadarOmega: Doppler Radar App",
+    "to": 16
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "HotSchedules",
+    "from": 2,
+    "to": 1
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Shadowrocket",
+    "from": 1,
+    "to": 2
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarScope",
+    "from": 9,
+    "to": 5
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "DualShot Recorder",
+    "from": 5,
+    "to": 7
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "TonalEnergy Tuner & Metronome",
+    "from": 7,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "MilGPS",
+    "from": 8,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "iScore5 AP Human Geography",
+    "from": 23,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "imo video calls and chat HD",
+    "from": 14,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Pocket God",
+    "from": 16,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 19,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Walkout Song DJ",
+    "from": 18,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Things 3",
+    "from": 21,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PDG PROmote 2026+",
+    "from": 20,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-14T04:30:12Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "AutoSnore: Snoring Recorder",
+    "from": 22
   }
 ]
