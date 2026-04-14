@@ -6774,5 +6774,269 @@
     "type": "exited",
     "app": "Google Chrome",
     "from": 24
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Shop: All your favorite brands",
+    "to": 21
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Indeed Job Search",
+    "to": 24
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Telegram Messenger",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Temu: Shop Like a Billionaire",
+    "from": 9,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google",
+    "from": 8,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Whatnot: Shop, Sell, Connect",
+    "from": 13,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "7-Eleven: Rewards & Shopping",
+    "from": 12,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "SHEIN - Shopping Online",
+    "from": 18,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Grok - AI Chat & Video",
+    "from": 20,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Maps",
+    "from": 16,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Gmail - Email by Google",
+    "from": 15,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Authenticator",
+    "from": 17,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "X",
+    "from": 25,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TikTok - Videos, Shop & LIVE",
+    "from": 19,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Instagram",
+    "from": 21,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Facebook",
+    "from": 22
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "ReelShort - Stream Drama & TV",
+    "from": 23
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "DoorDash: Food, Grocery, More",
+    "from": 24
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "LiveATC Air Radio",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "DualShot Recorder",
+    "from": 7,
+    "to": 6
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "TonalEnergy Tuner & Metronome",
+    "from": 8,
+    "to": 7
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Paprika Recipe Manager 3",
+    "from": 6,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "SkyViewÂ®",
+    "from": 10,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "MilGPS",
+    "from": 9,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarOmega: Doppler Radar App",
+    "from": 16,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "iScore5 AP Human Geography",
+    "from": 14,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 11,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Streaks",
+    "from": 13,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Walkout Song DJ",
+    "from": 21,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Pocket God",
+    "from": 19,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Ye said",
+    "from": 25,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Things 3",
+    "from": 22,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PDG PROmote 2026+",
+    "from": 23,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-14T07:30:11Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "Koala Sampler â¢ Beat Maker",
+    "from": 24
   }
 ]
