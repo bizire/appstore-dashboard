@@ -6640,5 +6640,139 @@
     "type": "exited",
     "app": "AutoSnore: Snoring Recorder",
     "from": 22
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "DoorDash: Food, Grocery, More",
+    "to": 24
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Claude by Anthropic",
+    "from": 4,
+    "to": 3
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Netflix Game Controller",
+    "from": 3,
+    "to": 4
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TurboTax: File Your Tax Return",
+    "from": 9,
+    "to": 7
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Temu: Shop Like a Billionaire",
+    "from": 7,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Threads",
+    "from": 11,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "CapCut: Photo & Video Editor",
+    "from": 12,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "7-Eleven: Rewards & Shopping",
+    "from": 10,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Whatnot: Shop, Sell, Connect",
+    "from": 14,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "WhatsApp Messenger",
+    "from": 13,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Gmail - Email by Google",
+    "from": 17,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Authenticator",
+    "from": 15,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "SHEIN - Shopping Online",
+    "from": 20,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Grok - AI Chat & Video",
+    "from": 22,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Facebook",
+    "from": 23,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "ReelShort - Stream Drama & TV",
+    "from": 18,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-14T04:45:23Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Google Chrome",
+    "from": 24
   }
 ]
