@@ -7244,5 +7244,117 @@
     "type": "exited",
     "app": "LiveATC Air Radio",
     "from": 25
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Gemini",
+    "from": 5,
+    "to": 4
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Meta AI - Assistant & Glasses",
+    "from": 6,
+    "to": 5
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Netflix Game Controller",
+    "from": 4,
+    "to": 6
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Threads",
+    "from": 10,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google",
+    "from": 9,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Ye said",
+    "from": 20,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 15,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "iScore5 AP Human Geography",
+    "from": 16,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "imo video calls and chat HD",
+    "from": 17,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Stylebook",
+    "from": 18,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PDG PROmote 2026+",
+    "from": 23,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 21,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Noir - Dark Mode for Safari",
+    "from": 24,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-14T13:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Walkout Song DJ",
+    "from": 22,
+    "to": 24
   }
 ]
