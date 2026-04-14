@@ -7038,5 +7038,211 @@
     "type": "exited",
     "app": "Koala Sampler â¢ Beat Maker",
     "from": 24
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Gemini",
+    "from": 6,
+    "to": 5
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Meta AI - Assistant & Glasses",
+    "from": 5,
+    "to": 6
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Grok - AI Chat & Video",
+    "from": 16,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "SHEIN - Shopping Online",
+    "from": 15,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "X",
+    "from": 20,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Authenticator",
+    "from": 19,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TikTok - Videos, Shop & LIVE",
+    "from": 22,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Telegram Messenger",
+    "from": 25,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Shop: All your favorite brands",
+    "from": 21,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Indeed Job Search",
+    "from": 24,
+    "to": 25
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Noir - Dark Mode for Safari",
+    "to": 24
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Shadowrocket",
+    "from": 2,
+    "to": 1
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "HotSchedules",
+    "from": 1,
+    "to": 2
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Streaks",
+    "from": 16,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "FL Studio Mobile",
+    "from": 15,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 14,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "iScore5 AP Human Geography",
+    "from": 13,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "imo video calls and chat HD",
+    "from": 18,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Stylebook",
+    "from": 17,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Pocket God",
+    "from": 21,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Ye said",
+    "from": 22,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 20,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Walkout Song DJ",
+    "from": 19,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PDG PROmote 2026+",
+    "from": 24,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Things 3",
+    "from": 23,
+    "to": 25
+  },
+  {
+    "ts": "2026-04-14T10:30:08Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "LiveATC Air Radio",
+    "from": 25
   }
 ]
