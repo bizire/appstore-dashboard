@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T07:30:09Z",
+  "updated_at": "2026-04-15T07:45:08Z",
   "charts": {
     "free": [
       {
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 10,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 11,
@@ -64,8 +64,8 @@
       },
       {
         "rank": 13,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 14,
@@ -74,33 +74,33 @@
       },
       {
         "rank": 15,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 16,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 17,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
-        "rank": 18,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 19,
+        "rank": 17,
         "id": "6478868302",
         "title": "AI Video - AI Video Generator"
       },
       {
+        "rank": 18,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 19,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
         "rank": 20,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       },
       {
         "rank": 21,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 23,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 24,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
+        "rank": 24,
+        "id": "686449807",
+        "title": "Telegram Messenger"
+      },
+      {
         "rank": 25,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       }
     ],
     "paid": [
@@ -161,38 +161,38 @@
       },
       {
         "rank": 7,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
-      },
-      {
-        "rank": 8,
         "id": "1439881811",
         "title": "RadarOmega: Doppler Radar App"
       },
       {
+        "rank": 8,
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
+      },
+      {
         "rank": 9,
-        "id": "6761159805",
-        "title": "DualShot Recorder"
-      },
-      {
-        "rank": 10,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 11,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 12,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
+        "rank": 10,
+        "id": "6761159805",
+        "title": "DualShot Recorder"
+      },
+      {
+        "rank": 11,
+        "id": "410148139",
+        "title": "NOAA Weather Radio"
+      },
+      {
+        "rank": 12,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
         "rank": 13,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 14,
@@ -201,28 +201,28 @@
       },
       {
         "rank": 15,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 16,
         "id": "482303584",
         "title": "PDG PROmote 2026+"
       },
       {
-        "rank": 16,
+        "rank": 17,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 18,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 17,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 18,
-        "id": "410148139",
-        "title": "NOAA Weather Radio"
-      },
-      {
         "rank": 19,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 20,
@@ -231,8 +231,8 @@
       },
       {
         "rank": 21,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 22,
@@ -241,13 +241,13 @@
       },
       {
         "rank": 23,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 24,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 25,
