@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T10:45:07Z",
+  "updated_at": "2026-04-16T11:00:11Z",
   "charts": {
     "free": [
       {
@@ -131,13 +131,13 @@
     "paid": [
       {
         "rank": 1,
-        "id": "294934058",
-        "title": "HotSchedules"
+        "id": "932747118",
+        "title": "Shadowrocket"
       },
       {
         "rank": 2,
-        "id": "932747118",
-        "title": "Shadowrocket"
+        "id": "294934058",
+        "title": "HotSchedules"
       },
       {
         "rank": 3,
@@ -186,13 +186,13 @@
       },
       {
         "rank": 12,
-        "id": "6755342612",
-        "title": "iScore5 AP Human Geography"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 13,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "6755342612",
+        "title": "iScore5 AP Human Geography"
       },
       {
         "rank": 14,
@@ -201,13 +201,13 @@
       },
       {
         "rank": 15,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 17,
@@ -216,23 +216,23 @@
       },
       {
         "rank": 18,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 19,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 20,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 21,
+        "rank": 19,
         "id": "963034692",
         "title": "Streaks"
+      },
+      {
+        "rank": 20,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 21,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 22,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       }
     ]
   }
