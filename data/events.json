@@ -10452,5 +10452,179 @@
     "type": "exited",
     "app": "Site Audit Pro",
     "from": 24
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "LiveATC Air Radio",
+    "to": 24
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "HotSchedules",
+    "from": 2,
+    "to": 1
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Shadowrocket",
+    "from": 1,
+    "to": 2
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarOmega: Doppler Radar App",
+    "from": 8,
+    "to": 7
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "TonalEnergy Tuner & Metronome",
+    "from": 7,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "SkyViewÂ®",
+    "from": 11,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "MilGPS",
+    "from": 9,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "DualShot Recorder",
+    "from": 10,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "iScore5 AP Human Geography",
+    "from": 14,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Paprika Recipe Manager 3",
+    "from": 12,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Walkout Song DJ",
+    "from": 17,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 13,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSleep: Watch Sleep Tracker",
+    "from": 18,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PDG PROmote 2026+",
+    "from": 15,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Things 3",
+    "from": 20,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "QuickBend: Conduit Bending",
+    "from": 16,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "FL Studio Mobile",
+    "from": 22,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Streaks",
+    "from": 24,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "NOAA Weather Radio",
+    "from": 21,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 19,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Solocator - GPS Field Camera",
+    "from": 23,
+    "to": 25
+  },
+  {
+    "ts": "2026-04-16T07:30:10Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "imo video calls and chat HD",
+    "from": 25
   }
 ]
