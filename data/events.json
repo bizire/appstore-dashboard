@@ -10938,5 +10938,85 @@
     "type": "exited",
     "app": "Solocator - GPS Field Camera",
     "from": 25
+  },
+  {
+    "ts": "2026-04-16T13:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Threads",
+    "from": 9,
+    "to": 7
+  },
+  {
+    "ts": "2026-04-16T13:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "HBO Max: Stream Movies & TV",
+    "from": 7,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-16T13:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "WhatsApp Messenger",
+    "from": 14,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-16T13:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Netflix Game Controller",
+    "from": 13,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-16T13:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Maps",
+    "from": 16,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-16T13:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Gmail - Email by Google",
+    "from": 15,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-16T13:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Telegram Messenger",
+    "from": 21,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-16T13:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Authenticator",
+    "from": 19,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-16T13:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Indeed Job Search",
+    "from": 24,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-16T13:30:11Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "7-Eleven: Rewards & Shopping",
+    "from": 23,
+    "to": 24
   }
 ]
