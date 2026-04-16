@@ -10116,5 +10116,341 @@
     "app": "FL Studio Mobile",
     "from": 24,
     "to": 25
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Netflix Game Controller",
+    "to": 14
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "SHEIN - Shopping Online",
+    "to": 21
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Shop: All your favorite brands",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TurboTax: File Your Tax Return",
+    "from": 2,
+    "to": 1
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "ChatGPT",
+    "from": 1,
+    "to": 2
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Amazon Prime Video",
+    "from": 19,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Threads",
+    "from": 8,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Temu: Shop Like a Billionaire",
+    "from": 9,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "CapCut: Photo & Video Editor",
+    "from": 12,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "WhatsApp Messenger",
+    "from": 10,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Whatnot: Shop, Sell, Connect",
+    "from": 15,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Gmail - Email by Google",
+    "from": 14,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Authenticator",
+    "from": 11,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Maps",
+    "from": 16,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "7-Eleven: Rewards & Shopping",
+    "from": 17,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TikTok - Videos, Shop & LIVE",
+    "from": 18,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Teams",
+    "from": 13,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Indeed Job Search",
+    "from": 20,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Grok - AI Chat & Video",
+    "from": 23,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Google Chrome",
+    "from": 21
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Telegram Messenger",
+    "from": 24
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "X",
+    "from": 25
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Walkout Song DJ",
+    "to": 17
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Procreate Pocket",
+    "from": 6,
+    "to": 5
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Ye said",
+    "from": 5,
+    "to": 6
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "TonalEnergy Tuner & Metronome",
+    "from": 9,
+    "to": 7
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarOmega: Doppler Radar App",
+    "from": 7,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "MilGPS",
+    "from": 8,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "SkyViewÂ®",
+    "from": 13,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Paprika Recipe Manager 3",
+    "from": 11,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 12,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "iScore5 AP Human Geography",
+    "from": 19,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PDG PROmote 2026+",
+    "from": 14,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "QuickBend: Conduit Bending",
+    "from": 15,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSleep: Watch Sleep Tracker",
+    "from": 17,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Threema. The Secure Messenger",
+    "from": 21,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Things 3",
+    "from": 18,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "NOAA Weather Radio",
+    "from": 16,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "FL Studio Mobile",
+    "from": 25,
+    "to": 22
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Solocator - GPS Field Camera",
+    "from": 20,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Streaks",
+    "from": 22,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "imo video calls and chat HD",
+    "from": 23,
+    "to": 25
+  },
+  {
+    "ts": "2026-04-16T04:45:10Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "Site Audit Pro",
+    "from": 24
   }
 ]
