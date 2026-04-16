@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-16T10:30:10Z",
+  "updated_at": "2026-04-16T10:45:07Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 6,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 7,
@@ -84,28 +84,28 @@
       },
       {
         "rank": 17,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 18,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
       },
       {
-        "rank": 19,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 20,
+        "rank": 18,
         "id": "333903271",
         "title": "X"
       },
       {
+        "rank": 19,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
+        "rank": 20,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
         "rank": 21,
-        "id": "589653414",
-        "title": "7-Eleven: Rewards & Shopping"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       },
       {
         "rank": 22,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
+        "id": "589653414",
+        "title": "7-Eleven: Rewards & Shopping"
+      },
+      {
+        "rank": 24,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
-        "rank": 24,
-        "id": "686449807",
-        "title": "Telegram Messenger"
-      },
-      {
         "rank": 25,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
