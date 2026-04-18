@@ -109,6 +109,15 @@
         .badge.entered { background: rgba(63, 185, 80, 0.15); color: #3fb950; }
         .badge.exited { background: rgba(248, 81, 73, 0.15); color: #f85149; }
         .badge.rank_change { background: rgba(210, 153, 34, 0.15); color: #d29922; }
+        .btn.trading-day {
+            border-color: rgba(63, 185, 80, 0.45);
+            color: #7ee787;
+        }
+        .btn.trading-day.active {
+            background: #238636;
+            border-color: #238636;
+            color: #fff;
+        }
         .rank-delta .up { color: #3fb950; }
         .rank-delta .down { color: #f85149; }
         .empty { text-align: center; color: #484f58; padding: 24px; }
@@ -165,6 +174,22 @@
         <button class="btn type-filter" data-type="rank_change">Rank change</button>
     </div>
 
+    <div class="filter-row">
+        <button class="btn day-filter active" data-day="all">All days</button>
+        <button class="btn day-filter" data-day="Mon">Mon</button>
+        <button class="btn day-filter trading-day" data-day="Tue">Tue</button>
+        <button class="btn day-filter" data-day="Wed">Wed</button>
+        <button class="btn day-filter" data-day="Thu">Thu</button>
+        <button class="btn day-filter trading-day" data-day="Fri">Fri</button>
+        <button class="btn day-filter" data-day="Sat">Sat</button>
+        <button class="btn day-filter" data-day="Sun">Sun</button>
+    </div>
+
+    <div class="chart-container">
+        <h2>Events by day of week (US/Eastern)</h2>
+        <canvas id="weekday-histogram"></canvas>
+    </div>
+
     <div class="chart-container">
         <h2>Events by hour of day (US/Eastern)</h2>
         <canvas id="histogram"></canvas>
@@ -197,8 +222,12 @@
         let periodHours = 168;
         let chartFilter = 'all';
         let typeFilter = 'all';
+        let dayFilter = 'all';
         let visibleCount = 100;
         let histogramChart = null;
+        let weekdayChart = null;
+
+        const WEEKDAYS = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
 
         const fmtTime = new Intl.DateTimeFormat('en-US', {
             timeZone: TZ,
@@ -215,26 +244,36 @@
             return parseInt(h, 10) % 24;
         }
 
+        function weekdayInET(iso) {
+            const parts = new Intl.DateTimeFormat('en-US', {
+                timeZone: TZ, weekday: 'short',
+            }).formatToParts(new Date(iso));
+            return parts.find(p => p.type === 'weekday').value;
+        }
+
         async function loadData() {
             const resp = await fetch('data/events.json?t=' + Date.now());
             allEvents = await resp.json();
             render();
         }
 
-        function filterEvents() {
+        function filterEvents(opts = {}) {
             const cutoff = periodHours === 0 ? 0 : Date.now() - periodHours * 3600 * 1000;
             return allEvents.filter(e => {
                 if (new Date(e.ts).getTime() < cutoff) return false;
                 if (chartFilter !== 'all' && e.chart !== chartFilter) return false;
                 if (typeFilter !== 'all' && e.type !== typeFilter) return false;
+                if (!opts.ignoreDay && dayFilter !== 'all' && weekdayInET(e.ts) !== dayFilter) return false;
                 return true;
             });
         }
 
         function render() {
             const filtered = filterEvents();
+            const filteredNoDay = filterEvents({ ignoreDay: true });
             renderStats(filtered);
             renderHistogram(filtered);
+            renderWeekdayHistogram(filteredNoDay);
             renderTable(filtered);
             if (allEvents.length > 0) {
                 const last = allEvents[allEvents.length - 1];
@@ -265,6 +304,53 @@
                         data: buckets,
                         backgroundColor: 'rgba(88, 166, 255, 0.6)',
                         borderColor: '#58a6ff',
+                        borderWidth: 1,
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    animation: false,
+                    plugins: { legend: { display: false } },
+                    scales: {
+                        x: { grid: { color: '#21262d' }, ticks: { color: '#8b949e' } },
+                        y: {
+                            grid: { color: '#21262d' },
+                            ticks: { color: '#8b949e', precision: 0 },
+                            beginAtZero: true,
+                        }
+                    }
+                }
+            });
+        }
+
+        function renderWeekdayHistogram(events) {
+            const counts = Object.fromEntries(WEEKDAYS.map(d => [d, 0]));
+            for (const e of events) {
+                const w = weekdayInET(e.ts);
+                if (w in counts) counts[w]++;
+            }
+            const data = WEEKDAYS.map(d => counts[d]);
+            const bg = WEEKDAYS.map(d => {
+                const isTrading = d === 'Tue' || d === 'Fri';
+                const isSelected = dayFilter === d;
+                const dim = dayFilter !== 'all' && !isSelected;
+                if (isTrading) return dim ? 'rgba(63, 185, 80, 0.2)' : 'rgba(63, 185, 80, 0.65)';
+                return dim ? 'rgba(88, 166, 255, 0.2)' : 'rgba(88, 166, 255, 0.6)';
+            });
+            const border = WEEKDAYS.map(d =>
+                d === 'Tue' || d === 'Fri' ? '#3fb950' : '#58a6ff'
+            );
+
+            if (weekdayChart) weekdayChart.destroy();
+            weekdayChart = new Chart(document.getElementById('weekday-histogram'), {
+                type: 'bar',
+                data: {
+                    labels: WEEKDAYS,
+                    datasets: [{
+                        label: 'Events',
+                        data,
+                        backgroundColor: bg,
+                        borderColor: border,
                         borderWidth: 1,
                     }]
                 },
@@ -347,6 +433,15 @@
                 document.querySelectorAll('.type-filter').forEach(b => b.classList.remove('active'));
                 btn.classList.add('active');
                 typeFilter = btn.dataset.type;
+                visibleCount = 100;
+                render();
+            });
+        });
+        document.querySelectorAll('.day-filter').forEach(btn => {
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.day-filter').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                dayFilter = btn.dataset.day;
                 visibleCount = 100;
                 render();
             });
