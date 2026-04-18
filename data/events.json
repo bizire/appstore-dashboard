@@ -11912,5 +11912,185 @@
     "type": "exited",
     "app": "Amazon Prime Video",
     "from": 24
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Netflix Game Controller",
+    "to": 22
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "entered",
+    "app": "Amazon Prime Video",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Threads",
+    "from": 6,
+    "to": 5
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Temu: Shop Like a Billionaire",
+    "from": 7,
+    "to": 6
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google",
+    "from": 5,
+    "to": 7
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "CapCut: Photo & Video Editor",
+    "from": 9,
+    "to": 8
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Whatnot: Shop, Sell, Connect",
+    "from": 11,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "WhatsApp Messenger",
+    "from": 8,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Maps",
+    "from": 12,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Grok - AI Chat & Video",
+    "from": 15,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Gmail - Email by Google",
+    "from": 10,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "HBO Max: Stream Movies & TV",
+    "from": 16,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Shop: All your favorite brands",
+    "from": 19,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Teams",
+    "from": 17,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Microsoft Authenticator",
+    "from": 18,
+    "to": 17
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "SHEIN - Shopping Online",
+    "from": 21,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Telegram Messenger",
+    "from": 22,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "X",
+    "from": 25,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "TikTok - Videos, Shop & LIVE",
+    "from": 13,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Google Chrome",
+    "from": 24,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "rank_change",
+    "app": "Spotify: Music and Podcasts",
+    "from": 23,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Instagram",
+    "from": 14
+  },
+  {
+    "ts": "2026-04-18T07:45:08Z",
+    "chart": "free",
+    "type": "exited",
+    "app": "Facebook",
+    "from": 20
   }
 ]
