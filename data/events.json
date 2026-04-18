@@ -12424,5 +12424,91 @@
     "type": "exited",
     "app": "iScore5 AP Human Geography",
     "from": 25
+  },
+  {
+    "ts": "2026-04-18T13:45:07Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Noir - Dark Mode for Safari",
+    "to": 25
+  },
+  {
+    "ts": "2026-04-18T13:45:07Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Procreate Pocket",
+    "from": 5,
+    "to": 4
+  },
+  {
+    "ts": "2026-04-18T13:45:07Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AnkiMobile Flashcards",
+    "from": 4,
+    "to": 5
+  },
+  {
+    "ts": "2026-04-18T13:45:07Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "DualShot Recorder",
+    "from": 10,
+    "to": 9
+  },
+  {
+    "ts": "2026-04-18T13:45:07Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "TonalEnergy Tuner & Metronome",
+    "from": 9,
+    "to": 10
+  },
+  {
+    "ts": "2026-04-18T13:45:07Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "MilGPS",
+    "from": 13,
+    "to": 11
+  },
+  {
+    "ts": "2026-04-18T13:45:07Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Walkout Song DJ",
+    "from": 11,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-18T13:45:07Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "NOAA Weather Radio",
+    "from": 12,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-18T13:45:07Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Koala Sampler â¢ Beat Maker",
+    "from": 24,
+    "to": 23
+  },
+  {
+    "ts": "2026-04-18T13:45:07Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "imo video calls and chat HD",
+    "from": 23,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-18T13:45:07Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "PDG PROmote 2026+",
+    "from": 25
   }
 ]
