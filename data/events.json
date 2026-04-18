@@ -12326,5 +12326,141 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Claude by Anthropic",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Amazon Prime Video",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "WhatsApp Messenger",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Maps",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Facebook",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "YouTube",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Grok - AI Chat & Video",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Uber - Request a ride",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Spotify: Music and Podcasts",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-04-18T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "HBO Max: Stream Movies & TV"
   }
 ]
