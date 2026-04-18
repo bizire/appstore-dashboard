@@ -12292,5 +12292,137 @@
     "type": "exited",
     "app": "imo video calls and chat HD",
     "from": 25
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "Streaks",
+    "to": 22
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "entered",
+    "app": "imo video calls and chat HD",
+    "to": 23
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Procreate Pocket",
+    "from": 6,
+    "to": 5
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "RadarOmega: Doppler Radar App",
+    "from": 5,
+    "to": 6
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "NOAA Weather Radio",
+    "from": 13,
+    "to": 12
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "MilGPS",
+    "from": 12,
+    "to": 13
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Ye said",
+    "from": 16,
+    "to": 14
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Paprika Recipe Manager 3",
+    "from": 14,
+    "to": 15
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Monash FODMAP Diet",
+    "from": 15,
+    "to": 16
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "AutoSleep: Watch Sleep Tracker",
+    "from": 19,
+    "to": 18
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "ARS FOG",
+    "from": 18,
+    "to": 19
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "FL Studio Mobile",
+    "from": 21,
+    "to": 20
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Moment Pro Camera II",
+    "from": 20,
+    "to": 21
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "Koala Sampler â¢ Beat Maker",
+    "from": 23,
+    "to": 24
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "rank_change",
+    "app": "PDG PROmote 2026+",
+    "from": 22,
+    "to": 25
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "QuickBend: Conduit Bending",
+    "from": 24
+  },
+  {
+    "ts": "2026-04-18T10:30:10Z",
+    "chart": "paid",
+    "type": "exited",
+    "app": "iScore5 AP Human Geography",
+    "from": 25
   }
 ]
