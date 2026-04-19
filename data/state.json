@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T19:30:11Z",
+  "updated_at": "2026-04-19T19:45:08Z",
   "charts": {
     "free": [
       {
@@ -19,13 +19,13 @@
       },
       {
         "rank": 4,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 5,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 6,
@@ -44,23 +44,23 @@
       },
       {
         "rank": 9,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 10,
         "id": "284815942",
         "title": "Google"
       },
       {
+        "rank": 10,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
         "rank": 11,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 12,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 13,
@@ -69,18 +69,18 @@
       },
       {
         "rank": 14,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
-      },
-      {
-        "rank": 15,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 16,
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
         "rank": 17,
@@ -94,13 +94,13 @@
       },
       {
         "rank": 19,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "6464002625",
+        "title": "ShortMax - Watch Dramas & Show"
       },
       {
         "rank": 20,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 21,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "333903271",
-        "title": "X"
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
       },
       {
         "rank": 24,
-        "id": "686449807",
-        "title": "Telegram Messenger"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 25,
-        "id": "6464002625",
-        "title": "ShortMax - Watch Dramas & Show"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       }
     ],
     "paid": [
@@ -176,73 +176,73 @@
       },
       {
         "rank": 10,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
-      },
-      {
-        "rank": 11,
         "id": "6761159805",
         "title": "DualShot Recorder"
       },
       {
-        "rank": 12,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
+        "rank": 11,
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "741990930",
         "title": "Walkout Song DJ"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 15,
-        "id": "405835358",
-        "title": "MilGPS"
+        "rank": 14,
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 17,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 18,
-        "id": "335709058",
-        "title": "Stylebook"
-      },
-      {
-        "rank": 19,
+        "rank": 16,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "rank": 17,
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
-        "rank": 21,
-        "id": "301387274",
-        "title": "Pocket God"
+        "rank": 18,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 22,
+        "rank": 19,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
+        "rank": 20,
+        "id": "335709058",
+        "title": "Stylebook"
+      },
+      {
+        "rank": 21,
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
+      },
+      {
+        "rank": 22,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
         "rank": 23,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 24,
