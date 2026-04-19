@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-19T22:15:07Z",
+  "updated_at": "2026-04-19T22:30:09Z",
   "charts": {
     "free": [
       {
@@ -29,23 +29,23 @@
       },
       {
         "rank": 6,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 7,
         "id": "1558240027",
         "title": "Meta AI - Assistant & Glasses"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 9,
-        "id": "284815942",
-        "title": "Google"
       },
       {
         "rank": 10,
@@ -59,63 +59,63 @@
       },
       {
         "rank": 12,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
-      },
-      {
-        "rank": 13,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 14,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 15,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 16,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
-      },
-      {
-        "rank": 17,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 18,
+        "rank": 13,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
-        "rank": 19,
-        "id": "6464002625",
-        "title": "ShortMax - Watch Dramas & Show"
+        "rank": 14,
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
-        "rank": 20,
+        "rank": 15,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 16,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 17,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 21,
-        "id": "324684580",
-        "title": "Spotify: Music and Podcasts"
-      },
-      {
-        "rank": 22,
+        "rank": 18,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
+        "rank": 19,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 20,
+        "id": "368677368",
+        "title": "Uber - Request a ride"
+      },
+      {
+        "rank": 21,
+        "id": "544007664",
+        "title": "YouTube"
+      },
+      {
+        "rank": 22,
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
+      },
+      {
         "rank": 23,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
       }
     ],
     "paid": [
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "6463562198",
-        "title": "Ye said"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 8,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "6463562198",
+        "title": "Ye said"
       },
       {
         "rank": 9,
@@ -176,38 +176,38 @@
       },
       {
         "rank": 10,
-        "id": "6761159805",
-        "title": "DualShot Recorder"
-      },
-      {
-        "rank": 11,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
+        "rank": 11,
+        "id": "6761159805",
+        "title": "DualShot Recorder"
+      },
+      {
         "rank": 12,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
-      },
-      {
-        "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 14,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
-      },
-      {
-        "rank": 15,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 16,
+        "rank": 13,
+        "id": "741990930",
+        "title": "Walkout Song DJ"
+      },
+      {
+        "rank": 14,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 15,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 16,
+        "id": "335709058",
+        "title": "Stylebook"
       },
       {
         "rank": 17,
@@ -216,43 +216,43 @@
       },
       {
         "rank": 18,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 19,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
+        "rank": 19,
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
+      },
+      {
         "rank": 20,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 21,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
-      },
-      {
-        "rank": 22,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
+        "rank": 23,
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
+      },
+      {
         "rank": 24,
-        "id": "6761950939",
-        "title": "ARS FOG"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 25,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       }
     ]
   }
