@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T04:45:09Z",
+  "updated_at": "2026-04-20T05:00:10Z",
   "charts": {
     "free": [
       {
@@ -34,8 +34,8 @@
       },
       {
         "rank": 7,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 8,
@@ -44,18 +44,18 @@
       },
       {
         "rank": 9,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 10,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 10,
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
+      },
+      {
         "rank": 11,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
       },
       {
         "rank": 12,
@@ -64,18 +64,18 @@
       },
       {
         "rank": 13,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 14,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
+        "rank": 14,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
         "rank": 15,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 16,
@@ -84,28 +84,28 @@
       },
       {
         "rank": 17,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
+        "rank": 18,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "284882215",
         "title": "Facebook"
       },
       {
-        "rank": 20,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
-      },
-      {
         "rank": 21,
-        "id": "324684580",
-        "title": "Spotify: Music and Podcasts"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       },
       {
         "rank": 22,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "544007664",
-        "title": "YouTube"
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
       },
       {
         "rank": 24,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 25,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       }
     ],
     "paid": [
