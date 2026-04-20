@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T19:15:14Z",
+  "updated_at": "2026-04-20T19:30:11Z",
   "charts": {
     "free": [
       {
@@ -9,8 +9,8 @@
       },
       {
         "rank": 2,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6478899531",
+        "title": "B.A.A. Racing App"
       },
       {
         "rank": 3,
@@ -19,18 +19,18 @@
       },
       {
         "rank": 4,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
+        "rank": 5,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 6,
-        "id": "6478899531",
-        "title": "B.A.A. Racing App"
       },
       {
         "rank": 7,
@@ -39,83 +39,83 @@
       },
       {
         "rank": 8,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
-      },
-      {
-        "rank": 9,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 10,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "rank": 9,
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 12,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
-      },
-      {
-        "rank": 13,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 14,
+        "rank": 11,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 15,
+        "rank": 12,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 13,
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
+      },
+      {
+        "rank": 14,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 16,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 17,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
-      },
-      {
-        "rank": 18,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 19,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 20,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 21,
+        "rank": 15,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 22,
+        "rank": 16,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
+        "rank": 17,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
+        "rank": 18,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 19,
         "id": "389801252",
         "title": "Instagram"
       },
       {
+        "rank": 20,
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
+      },
+      {
+        "rank": 21,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 22,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
         "rank": 23,
-        "id": "333903271",
-        "title": "X"
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "544007664",
+        "title": "YouTube"
       }
     ],
     "paid": [
@@ -166,23 +166,23 @@
       },
       {
         "rank": 8,
+        "id": "6761159805",
+        "title": "DualShot Recorder"
+      },
+      {
+        "rank": 9,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 11,
-        "id": "6761159805",
-        "title": "DualShot Recorder"
       },
       {
         "rank": 12,
@@ -196,13 +196,13 @@
       },
       {
         "rank": 14,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 15,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 16,
@@ -211,28 +211,28 @@
       },
       {
         "rank": 17,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 18,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 19,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "rank": 18,
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
+        "rank": 20,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
         "rank": 21,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 24,
         "id": "741990930",
         "title": "Walkout Song DJ"
       },
       {
-        "rank": 25,
+        "rank": 24,
         "id": "6746705608",
         "title": "AutoSnore: Snoring Recorder"
+      },
+      {
+        "rank": 25,
+        "id": "482303584",
+        "title": "PDG PROmote 2026+"
       }
     ]
   }

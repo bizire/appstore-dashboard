@@ -15526,5 +15526,285 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "B.A.A. Racing App"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Google Gemini",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "B.A.A. Racing App",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "SHEIN - Shopping Online",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Grok - AI Chat & Video",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Amazon Prime Video",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Shop: All your favorite brands",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Instagram",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "X",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Uber - Request a ride",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "RadarScope",
+    "to": "DualShot Recorder"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Spirit Talker Â®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "DualShot Recorder",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "MilGPS",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "PeakFinder",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "imo video calls and chat HD",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Stylebook",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Walkout Song DJ",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-04-20T19:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "PDG PROmote 2026+"
   }
 ]
