@@ -14630,5 +14630,277 @@
     "position": 25,
     "from": "HBO Max: Stream Movies & TV",
     "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "SHEIN - Shopping Online",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Amazon Prime Video",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Instagram",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Facebook",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Grok - AI Chat & Video",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "X"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Uber - Request a ride",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Ye said"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Ye said",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "DualShot Recorder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Walkout Song DJ",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "imo video calls and chat HD",
+    "to": "DualShot Recorder"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "LiveATC Air Radio",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "MilGPS",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "iScore5 AP Human Geography",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Streaks",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-04-20T08:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Pocket God",
+    "to": "Threema. The Secure Messenger"
   }
 ]
