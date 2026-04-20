@@ -14374,5 +14374,141 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Spirit Talker Â®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Walkout Song DJ",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Monash FODMAP Diet",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "imo video calls and chat HD",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "PeakFinder",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Stylebook",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "MilGPS",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Streaks",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pocket God",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-04-20T04:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Pocket God"
   }
 ]
