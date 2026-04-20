@@ -15094,5 +15094,165 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Amazon Prime Video",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Grok - AI Chat & Video",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Shop: All your favorite brands",
+    "to": "B.A.A. Racing App"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Telegram Messenger",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Streaks",
+    "to": "DualShot Recorder"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "DualShot Recorder",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "PeakFinder",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Stylebook",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "MilGPS",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "iScore5 AP Human Geography",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Walkout Song DJ",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-04-20T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "Walkout Song DJ"
   }
 ]

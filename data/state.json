@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-20T13:30:11Z",
+  "updated_at": "2026-04-20T13:45:09Z",
   "charts": {
     "free": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 8,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 9,
@@ -54,8 +54,8 @@
       },
       {
         "rank": 11,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
       },
       {
         "rank": 12,
@@ -69,18 +69,18 @@
       },
       {
         "rank": 14,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
-      },
-      {
-        "rank": 15,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
+      },
+      {
+        "rank": 16,
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 17,
@@ -104,8 +104,8 @@
       },
       {
         "rank": 21,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "6478899531",
+        "title": "B.A.A. Racing App"
       },
       {
         "rank": 22,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
-        "rank": 24,
         "id": "686449807",
         "title": "Telegram Messenger"
       },
       {
+        "rank": 24,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
         "rank": 25,
-        "id": "284882215",
-        "title": "Facebook"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       }
     ],
     "paid": [
@@ -191,13 +191,13 @@
       },
       {
         "rank": 13,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "6761159805",
+        "title": "DualShot Recorder"
       },
       {
         "rank": 14,
-        "id": "6761159805",
-        "title": "DualShot Recorder"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 15,
@@ -206,43 +206,43 @@
       },
       {
         "rank": 16,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 17,
-        "id": "335709058",
-        "title": "Stylebook"
-      },
-      {
-        "rank": 18,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
+        "rank": 17,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
+        "rank": 18,
+        "id": "335709058",
+        "title": "Stylebook"
+      },
+      {
         "rank": 19,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 20,
-        "id": "6755342612",
-        "title": "iScore5 AP Human Geography"
-      },
-      {
-        "rank": 21,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
-      },
-      {
-        "rank": 22,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 23,
+        "rank": 20,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 21,
         "id": "904237743",
         "title": "Things 3"
+      },
+      {
+        "rank": 22,
+        "id": "6755342612",
+        "title": "iScore5 AP Human Geography"
+      },
+      {
+        "rank": 23,
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       },
       {
         "rank": 24,
