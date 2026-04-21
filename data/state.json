@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T01:30:14Z",
+  "updated_at": "2026-04-21T01:45:13Z",
   "charts": {
     "free": [
       {
@@ -14,13 +14,13 @@
       },
       {
         "rank": 3,
-        "id": "6478899531",
-        "title": "B.A.A. Racing App"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 4,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6478899531",
+        "title": "B.A.A. Racing App"
       },
       {
         "rank": 5,
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 8,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 9,
@@ -54,18 +54,18 @@
       },
       {
         "rank": 11,
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
+      },
+      {
+        "rank": 12,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 13,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
       },
       {
         "rank": 14,
@@ -84,8 +84,8 @@
       },
       {
         "rank": 17,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 18,
@@ -94,8 +94,8 @@
       },
       {
         "rank": 19,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 20,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 24,
         "id": "686449807",
         "title": "Telegram Messenger"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "id": "324684580",
         "title": "Spotify: Music and Podcasts"
-      },
-      {
-        "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
       }
     ],
     "paid": [
@@ -151,18 +151,18 @@
       },
       {
         "rank": 5,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 6,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
+        "rank": 6,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
         "rank": 7,
-        "id": "6463562198",
-        "title": "Ye said"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 8,
@@ -171,8 +171,8 @@
       },
       {
         "rank": 9,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "6463562198",
+        "title": "Ye said"
       },
       {
         "rank": 10,
@@ -181,33 +181,33 @@
       },
       {
         "rank": 11,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 12,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 13,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
+        "rank": 12,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
+        "rank": 13,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
         "rank": 14,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 15,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "id": "405835358",
         "title": "MilGPS"
-      },
-      {
-        "rank": 16,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
       },
       {
         "rank": 17,
@@ -216,28 +216,28 @@
       },
       {
         "rank": 18,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 19,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 20,
         "id": "6755342612",
         "title": "iScore5 AP Human Geography"
       },
       {
+        "rank": 19,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
+        "rank": 20,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
         "rank": 21,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       },
       {
         "rank": 22,
-        "id": "482303584",
-        "title": "PDG PROmote 2026+"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "482303584",
+        "title": "PDG PROmote 2026+"
       },
       {
         "rank": 25,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "1633243177",
+        "title": "Ableton Note"
       }
     ]
   }

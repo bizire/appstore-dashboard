@@ -16086,5 +16086,237 @@
     "position": 25,
     "from": "PDG PROmote 2026+",
     "to": "Stylebook"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "B.A.A. Racing App",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Google Gemini",
+    "to": "B.A.A. Racing App"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Shop: All your favorite brands",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Telegram Messenger",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Ye said",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Ye said"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "RadarScope",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Monash FODMAP Diet",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "MilGPS",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PeakFinder",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Things 3",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "iScore5 AP Human Geography",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "PDG PROmote 2026+",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Walkout Song DJ",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-04-21T01:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stylebook",
+    "to": "Ableton Note"
   }
 ]
