@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T10:45:08Z",
+  "updated_at": "2026-04-21T11:00:13Z",
   "charts": {
     "free": [
       {
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 10,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 11,
@@ -74,28 +74,28 @@
       },
       {
         "rank": 15,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 16,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
       },
       {
-        "rank": 17,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "rank": 16,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "422689480",
         "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 19,
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 20,
@@ -104,8 +104,8 @@
       },
       {
         "rank": 21,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       },
       {
         "rank": 22,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "686449807",
-        "title": "Telegram Messenger"
-      },
-      {
-        "rank": 24,
         "id": "389801252",
         "title": "Instagram"
       },
       {
+        "rank": 24,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
         "rank": 25,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       }
     ],
     "paid": [
