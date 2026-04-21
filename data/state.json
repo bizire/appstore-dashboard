@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T16:30:10Z",
+  "updated_at": "2026-04-21T16:45:09Z",
   "charts": {
     "free": [
       {
@@ -19,23 +19,23 @@
       },
       {
         "rank": 4,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 5,
         "id": "1558240027",
         "title": "Meta AI - Assistant & Glasses"
       },
       {
+        "rank": 5,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
         "rank": 6,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 7,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 8,
@@ -59,58 +59,58 @@
       },
       {
         "rank": 12,
+        "id": "1056813463",
+        "title": "Dunkin'"
+      },
+      {
+        "rank": 13,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 13,
-        "id": "6478899531",
-        "title": "B.A.A. Racing App"
-      },
-      {
         "rank": 14,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 15,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 16,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 17,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 18,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 19,
-        "id": "686449807",
-        "title": "Telegram Messenger"
-      },
-      {
-        "rank": 20,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
+        "rank": 15,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 16,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 17,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 18,
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
+      },
+      {
+        "rank": 19,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 20,
+        "id": "6478899531",
+        "title": "B.A.A. Racing App"
+      },
+      {
         "rank": 21,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       },
       {
         "rank": 22,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "333903271",
-        "title": "X"
+        "id": "309735670",
+        "title": "Indeed Job Search"
       },
       {
         "rank": 25,
-        "id": "6480136315",
-        "title": "Suno - AI Songs & Music"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       }
     ],
     "paid": [
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "6755342612",
-        "title": "iScore5 AP Human Geography"
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 8,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "6755342612",
+        "title": "iScore5 AP Human Geography"
       },
       {
         "rank": 9,
@@ -191,13 +191,13 @@
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 14,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 15,
@@ -206,13 +206,13 @@
       },
       {
         "rank": 16,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 17,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 18,
@@ -231,13 +231,13 @@
       },
       {
         "rank": 21,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 22,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 25,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
       }
     ]
   }
