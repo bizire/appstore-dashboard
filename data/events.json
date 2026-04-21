@@ -17774,5 +17774,133 @@
     "position": 23,
     "from": "LiveATC Air Radio",
     "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "iScore5 AP Human Geography",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "MilGPS",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Ye said",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Monash FODMAP Diet",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "Ye said"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Spirit Talker Â®",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "imo video calls and chat HD",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PDG PROmote 2026+",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Walkout Song DJ",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PeakFinder",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-04-21T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "PeakFinder"
   }
 ]
