@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T19:30:11Z",
+  "updated_at": "2026-04-21T19:45:07Z",
   "charts": {
     "free": [
       {
@@ -24,83 +24,83 @@
       },
       {
         "rank": 5,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 6,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 8,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
-      },
-      {
-        "rank": 9,
+        "rank": 7,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 10,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 11,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 12,
+        "rank": 8,
         "id": "1056813463",
         "title": "Dunkin'"
       },
       {
-        "rank": 13,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "rank": 9,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
-        "rank": 14,
+        "rank": 10,
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
+      },
+      {
+        "rank": 11,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
-        "rank": 15,
-        "id": "585027354",
-        "title": "Google Maps"
+        "rank": 12,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 16,
+        "rank": 13,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 14,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 15,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
+        "rank": 16,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
         "rank": 17,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 18,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 19,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
+        "rank": 18,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 19,
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
+      },
+      {
         "rank": 20,
-        "id": "6478899531",
-        "title": "B.A.A. Racing App"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 21,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 23,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 24,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
+        "rank": 23,
+        "id": "535886823",
+        "title": "Google Chrome"
+      },
+      {
+        "rank": 24,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
         "rank": 25,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
@@ -151,28 +151,28 @@
       },
       {
         "rank": 5,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 6,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
+        "rank": 6,
+        "id": "6761159805",
+        "title": "DualShot Recorder"
+      },
+      {
         "rank": 7,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
+        "rank": 8,
         "id": "1633243177",
         "title": "Ableton Note"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "id": "6755342612",
         "title": "iScore5 AP Human Geography"
-      },
-      {
-        "rank": 9,
-        "id": "6761159805",
-        "title": "DualShot Recorder"
       },
       {
         "rank": 10,
@@ -181,8 +181,8 @@
       },
       {
         "rank": 11,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 12,
@@ -191,28 +191,28 @@
       },
       {
         "rank": 13,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 14,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 15,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 14,
+        "rank": 16,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 15,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 16,
+        "rank": 17,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 17,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 18,
@@ -221,8 +221,8 @@
       },
       {
         "rank": 19,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 20,
@@ -231,18 +231,18 @@
       },
       {
         "rank": 21,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "482303584",
+        "title": "PDG PROmote 2026+"
       },
       {
         "rank": 22,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 23,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       },
       {
         "rank": 24,
