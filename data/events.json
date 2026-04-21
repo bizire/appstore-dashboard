@@ -16318,5 +16318,245 @@
     "position": 25,
     "from": "Stylebook",
     "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "B.A.A. Racing App",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Netflix Game Controller",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "B.A.A. Racing App"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Authenticator",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Shop: All your favorite brands",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "SHEIN - Shopping Online",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Facebook",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Telegram Messenger",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "DualShot Recorder"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "DualShot Recorder",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Spirit Talker Â®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "RadarScope",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Streaks",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "MilGPS",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "iScore5 AP Human Geography",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PeakFinder",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Things 3",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Walkout Song DJ",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-04-21T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Ableton Note",
+    "to": "Stylebook"
   }
 ]
