@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T13:30:11Z",
+  "updated_at": "2026-04-21T13:45:09Z",
   "charts": {
     "free": [
       {
@@ -24,23 +24,23 @@
       },
       {
         "rank": 5,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 6,
         "id": "1558240027",
         "title": "Meta AI - Assistant & Glasses"
       },
       {
+        "rank": 6,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 7,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
       },
       {
         "rank": 9,
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "6478899531",
-        "title": "B.A.A. Racing App"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 13,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "6478899531",
+        "title": "B.A.A. Racing App"
       },
       {
         "rank": 14,
@@ -79,13 +79,13 @@
       },
       {
         "rank": 16,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 17,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 18,
@@ -94,8 +94,8 @@
       },
       {
         "rank": 19,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       },
       {
         "rank": 20,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "686449807",
-        "title": "Telegram Messenger"
-      },
-      {
-        "rank": 22,
-        "id": "6480136315",
-        "title": "Suno - AI Songs & Music"
-      },
-      {
-        "rank": 23,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 24,
+        "rank": 22,
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
+      },
+      {
+        "rank": 23,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
+        "rank": 24,
+        "id": "333903271",
+        "title": "X"
+      },
+      {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "6480136315",
+        "title": "Suno - AI Songs & Music"
       }
     ],
     "paid": [
@@ -166,13 +166,13 @@
       },
       {
         "rank": 8,
-        "id": "6761159805",
-        "title": "DualShot Recorder"
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 9,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "6761159805",
+        "title": "DualShot Recorder"
       },
       {
         "rank": 10,
@@ -186,13 +186,13 @@
       },
       {
         "rank": 12,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "6463562198",
+        "title": "Ye said"
       },
       {
         "rank": 13,
-        "id": "6463562198",
-        "title": "Ye said"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 14,
@@ -201,8 +201,8 @@
       },
       {
         "rank": 15,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 16,
@@ -211,33 +211,33 @@
       },
       {
         "rank": 17,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 18,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
-      },
-      {
-        "rank": 19,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 19,
+        "id": "741990930",
+        "title": "Walkout Song DJ"
+      },
+      {
         "rank": 20,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 21,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "904237743",
         "title": "Things 3"
-      },
-      {
-        "rank": 22,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       },
       {
         "rank": 25,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "357421934",
+        "title": "PeakFinder"
       }
     ]
   }
