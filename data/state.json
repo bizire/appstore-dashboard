@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T13:45:09Z",
+  "updated_at": "2026-04-22T14:00:13Z",
   "charts": {
     "free": [
       {
@@ -24,23 +24,23 @@
       },
       {
         "rank": 5,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 6,
         "id": "1558240027",
         "title": "Meta AI - Assistant & Glasses"
       },
       {
+        "rank": 6,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 7,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 8,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
       },
       {
         "rank": 9,
@@ -49,13 +49,13 @@
       },
       {
         "rank": 10,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 11,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 12,
@@ -74,23 +74,23 @@
       },
       {
         "rank": 15,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 16,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
+        "rank": 16,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
         "rank": 17,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 18,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 19,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "6480136315",
-        "title": "Suno - AI Songs & Music"
-      },
-      {
-        "rank": 22,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
-        "rank": 23,
-        "id": "500003565",
-        "title": "Ticketmasterï¼Buy, Sell Tickets"
-      },
-      {
-        "rank": 24,
+        "rank": 22,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
-        "rank": 25,
+        "rank": 23,
+        "id": "6480136315",
+        "title": "Suno - AI Songs & Music"
+      },
+      {
+        "rank": 24,
         "id": "389801252",
         "title": "Instagram"
+      },
+      {
+        "rank": 25,
+        "id": "333903271",
+        "title": "X"
       }
     ],
     "paid": [

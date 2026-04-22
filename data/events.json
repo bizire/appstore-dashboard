@@ -19110,5 +19110,125 @@
     "position": 25,
     "from": "QuickBend: Conduit Bending",
     "to": "Things 3"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Netflix Game Controller",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Shop: All your favorite brands",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "SHEIN - Shopping Online",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Suno - AI Songs & Music",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Indeed Job Search",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Ticketmasterï¼Buy, Sell Tickets",
+    "to": "Suno - AI Songs & Music"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-04-22T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Instagram",
+    "to": "X"
   }
 ]
