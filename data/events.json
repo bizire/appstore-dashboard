@@ -18750,5 +18750,261 @@
     "position": 25,
     "from": "Facebook",
     "to": "Instagram"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Shop: All your favorite brands",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Microsoft Authenticator",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Grok - AI Chat & Video",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Gmail - Email by Google",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "SHEIN - Shopping Online",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Suno - AI Songs & Music",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Indeed Job Search",
+    "to": "Suno - AI Songs & Music"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Ticketmasterï¼Buy, Sell Tickets",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Telegram Messenger",
+    "to": "Ticketmasterï¼Buy, Sell Tickets"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "DualShot Recorder"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "DualShot Recorder",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Ableton Note",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "MilGPS",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Threema. The Secure Messenger",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "FL Studio Mobile",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Ye said",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Walkout Song DJ",
+    "to": "Ye said"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "PDG PROmote 2026+",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "RadarScope",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-04-22T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "QuickBend: Conduit Bending"
   }
 ]
