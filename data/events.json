@@ -18622,5 +18622,133 @@
     "position": 25,
     "from": "RadarScope",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Google",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Shop: All your favorite brands",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Grok - AI Chat & Video",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Suno - AI Songs & Music"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Teams",
+    "to": "Ticketmasterï¼Buy, Sell Tickets"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Indeed Job Search",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-04-22T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "Instagram"
   }
 ]

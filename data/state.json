@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T07:30:13Z",
+  "updated_at": "2026-04-22T07:45:09Z",
   "charts": {
     "free": [
       {
@@ -19,18 +19,18 @@
       },
       {
         "rank": 4,
+        "id": "6446901002",
+        "title": "Threads"
+      },
+      {
+        "rank": 5,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 5,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
         "rank": 6,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
       },
       {
         "rank": 7,
@@ -39,8 +39,8 @@
       },
       {
         "rank": 8,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 9,
@@ -54,23 +54,23 @@
       },
       {
         "rank": 11,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 12,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 13,
         "id": "1508186374",
         "title": "Peacock TV: Stream TV & Movies"
       },
       {
+        "rank": 12,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 13,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
         "rank": 14,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 15,
@@ -79,13 +79,13 @@
       },
       {
         "rank": 16,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       },
       {
         "rank": 17,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 18,
@@ -94,28 +94,28 @@
       },
       {
         "rank": 19,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 20,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "6480136315",
+        "title": "Suno - AI Songs & Music"
       },
       {
         "rank": 21,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "309735670",
+        "title": "Indeed Job Search"
       },
       {
         "rank": 22,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "500003565",
+        "title": "Ticketmasterï¼Buy, Sell Tickets"
       },
       {
         "rank": 23,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "284882215",
-        "title": "Facebook"
+        "id": "389801252",
+        "title": "Instagram"
       }
     ],
     "paid": [
