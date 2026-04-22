@@ -19006,5 +19006,109 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "iScore5 AP Human Geography",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Ableton Note",
+    "to": "DualShot Recorder"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "DualShot Recorder",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Spirit Talker Â®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "MilGPS",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Threema. The Secure Messenger",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Walkout Song DJ",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Things 3",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-04-22T13:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Things 3"
   }
 ]
