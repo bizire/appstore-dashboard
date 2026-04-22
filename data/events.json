@@ -19750,5 +19750,205 @@
     "position": 25,
     "from": "Things 3",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Gmail - Email by Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Teams",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Telegram Messenger",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Facebook",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Indeed Job Search",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "SHEIN - Shopping Online",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Google Chrome",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Netflix Game Controller",
+    "to": "Ticketmasterï¼Buy, Sell Tickets"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "MilGPS",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Spirit Talker Â®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "DualShot Recorder"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "DualShot Recorder",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "iScore5 AP Human Geography",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Solocator - GPS Field Camera",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PDG PROmote 2026+",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "RadarScope",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Ye said",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-04-22T22:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "imo video calls and chat HD",
+    "to": "Walkout Song DJ"
   }
 ]
