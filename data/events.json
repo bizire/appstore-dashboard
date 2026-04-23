@@ -19950,5 +19950,173 @@
     "position": 24,
     "from": "imo video calls and chat HD",
     "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Threads",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Microsoft Teams",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Shop: All your favorite brands",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Telegram Messenger",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Facebook",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Spirit Talker Â®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Ableton Note",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "PDG PROmote 2026+",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Solocator - GPS Field Camera",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "RadarScope",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Walkout Song DJ",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-04-23T01:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Things 3"
   }
 ]

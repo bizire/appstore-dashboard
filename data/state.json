@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T01:30:12Z",
+  "updated_at": "2026-04-23T01:45:08Z",
   "charts": {
     "free": [
       {
@@ -19,13 +19,13 @@
       },
       {
         "rank": 4,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 5,
-        "id": "284815942",
-        "title": "Google"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 6,
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 12,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 13,
@@ -79,13 +79,13 @@
       },
       {
         "rank": 16,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 17,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 18,
@@ -104,8 +104,8 @@
       },
       {
         "rank": 21,
-        "id": "686449807",
-        "title": "Telegram Messenger"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 22,
@@ -114,13 +114,13 @@
       },
       {
         "rank": 23,
-        "id": "284882215",
-        "title": "Facebook"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       },
       {
         "rank": 24,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "284882215",
+        "title": "Facebook"
       },
       {
         "rank": 25,
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 6,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 7,
@@ -186,13 +186,13 @@
       },
       {
         "rank": 12,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 13,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 14,
@@ -201,23 +201,23 @@
       },
       {
         "rank": 15,
+        "id": "1633243177",
+        "title": "Ableton Note"
+      },
+      {
+        "rank": 16,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 16,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
         "rank": 17,
-        "id": "482303584",
-        "title": "PDG PROmote 2026+"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 18,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "482303584",
+        "title": "PDG PROmote 2026+"
       },
       {
         "rank": 19,
@@ -236,23 +236,23 @@
       },
       {
         "rank": 22,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 23,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
-      },
-      {
-        "rank": 24,
         "id": "741990930",
         "title": "Walkout Song DJ"
       },
       {
-        "rank": 25,
+        "rank": 23,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
+        "rank": 24,
         "id": "317809458",
         "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 25,
+        "id": "904237743",
+        "title": "Things 3"
       }
     ]
   }
