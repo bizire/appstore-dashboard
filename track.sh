@@ -6,7 +6,7 @@ set -euo pipefail
 TRADE_DIR=~/PolyMarketTrade
 DASHBOARD_DIR=~/appstore-dashboard
 
-source ~/.bashrc
+export ENV_KEY="$(grep -E '^export ENV_KEY=' ~/.bashrc | head -1 | sed 's/^export ENV_KEY=//' | tr -d '"')"
 export DASHBOARD_REPO_APPSTORE="$DASHBOARD_DIR"
 
 # Collect data
