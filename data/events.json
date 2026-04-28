@@ -21766,5 +21766,117 @@
     "position": 25,
     "from": "PDG PROmote 2026+",
     "to": "Things 3"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Gmail - Email by Google",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "SHEIN - Shopping Online",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Shop: All your favorite brands",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "Suno - AI Songs & Music"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Instagram",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Facebook",
+    "to": "WeatherWise.app"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Suno - AI Songs & Music",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-04-28T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Grok - AI Chat & Video",
+    "to": "TikTok - Videos, Shop & LIVE"
   }
 ]
