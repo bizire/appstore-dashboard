@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T08:45:11Z",
+  "updated_at": "2026-04-28T17:45:08Z",
   "charts": {
     "free": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "rank": 4,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 5,
@@ -29,28 +29,28 @@
       },
       {
         "rank": 6,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
-      },
-      {
-        "rank": 7,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 8,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
+        "rank": 7,
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "284815942",
         "title": "Google"
       },
       {
+        "rank": 9,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
         "rank": 10,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
       },
       {
         "rank": 11,
@@ -59,28 +59,28 @@
       },
       {
         "rank": 12,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 13,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 14,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 15,
         "id": "951937596",
         "title": "Microsoft Outlook"
       },
       {
-        "rank": 16,
+        "rank": 13,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 14,
         "id": "983156458",
         "title": "Microsoft Authenticator"
+      },
+      {
+        "rank": 15,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 16,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 17,
@@ -89,43 +89,43 @@
       },
       {
         "rank": 18,
-        "id": "6480136315",
-        "title": "Suno - AI Songs & Music"
-      },
-      {
-        "rank": 19,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
       },
       {
+        "rank": 20,
+        "id": "6480136315",
+        "title": "Suno - AI Songs & Music"
+      },
+      {
         "rank": 21,
-        "id": "500003565",
-        "title": "Ticketmasterï¼Buy, Sell Tickets"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 22,
-        "id": "6736407724",
-        "title": "WeatherWise.app"
-      },
-      {
-        "rank": 23,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
+        "rank": 23,
+        "id": "686449807",
+        "title": "Telegram Messenger"
+      },
+      {
         "rank": 24,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 25,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "333903271",
+        "title": "X"
       }
     ],
     "paid": [
@@ -186,8 +186,8 @@
       },
       {
         "rank": 12,
-        "id": "6755342612",
-        "title": "iScore5 AP Human Geography"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 13,
@@ -196,8 +196,8 @@
       },
       {
         "rank": 14,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "6755342612",
+        "title": "iScore5 AP Human Geography"
       },
       {
         "rank": 15,
@@ -211,18 +211,18 @@
       },
       {
         "rank": 17,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 18,
         "id": "6463562198",
         "title": "Ye said"
       },
       {
-        "rank": 18,
-        "id": "286799607",
-        "title": "Cleartune"
-      },
-      {
         "rank": 19,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1596063349",
+        "title": "Stash - Rule Based Proxy"
       },
       {
         "rank": 20,
@@ -231,8 +231,8 @@
       },
       {
         "rank": 21,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "482303584",
+        "title": "PDG PROmote 2026+"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 24,
-        "id": "482303584",
-        "title": "PDG PROmote 2026+"
+        "id": "286799607",
+        "title": "Cleartune"
       },
       {
         "rank": 25,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       }
     ]
   }
