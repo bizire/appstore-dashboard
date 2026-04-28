@@ -22366,5 +22366,229 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "WhatsApp Messenger",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Authenticator",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Netflix Game Controller",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Shop: All your favorite brands",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Teams",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Facebook",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Grok - AI Chat & Video",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Indeed Job Search",
+    "to": "Suno - AI Songs & Music"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Chrome",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 3,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "RadarScope",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Streaks",
+    "to": "CineTemp"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "SkyViewÂ®",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "DualShot Recorder"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "CineTemp",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "DualShot Recorder",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "iScore5 AP Human Geography",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "NOAA Weather Radio",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "MilGPS",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Stash - Rule Based Proxy",
+    "to": "NOAA Weather Radio"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PDG PROmote 2026+",
+    "to": "Ye said"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Ye said",
+    "to": "Stash - Rule Based Proxy"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-04-28T22:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Threema. The Secure Messenger"
   }
 ]
