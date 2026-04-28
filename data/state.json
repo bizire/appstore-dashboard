@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T04:30:13Z",
+  "updated_at": "2026-04-28T04:45:16Z",
   "charts": {
     "free": [
       {
@@ -44,58 +44,58 @@
       },
       {
         "rank": 9,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 10,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 11,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 12,
         "id": "1666653815",
         "title": "HBO Max: Stream Movies & TV"
       },
       {
-        "rank": 13,
-        "id": "585027354",
-        "title": "Google Maps"
+        "rank": 10,
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
-        "rank": 14,
+        "rank": 11,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 12,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 15,
+        "rank": 13,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 16,
-        "id": "951937596",
-        "title": "Microsoft Outlook"
-      },
-      {
-        "rank": 17,
+        "rank": 14,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
+        "rank": 15,
+        "id": "951937596",
+        "title": "Microsoft Outlook"
+      },
+      {
+        "rank": 16,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
+        "rank": 17,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
         "rank": 18,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 19,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 20,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 22,
-        "id": "711923939",
-        "title": "Cash App"
-      },
-      {
-        "rank": 23,
         "id": "500003565",
         "title": "Ticketmasterï¼Buy, Sell Tickets"
       },
       {
+        "rank": 22,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 23,
+        "id": "6480136315",
+        "title": "Suno - AI Songs & Music"
+      },
+      {
         "rank": 24,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       }
     ],
     "paid": [
@@ -141,13 +141,13 @@
       },
       {
         "rank": 3,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
       },
       {
         "rank": 4,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 5,
@@ -181,53 +181,53 @@
       },
       {
         "rank": 11,
-        "id": "6761159805",
-        "title": "DualShot Recorder"
-      },
-      {
-        "rank": 12,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 13,
-        "id": "6463562198",
-        "title": "Ye said"
-      },
-      {
-        "rank": 14,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 15,
-        "id": "286799607",
-        "title": "Cleartune"
-      },
-      {
-        "rank": 16,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 17,
+        "rank": 12,
         "id": "6755342612",
         "title": "iScore5 AP Human Geography"
       },
       {
+        "rank": 13,
+        "id": "6761159805",
+        "title": "DualShot Recorder"
+      },
+      {
+        "rank": 14,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
+        "rank": 15,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 16,
+        "id": "6463562198",
+        "title": "Ye said"
+      },
+      {
+        "rank": 17,
+        "id": "286799607",
+        "title": "Cleartune"
+      },
+      {
         "rank": 18,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 19,
         "id": "410148139",
         "title": "NOAA Weather Radio"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 20,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
       },
       {
         "rank": 21,
@@ -236,8 +236,8 @@
       },
       {
         "rank": 22,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 25,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "482303584",
+        "title": "PDG PROmote 2026+"
       }
     ]
   }
