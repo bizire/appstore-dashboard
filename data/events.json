@@ -23350,5 +23350,93 @@
     "position": 23,
     "from": "Ticketmasterï¼Buy, Sell Tickets",
     "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-04-29T10:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "AnkiMobile Flashcards"
+  },
+  {
+    "ts": "2026-04-29T10:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "AnkiMobile Flashcards",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-04-29T10:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "DualShot Recorder",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-29T10:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "SkyViewÂ®",
+    "to": "DualShot Recorder"
+  },
+  {
+    "ts": "2026-04-29T10:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "MilGPS",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-04-29T10:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Stash - Rule Based Proxy"
+  },
+  {
+    "ts": "2026-04-29T10:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "NOAA Weather Radio",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-04-29T10:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-04-29T10:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-04-29T10:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Stash - Rule Based Proxy",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-29T10:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "NOAA Weather Radio"
   }
 ]
