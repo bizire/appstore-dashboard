@@ -24086,5 +24086,245 @@
     "position": 25,
     "from": "Google Chrome",
     "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Microsoft Authenticator",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Shop: All your favorite brands",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Gmail - Email by Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Suno - AI Songs & Music",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Grok - AI Chat & Video",
+    "to": "Suno - AI Songs & Music"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "SHEIN - Shopping Online",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Chrome",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Netflix Game Controller",
+    "to": "Liberty Mutual Mobile"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Telegram Messenger",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Procreate Pocket",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "QuickBend: Conduit Bending",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "iScore5 AP Human Geography",
+    "to": "DualShot Recorder"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Stash - Rule Based Proxy",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "DualShot Recorder",
+    "to": "Stash - Rule Based Proxy"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Ye said",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Ye said"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-04-29T22:45:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "SkyViewÂ®",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
