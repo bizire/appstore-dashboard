@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T01:15:12Z",
+  "updated_at": "2026-04-29T01:30:15Z",
   "charts": {
     "free": [
       {
@@ -19,13 +19,13 @@
       },
       {
         "rank": 4,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 5,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 6,
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 10,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 11,
@@ -64,23 +64,23 @@
       },
       {
         "rank": 13,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
-      },
-      {
-        "rank": 14,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
+        "rank": 14,
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
+      },
+      {
         "rank": 15,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 16,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 17,
@@ -94,13 +94,13 @@
       },
       {
         "rank": 19,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "309735670",
+        "title": "Indeed Job Search"
       },
       {
         "rank": 20,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 21,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 23,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 24,
         "id": "6480136315",
         "title": "Suno - AI Songs & Music"
       },
       {
+        "rank": 24,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
         "rank": 25,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
+        "id": "535886823",
+        "title": "Google Chrome"
       }
     ],
     "paid": [
