@@ -22798,5 +22798,245 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "Stash - Rule Based Proxy"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Microsoft Authenticator",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Microsoft Outlook",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Gmail - Email by Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "Suno - AI Songs & Music"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Microsoft Teams",
+    "to": "Microsoft Outlook"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Indeed Job Search",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Instagram",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Netflix Game Controller",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "SHEIN - Shopping Online",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Suno - AI Songs & Music",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Chrome",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "CineTemp",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "CineTemp"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "iScore5 AP Human Geography",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "SkyViewÂ®",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "NOAA Weather Radio",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "NOAA Weather Radio"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Ye said",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "Ye said"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-04-29T05:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stash - Rule Based Proxy",
+    "to": "Solocator - GPS Field Camera"
   }
 ]
