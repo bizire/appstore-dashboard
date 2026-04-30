@@ -25046,5 +25046,197 @@
     "position": 25,
     "from": "Ye said",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Netflix Game Controller",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Authenticator",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Shop: All your favorite brands",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Grok - AI Chat & Video",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Ticketmasterï¼Buy, Sell Tickets",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Microsoft Outlook",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Telegram Messenger",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Instagram",
+    "to": "X"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "iScore5 AP Human Geography",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "MilGPS",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "QuickBend: Conduit Bending",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PDG PROmote 2026+",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "SkyViewÂ®",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Walkout Song DJ",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-04-30T10:30:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Wipr 2"
   }
 ]
