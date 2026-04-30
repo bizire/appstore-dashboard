@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T22:30:13Z",
+  "updated_at": "2026-04-30T22:45:11Z",
   "charts": {
     "free": [
       {
@@ -24,23 +24,23 @@
       },
       {
         "rank": 5,
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
+      },
+      {
+        "rank": 6,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "id": "310633997",
         "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 8,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 9,
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 13,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 14,
@@ -74,8 +74,8 @@
       },
       {
         "rank": 15,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 16,
@@ -89,18 +89,18 @@
       },
       {
         "rank": 18,
+        "id": "397404511",
+        "title": "Liberty Mutual Mobile"
+      },
+      {
+        "rank": 19,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 20,
-        "id": "284882215",
-        "title": "Facebook"
       },
       {
         "rank": 21,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
-      },
-      {
-        "rank": 23,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 24,
         "id": "951937596",
         "title": "Microsoft Outlook"
       },
       {
-        "rank": 25,
+        "rank": 23,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 24,
         "id": "535886823",
         "title": "Google Chrome"
+      },
+      {
+        "rank": 25,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       }
     ],
     "paid": [
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 12,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
       },
       {
         "rank": 13,
@@ -201,28 +201,28 @@
       },
       {
         "rank": 15,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 16,
         "id": "482303584",
         "title": "PDG PROmote 2026+"
       },
       {
-        "rank": 17,
-        "id": "6755342612",
-        "title": "iScore5 AP Human Geography"
-      },
-      {
-        "rank": 18,
+        "rank": 16,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 17,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 18,
+        "id": "6755342612",
+        "title": "iScore5 AP Human Geography"
+      },
+      {
         "rank": 19,
-        "id": "1596063349",
-        "title": "Stash - Rule Based Proxy"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 20,
@@ -231,8 +231,8 @@
       },
       {
         "rank": 21,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 22,
@@ -241,8 +241,8 @@
       },
       {
         "rank": 23,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "1596063349",
+        "title": "Stash - Rule Based Proxy"
       },
       {
         "rank": 24,
