@@ -27198,5 +27198,245 @@
     "position": 25,
     "from": "AutoSnore: Snoring Recorder",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Netflix Game Controller",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Maps",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Suno - AI Songs & Music",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Shop: All your favorite brands",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Gmail - Email by Google",
+    "to": "Suno - AI Songs & Music"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "SHEIN - Shopping Online",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Microsoft Authenticator",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Telegram Messenger",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "KennysGifs"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "iScore5 AP Human Geography",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PDG PROmote 2026+",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "DualShot Recorder",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Things 3",
+    "to": "DualShot Recorder"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Dine Bizaad",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Dine Bizaad"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "KennysGifs",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Stash - Rule Based Proxy",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-01T16:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "Stash - Rule Based Proxy"
   }
 ]
