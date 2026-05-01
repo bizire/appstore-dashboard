@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T10:15:09Z",
+  "updated_at": "2026-05-01T10:30:10Z",
   "charts": {
     "free": [
       {
@@ -19,13 +19,13 @@
       },
       {
         "rank": 4,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 5,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 6,
@@ -39,23 +39,23 @@
       },
       {
         "rank": 8,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 9,
         "id": "6446901002",
         "title": "Threads"
       },
       {
+        "rank": 9,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
         "rank": 10,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 11,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 12,
@@ -64,33 +64,33 @@
       },
       {
         "rank": 13,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 14,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 15,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "rank": 14,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1666653815",
         "title": "HBO Max: Stream Movies & TV"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
+      },
+      {
+        "rank": 18,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 19,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "309735670",
-        "title": "Indeed Job Search"
-      },
-      {
-        "rank": 22,
-        "id": "500003565",
-        "title": "Ticketmasterï¼Buy, Sell Tickets"
-      },
-      {
-        "rank": 23,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
+        "rank": 22,
+        "id": "309735670",
+        "title": "Indeed Job Search"
+      },
+      {
+        "rank": 23,
+        "id": "500003565",
+        "title": "Ticketmasterï¼Buy, Sell Tickets"
+      },
+      {
         "rank": 24,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       },
       {
         "rank": 25,
-        "id": "686449807",
-        "title": "Telegram Messenger"
+        "id": "389801252",
+        "title": "Instagram"
       }
     ],
     "paid": [
@@ -161,23 +161,23 @@
       },
       {
         "rank": 7,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 8,
         "id": "6738967033",
         "title": "CineTemp"
       },
       {
+        "rank": 8,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
         "rank": 9,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 10,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 11,
@@ -191,33 +191,33 @@
       },
       {
         "rank": 13,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 14,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
+        "rank": 14,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
         "rank": 15,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 16,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 17,
         "id": "6761159805",
         "title": "DualShot Recorder"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "482303584",
         "title": "PDG PROmote 2026+"
+      },
+      {
+        "rank": 18,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 19,
@@ -226,33 +226,33 @@
       },
       {
         "rank": 20,
-        "id": "6762313225",
-        "title": "Dine Bizaad"
-      },
-      {
-        "rank": 21,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 22,
-        "id": "1633243177",
-        "title": "Ableton Note"
-      },
-      {
-        "rank": 23,
         "id": "904237743",
         "title": "Things 3"
       },
       {
+        "rank": 21,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
+        "rank": 22,
+        "id": "6762313225",
+        "title": "Dine Bizaad"
+      },
+      {
+        "rank": 23,
+        "id": "1633243177",
+        "title": "Ableton Note"
+      },
+      {
         "rank": 24,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 25,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
       }
     ]
   }
