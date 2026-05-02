@@ -28686,5 +28686,157 @@
     "position": 24,
     "from": "Walkout Song DJ",
     "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Shop: All your favorite brands",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Grok - AI Chat & Video",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Ticketmasterï¼Buy, Sell Tickets",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Ticketmasterï¼Buy, Sell Tickets"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Monash FODMAP Diet",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "KennysGifs",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "KennysGifs"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "MilGPS",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Dine Bizaad",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Dine Bizaad"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "DualShot Recorder",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "DualShot Recorder"
+  },
+  {
+    "ts": "2026-05-02T10:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Things 3",
+    "to": "Stash - Rule Based Proxy"
   }
 ]
