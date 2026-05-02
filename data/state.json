@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T07:30:14Z",
+  "updated_at": "2026-05-02T07:45:13Z",
   "charts": {
     "free": [
       {
@@ -156,33 +156,33 @@
       },
       {
         "rank": 6,
-        "id": "6738590491",
-        "title": "KennysGifs"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 8,
-        "id": "6738967033",
-        "title": "CineTemp"
-      },
-      {
-        "rank": 9,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
+        "rank": 8,
+        "id": "6738590491",
+        "title": "KennysGifs"
+      },
+      {
+        "rank": 9,
+        "id": "6738967033",
+        "title": "CineTemp"
+      },
+      {
         "rank": 10,
-        "id": "791467318",
-        "title": "Vargo Anesthesia Mega App"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 11,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 12,
@@ -191,63 +191,63 @@
       },
       {
         "rank": 13,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
+        "rank": 14,
+        "id": "791467318",
+        "title": "Vargo Anesthesia Mega App"
+      },
+      {
+        "rank": 15,
+        "id": "741990930",
+        "title": "Walkout Song DJ"
+      },
+      {
+        "rank": 16,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 14,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 15,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 16,
-        "id": "482303584",
-        "title": "PDG PROmote 2026+"
-      },
-      {
         "rank": 17,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 18,
         "id": "6755342612",
         "title": "iScore5 AP Human Geography"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "6762313225",
         "title": "Dine Bizaad"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
+        "rank": 20,
+        "id": "482303584",
+        "title": "PDG PROmote 2026+"
+      },
+      {
         "rank": 21,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 22,
         "id": "6761159805",
         "title": "DualShot Recorder"
       },
       {
-        "rank": 22,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
         "rank": 23,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 24,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 25,
