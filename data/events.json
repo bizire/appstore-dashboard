@@ -31630,5 +31630,93 @@
     "position": 25,
     "from": "Things 3",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-03T22:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-03T22:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-03T22:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "DK Horse Racing & Betting",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-03T22:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-03T22:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DK Horse Racing & Betting"
+  },
+  {
+    "ts": "2026-05-03T22:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Uber - Request a ride",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-03T22:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Grok - AI Chat & Video",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-03T22:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Amazon Prime Video",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-03T22:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-03T22:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Gmail - Email by Google",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-03T22:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TwinSpires: Kentucky Derby",
+    "to": "Gmail - Email by Google"
   }
 ]
