@@ -31126,5 +31126,221 @@
     "position": 25,
     "from": "Things 3",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Google Gemini",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "DK Horse Racing & Betting",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "DK Horse Racing & Betting"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Threads",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "TwinSpires: Kentucky Derby",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Uber - Request a ride",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "SHEIN - Shopping Online",
+    "to": "TwinSpires: Kentucky Derby"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Walkout Song DJ",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "MilGPS",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Vargo Anesthesia Mega App",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Vargo Anesthesia Mega App"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "CineTemp",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "RadarScope",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "KennysGifs",
+    "to": "CineTemp"
+  },
+  {
+    "ts": "2026-05-03T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Wipr 2",
+    "to": "Things 3"
   }
 ]
