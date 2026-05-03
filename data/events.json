@@ -30574,5 +30574,149 @@
     "position": 25,
     "from": "Spotify: Music and Podcasts",
     "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Monash FODMAP Diet",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Walkout Song DJ",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "SkyViewÂ®",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Vargo Anesthesia Mega App",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "RadarScope",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "LiveATC Air Radio",
+    "to": "Vargo Anesthesia Mega App"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "CineTemp",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "KennysGifs",
+    "to": "CineTemp"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "iScore5 AP Human Geography",
+    "to": "Dine Bizaad"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Streaks",
+    "to": "KennysGifs"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Spirit Talker Â®",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Dine Bizaad",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-05-03T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
