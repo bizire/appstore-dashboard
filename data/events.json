@@ -32630,5 +32630,229 @@
     "position": 25,
     "from": "Uber - Request a ride",
     "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Threads",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Grok - AI Chat & Video",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Walmart: Shopping & Savings",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Gmail - Email by Google",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "MilGPS",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "LiveATC Air Radio",
+    "to": "Ourcana"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Monash FODMAP Diet",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Ourcana",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "iScore5 AP Human Geography",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Walkout Song DJ",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Things 3",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Stylebook",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Wipr 2",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-04T10:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "RadarScope",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
