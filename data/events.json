@@ -33022,5 +33022,109 @@
     "position": 24,
     "from": "PDG PROmote 2026+",
     "to": "Stylebook"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google Gemini",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Grok - AI Chat & Video",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Maps",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Shop: All your favorite brands",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Instagram",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Gmail - Email by Google",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-04T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Spotify: Music and Podcasts"
   }
 ]

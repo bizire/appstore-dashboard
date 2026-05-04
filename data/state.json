@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-04T16:30:12Z",
+  "updated_at": "2026-05-04T16:45:08Z",
   "charts": {
     "free": [
       {
@@ -14,13 +14,13 @@
       },
       {
         "rank": 3,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
         "rank": 4,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 5,
@@ -29,8 +29,8 @@
       },
       {
         "rank": 6,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 7,
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 9,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 10,
@@ -69,28 +69,28 @@
       },
       {
         "rank": 14,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 15,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
-      },
-      {
-        "rank": 16,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 15,
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
+      },
+      {
+        "rank": 16,
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
+      },
+      {
         "rank": 17,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 18,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 19,
@@ -99,13 +99,13 @@
       },
       {
         "rank": 20,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 21,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 22,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
       }
     ],
     "paid": [
