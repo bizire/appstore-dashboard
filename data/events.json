@@ -32918,5 +32918,109 @@
     "position": 25,
     "from": "Telegram Messenger",
     "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Streaks",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "MilGPS",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Monash FODMAP Diet",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "iScore5 AP Human Geography",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "imo video calls and chat HD",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Walkout Song DJ",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Wipr 2",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Stylebook",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-04T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PDG PROmote 2026+",
+    "to": "Stylebook"
   }
 ]
