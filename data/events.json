@@ -31846,5 +31846,269 @@
     "position": 25,
     "from": "imo video calls and chat HD",
     "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "DK Horse Racing & Betting",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "SHEIN - Shopping Online",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Grok - AI Chat & Video",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Uber - Request a ride",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Shop: All your favorite brands",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Spotify: Music and Podcasts",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Instagram",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Amazon Prime Video",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Gmail - Email by Google",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "MilGPS",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Walkout Song DJ",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PeakFinder",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Spirit Talker Â®",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "LiveATC Air Radio",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Vargo Anesthesia Mega App",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "CineTemp",
+    "to": "Vargo Anesthesia Mega App"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "RadarScope",
+    "to": "CineTemp"
+  },
+  {
+    "ts": "2026-05-04T02:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "iScore5 AP Human Geography",
+    "to": "Moment Pro Camera II"
   }
 ]
