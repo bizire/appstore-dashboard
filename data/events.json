@@ -32110,5 +32110,253 @@
     "position": 25,
     "from": "iScore5 AP Human Geography",
     "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "SHEIN - Shopping Online",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Instagram",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Facebook",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Grok - AI Chat & Video",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "YouTube",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "FL Studio Mobile",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "MilGPS",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Ourcana",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "Ourcana"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Walkout Song DJ",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "LiveATC Air Radio",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Spirit Talker Â®",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "imo video calls and chat HD",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Things 3",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "iScore5 AP Human Geography",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Vargo Anesthesia Mega App",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "CineTemp",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-04T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Moment Pro Camera II",
+    "to": "CineTemp"
   }
 ]
