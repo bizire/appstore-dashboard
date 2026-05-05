@@ -34374,5 +34374,205 @@
     "position": 25,
     "from": "Walkout Song DJ",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Netflix Game Controller",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Threads",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Grok - AI Chat & Video",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Authenticator",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Telegram Messenger",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "MilGPS",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PDG PROmote 2026+",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Things 3",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PeakFinder",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "RadarScope",
+    "to": "Ourcana"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Ourcana",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Wipr 2",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "iScore5 AP Human Geography",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Spirit Talker Â®",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "QuickBend: Conduit Bending",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-05T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "QuickBend: Conduit Bending"
   }
 ]
