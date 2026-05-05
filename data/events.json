@@ -34926,5 +34926,117 @@
     "position": 25,
     "from": "AutoSnore: Snoring Recorder",
     "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "ALO",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "ALO"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Netflix Game Controller",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Shop: All your favorite brands",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "SHEIN - Shopping Online",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Microsoft Authenticator",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Telegram Messenger",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Indeed Job Search",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-05-05T17:00:19Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "Google Chrome"
   }
 ]
