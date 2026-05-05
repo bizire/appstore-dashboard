@@ -33830,5 +33830,261 @@
     "position": 25,
     "from": "Vargo Anesthesia Mega App",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "ALO",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Claude by Anthropic",
+    "to": "ALO"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Microsoft Authenticator",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Threads",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Maps",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Gmail - Email by Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "SHEIN - Shopping Online",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Instagram",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Facebook",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Indeed Job Search",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Telegram Messenger",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "MilGPS",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Ourcana",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PDG PROmote 2026+",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PeakFinder",
+    "to": "Ourcana"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "imo video calls and chat HD",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Things 3",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "iScore5 AP Human Geography",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "RadarScope",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-05T04:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Wipr 2",
+    "to": "Walkout Song DJ"
   }
 ]
