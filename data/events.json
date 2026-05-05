@@ -33614,5 +33614,221 @@
     "position": 25,
     "from": "Solocator - GPS Field Camera",
     "to": "Vargo Anesthesia Mega App"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Netflix Game Controller",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Authenticator",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "SHEIN - Shopping Online",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "YouTube",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Telegram Messenger",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Indeed Job Search",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Ourcana",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "Ourcana"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Streaks",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PDG PROmote 2026+",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Things 3",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Spirit Talker Â®",
+    "to": "iScore5 AP Human Geography"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Wipr 2",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-05T01:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Vargo Anesthesia Mega App",
+    "to": "Wipr 2"
   }
 ]
