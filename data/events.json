@@ -37262,5 +37262,109 @@
     "position": 25,
     "from": "Wipr 2",
     "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Authenticator",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Microsoft Teams",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Instagram",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Facebook",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Indeed Job Search",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-06T22:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Canva: AI Video & Photo Editor"
   }
 ]
