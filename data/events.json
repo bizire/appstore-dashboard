@@ -36718,5 +36718,277 @@
     "position": 25,
     "from": "Wipr 2",
     "to": "Stash - Rule Based Proxy"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Shop: All your favorite brands",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Microsoft Authenticator",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Netflix Game Controller",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "SHEIN - Shopping Online",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Indeed Job Search",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Instagram",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "AI Video - AI Video Generator",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "X",
+    "to": "Canva: AI Video & Photo Editor"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Chrome",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "MilGPS",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "RadarScope",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Things 3",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Threema. The Secure Messenger",
+    "to": "Bauhaus Clock"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Moment Pro Camera II",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Ourcana",
+    "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Spirit Talker Â®",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Ableton Note",
+    "to": "Ourcana"
+  },
+  {
+    "ts": "2026-05-06T16:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stash - Rule Based Proxy",
+    "to": "Wipr 2"
   }
 ]
