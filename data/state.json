@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T22:45:10Z",
+  "updated_at": "2026-05-07T23:00:18Z",
   "charts": {
     "free": [
       {
@@ -29,23 +29,23 @@
       },
       {
         "rank": 6,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 7,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
-      },
-      {
-        "rank": 8,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 8,
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
+      },
+      {
         "rank": 9,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 10,
@@ -54,78 +54,78 @@
       },
       {
         "rank": 11,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 12,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 13,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
+        "rank": 13,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
         "rank": 14,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
-      },
-      {
-        "rank": 15,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 16,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
+        "rank": 15,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 16,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
         "rank": 17,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 18,
-        "id": "309735670",
-        "title": "Indeed Job Search"
-      },
-      {
-        "rank": 19,
-        "id": "686449807",
-        "title": "Telegram Messenger"
-      },
-      {
-        "rank": 20,
-        "id": "589653414",
-        "title": "7-Eleven: Rewards & Shopping"
-      },
-      {
-        "rank": 21,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 22,
-        "id": "535886823",
-        "title": "Google Chrome"
-      },
-      {
-        "rank": 23,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
+        "rank": 18,
+        "id": "589653414",
+        "title": "7-Eleven: Rewards & Shopping"
+      },
+      {
+        "rank": 19,
+        "id": "309735670",
+        "title": "Indeed Job Search"
+      },
+      {
+        "rank": 20,
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
+      },
+      {
+        "rank": 21,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
+        "rank": 22,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 23,
+        "id": "535886823",
+        "title": "Google Chrome"
+      },
+      {
         "rank": 24,
-        "id": "500003565",
-        "title": "Ticketmasterï¼Buy, Sell Tickets"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       },
       {
         "rank": 25,
-        "id": "897446215",
-        "title": "Canva: AI Video & Photo Editor"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       }
     ],
     "paid": [
