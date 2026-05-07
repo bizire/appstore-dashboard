@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T04:15:10Z",
+  "updated_at": "2026-05-07T04:30:10Z",
   "charts": {
     "free": [
       {
@@ -24,28 +24,28 @@
       },
       {
         "rank": 5,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 6,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 7,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
-      },
-      {
-        "rank": 8,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 6,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 7,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 8,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
         "rank": 9,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 10,
@@ -59,8 +59,8 @@
       },
       {
         "rank": 12,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 13,
@@ -69,13 +69,13 @@
       },
       {
         "rank": 14,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 15,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "309735670",
+        "title": "Indeed Job Search"
       },
       {
         "rank": 16,
@@ -84,13 +84,13 @@
       },
       {
         "rank": 17,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       },
       {
         "rank": 18,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 19,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 21,
-        "id": "686449807",
-        "title": "Telegram Messenger"
-      },
-      {
-        "rank": 22,
-        "id": "535886823",
-        "title": "Google Chrome"
-      },
-      {
-        "rank": 23,
-        "id": "1111876388",
-        "title": "T-Life"
-      },
-      {
-        "rank": 24,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
+        "rank": 21,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 22,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 23,
+        "id": "686449807",
+        "title": "Telegram Messenger"
+      },
+      {
+        "rank": 24,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
         "rank": 25,
-        "id": "897446215",
-        "title": "Canva: AI Video & Photo Editor"
+        "id": "535886823",
+        "title": "Google Chrome"
       }
     ],
     "paid": [
@@ -151,18 +151,18 @@
       },
       {
         "rank": 5,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 6,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
+      },
+      {
+        "rank": 7,
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 8,
@@ -211,18 +211,18 @@
       },
       {
         "rank": 17,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 18,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 18,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
         "rank": 19,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
-      },
-      {
-        "rank": 23,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
-      },
-      {
-        "rank": 24,
         "id": "1449584007",
         "title": "Koala Sampler â¢ Beat Maker"
       },
       {
-        "rank": 25,
+        "rank": 23,
+        "id": "430234732",
+        "title": "Site Audit Pro"
+      },
+      {
+        "rank": 24,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
+      },
+      {
+        "rank": 25,
+        "id": "1498550832",
+        "title": "ASCCP Management Guidelines"
       }
     ]
   }

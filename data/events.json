@@ -37630,5 +37630,221 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "WhatsApp Messenger",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Microsoft Authenticator",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Teams",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Indeed Job Search",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Grok - AI Chat & Video",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Facebook",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Telegram Messenger",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Chrome",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "T-Life",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Canva: AI Video & Photo Editor",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "MilGPS",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "RadarScope",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Solocator - GPS Field Camera",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Goblin Tools",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "Site Audit Pro"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-05-07T04:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Moment Pro Camera II",
+    "to": "ASCCP Management Guidelines"
   }
 ]
