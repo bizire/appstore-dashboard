@@ -38118,5 +38118,261 @@
     "position": 25,
     "from": "ASCCP Management Guidelines",
     "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Microsoft Authenticator",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Grok - AI Chat & Video",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Indeed Job Search",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Maps",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "SHEIN - Shopping Online",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Netflix Game Controller",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Telegram Messenger",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Canva: AI Video & Photo Editor",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Canva: AI Video & Photo Editor"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Microsoft Teams",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Instagram",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "MilGPS",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PDG PROmote 2026+",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "SkyViewÂ®",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Things 3",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "myLightMeter PRO",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Spirit Talker Â®",
+    "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "myLightMeter PRO"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PeakFinder",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-07T10:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Moment Pro Camera II",
+    "to": "imo video calls and chat HD"
   }
 ]
