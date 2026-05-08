@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T04:30:12Z",
+  "updated_at": "2026-05-08T04:45:12Z",
   "charts": {
     "free": [
       {
@@ -34,48 +34,48 @@
       },
       {
         "rank": 7,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
-      },
-      {
-        "rank": 8,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 9,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 10,
+        "rank": 8,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 11,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "rank": 9,
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
-        "rank": 12,
+        "rank": 10,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 13,
+        "rank": 11,
+        "id": "6446901002",
+        "title": "Threads"
+      },
+      {
+        "rank": 12,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
+        "rank": 14,
+        "id": "589653414",
+        "title": "7-Eleven: Rewards & Shopping"
+      },
+      {
         "rank": 15,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 16,
@@ -84,8 +84,8 @@
       },
       {
         "rank": 17,
-        "id": "589653414",
-        "title": "7-Eleven: Rewards & Shopping"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 18,
@@ -94,38 +94,38 @@
       },
       {
         "rank": 19,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 20,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "284882215",
         "title": "Facebook"
       },
       {
-        "rank": 23,
-        "id": "535886823",
-        "title": "Google Chrome"
-      },
-      {
         "rank": 24,
-        "id": "686449807",
-        "title": "Telegram Messenger"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 25,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       }
     ],
     "paid": [
@@ -151,78 +151,78 @@
       },
       {
         "rank": 5,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 6,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 7,
-        "id": "405835358",
-        "title": "MilGPS"
+        "rank": 6,
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
+        "rank": 8,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
         "rank": 9,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 10,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 11,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 12,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 13,
+        "rank": 10,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 11,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 12,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
+        "rank": 13,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
         "rank": 14,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 15,
-        "id": "482303584",
-        "title": "PDG PROmote 2026+"
-      },
-      {
-        "rank": 16,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 17,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 18,
+        "rank": 15,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
-        "rank": 19,
+        "rank": 16,
         "id": "404990064",
         "title": "SkyViewÂ®"
+      },
+      {
+        "rank": 17,
+        "id": "482303584",
+        "title": "PDG PROmote 2026+"
+      },
+      {
+        "rank": 18,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 19,
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 22,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
+        "rank": 23,
         "id": "1449584007",
         "title": "Koala Sampler â¢ Beat Maker"
       },
       {
-        "rank": 23,
-        "id": "430234732",
-        "title": "Site Audit Pro"
-      },
-      {
         "rank": 24,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "1062745479",
+        "title": "HeartWatch: Heart Rate Monitor"
       },
       {
         "rank": 25,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       }
     ]
   }
