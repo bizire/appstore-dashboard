@@ -41702,5 +41702,213 @@
     "position": 25,
     "from": "Things 3",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Claude by Anthropic",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Shop: All your favorite brands",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Threads",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Gmail - Email by Google",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Instagram",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Facebook",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Raising Cane's Chicken Fingers"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Raising Cane's Chicken Fingers",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "SHEIN - Shopping Online",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Ticketmasterï¼Buy, Sell Tickets"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Grok - AI Chat & Video",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-09T08:15:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Threema. The Secure Messenger"
   }
 ]
