@@ -43014,5 +43014,141 @@
     "position": 25,
     "from": "Life360: Stay Connected & Safe",
     "to": "Cash App"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "RadarScope",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "MilGPS",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "FL Studio Mobile",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Walkout Song DJ",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Retro Keys: Piano, Wurl, Rhds",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Retro Keys: Piano, Wurl, Rhds"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Spirit Talker Â®",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "White Noise",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PeakFinder",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-09T23:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "White Noise"
   }
 ]
