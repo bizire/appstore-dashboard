@@ -41174,5 +41174,261 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Shop: All your favorite brands",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Maps",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Gmail - Email by Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Authenticator",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Microsoft Teams",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Circle K",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Facebook",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Grok - AI Chat & Video",
+    "to": "Circle K"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Amazon Prime Video",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Chrome",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Indeed Job Search",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "QuickBend: Conduit Bending",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "RadarScope",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "SkyViewÂ®",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "Reel: 4-Track Recorder"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Reel: 4-Track Recorder",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Threema. The Secure Messenger",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Walkout Song DJ",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Retro Keys: Piano, Wurl, Rhds"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Solocator - GPS Field Camera",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-05-09T02:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "PeakFinder",
+    "to": "Things 3"
   }
 ]
