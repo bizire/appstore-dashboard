@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T22:30:13Z",
+  "updated_at": "2026-05-09T22:45:10Z",
   "charts": {
     "free": [
       {
@@ -24,53 +24,53 @@
       },
       {
         "rank": 5,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 6,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 7,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
+        "rank": 6,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 9,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 10,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 11,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 12,
+        "rank": 8,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
+        "rank": 9,
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
+      },
+      {
+        "rank": 10,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 11,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 12,
+        "id": "6446901002",
+        "title": "Threads"
+      },
+      {
         "rank": 13,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 14,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 15,
@@ -79,53 +79,53 @@
       },
       {
         "rank": 16,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 17,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 18,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 19,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 20,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 21,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
-        "rank": 22,
-        "id": "324684580",
-        "title": "Spotify: Music and Podcasts"
-      },
-      {
-        "rank": 23,
         "id": "389801252",
         "title": "Instagram"
       },
       {
+        "rank": 19,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 20,
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
+      },
+      {
+        "rank": 21,
+        "id": "368677368",
+        "title": "Uber - Request a ride"
+      },
+      {
+        "rank": 22,
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
+      },
+      {
+        "rank": 23,
+        "id": "544007664",
+        "title": "YouTube"
+      },
+      {
         "rank": 24,
-        "id": "686449807",
-        "title": "Telegram Messenger"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 25,
-        "id": "384830320",
-        "title": "Life360: Stay Connected & Safe"
+        "id": "711923939",
+        "title": "Cash App"
       }
     ],
     "paid": [
