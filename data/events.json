@@ -43406,5 +43406,269 @@
     "position": 25,
     "from": "White Noise",
     "to": "iReal Pro"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "ChatGPT",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Claude by Anthropic",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Google",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google Maps",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Threads",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Paramount+",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Gmail - Email by Google",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Shop: All your favorite brands",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Amazon Prime Video",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Instagram",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Facebook",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Kalshi: Trade News & Sports"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "YouTube",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "MilGPS",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "SkyViewÂ®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Spirit Talker Â®",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Retro Keys: Piano, Wurl, Rhds",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "Retro Keys: Piano, Wurl, Rhds"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Streaks",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-10T05:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "QuickBend: Conduit Bending",
+    "to": "AutoSnore: Snoring Recorder"
   }
 ]
