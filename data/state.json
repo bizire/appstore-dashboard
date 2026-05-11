@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T14:00:12Z",
+  "updated_at": "2026-05-11T14:15:09Z",
   "charts": {
     "free": [
       {
@@ -24,18 +24,18 @@
       },
       {
         "rank": 5,
+        "id": "6738049229",
+        "title": "Kling AI: AI Image&Video Maker"
+      },
+      {
+        "rank": 6,
         "id": "530168168",
         "title": "Paramount+"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 7,
-        "id": "6738049229",
-        "title": "Kling AI: AI Image&Video Maker"
       },
       {
         "rank": 8,
@@ -64,68 +64,68 @@
       },
       {
         "rank": 13,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 14,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 15,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 16,
+        "rank": 14,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 15,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 16,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
         "rank": 17,
-        "id": "1530642656",
-        "title": "Raising Cane's Chicken Fingers"
-      },
-      {
-        "rank": 18,
-        "id": "1438779037",
-        "title": "Skylight App"
-      },
-      {
-        "rank": 19,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
       },
       {
-        "rank": 20,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 21,
+        "rank": 18,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
+        "rank": 19,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 20,
+        "id": "1438779037",
+        "title": "Skylight App"
+      },
+      {
+        "rank": 21,
+        "id": "1530642656",
+        "title": "Raising Cane's Chicken Fingers"
+      },
+      {
         "rank": 22,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
-      },
-      {
-        "rank": 23,
-        "id": "990062908",
-        "title": "Aura Frames"
-      },
-      {
-        "rank": 24,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 25,
+        "rank": 23,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
+        "rank": 24,
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
+      },
+      {
+        "rank": 25,
+        "id": "990062908",
+        "title": "Aura Frames"
       }
     ],
     "paid": [
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 12,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 13,
@@ -196,18 +196,18 @@
       },
       {
         "rank": 14,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 15,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 16,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 17,
@@ -216,23 +216,23 @@
       },
       {
         "rank": 18,
-        "id": "301387274",
-        "title": "Pocket God"
-      },
-      {
-        "rank": 19,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
+        "rank": 19,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
         "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
       },
       {
         "rank": 21,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 22,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "335709058",
+        "title": "Stylebook"
       }
     ]
   }
