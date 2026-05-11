@@ -45542,5 +45542,149 @@
     "position": 25,
     "from": "Things 3",
     "to": "WorkOutDoors"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Paramount+",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Google Gemini",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Kling AI: AI Image&Video Maker"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Skylight App",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Kling AI: AI Image&Video Maker",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Raising Cane's Chicken Fingers",
+    "to": "Skylight App"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Facebook",
+    "to": "Raising Cane's Chicken Fingers"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Aura Frames",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Threads",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "Aura Frames"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "SHEIN - Shopping Online",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-11T07:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Gmail - Email by Google",
+    "to": "Instagram"
   }
 ]
