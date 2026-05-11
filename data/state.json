@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T07:45:11Z",
+  "updated_at": "2026-05-11T08:00:16Z",
   "charts": {
     "free": [
       {
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 8,
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 12,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 13,
@@ -196,23 +196,23 @@
       },
       {
         "rank": 14,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 15,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 15,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
         "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 17,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 18,
@@ -221,23 +221,23 @@
       },
       {
         "rank": 19,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 20,
         "id": "6746705608",
         "title": "AutoSnore: Snoring Recorder"
       },
       {
-        "rank": 20,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
-      },
-      {
         "rank": 21,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 22,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 25,
-        "id": "1241909999",
-        "title": "WorkOutDoors"
+        "id": "335709058",
+        "title": "Stylebook"
       }
     ]
   }
