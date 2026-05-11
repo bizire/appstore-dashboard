@@ -46478,5 +46478,237 @@
     "position": 25,
     "from": "Stylebook",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Google Gemini",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Paramount+",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Threads",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Shop: All your favorite brands",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "SHEIN - Shopping Online",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Grok - AI Chat & Video",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Facebook",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Authenticator",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Gmail - Email by Google",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Skylight App",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Monash FODMAP Diet",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "LiveATC Air Radio",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Spirit Talker Â®",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Wipr 2",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pocket God",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "White Noise",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-05-11T20:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Stash - Rule Based Proxy",
+    "to": "Things 3"
   }
 ]
