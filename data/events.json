@@ -45798,5 +45798,293 @@
     "position": 25,
     "from": "WorkOutDoors",
     "to": "Stylebook"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Kling AI: AI Image&Video Maker"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Kling AI: AI Image&Video Maker",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Threads",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Skylight App",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Raising Cane's Chicken Fingers",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "SHEIN - Shopping Online",
+    "to": "Raising Cane's Chicken Fingers"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "Skylight App"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Aura Frames",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Shop: All your favorite brands",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Facebook",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Grok - AI Chat & Video",
+    "to": "Aura Frames"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Instagram",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Reel: 4-Track Recorder"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Reel: 4-Track Recorder",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "LiveATC Air Radio",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "MilGPS",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Spirit Talker Â®",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Wipr 2",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Pocket God",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Walkout Song DJ",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "imo video calls and chat HD",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-11T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stylebook",
+    "to": "Walkout Song DJ"
   }
 ]

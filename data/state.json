@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T10:45:08Z",
+  "updated_at": "2026-05-11T11:00:10Z",
   "charts": {
     "free": [
       {
@@ -34,38 +34,38 @@
       },
       {
         "rank": 7,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 8,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 9,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 10,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
-      },
-      {
-        "rank": 11,
         "id": "6738049229",
         "title": "Kling AI: AI Image&Video Maker"
       },
       {
+        "rank": 8,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 9,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 10,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 11,
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
+      },
+      {
         "rank": 12,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 13,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 14,
@@ -74,38 +74,38 @@
       },
       {
         "rank": 15,
-        "id": "1438779037",
-        "title": "Skylight App"
-      },
-      {
-        "rank": 16,
-        "id": "1530642656",
-        "title": "Raising Cane's Chicken Fingers"
-      },
-      {
-        "rank": 17,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
-        "rank": 18,
+        "rank": 16,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 17,
+        "id": "1530642656",
+        "title": "Raising Cane's Chicken Fingers"
+      },
+      {
+        "rank": 18,
+        "id": "1438779037",
+        "title": "Skylight App"
+      },
+      {
         "rank": 19,
-        "id": "990062908",
-        "title": "Aura Frames"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       },
       {
         "rank": 20,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "284882215",
+        "title": "Facebook"
       },
       {
         "rank": 21,
-        "id": "284882215",
-        "title": "Facebook"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 22,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
+        "id": "990062908",
+        "title": "Aura Frames"
       },
       {
         "rank": 24,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 25,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 7,
@@ -166,23 +166,23 @@
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
-      },
-      {
-        "rank": 9,
         "id": "6760545075",
         "title": "Reel: 4-Track Recorder"
       },
       {
+        "rank": 9,
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
+      },
+      {
         "rank": 10,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 11,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 12,
@@ -191,68 +191,68 @@
       },
       {
         "rank": 13,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 14,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 15,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 16,
+        "rank": 14,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 17,
+        "rank": 15,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
+        "rank": 16,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
+        "rank": 17,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
         "rank": 18,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 19,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 20,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
-      },
-      {
-        "rank": 21,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
+        "rank": 19,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
+        "rank": 20,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 21,
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
+      },
+      {
         "rank": 22,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "289894882",
+        "title": "White Noise"
       },
       {
         "rank": 23,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
-      },
-      {
-        "rank": 24,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 24,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
         "rank": 25,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       }
     ]
   }
