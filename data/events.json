@@ -48214,5 +48214,285 @@
     "position": 25,
     "from": "Facebook",
     "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Netflix Game Controller",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Microsoft Authenticator",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Shop: All your favorite brands",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Amazon Prime Video",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "AI Video - AI Video Generator",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Grok - AI Chat & Video",
+    "to": "AI Video - AI Video Generator"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "SHEIN - Shopping Online",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Indeed Job Search",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "X",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Teams",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "MilGPS",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Things 3",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "RadarScope",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "LiveATC Air Radio",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "imo video calls and chat HD",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Tampermonkey"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Tampermonkey",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Wipr 2",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PDG PROmote 2026+",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Stylebook",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-12T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "White Noise",
+    "to": "Stylebook"
   }
 ]
