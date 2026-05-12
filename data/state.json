@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-12T04:15:12Z",
+  "updated_at": "2026-05-12T04:30:11Z",
   "charts": {
     "free": [
       {
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 8,
@@ -171,8 +171,8 @@
       },
       {
         "rank": 9,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 10,
@@ -196,18 +196,18 @@
       },
       {
         "rank": 14,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 15,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "317809458",
         "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 16,
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 17,
@@ -216,18 +216,18 @@
       },
       {
         "rank": 18,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 19,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "904237743",
         "title": "Things 3"
-      },
-      {
-        "rank": 20,
-        "id": "1662217862",
-        "title": "Wipr 2"
       },
       {
         "rank": 21,
@@ -236,18 +236,18 @@
       },
       {
         "rank": 22,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 23,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 24,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "482303584",
+        "title": "PDG PROmote 2026+"
       },
       {
         "rank": 25,
