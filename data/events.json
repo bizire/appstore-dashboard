@@ -48622,5 +48622,125 @@
     "position": 25,
     "from": "Stylebook",
     "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "AI Video - AI Video Generator"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Shop: All your favorite brands",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Teams",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Netflix Game Controller",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "AI Video - AI Video Generator",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Indeed Job Search",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Grok - AI Chat & Video",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-12T23:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Amazon Prime Video",
+    "to": "SHEIN - Shopping Online"
   }
 ]
