@@ -48086,5 +48086,133 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "White Noise"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Netflix Game Controller",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Threads",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Amazon Prime Video",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Grok - AI Chat & Video",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "SHEIN - Shopping Online",
+    "to": "AI Video - AI Video Generator"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Authenticator",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "AI Video - AI Video Generator",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Indeed Job Search",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "X",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-12T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "Microsoft Teams"
   }
 ]
