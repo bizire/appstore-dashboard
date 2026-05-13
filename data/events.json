@@ -48942,5 +48942,237 @@
     "position": 25,
     "from": "PDG PROmote 2026+",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "WhatsApp Messenger",
+    "to": "AI Video - AI Video Generator"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Microsoft Authenticator",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "AI Video - AI Video Generator",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Threads",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Teams",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Maps",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Shop: All your favorite brands",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Facebook",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Grok - AI Chat & Video",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Chrome",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Netflix Game Controller",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Reel: 4-Track Recorder",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "Reel: 4-Track Recorder"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Things 3",
+    "to": "Tampermonkey"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Tampermonkey",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "RadarScope",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Stylebook",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PDG PROmote 2026+",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-13T05:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Goblin Tools",
+    "to": "Prepware Aviation Maintenance"
   }
 ]
