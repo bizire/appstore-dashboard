@@ -49174,5 +49174,149 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "Prepware Aviation Maintenance"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google",
+    "to": "AI Video - AI Video Generator"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "AI Video - AI Video Generator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Microsoft Authenticator",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Shop: All your favorite brands",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Netflix Game Controller",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Indeed Job Search",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Microsoft Teams",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Grok - AI Chat & Video",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "SHEIN - Shopping Online",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Facebook",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Instagram",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-13T07:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Chrome",
+    "to": "Canva: AI Video & Photo Editor"
   }
 ]
