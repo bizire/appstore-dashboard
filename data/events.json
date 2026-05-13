@@ -50102,5 +50102,245 @@
     "position": 25,
     "from": "imo video calls and chat HD",
     "to": "Stylebook"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "AI Video - AI Video Generator",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "AI Video - AI Video Generator"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Microsoft Authenticator",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Shop: All your favorite brands",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Gmail - Email by Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Grok - AI Chat & Video",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Indeed Job Search",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Microsoft Teams",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Telegram Messenger",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Chrome",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "X",
+    "to": "Canva: AI Video & Photo Editor"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Netflix Game Controller",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Reel: 4-Track Recorder",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Things 3",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PDG PROmote 2026+",
+    "to": "Reel: 4-Track Recorder"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Tampermonkey",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-05-13T19:45:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stylebook",
+    "to": "Tampermonkey"
   }
 ]
