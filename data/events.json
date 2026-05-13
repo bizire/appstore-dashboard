@@ -48742,5 +48742,205 @@
     "position": 25,
     "from": "Amazon Prime Video",
     "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "AI Video - AI Video Generator"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Threads",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Microsoft Teams",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "AI Video - AI Video Generator",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Indeed Job Search",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Netflix Game Controller",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Google Chrome",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "SHEIN - Shopping Online",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "Reel: 4-Track Recorder"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Reel: 4-Track Recorder",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "imo video calls and chat HD",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Solocator - GPS Field Camera",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "RadarScope",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "Tampermonkey"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Tampermonkey",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-13T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "PDG PROmote 2026+",
+    "to": "Goblin Tools"
   }
 ]
