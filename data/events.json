@@ -49686,5 +49686,213 @@
     "position": 25,
     "from": "Tampermonkey",
     "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Netflix Game Controller",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Shop: All your favorite brands",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Microsoft Authenticator",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Grok - AI Chat & Video",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Indeed Job Search",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Telegram Messenger",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Instagram",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Streaks",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "RadarScope",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Stylebook",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Tampermonkey"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Solocator - GPS Field Camera",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PDG PROmote 2026+",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "imo video calls and chat HD",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-13T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "PhotoPills",
+    "to": "imo video calls and chat HD"
   }
 ]
