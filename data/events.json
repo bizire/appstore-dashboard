@@ -50342,5 +50342,293 @@
     "position": 25,
     "from": "Stylebook",
     "to": "Tampermonkey"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Google Gemini",
+    "to": "Instants, an Instagram app"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Kling AI: AI Image&Video Maker",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "AI Video - AI Video Generator",
+    "to": "Kling AI: AI Image&Video Maker"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "AI Video - AI Video Generator"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Shop: All your favorite brands",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Indeed Job Search",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Grok - AI Chat & Video",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "SHEIN - Shopping Online",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Chrome",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Telegram Messenger",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Canva: AI Video & Photo Editor",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "MilGPS",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "QuickBend: Conduit Bending",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Solocator - GPS Field Camera",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PDG PROmote 2026+",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Things 3",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "PeakFinder",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Reel: 4-Track Recorder",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "Reel: 4-Track Recorder"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "RadarScope",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Stylebook",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "LiveATC Air Radio",
+    "to": "Tampermonkey"
+  },
+  {
+    "ts": "2026-05-13T22:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Tampermonkey",
+    "to": "Goblin Tools"
   }
 ]
