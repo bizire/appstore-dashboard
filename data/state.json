@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T07:45:10Z",
+  "updated_at": "2026-05-13T08:00:09Z",
   "charts": {
     "free": [
       {
@@ -156,48 +156,48 @@
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 7,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 8,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
-        "rank": 9,
-        "id": "405835358",
-        "title": "MilGPS"
+        "rank": 7,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 10,
+        "rank": 8,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 9,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 11,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 12,
+        "rank": 10,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 13,
+        "rank": 11,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
+        "rank": 12,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 13,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
         "rank": 14,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 15,
@@ -206,53 +206,53 @@
       },
       {
         "rank": 16,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 17,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 18,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 19,
-        "id": "6738342400",
-        "title": "Tampermonkey"
-      },
-      {
-        "rank": 20,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 21,
         "id": "335709058",
         "title": "Stylebook"
       },
       {
-        "rank": 22,
+        "rank": 18,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 19,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 20,
         "id": "482303584",
         "title": "PDG PROmote 2026+"
       },
       {
-        "rank": 23,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 24,
+        "rank": 21,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
-        "rank": 25,
+        "rank": 22,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
+        "rank": 23,
         "id": "338893931",
         "title": "Prepware Aviation Maintenance"
+      },
+      {
+        "rank": 24,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
+        "rank": 25,
+        "id": "6738342400",
+        "title": "Tampermonkey"
       }
     ]
   }
