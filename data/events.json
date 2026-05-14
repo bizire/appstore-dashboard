@@ -51526,5 +51526,157 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "AI Video - AI Video Generator",
+    "to": "Kling AI: AI Image&Video Maker"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Kling AI: AI Image&Video Maker",
+    "to": "AI Video - AI Video Generator"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Shop: All your favorite brands",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Indeed Job Search",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Grok - AI Chat & Video",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Netflix Game Controller",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Telegram Messenger",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Instagram",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Amazon Prime Video",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "FL Studio Mobile",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Things 3",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PDG PROmote 2026+",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Walkout Song DJ",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-14T13:30:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "RadarScope",
+    "to": "Solocator - GPS Field Camera"
   }
 ]
