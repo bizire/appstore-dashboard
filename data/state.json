@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T10:15:07Z",
+  "updated_at": "2026-05-14T10:30:09Z",
   "charts": {
     "free": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "rank": 6,
-        "id": "284815942",
-        "title": "Google"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 7,
@@ -39,8 +39,8 @@
       },
       {
         "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 9,
@@ -69,38 +69,38 @@
       },
       {
         "rank": 14,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 15,
-        "id": "309735670",
-        "title": "Indeed Job Search"
-      },
-      {
-        "rank": 16,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 17,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 18,
+        "rank": 15,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 16,
+        "id": "309735670",
+        "title": "Indeed Job Search"
+      },
+      {
+        "rank": 17,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
+      },
+      {
+        "rank": 20,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 21,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       },
       {
         "rank": 23,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
-      },
-      {
-        "rank": 24,
         "id": "389801252",
         "title": "Instagram"
       },
       {
+        "rank": 24,
+        "id": "545519333",
+        "title": "Amazon Prime Video"
+      },
+      {
         "rank": 25,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
@@ -161,18 +161,18 @@
       },
       {
         "rank": 7,
+        "id": "6764105268",
+        "title": "Battery Health - For Tesla"
+      },
+      {
+        "rank": 8,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 9,
-        "id": "6764105268",
-        "title": "Battery Health - For Tesla"
       },
       {
         "rank": 10,
@@ -211,48 +211,48 @@
       },
       {
         "rank": 17,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
       },
       {
         "rank": 18,
+        "id": "6760545075",
+        "title": "Reel: 4-Track Recorder"
+      },
+      {
+        "rank": 19,
         "id": "482303584",
         "title": "PDG PROmote 2026+"
       },
       {
-        "rank": 19,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
         "rank": 20,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
-      },
-      {
-        "rank": 21,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 22,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 23,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 21,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 22,
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
+        "rank": 23,
+        "id": "741990930",
+        "title": "Walkout Song DJ"
+      },
+      {
         "rank": 24,
-        "id": "459313476",
-        "title": "Tenuto"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 25,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "288419283",
+        "title": "RadarScope"
       }
     ]
   }
