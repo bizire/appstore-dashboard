@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T16:45:10Z",
+  "updated_at": "2026-05-14T17:00:17Z",
   "charts": {
     "free": [
       {
@@ -59,38 +59,38 @@
       },
       {
         "rank": 12,
-        "id": "6478868302",
-        "title": "AI Video - AI Video Generator"
-      },
-      {
-        "rank": 13,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 14,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "rank": 13,
+        "id": "6478868302",
+        "title": "AI Video - AI Video Generator"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 15,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
         "rank": 16,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 17,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 18,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
       },
       {
         "rank": 19,
@@ -99,13 +99,13 @@
       },
       {
         "rank": 20,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       },
       {
         "rank": 21,
-        "id": "686449807",
-        "title": "Telegram Messenger"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 22,
@@ -114,13 +114,13 @@
       },
       {
         "rank": 23,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       },
       {
         "rank": 24,
-        "id": "333903271",
-        "title": "X"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 25,
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 7,
@@ -186,13 +186,13 @@
       },
       {
         "rank": 12,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 13,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 14,
@@ -201,38 +201,38 @@
       },
       {
         "rank": 15,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 16,
-        "id": "482303584",
-        "title": "PDG PROmote 2026+"
-      },
-      {
-        "rank": 17,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
-      },
-      {
-        "rank": 18,
-        "id": "6760545075",
-        "title": "Reel: 4-Track Recorder"
-      },
-      {
-        "rank": 19,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 20,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 16,
+        "id": "6760545075",
+        "title": "Reel: 4-Track Recorder"
+      },
+      {
+        "rank": 17,
+        "id": "482303584",
+        "title": "PDG PROmote 2026+"
+      },
+      {
+        "rank": 18,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 19,
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
+      },
+      {
+        "rank": 20,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
         "rank": 21,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 24,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 25,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       }
     ]
   }
