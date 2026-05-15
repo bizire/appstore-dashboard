@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T10:15:09Z",
+  "updated_at": "2026-05-15T10:30:11Z",
   "charts": {
     "free": [
       {
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "6462904878",
-        "title": "BigFuture School"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 10,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "6462904878",
+        "title": "BigFuture School"
       },
       {
         "rank": 11,
@@ -89,43 +89,43 @@
       },
       {
         "rank": 18,
-        "id": "309735670",
-        "title": "Indeed Job Search"
-      },
-      {
-        "rank": 19,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 20,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 21,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
       },
       {
-        "rank": 22,
+        "rank": 19,
+        "id": "309735670",
+        "title": "Indeed Job Search"
+      },
+      {
+        "rank": 20,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
+        "rank": 21,
         "id": "389801252",
         "title": "Instagram"
       },
       {
+        "rank": 22,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
         "rank": 23,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
+        "rank": 24,
         "id": "6478868302",
         "title": "AI Video - AI Video Generator"
       },
       {
-        "rank": 24,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
         "rank": 25,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "333903271",
+        "title": "X"
       }
     ],
     "paid": [
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 7,
@@ -186,28 +186,28 @@
       },
       {
         "rank": 12,
-        "id": "6764105268",
-        "title": "Battery Health - For Tesla"
-      },
-      {
-        "rank": 13,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 14,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "rank": 13,
+        "id": "6764105268",
+        "title": "Battery Health - For Tesla"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "6760545075",
         "title": "Reel: 4-Track Recorder"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "904237743",
         "title": "Things 3"
+      },
+      {
+        "rank": 16,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 17,
@@ -216,18 +216,18 @@
       },
       {
         "rank": 18,
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
+      },
+      {
+        "rank": 19,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 19,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
-      },
-      {
         "rank": 20,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "6758589017",
+        "title": "Modern METAR Widget"
       },
       {
         "rank": 21,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "596026805",
-        "title": "PhotoPills"
-      },
-      {
-        "rank": 24,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
+        "rank": 24,
+        "id": "741990930",
+        "title": "Walkout Song DJ"
+      },
+      {
         "rank": 25,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       }
     ]
   }
