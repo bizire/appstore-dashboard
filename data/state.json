@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-15T16:15:09Z",
+  "updated_at": "2026-05-15T16:30:10Z",
   "charts": {
     "free": [
       {
@@ -64,18 +64,18 @@
       },
       {
         "rank": 13,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 14,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "324684580",
         "title": "Spotify: Music and Podcasts"
+      },
+      {
+        "rank": 15,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 16,
@@ -84,48 +84,48 @@
       },
       {
         "rank": 17,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 18,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 19,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 20,
-        "id": "309735670",
-        "title": "Indeed Job Search"
-      },
-      {
-        "rank": 21,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
+        "rank": 19,
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
+      },
+      {
+        "rank": 20,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 21,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
         "rank": 22,
+        "id": "309735670",
+        "title": "Indeed Job Search"
+      },
+      {
+        "rank": 23,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
-        "rank": 23,
-        "id": "686449807",
-        "title": "Telegram Messenger"
-      },
-      {
         "rank": 24,
-        "id": "333903271",
-        "title": "X"
+        "id": "535886823",
+        "title": "Google Chrome"
       },
       {
         "rank": 25,
-        "id": "535886823",
-        "title": "Google Chrome"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       }
     ],
     "paid": [
@@ -186,73 +186,73 @@
       },
       {
         "rank": 12,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 13,
-        "id": "6760545075",
-        "title": "Reel: 4-Track Recorder"
-      },
-      {
-        "rank": 14,
-        "id": "6764105268",
-        "title": "Battery Health - For Tesla"
-      },
-      {
-        "rank": 15,
-        "id": "6758589017",
-        "title": "Modern METAR Widget"
-      },
-      {
-        "rank": 16,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
+        "rank": 13,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 14,
+        "id": "6758589017",
+        "title": "Modern METAR Widget"
+      },
+      {
+        "rank": 15,
+        "id": "6760545075",
+        "title": "Reel: 4-Track Recorder"
+      },
+      {
+        "rank": 16,
+        "id": "6764105268",
+        "title": "Battery Health - For Tesla"
+      },
+      {
         "rank": 17,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 18,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 19,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 20,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
-      },
-      {
-        "rank": 21,
-        "id": "301387274",
-        "title": "Pocket God"
-      },
-      {
-        "rank": 22,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 23,
+        "rank": 18,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
+        "rank": 19,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 20,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 21,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 22,
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
+      },
+      {
+        "rank": 23,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
         "rank": 24,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 25,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       }
     ]
   }
