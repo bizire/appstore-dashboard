@@ -53326,5 +53326,229 @@
     "position": 25,
     "from": "Noir - Dark Mode for Safari",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Shop: All your favorite brands",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Indeed Job Search",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Microsoft Authenticator",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Netflix Game Controller",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "AI Video - AI Video Generator",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "MilGPS",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Battery Health - For Tesla",
+    "to": "Reel: 4-Track Recorder"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Reel: 4-Track Recorder",
+    "to": "Battery Health - For Tesla"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Things 3",
+    "to": "Modern METAR Widget"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "LiveATC Air Radio",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Modern METAR Widget",
+    "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Goblin Tools",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pocket God",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-15T13:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Walkout Song DJ",
+    "to": "Goblin Tools"
   }
 ]
