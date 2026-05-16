@@ -55414,5 +55414,245 @@
     "position": 25,
     "from": "Spirit Talker Â®",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Amazon Prime Video",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Gmail - Email by Google",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Instagram",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "SHEIN - Shopping Online",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Grok - AI Chat & Video",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Shop: All your favorite brands",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "FL Studio Mobile",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "RadarScope",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Pocket God",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Ableton Note",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Walkout Song DJ",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Modern METAR Widget",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Reel: 4-Track Recorder",
+    "to": "Modern METAR Widget"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Streaks",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "PhotoPills",
+    "to": "Stash - Rule Based Proxy"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Things 3",
+    "to": "Reel: 4-Track Recorder"
+  },
+  {
+    "ts": "2026-05-16T17:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSnore: Snoring Recorder"
   }
 ]
