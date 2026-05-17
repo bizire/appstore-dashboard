@@ -57046,5 +57046,205 @@
     "position": 25,
     "from": "Necrophonic",
     "to": "Reel: 4-Track Recorder"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Maps",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Uber - Request a ride",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Amazon Prime Video",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "WhatsApp Messenger",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Instagram",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Spotify: Music and Podcasts",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Lyft"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DraftKings Sportsbook & Casino",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Gmail - Email by Google",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "MilGPS",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Walkout Song DJ",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Ableton Note",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "LiveATC Air Radio",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "PeakFinder",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Necrophonic"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Necrophonic",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-17T10:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Reel: 4-Track Recorder",
+    "to": "AutoSnore: Snoring Recorder"
   }
 ]

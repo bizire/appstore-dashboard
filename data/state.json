@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T10:15:09Z",
+  "updated_at": "2026-05-17T10:30:09Z",
   "charts": {
     "free": [
       {
@@ -29,13 +29,13 @@
       },
       {
         "rank": 6,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 7,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 8,
@@ -54,33 +54,33 @@
       },
       {
         "rank": 11,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 12,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 13,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "rank": 12,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "368677368",
         "title": "Uber - Request a ride"
       },
       {
+        "rank": 14,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
         "rank": 15,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 16,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 17,
@@ -94,38 +94,38 @@
       },
       {
         "rank": 19,
-        "id": "384830320",
-        "title": "Life360: Stay Connected & Safe"
-      },
-      {
-        "rank": 20,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "324684580",
         "title": "Spotify: Music and Podcasts"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
+        "rank": 22,
+        "id": "384830320",
+        "title": "Life360: Stay Connected & Safe"
+      },
+      {
         "rank": 23,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "529379082",
+        "title": "Lyft"
       },
       {
         "rank": 24,
-        "id": "1375031369",
-        "title": "DraftKings Sportsbook & Casino"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 25,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "284882215",
+        "title": "Facebook"
       }
     ],
     "paid": [
@@ -181,8 +181,8 @@
       },
       {
         "rank": 11,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 12,
@@ -191,8 +191,8 @@
       },
       {
         "rank": 13,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 14,
@@ -201,18 +201,18 @@
       },
       {
         "rank": 15,
-        "id": "1633243177",
-        "title": "Ableton Note"
-      },
-      {
-        "rank": 16,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
+        "rank": 16,
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
         "rank": 17,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       },
       {
         "rank": 18,
@@ -221,8 +221,8 @@
       },
       {
         "rank": 19,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 20,
@@ -231,18 +231,18 @@
       },
       {
         "rank": 21,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
+        "id": "1396698319",
+        "title": "Necrophonic"
       },
       {
         "rank": 22,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 23,
-        "id": "1396698319",
-        "title": "Necrophonic"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "6760545075",
-        "title": "Reel: 4-Track Recorder"
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
       }
     ]
   }
