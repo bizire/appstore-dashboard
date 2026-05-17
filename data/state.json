@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-05-17T16:45:11Z",
+  "updated_at": "2026-05-17T17:00:17Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "6756442328",
-        "title": "Instants, an Instagram app"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 2,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6756442328",
+        "title": "Instants, an Instagram app"
       },
       {
         "rank": 3,
@@ -54,43 +54,43 @@
       },
       {
         "rank": 11,
-        "id": "363590051",
-        "title": "Netflix"
-      },
-      {
-        "rank": 12,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
-      },
-      {
-        "rank": 13,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 14,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 15,
+        "rank": 12,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 16,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "rank": 13,
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
-        "rank": 17,
+        "rank": 14,
+        "id": "363590051",
+        "title": "Netflix"
+      },
+      {
+        "rank": 15,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 16,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 18,
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 19,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
+        "id": "1252497129",
+        "title": "PictureThis - Plant Identifier"
+      },
+      {
+        "rank": 22,
         "id": "324684580",
         "title": "Spotify: Music and Podcasts"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "384830320",
         "title": "Life360: Stay Connected & Safe"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 25,
-        "id": "284882215",
-        "title": "Facebook"
       }
     ],
     "paid": [
@@ -166,13 +166,13 @@
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 9,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 10,
@@ -181,8 +181,8 @@
       },
       {
         "rank": 11,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 12,
@@ -191,68 +191,68 @@
       },
       {
         "rank": 13,
+        "id": "1633243177",
+        "title": "Ableton Note"
+      },
+      {
+        "rank": 14,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 14,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
         "rank": 15,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
-      },
-      {
-        "rank": 16,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 17,
         "id": "741990930",
         "title": "Walkout Song DJ"
       },
       {
-        "rank": 18,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "rank": 16,
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       },
       {
-        "rank": 19,
+        "rank": 17,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 18,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 20,
-        "id": "1396698319",
-        "title": "Necrophonic"
+        "rank": 19,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "596026805",
         "title": "PhotoPills"
       },
       {
-        "rank": 22,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 23,
+        "rank": 21,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
+        "rank": 22,
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
+      },
+      {
+        "rank": 23,
+        "id": "1396698319",
+        "title": "Necrophonic"
+      },
+      {
         "rank": 24,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 25,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
+        "id": "963034692",
+        "title": "Streaks"
       }
     ]
   }

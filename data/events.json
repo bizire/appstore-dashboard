@@ -57406,5 +57406,253 @@
     "position": 25,
     "from": "AutoSnore: Snoring Recorder",
     "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Instants, an Instagram app",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "ChatGPT",
+    "to": "Instants, an Instagram app"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Netflix",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Uber - Request a ride",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Netflix"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "WhatsApp Messenger",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Amazon Prime Video",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "SHEIN - Shopping Online",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Spotify: Music and Podcasts",
+    "to": "PictureThis - Plant Identifier"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Gmail - Email by Google",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Grok - AI Chat & Video",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Ableton Note",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Spirit Talker Â®",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "MilGPS",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "LiveATC Air Radio",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Walkout Song DJ",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "imo video calls and chat HD",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PeakFinder",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Necrophonic",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PhotoPills",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pocket God",
+    "to": "Necrophonic"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Wipr 2",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-17T17:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "Streaks"
   }
 ]
