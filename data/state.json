@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T01:45:10Z",
+  "updated_at": "2026-05-17T02:00:10Z",
   "charts": {
     "free": [
       {
@@ -24,18 +24,18 @@
       },
       {
         "rank": 5,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
+        "rank": 6,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "id": "585027354",
         "title": "Google Maps"
-      },
-      {
-        "rank": 7,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
       },
       {
         "rank": 8,
@@ -64,33 +64,33 @@
       },
       {
         "rank": 13,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 14,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 16,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
-      },
-      {
         "rank": 17,
-        "id": "324684580",
-        "title": "Spotify: Music and Podcasts"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 18,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 19,
@@ -99,18 +99,18 @@
       },
       {
         "rank": 20,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
       },
       {
         "rank": 21,
-        "id": "544007664",
-        "title": "YouTube"
+        "id": "284882215",
+        "title": "Facebook"
       },
       {
         "rank": 22,
-        "id": "284882215",
-        "title": "Facebook"
+        "id": "544007664",
+        "title": "YouTube"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "711923939",
-        "title": "Cash App"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 25,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "711923939",
+        "title": "Cash App"
       }
     ],
     "paid": [
@@ -151,43 +151,43 @@
       },
       {
         "rank": 5,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 6,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 7,
-        "id": "405835358",
-        "title": "MilGPS"
+        "rank": 6,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
+        "rank": 10,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
         "rank": 11,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       },
       {
         "rank": 12,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 13,
@@ -196,13 +196,13 @@
       },
       {
         "rank": 14,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 15,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 16,
@@ -211,13 +211,13 @@
       },
       {
         "rank": 17,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 18,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 19,
@@ -226,18 +226,18 @@
       },
       {
         "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 21,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 22,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
       },
       {
         "rank": 23,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "1596063349",
-        "title": "Stash - Rule Based Proxy"
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
       }
     ]
   }
