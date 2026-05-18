@@ -58238,5 +58238,301 @@
     "position": 25,
     "from": "AutoSnore: Snoring Recorder",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Instants, an Instagram app",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Instants, an Instagram app"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "WhatsApp Messenger",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Instagram",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "SHEIN - Shopping Online",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Facebook",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Uber - Request a ride",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "PictureThis - Plant Identifier",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "YouTube",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Gmail - Email by Google",
+    "to": "Netflix"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Netflix",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Amazon Prime Video",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "Procreate Pocket",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "RadarScope",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "imo video calls and chat HD",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Walkout Song DJ",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "LiveATC Air Radio",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Spirit Talker Â®",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Streaks",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PhotoPills",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pocket God",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-05-18T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Goblin Tools",
+    "to": "HappyCow - Vegan Food Near You"
   }
 ]
