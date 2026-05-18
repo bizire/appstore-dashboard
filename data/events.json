@@ -59590,5 +59590,117 @@
     "position": 25,
     "from": "Life360: Stay Connected & Safe",
     "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Ableton Note",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Spirit Talker Â®",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "ForzaTune Pro",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "NOAA Weather Radio",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pocket God",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-18T20:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "QuickBend: Conduit Bending"
   }
 ]
