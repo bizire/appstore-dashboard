@@ -59414,5 +59414,181 @@
     "position": 25,
     "from": "HappyCow - Vegan Food Near You",
     "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Google Gemini",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Amazon Prime Video",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Microsoft Authenticator",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "SHEIN - Shopping Online",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Shop: All your favorite brands",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Uber - Request a ride",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Instagram",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Grok - AI Chat & Video",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-18T19:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Spotify: Music and Podcasts"
   }
 ]

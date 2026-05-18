@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T19:30:05Z",
+  "updated_at": "2026-05-18T19:45:05Z",
   "charts": {
     "free": [
       {
@@ -14,8 +14,8 @@
       },
       {
         "rank": 3,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 4,
@@ -24,108 +24,108 @@
       },
       {
         "rank": 5,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 6,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 7,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
-      },
-      {
-        "rank": 8,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 9,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 10,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 11,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
-      },
-      {
-        "rank": 12,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 13,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 14,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 15,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
+        "rank": 7,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 8,
+        "id": "6446901002",
+        "title": "Threads"
+      },
+      {
+        "rank": 9,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 10,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
+        "rank": 11,
+        "id": "545519333",
+        "title": "Amazon Prime Video"
+      },
+      {
+        "rank": 12,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 13,
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
+      },
+      {
+        "rank": 14,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 15,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 16,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 17,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 18,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
-      },
-      {
-        "rank": 19,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 20,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 21,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 22,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 23,
+        "rank": 17,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
+        "rank": 18,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 19,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
+        "rank": 20,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 21,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 22,
+        "id": "544007664",
+        "title": "YouTube"
+      },
+      {
+        "rank": 23,
+        "id": "368677368",
+        "title": "Uber - Request a ride"
+      },
+      {
         "rank": 24,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 25,
-        "id": "384830320",
-        "title": "Life360: Stay Connected & Safe"
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
       }
     ],
     "paid": [
