@@ -58534,5 +58534,285 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "HappyCow - Vegan Food Near You"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "SHEIN - Shopping Online",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Instagram",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Facebook",
+    "to": "Netflix"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Netflix",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Gmail - Email by Google",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 3,
+    "from": "AnkiMobile Flashcards",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "RadarScope",
+    "to": "AnkiMobile Flashcards"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Spirit Talker Â®",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "LiveATC Air Radio",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "NOAA Weather Radio"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Walkout Song DJ",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Streaks",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Stylebook",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PhotoPills",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-18T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "HappyCow - Vegan Food Near You",
+    "to": "Threema. The Secure Messenger"
   }
 ]
