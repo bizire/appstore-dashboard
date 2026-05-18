@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T13:15:05Z",
+  "updated_at": "2026-05-18T13:30:06Z",
   "charts": {
     "free": [
       {
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 12,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 13,
@@ -89,43 +89,43 @@
       },
       {
         "rank": 18,
-        "id": "384830320",
-        "title": "Life360: Stay Connected & Safe"
-      },
-      {
-        "rank": 19,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 20,
-        "id": "363590051",
-        "title": "Netflix"
-      },
-      {
-        "rank": 21,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
-        "rank": 22,
+        "rank": 19,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
       },
       {
-        "rank": 23,
+        "rank": 20,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
-        "rank": 24,
+        "rank": 21,
+        "id": "384830320",
+        "title": "Life360: Stay Connected & Safe"
+      },
+      {
+        "rank": 22,
+        "id": "363590051",
+        "title": "Netflix"
+      },
+      {
+        "rank": 23,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
+        "rank": 24,
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
+      },
+      {
         "rank": 25,
-        "id": "284882215",
-        "title": "Facebook"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       }
     ],
     "paid": [
@@ -191,18 +191,18 @@
       },
       {
         "rank": 13,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
-      },
-      {
-        "rank": 14,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "1449584007",
         "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
+        "rank": 15,
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
       },
       {
         "rank": 16,
@@ -236,8 +236,8 @@
       },
       {
         "rank": 22,
-        "id": "435871950",
-        "title": "HappyCow - Vegan Food Near You"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 25,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "435871950",
+        "title": "HappyCow - Vegan Food Near You"
       }
     ]
   }
