@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T19:45:05Z",
+  "updated_at": "2026-05-19T20:00:06Z",
   "charts": {
     "free": [
       {
@@ -24,28 +24,28 @@
       },
       {
         "rank": 5,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 6,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
+        "rank": 6,
+        "id": "1056813463",
+        "title": "Dunkin'"
+      },
+      {
         "rank": 7,
+        "id": "6446901002",
+        "title": "Threads"
+      },
+      {
+        "rank": 8,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 9,
-        "id": "1056813463",
-        "title": "Dunkin'"
       },
       {
         "rank": 10,
@@ -54,8 +54,8 @@
       },
       {
         "rank": 11,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 12,
@@ -64,13 +64,13 @@
       },
       {
         "rank": 13,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 14,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 15,
@@ -79,8 +79,8 @@
       },
       {
         "rank": 16,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 17,
@@ -89,18 +89,18 @@
       },
       {
         "rank": 18,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 19,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "id": "309735670",
+        "title": "Indeed Job Search"
       },
       {
         "rank": 20,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 21,
@@ -109,13 +109,13 @@
       },
       {
         "rank": 22,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 23,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       }
     ],
     "paid": [
@@ -156,23 +156,23 @@
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 7,
         "id": "6756966178",
         "title": "V2Box Pro - V2ray Client"
       },
       {
+        "rank": 7,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 9,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 10,
@@ -201,38 +201,38 @@
       },
       {
         "rank": 15,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 16,
-        "id": "6764105268",
-        "title": "Battery Health - For Tesla"
-      },
-      {
-        "rank": 17,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
-      },
-      {
-        "rank": 18,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
-        "rank": 19,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "rank": 16,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
-        "rank": 20,
+        "rank": 17,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 18,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
+        "rank": 19,
+        "id": "6764105268",
+        "title": "Battery Health - For Tesla"
+      },
+      {
+        "rank": 20,
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
+      },
+      {
         "rank": 21,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "410148139",
-        "title": "NOAA Weather Radio"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 24,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       },
       {
         "rank": 25,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       }
     ]
   }
