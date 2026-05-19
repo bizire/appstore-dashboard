@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T07:15:05Z",
+  "updated_at": "2026-05-19T07:30:05Z",
   "charts": {
     "free": [
       {
@@ -29,68 +29,68 @@
       },
       {
         "rank": 6,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 7,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 8,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 9,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 10,
+        "rank": 7,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 11,
+        "rank": 8,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 9,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 12,
+        "rank": 10,
         "id": "1508186374",
         "title": "Peacock TV: Stream TV & Movies"
       },
       {
+        "rank": 11,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 12,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
         "rank": 13,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
-      },
-      {
-        "rank": 14,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 15,
         "id": "1558240027",
         "title": "Meta AI - Assistant & Glasses"
       },
       {
-        "rank": 16,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "rank": 14,
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
-        "rank": 17,
+        "rank": 15,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 16,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 18,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 19,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 21,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 22,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 23,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 24,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
-        "rank": 25,
+        "rank": 22,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
+        "rank": 23,
+        "id": "6751921248",
+        "title": "Rips by Triumph"
+      },
+      {
+        "rank": 24,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 25,
+        "id": "401626263",
+        "title": "Airbnb"
       }
     ],
     "paid": [
@@ -176,38 +176,38 @@
       },
       {
         "rank": 10,
-        "id": "6764105268",
-        "title": "Battery Health - For Tesla"
-      },
-      {
-        "rank": 11,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "id": "1633243177",
         "title": "Ableton Note"
       },
       {
+        "rank": 12,
+        "id": "6764105268",
+        "title": "Battery Health - For Tesla"
+      },
+      {
         "rank": 13,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 14,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
-      },
-      {
-        "rank": 15,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 14,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 15,
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
+      },
+      {
         "rank": 16,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "410148139",
+        "title": "NOAA Weather Radio"
       },
       {
         "rank": 17,
@@ -216,33 +216,33 @@
       },
       {
         "rank": 18,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 19,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 20,
         "id": "1449584007",
         "title": "Koala Sampler â¢ Beat Maker"
       },
       {
+        "rank": 20,
+        "id": "335709058",
+        "title": "Stylebook"
+      },
+      {
         "rank": 21,
-        "id": "410148139",
-        "title": "NOAA Weather Radio"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 22,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 23,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 24,

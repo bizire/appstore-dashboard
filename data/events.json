@@ -60406,5 +60406,261 @@
     "position": 25,
     "from": "Spirit Talker Â®",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "WhatsApp Messenger",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Microsoft Authenticator",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Amazon Prime Video",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Gmail - Email by Google",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "SHEIN - Shopping Online",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Shop: All your favorite brands",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Facebook",
+    "to": "Rips by Triumph"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Indeed Job Search",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Airbnb"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Battery Health - For Tesla",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "MilGPS",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Ableton Note",
+    "to": "Battery Health - For Tesla"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Streaks",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "PeakFinder",
+    "to": "NOAA Weather Radio"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "NOAA Weather Radio",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-19T07:30:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Solocator - GPS Field Camera",
+    "to": "QuickBend: Conduit Bending"
   }
 ]
