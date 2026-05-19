@@ -60662,5 +60662,197 @@
     "position": 23,
     "from": "Solocator - GPS Field Camera",
     "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Netflix Game Controller",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Microsoft Authenticator",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Instagram",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Rips by Triumph",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Rips by Triumph"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Airbnb",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "MilGPS",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Ableton Note",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Battery Health - For Tesla",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Battery Health - For Tesla"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "NOAA Weather Radio",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "NOAA Weather Radio"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Stylebook",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Things 3",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Spirit Talker Â®",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-19T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "Stylebook"
   }
 ]
