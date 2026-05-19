@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T01:15:04Z",
+  "updated_at": "2026-05-19T01:30:06Z",
   "charts": {
     "free": [
       {
@@ -59,18 +59,18 @@
       },
       {
         "rank": 12,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
-      },
-      {
-        "rank": 13,
         "id": "1558240027",
         "title": "Meta AI - Assistant & Glasses"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 14,
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 15,
@@ -84,13 +84,13 @@
       },
       {
         "rank": 17,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 18,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 19,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "544007664",
-        "title": "YouTube"
+        "id": "309735670",
+        "title": "Indeed Job Search"
       },
       {
         "rank": 24,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 25,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       }
     ],
     "paid": [

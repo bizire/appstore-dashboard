@@ -59958,5 +59958,69 @@
     "position": 25,
     "from": "QuickBend: Conduit Bending",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-05-19T01:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Amazon Prime Video",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-19T01:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-19T01:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-19T01:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-19T01:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "SHEIN - Shopping Online",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-19T01:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "YouTube",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-19T01:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-19T01:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Indeed Job Search",
+    "to": "DoorDash: Food, Grocery, More"
   }
 ]
