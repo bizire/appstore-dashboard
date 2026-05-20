@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T22:45:07Z",
+  "updated_at": "2026-05-20T23:00:11Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "6756442328",
-        "title": "Instants, an Instagram app"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 6,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "6756442328",
+        "title": "Instants, an Instagram app"
       },
       {
         "rank": 7,
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 12,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 13,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "544007664",
-        "title": "YouTube"
-      },
-      {
-        "rank": 22,
         "id": "535886823",
         "title": "Google Chrome"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "6670324846",
         "title": "Grok - AI Chat & Video"
       },
       {
+        "rank": 23,
+        "id": "544007664",
+        "title": "YouTube"
+      },
+      {
         "rank": 24,
-        "id": "686449807",
-        "title": "Telegram Messenger"
+        "id": "951937596",
+        "title": "Microsoft Outlook"
       },
       {
         "rank": 25,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       }
     ],
     "paid": [
@@ -146,8 +146,8 @@
       },
       {
         "rank": 4,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 5,
@@ -156,8 +156,8 @@
       },
       {
         "rank": 6,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
       },
       {
         "rank": 7,
@@ -186,13 +186,13 @@
       },
       {
         "rank": 12,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 13,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 14,
@@ -216,43 +216,43 @@
       },
       {
         "rank": 18,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 19,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 19,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
         "rank": 20,
-        "id": "6755822636",
-        "title": "GIKA - Vintage Phone Cam"
-      },
-      {
-        "rank": 21,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 22,
         "id": "904237743",
         "title": "Things 3"
       },
       {
-        "rank": 23,
+        "rank": 21,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
-        "rank": 24,
+        "rank": 22,
         "id": "430234732",
         "title": "Site Audit Pro"
       },
       {
+        "rank": 23,
+        "id": "6755822636",
+        "title": "GIKA - Vintage Phone Cam"
+      },
+      {
+        "rank": 24,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
         "rank": 25,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "357421934",
+        "title": "PeakFinder"
       }
     ]
   }
