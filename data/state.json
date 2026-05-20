@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T20:15:07Z",
+  "updated_at": "2026-05-20T20:30:08Z",
   "charts": {
     "free": [
       {
@@ -19,113 +19,113 @@
       },
       {
         "rank": 4,
-        "id": "6756442328",
-        "title": "Instants, an Instagram app"
-      },
-      {
-        "rank": 5,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 6,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 7,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 8,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
-        "rank": 9,
+        "rank": 5,
+        "id": "6756442328",
+        "title": "Instants, an Instagram app"
+      },
+      {
+        "rank": 6,
+        "id": "6446901002",
+        "title": "Threads"
+      },
+      {
+        "rank": 7,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 8,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
+        "rank": 9,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
         "rank": 10,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 11,
-        "id": "309735670",
-        "title": "Indeed Job Search"
-      },
-      {
-        "rank": 12,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
-      },
-      {
-        "rank": 13,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 14,
         "id": "1113153706",
         "title": "Microsoft Teams"
       },
       {
-        "rank": 15,
+        "rank": 11,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
+        "rank": 12,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 13,
+        "id": "309735670",
+        "title": "Indeed Job Search"
+      },
+      {
+        "rank": 14,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 15,
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
+      },
+      {
         "rank": 16,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 17,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 18,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 19,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
-      },
-      {
-        "rank": 20,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 21,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
+        "rank": 17,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
+        "rank": 18,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 19,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 20,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 21,
+        "id": "544007664",
+        "title": "YouTube"
+      },
+      {
         "rank": 22,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 23,
-        "id": "686449807",
-        "title": "Telegram Messenger"
-      },
-      {
-        "rank": 24,
         "id": "535886823",
         "title": "Google Chrome"
       },
       {
+        "rank": 23,
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
+      },
+      {
+        "rank": 24,
+        "id": "686449807",
+        "title": "Telegram Messenger"
+      },
+      {
         "rank": 25,
-        "id": "1056813463",
-        "title": "Dunkin'"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       }
     ],
     "paid": [
@@ -146,13 +146,13 @@
       },
       {
         "rank": 4,
-        "id": "916366645",
-        "title": "Procreate Pocket"
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
       },
       {
         "rank": 5,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 6,
@@ -166,13 +166,13 @@
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 9,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 10,
@@ -181,33 +181,33 @@
       },
       {
         "rank": 11,
-        "id": "1633243177",
-        "title": "Ableton Note"
-      },
-      {
-        "rank": 12,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
+        "rank": 12,
+        "id": "1633243177",
+        "title": "Ableton Note"
+      },
+      {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 14,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 15,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 15,
-        "id": "6755822636",
-        "title": "GIKA - Vintage Phone Cam"
-      },
-      {
         "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 17,
@@ -216,23 +216,23 @@
       },
       {
         "rank": 18,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 19,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 19,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
         "rank": 20,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "6755822636",
+        "title": "GIKA - Vintage Phone Cam"
       },
       {
         "rank": 21,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 24,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "430234732",
+        "title": "Site Audit Pro"
       },
       {
         "rank": 25,
-        "id": "1356726417",
-        "title": "ForzaTune Pro"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       }
     ]
   }
