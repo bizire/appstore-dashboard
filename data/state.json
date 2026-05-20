@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T07:15:06Z",
+  "updated_at": "2026-05-20T07:30:06Z",
   "charts": {
     "free": [
       {
@@ -24,33 +24,33 @@
       },
       {
         "rank": 5,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 6,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 7,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 7,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 8,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
         "rank": 9,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 10,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 11,
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 13,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 14,
@@ -84,48 +84,48 @@
       },
       {
         "rank": 17,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 18,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 19,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       },
       {
         "rank": 20,
-        "id": "1056813463",
-        "title": "Dunkin'"
-      },
-      {
-        "rank": 21,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 22,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 23,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
-        "rank": 24,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
+        "rank": 21,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 22,
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
+      },
+      {
+        "rank": 23,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
+        "rank": 24,
+        "id": "401626263",
+        "title": "Airbnb"
+      },
+      {
         "rank": 25,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "id": "1056813463",
+        "title": "Dunkin'"
       }
     ],
     "paid": [
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
       },
       {
         "rank": 8,
@@ -171,23 +171,23 @@
       },
       {
         "rank": 9,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 10,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
+        "rank": 10,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
         "rank": 11,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 12,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 13,
@@ -196,63 +196,63 @@
       },
       {
         "rank": 14,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 15,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 16,
-        "id": "6449003064",
-        "title": "Goblin Tools"
-      },
-      {
-        "rank": 17,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 18,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 19,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 20,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "rank": 15,
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
-        "rank": 21,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 22,
+        "rank": 16,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
+        "rank": 17,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
+        "rank": 18,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 19,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 20,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 21,
+        "id": "6755822636",
+        "title": "GIKA - Vintage Phone Cam"
+      },
+      {
+        "rank": 22,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
         "rank": 23,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 24,
-        "id": "1527903479",
-        "title": "CDL Test Prep 2026"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       },
       {
         "rank": 25,
-        "id": "6755822636",
-        "title": "GIKA - Vintage Phone Cam"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }
