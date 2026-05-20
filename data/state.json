@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T04:30:06Z",
+  "updated_at": "2026-05-20T04:45:06Z",
   "charts": {
     "free": [
       {
@@ -24,93 +24,93 @@
       },
       {
         "rank": 5,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 6,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 9,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
         "rank": 10,
-        "id": "1056813463",
-        "title": "Dunkin'"
-      },
-      {
-        "rank": 11,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
-      },
-      {
-        "rank": 12,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 13,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 14,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
-      },
-      {
-        "rank": 15,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 16,
+        "rank": 11,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
-        "rank": 17,
+        "rank": 12,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 13,
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
+      },
+      {
+        "rank": 14,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 15,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
-        "rank": 18,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 19,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 20,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 21,
+        "rank": 16,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
+        "rank": 17,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 18,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
+        "rank": 19,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
+        "rank": 20,
+        "id": "1056813463",
+        "title": "Dunkin'"
+      },
+      {
+        "rank": 21,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
         "rank": 22,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "284882215",
+        "title": "Facebook"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "535886823",
-        "title": "Google Chrome"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 25,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       }
     ],
     "paid": [
