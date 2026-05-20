@@ -62782,5 +62782,205 @@
     "position": 24,
     "from": "QuickBend: Conduit Bending",
     "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Authenticator",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "SHEIN - Shopping Online",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Grok - AI Chat & Video",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Amazon Prime Video",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Netflix Game Controller",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Microsoft Teams",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "Dunkin'"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Goblin Tools",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Things 3",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "ForzaTune Pro",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-20T17:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "ForzaTune Pro"
   }
 ]
