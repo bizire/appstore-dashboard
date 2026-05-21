@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T22:45:08Z",
+  "updated_at": "2026-05-21T23:00:16Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 6,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 7,
@@ -39,93 +39,93 @@
       },
       {
         "rank": 8,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
+        "rank": 9,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 9,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
         "rank": 10,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 11,
         "id": "1113153706",
         "title": "Microsoft Teams"
       },
       {
-        "rank": 12,
-        "id": "6756442328",
-        "title": "Instants, an Instagram app"
-      },
-      {
-        "rank": 13,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
-      },
-      {
-        "rank": 14,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 15,
-        "id": "309735670",
-        "title": "Indeed Job Search"
-      },
-      {
-        "rank": 16,
+        "rank": 11,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 17,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "rank": 12,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 18,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "rank": 13,
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
-        "rank": 19,
+        "rank": 14,
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
+      },
+      {
+        "rank": 15,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
-        "rank": 20,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
+        "rank": 16,
+        "id": "6756442328",
+        "title": "Instants, an Instagram app"
       },
       {
-        "rank": 21,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
-      },
-      {
-        "rank": 22,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
-        "rank": 23,
+        "rank": 17,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 24,
+        "rank": 18,
+        "id": "309735670",
+        "title": "Indeed Job Search"
+      },
+      {
+        "rank": 19,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 20,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 21,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 22,
         "id": "535886823",
         "title": "Google Chrome"
       },
       {
+        "rank": 23,
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
+      },
+      {
+        "rank": 24,
+        "id": "544007664",
+        "title": "YouTube"
+      },
+      {
         "rank": 25,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       }
     ],
     "paid": [
@@ -191,68 +191,68 @@
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 14,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 15,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 16,
-        "id": "963034692",
-        "title": "Streaks"
+        "rank": 14,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
-        "rank": 17,
-        "id": "1633243177",
-        "title": "Ableton Note"
-      },
-      {
-        "rank": 18,
+        "rank": 15,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
-        "rank": 19,
-        "id": "904237743",
-        "title": "Things 3"
+        "rank": 16,
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
-        "rank": 20,
+        "rank": 17,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 18,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 19,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
+        "rank": 20,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
         "rank": 21,
-        "id": "1356726417",
-        "title": "ForzaTune Pro"
-      },
-      {
-        "rank": 22,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 23,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
+        "rank": 22,
+        "id": "1356726417",
+        "title": "ForzaTune Pro"
+      },
+      {
+        "rank": 23,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
         "rank": 24,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 25,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       }
     ]
   }
