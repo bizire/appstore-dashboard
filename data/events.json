@@ -63894,5 +63894,277 @@
     "position": 24,
     "from": "ProFilm Meter",
     "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "WhatsApp Messenger",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Instants, an Instagram app"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Instants, an Instagram app",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Microsoft Authenticator",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Meta AI - Assistant & Glasses",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Gmail - Email by Google",
+    "to": "Meta AI - Assistant & Glasses"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Maps",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Teams",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Shop: All your favorite brands",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Walmart: Shopping & Savings",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "SHEIN - Shopping Online",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Amazon Prime Video",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Facebook",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Ableton Note",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Goblin Tools",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "PeakFinder",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Things 3",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-21T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "Solocator - GPS Field Camera"
   }
 ]
