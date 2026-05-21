@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T01:45:06Z",
+  "updated_at": "2026-05-21T02:00:11Z",
   "charts": {
     "free": [
       {
@@ -24,23 +24,23 @@
       },
       {
         "rank": 5,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 6,
-        "id": "6756442328",
-        "title": "Instants, an Instagram app"
-      },
-      {
-        "rank": 7,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "id": "310633997",
         "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 7,
+        "id": "6446901002",
+        "title": "Threads"
+      },
+      {
+        "rank": 8,
+        "id": "6756442328",
+        "title": "Instants, an Instagram app"
       },
       {
         "rank": 9,
@@ -64,13 +64,13 @@
       },
       {
         "rank": 13,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 14,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "309735670",
+        "title": "Indeed Job Search"
       },
       {
         "rank": 15,
@@ -84,13 +84,13 @@
       },
       {
         "rank": 17,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 18,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 19,
@@ -109,8 +109,8 @@
       },
       {
         "rank": 22,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "951937596",
-        "title": "Microsoft Outlook"
+        "id": "1111876388",
+        "title": "T-Life"
       },
       {
         "rank": 25,
-        "id": "686449807",
-        "title": "Telegram Messenger"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       }
     ],
     "paid": [
@@ -146,13 +146,13 @@
       },
       {
         "rank": 4,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 5,
-        "id": "916366645",
-        "title": "Procreate Pocket"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 6,
@@ -186,13 +186,13 @@
       },
       {
         "rank": 12,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 13,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 14,
@@ -226,13 +226,13 @@
       },
       {
         "rank": 20,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 21,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "6755822636",
-        "title": "GIKA - Vintage Phone Cam"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 24,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "6761498714",
+        "title": "ProFilm Meter"
       },
       {
         "rank": 25,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }

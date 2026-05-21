@@ -63462,5 +63462,165 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Instants, an Instagram app",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "WhatsApp Messenger",
+    "to": "Instants, an Instagram app"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Indeed Job Search",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Instagram",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Shop: All your favorite brands",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Grok - AI Chat & Video",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Microsoft Outlook",
+    "to": "T-Life"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Telegram Messenger",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "RadarScope",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Procreate Pocket",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Ableton Note",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Things 3",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "GIKA - Vintage Phone Cam",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "ProFilm Meter"
+  },
+  {
+    "ts": "2026-05-21T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "PeakFinder",
+    "to": "Threema. The Secure Messenger"
   }
 ]
