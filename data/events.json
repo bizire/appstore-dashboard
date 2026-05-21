@@ -64390,5 +64390,109 @@
     "position": 25,
     "from": "Solocator - GPS Field Camera",
     "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Instants, an Instagram app",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Instants, an Instagram app"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Indeed Job Search",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Walmart: Shopping & Savings",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Netflix Game Controller",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-21T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Instagram",
+    "to": "DealSeek: Coupons & Discounts"
   }
 ]
