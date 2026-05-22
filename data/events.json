@@ -65326,5 +65326,213 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Gmail - Email by Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Instagram",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Indeed Job Search",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Chrome",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "T-Life"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "YouTube",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Grok - AI Chat & Video",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "RadarScope",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "MilGPS",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Ableton Note",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "PeakFinder",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Goblin Tools",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "ForzaTune Pro",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Things 3",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-22T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Spirit Talker Â®",
+    "to": "ForzaTune Pro"
   }
 ]
