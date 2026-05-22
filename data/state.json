@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T07:15:08Z",
+  "updated_at": "2026-05-22T07:30:10Z",
   "charts": {
     "free": [
       {
@@ -24,28 +24,28 @@
       },
       {
         "rank": 5,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 6,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 7,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 9,
+        "rank": 7,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 8,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 9,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 10,
@@ -54,33 +54,33 @@
       },
       {
         "rank": 11,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 12,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 13,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 12,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
+        "rank": 13,
+        "id": "6756442328",
+        "title": "Instants, an Instagram app"
+      },
+      {
         "rank": 14,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 15,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 16,
-        "id": "6756442328",
-        "title": "Instants, an Instagram app"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 17,
@@ -89,33 +89,33 @@
       },
       {
         "rank": 18,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 19,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 20,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 21,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 22,
         "id": "384830320",
         "title": "Life360: Stay Connected & Safe"
       },
       {
+        "rank": 20,
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
+      },
+      {
+        "rank": 21,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 22,
+        "id": "545519333",
+        "title": "Amazon Prime Video"
+      },
+      {
         "rank": 23,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6751921248",
+        "title": "Rips by Triumph"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
@@ -161,33 +161,33 @@
       },
       {
         "rank": 7,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
-      },
-      {
-        "rank": 8,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 9,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "rank": 8,
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
+        "rank": 10,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
         "rank": 11,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 12,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 13,
@@ -196,13 +196,13 @@
       },
       {
         "rank": 14,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 15,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 16,
@@ -211,48 +211,48 @@
       },
       {
         "rank": 17,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 18,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 19,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 20,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 21,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
-      },
-      {
-        "rank": 23,
         "id": "1356726417",
         "title": "ForzaTune Pro"
       },
       {
-        "rank": 24,
+        "rank": 18,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 19,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
+        "rank": 20,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 21,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 22,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
+        "rank": 23,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
+        "rank": 24,
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
         "rank": 25,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "459313476",
+        "title": "Tenuto"
       }
     ]
   }
