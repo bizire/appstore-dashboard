@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T04:45:09Z",
+  "updated_at": "2026-05-22T05:00:12Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 6,
-        "id": "284815942",
-        "title": "Google"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 7,
@@ -39,23 +39,23 @@
       },
       {
         "rank": 8,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 9,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 9,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
         "rank": 10,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "1558240027",
+        "title": "Meta AI - Assistant & Glasses"
       },
       {
         "rank": 11,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 12,
@@ -69,13 +69,13 @@
       },
       {
         "rank": 14,
-        "id": "1558240027",
-        "title": "Meta AI - Assistant & Glasses"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 15,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 16,
@@ -89,8 +89,8 @@
       },
       {
         "rank": 18,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 19,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 21,
         "id": "284882215",
         "title": "Facebook"
       },
       {
-        "rank": 21,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "rank": 22,
+        "id": "384830320",
+        "title": "Life360: Stay Connected & Safe"
       },
       {
-        "rank": 22,
+        "rank": 23,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
+        "rank": 24,
         "id": "338137227",
         "title": "Walmart: Shopping & Savings"
       },
       {
-        "rank": 23,
-        "id": "1111876388",
-        "title": "T-Life"
-      },
-      {
-        "rank": 24,
-        "id": "535886823",
-        "title": "Google Chrome"
-      },
-      {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       }
     ],
     "paid": [
@@ -156,28 +156,28 @@
       },
       {
         "rank": 6,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
-      },
-      {
-        "rank": 7,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 8,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
+        "rank": 7,
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
+      },
+      {
+        "rank": 8,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
         "rank": 9,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 10,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 11,
@@ -186,33 +186,33 @@
       },
       {
         "rank": 12,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 13,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 14,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 15,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "rank": 13,
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
-        "rank": 16,
+        "rank": 14,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 15,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "id": "1633243177",
         "title": "Ableton Note"
+      },
+      {
+        "rank": 17,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 18,
@@ -221,38 +221,38 @@
       },
       {
         "rank": 19,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 21,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 22,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 23,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "rank": 21,
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
-        "rank": 24,
+        "rank": 22,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
-        "rank": 25,
+        "rank": 23,
         "id": "1356726417",
         "title": "ForzaTune Pro"
+      },
+      {
+        "rank": 24,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 25,
+        "id": "904237743",
+        "title": "Things 3"
       }
     ]
   }
