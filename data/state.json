@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22T17:15:08Z",
+  "updated_at": "2026-05-22T17:30:11Z",
   "charts": {
     "free": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 8,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 9,
@@ -59,28 +59,28 @@
       },
       {
         "rank": 12,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 13,
         "id": "6745274862",
         "title": "DealSeek: Coupons & Discounts"
       },
       {
-        "rank": 14,
-        "id": "6756442328",
-        "title": "Instants, an Instagram app"
-      },
-      {
-        "rank": 15,
+        "rank": 13,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
-        "rank": 16,
+        "rank": 14,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 15,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 16,
+        "id": "6756442328",
+        "title": "Instants, an Instagram app"
       },
       {
         "rank": 17,
@@ -89,8 +89,8 @@
       },
       {
         "rank": 18,
-        "id": "333903271",
-        "title": "X"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 19,
@@ -104,13 +104,13 @@
       },
       {
         "rank": 21,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 22,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "6751921248",
-        "title": "Rips by Triumph"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 25,
-        "id": "6670324846",
-        "title": "Grok - AI Chat & Video"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       }
     ],
     "paid": [
@@ -176,28 +176,28 @@
       },
       {
         "rank": 10,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 11,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 12,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 13,
+        "rank": 11,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
+        "rank": 12,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 13,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
         "rank": 14,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "478643661",
+        "title": "Handy Art Reference Tool"
       },
       {
         "rank": 15,
@@ -206,38 +206,38 @@
       },
       {
         "rank": 16,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
+        "rank": 17,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "id": "1633243177",
         "title": "Ableton Note"
       },
       {
-        "rank": 18,
-        "id": "478643661",
-        "title": "Handy Art Reference Tool"
-      },
-      {
         "rank": 19,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 20,
         "id": "1449584007",
         "title": "Koala Sampler â¢ Beat Maker"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 21,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
         "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 23,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       }
     ]
   }
