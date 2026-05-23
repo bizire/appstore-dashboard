@@ -68766,5 +68766,245 @@
     "position": 24,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Meta AI",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Uber - Request a ride",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "SHEIN - Shopping Online",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Gmail - Email by Google",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Shop: All your favorite brands",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "T-Life"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Spirit Talker Â®",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "QuickBend: Conduit Bending",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Ableton Note",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "MilGPS",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-23T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stash - Rule Based Proxy",
+    "to": "LiveATC Air Radio"
   }
 ]
