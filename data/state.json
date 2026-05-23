@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T04:30:09Z",
+  "updated_at": "2026-05-23T05:00:12Z",
   "charts": {
     "free": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "rank": 4,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 5,
@@ -29,13 +29,13 @@
       },
       {
         "rank": 6,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 7,
-        "id": "284815942",
-        "title": "Google"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 8,
@@ -44,88 +44,88 @@
       },
       {
         "rank": 9,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 10,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
+        "rank": 10,
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
+      },
+      {
         "rank": 11,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 12,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
-        "rank": 12,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
         "rank": 13,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 14,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 15,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 16,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
+        "rank": 15,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 16,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
         "rank": 17,
-        "id": "1111876388",
-        "title": "T-Life"
-      },
-      {
-        "rank": 18,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 19,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 20,
         "id": "384830320",
         "title": "Life360: Stay Connected & Safe"
       },
       {
-        "rank": 21,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "rank": 18,
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
-        "rank": 22,
+        "rank": 19,
         "id": "324684580",
         "title": "Spotify: Music and Podcasts"
       },
       {
+        "rank": 20,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 21,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 22,
+        "id": "368677368",
+        "title": "Uber - Request a ride"
+      },
+      {
         "rank": 23,
-        "id": "544007664",
-        "title": "YouTube"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 24,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "1111876388",
+        "title": "T-Life"
       },
       {
         "rank": 25,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       }
     ],
     "paid": [
@@ -151,23 +151,23 @@
       },
       {
         "rank": 5,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 6,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
+        "rank": 6,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
         "rank": 7,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 8,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
       },
       {
         "rank": 9,
@@ -181,23 +181,23 @@
       },
       {
         "rank": 11,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 12,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "357421934",
         "title": "PeakFinder"
+      },
+      {
+        "rank": 14,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 15,
@@ -206,8 +206,8 @@
       },
       {
         "rank": 16,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 17,
@@ -216,13 +216,13 @@
       },
       {
         "rank": 18,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 19,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "1356726417",
+        "title": "ForzaTune Pro"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
+        "id": "1633243177",
+        "title": "Ableton Note"
+      },
+      {
+        "rank": 22,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
-      },
-      {
         "rank": 23,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 24,
         "id": "1449584007",
         "title": "Koala Sampler â¢ Beat Maker"
       },
       {
+        "rank": 24,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
         "rank": 25,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       }
     ]
   }
