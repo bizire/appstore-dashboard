@@ -68286,5 +68286,213 @@
     "position": 25,
     "from": "Wipr 2",
     "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Claude by Anthropic",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "WhatsApp Messenger",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Meta AI",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Uber - Request a ride",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Amazon Prime Video",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "SHEIN - Shopping Online",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Rips by Triumph",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Spirit Talker Â®",
+    "to": "Handy Art Reference Tool"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Handy Art Reference Tool",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Ableton Note",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "MilGPS",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Streaks",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "LiveATC Air Radio",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-23T17:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Pocket God",
+    "to": "Stash - Rule Based Proxy"
   }
 ]
