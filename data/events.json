@@ -68070,5 +68070,221 @@
     "position": 25,
     "from": "Solocator - GPS Field Camera",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Meta AI",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Maps",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Uber - Request a ride",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Shop: All your favorite brands",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "SHEIN - Shopping Online",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Rips by Triumph",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Rips by Triumph"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Spirit Talker Â®",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "ForzaTune Pro",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "MilGPS",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-05-23T11:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Wipr 2",
+    "to": "Pocket God"
   }
 ]
