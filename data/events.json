@@ -70414,5 +70414,237 @@
     "position": 25,
     "from": "Streaks",
     "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Meta AI",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Uber - Request a ride",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "SHEIN - Shopping Online",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Instagram",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Spotify: Music and Podcasts",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Amazon Prime Video",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "ForzaTune Pro",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Spirit Talker Â®",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Monash FODMAP Diet",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Ableton Note",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Goblin Tools",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Streaks",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "White Noise",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Wipr 2",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-24T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Pocket God",
+    "to": "imo video calls and chat HD"
   }
 ]
