@@ -70182,5 +70182,237 @@
     "position": 24,
     "from": "Pocket God",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "SHEIN - Shopping Online",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Instagram",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Amazon Prime Video",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "X",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Rips by Triumph",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Spirit Talker Â®",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Monash FODMAP Diet",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Ableton Note",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Goblin Tools",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Pocket God",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "imo video calls and chat HD",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-24T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Streaks",
+    "to": "Pocket God"
   }
 ]
