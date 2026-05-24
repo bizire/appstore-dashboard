@@ -69822,5 +69822,205 @@
     "position": 25,
     "from": "HappyCow - Vegan Food Near You",
     "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Meta AI",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Uber - Request a ride",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Walmart: Shopping & Savings",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Rips by Triumph"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Rips by Triumph",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Shop: All your favorite brands",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Spirit Talker Â®",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Handy Art Reference Tool",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "ForzaTune Pro",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Handy Art Reference Tool"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Threema. The Secure Messenger",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Goblin Tools",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pocket God",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-05-24T11:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "White Noise",
+    "to": "Pocket God"
   }
 ]

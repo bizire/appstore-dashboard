@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T10:45:07Z",
+  "updated_at": "2026-05-24T11:00:12Z",
   "charts": {
     "free": [
       {
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "1558240027",
+        "title": "Meta AI"
       },
       {
         "rank": 10,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 11,
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
         "rank": 13,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 14,
@@ -84,8 +84,8 @@
       },
       {
         "rank": 17,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 18,
@@ -94,8 +94,8 @@
       },
       {
         "rank": 19,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 20,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
-        "rank": 22,
         "id": "6745274862",
         "title": "DealSeek: Coupons & Discounts"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "6751921248",
         "title": "Rips by Triumph"
       },
       {
+        "rank": 24,
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
+      },
+      {
         "rank": 25,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "284882215",
+        "title": "Facebook"
       }
     ],
     "paid": [
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 7,
@@ -176,33 +176,33 @@
       },
       {
         "rank": 10,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 11,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
+        "rank": 11,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
         "rank": 12,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 13,
-        "id": "478643661",
-        "title": "Handy Art Reference Tool"
-      },
-      {
-        "rank": 14,
         "id": "1356726417",
         "title": "ForzaTune Pro"
       },
       {
-        "rank": 15,
+        "rank": 13,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 14,
         "id": "6756966178",
         "title": "V2Box Pro - V2ray Client"
+      },
+      {
+        "rank": 15,
+        "id": "478643661",
+        "title": "Handy Art Reference Tool"
       },
       {
         "rank": 16,
@@ -211,13 +211,13 @@
       },
       {
         "rank": 17,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       },
       {
         "rank": 18,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 19,
@@ -226,13 +226,13 @@
       },
       {
         "rank": 20,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 21,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 22,
@@ -241,13 +241,13 @@
       },
       {
         "rank": 23,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "289894882",
+        "title": "White Noise"
       },
       {
         "rank": 24,
-        "id": "289894882",
-        "title": "White Noise"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 25,
