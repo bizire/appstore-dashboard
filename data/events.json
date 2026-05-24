@@ -70646,5 +70646,245 @@
     "position": 25,
     "from": "Pocket God",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Meta AI",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "YouTube",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Facebook",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Uber - Request a ride",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "SHEIN - Shopping Online",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Handy Art Reference Tool",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Things 3",
+    "to": "Handy Art Reference Tool"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Goblin Tools",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Ableton Note",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Pocket God",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Streaks",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-24T23:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "Pocket God"
   }
 ]
