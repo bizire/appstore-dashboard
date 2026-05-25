@@ -71814,5 +71814,101 @@
     "position": 25,
     "from": "Pocket God",
     "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-05-25T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Amazon Prime Video",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-25T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-25T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-25T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-25T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-25T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-25T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Uber - Request a ride",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-25T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-25T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-25T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-05-25T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "The Roku App (Official)",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-05-25T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Rips by Triumph",
+    "to": "Spotify: Music and Podcasts"
   }
 ]
