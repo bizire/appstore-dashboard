@@ -70886,5 +70886,189 @@
     "position": 25,
     "from": "imo video calls and chat HD",
     "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Instagram",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "YouTube",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Facebook",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "SHEIN - Shopping Online",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Uber - Request a ride",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Amazon Prime Video",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "PeakFinder",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Spirit Talker Â®",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Things 3",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Goblin Tools",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Ableton Note",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-25T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "Ableton Note"
   }
 ]
