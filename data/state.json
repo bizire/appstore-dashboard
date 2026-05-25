@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T10:15:07Z",
+  "updated_at": "2026-05-25T10:30:13Z",
   "charts": {
     "free": [
       {
@@ -49,13 +49,13 @@
       },
       {
         "rank": 10,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "1558240027",
+        "title": "Meta AI"
       },
       {
         "rank": 11,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 12,
@@ -84,13 +84,13 @@
       },
       {
         "rank": 17,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 18,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 19,
@@ -109,13 +109,13 @@
       },
       {
         "rank": 22,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 23,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "482066631",
+        "title": "The Roku App (Official)"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "482066631",
-        "title": "The Roku App (Official)"
+        "id": "6751921248",
+        "title": "Rips by Triumph"
       }
     ],
     "paid": [
@@ -161,23 +161,23 @@
       },
       {
         "rank": 7,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 8,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
+        "rank": 8,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
         "rank": 9,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "1356726417",
+        "title": "ForzaTune Pro"
       },
       {
         "rank": 10,
-        "id": "1356726417",
-        "title": "ForzaTune Pro"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 11,
@@ -201,28 +201,28 @@
       },
       {
         "rank": 15,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 16,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 17,
         "id": "6756966178",
         "title": "V2Box Pro - V2ray Client"
       },
       {
+        "rank": 16,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 17,
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
         "rank": 18,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 19,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 22,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
+        "rank": 23,
         "id": "478643661",
         "title": "Handy Art Reference Tool"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "id": "289894882",
         "title": "White Noise"
       },
       {
-        "rank": 24,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
-      },
-      {
         "rank": 25,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "596026805",
+        "title": "PhotoPills"
       }
     ]
   }
