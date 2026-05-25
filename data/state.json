@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T13:45:08Z",
+  "updated_at": "2026-05-25T14:00:14Z",
   "charts": {
     "free": [
       {
@@ -211,38 +211,38 @@
       },
       {
         "rank": 17,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
-      },
-      {
-        "rank": 18,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 19,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 20,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 21,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
+        "rank": 18,
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
+        "rank": 19,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 20,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 21,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
         "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "478643661",
+        "title": "Handy Art Reference Tool"
       },
       {
         "rank": 23,
-        "id": "478643661",
-        "title": "Handy Art Reference Tool"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
       }
     ]
   }
