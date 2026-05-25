@@ -72150,5 +72150,213 @@
     "position": 25,
     "from": "Noir - Dark Mode for Safari",
     "to": "White Noise"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Amazon Prime Video",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Maps",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "SHEIN - Shopping Online",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Instagram",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Uber - Request a ride",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Shop: All your favorite brands",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "RadarScope",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "PeakFinder",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Spirit Talker Â®",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Things 3",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Pocket God",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Wipr 2",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-25T20:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "White Noise",
+    "to": "HappyCow - Vegan Food Near You"
   }
 ]
