@@ -72822,5 +72822,293 @@
     "position": 25,
     "from": "HappyCow - Vegan Food Near You",
     "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Maps",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Meta AI",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "SHEIN - Shopping Online",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Instagram",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Facebook",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Amazon Prime Video",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Shop: All your favorite brands",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "YouTube",
+    "to": "Airbnb"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "RadarScope",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "PeakFinder",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "ForzaTune Pro",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Spirit Talker Â®",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Goblin Tools",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Things 3",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Pocket God",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Wipr 2",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "HappyCow - Vegan Food Near You"
+  },
+  {
+    "ts": "2026-05-26T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Ableton Note",
+    "to": "Stylebook"
   }
 ]
