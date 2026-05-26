@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T01:45:07Z",
+  "updated_at": "2026-05-26T02:00:13Z",
   "charts": {
     "free": [
       {
@@ -49,13 +49,13 @@
       },
       {
         "rank": 10,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 11,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 12,
@@ -79,53 +79,53 @@
       },
       {
         "rank": 16,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 17,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
-      },
-      {
-        "rank": 18,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 19,
-        "id": "384830320",
-        "title": "Life360: Stay Connected & Safe"
-      },
-      {
-        "rank": 20,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
+        "rank": 17,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 18,
+        "id": "384830320",
+        "title": "Life360: Stay Connected & Safe"
+      },
+      {
+        "rank": 19,
+        "id": "545519333",
+        "title": "Amazon Prime Video"
+      },
+      {
+        "rank": 20,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
         "rank": 21,
-        "id": "544007664",
-        "title": "YouTube"
-      },
-      {
-        "rank": 22,
-        "id": "324684580",
-        "title": "Spotify: Music and Podcasts"
-      },
-      {
-        "rank": 23,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 24,
         "id": "338137227",
         "title": "Walmart: Shopping & Savings"
       },
       {
-        "rank": 25,
+        "rank": 22,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 23,
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
+      },
+      {
+        "rank": 24,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
+      },
+      {
+        "rank": 25,
+        "id": "544007664",
+        "title": "YouTube"
       }
     ],
     "paid": [
@@ -156,28 +156,28 @@
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 7,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 8,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
+        "rank": 7,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
+        "rank": 8,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
         "rank": 9,
-        "id": "1356726417",
-        "title": "ForzaTune Pro"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 10,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "1356726417",
+        "title": "ForzaTune Pro"
       },
       {
         "rank": 11,
@@ -206,43 +206,43 @@
       },
       {
         "rank": 16,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 17,
-        "id": "301387274",
-        "title": "Pocket God"
-      },
-      {
-        "rank": 18,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 19,
-        "id": "478643661",
-        "title": "Handy Art Reference Tool"
-      },
-      {
-        "rank": 20,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
-        "rank": 21,
+        "rank": 17,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 18,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
+        "rank": 19,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
+        "rank": 20,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "1449584007",
         "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
+        "rank": 23,
+        "id": "478643661",
+        "title": "Handy Art Reference Tool"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "435871950",
-        "title": "HappyCow - Vegan Food Near You"
+        "id": "1633243177",
+        "title": "Ableton Note"
       }
     ]
   }
