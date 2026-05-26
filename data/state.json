@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T22:45:06Z",
+  "updated_at": "2026-05-26T23:00:10Z",
   "charts": {
     "free": [
       {
@@ -29,8 +29,8 @@
       },
       {
         "rank": 6,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 7,
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 9,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 10,
@@ -64,23 +64,23 @@
       },
       {
         "rank": 13,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 14,
-        "id": "1558240027",
-        "title": "Meta AI"
-      },
-      {
-        "rank": 15,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
+        "rank": 15,
+        "id": "1558240027",
+        "title": "Meta AI"
+      },
+      {
         "rank": 16,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 17,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
+        "id": "309735670",
+        "title": "Indeed Job Search"
+      },
+      {
+        "rank": 21,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 21,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
-      },
-      {
         "rank": 22,
-        "id": "544007664",
-        "title": "YouTube"
-      },
-      {
-        "rank": 23,
         "id": "535886823",
         "title": "Google Chrome"
       },
       {
+        "rank": 23,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
         "rank": 24,
-        "id": "333903271",
-        "title": "X"
+        "id": "544007664",
+        "title": "YouTube"
       },
       {
         "rank": 25,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
       }
     ],
     "paid": [
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 7,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 8,
@@ -176,13 +176,13 @@
       },
       {
         "rank": 10,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 11,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 12,
@@ -191,13 +191,13 @@
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 14,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 15,
@@ -211,33 +211,33 @@
       },
       {
         "rank": 17,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
       },
       {
         "rank": 18,
-        "id": "289894882",
-        "title": "White Noise"
-      },
-      {
-        "rank": 19,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
+        "rank": 19,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
         "rank": 20,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "289894882",
+        "title": "White Noise"
       },
       {
         "rank": 21,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 22,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "6760838876",
-        "title": "Oldi - Phone Camera"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 25,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       }
     ]
   }
