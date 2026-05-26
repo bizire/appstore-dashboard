@@ -74102,5 +74102,229 @@
     "position": 25,
     "from": "Oldi - Phone Camera",
     "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Meta AI",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Instagram",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Facebook",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "SHEIN - Shopping Online",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Shop: All your favorite brands",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "YouTube",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Microsoft Authenticator",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Amazon Prime Video",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "ForzaTune Pro",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "White Noise",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Pocket God",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Oldi - Phone Camera",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Wipr 2",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Oldi - Phone Camera"
+  },
+  {
+    "ts": "2026-05-26T20:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "MilGPS",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
