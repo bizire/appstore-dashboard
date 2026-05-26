@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-05-26T11:00:13Z",
+  "updated_at": "2026-05-26T11:15:07Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 2,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 3,
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 6,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 7,
@@ -69,63 +69,63 @@
       },
       {
         "rank": 14,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
-      },
-      {
-        "rank": 15,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 16,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 17,
-        "id": "384830320",
-        "title": "Life360: Stay Connected & Safe"
+        "rank": 15,
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
-        "rank": 18,
+        "rank": 16,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
+      },
+      {
+        "rank": 17,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
+        "rank": 18,
+        "id": "384830320",
+        "title": "Life360: Stay Connected & Safe"
+      },
+      {
         "rank": 19,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 20,
-        "id": "401626263",
-        "title": "Airbnb"
-      },
-      {
-        "rank": 21,
         "id": "333903271",
         "title": "X"
       },
       {
-        "rank": 22,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "rank": 20,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
-        "rank": 23,
+        "rank": 21,
         "id": "389801252",
         "title": "Instagram"
       },
       {
+        "rank": 22,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
+        "rank": 23,
+        "id": "401626263",
+        "title": "Airbnb"
+      },
+      {
         "rank": 24,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
       },
       {
         "rank": 25,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       }
     ],
     "paid": [
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
@@ -196,18 +196,18 @@
       },
       {
         "rank": 14,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 15,
         "id": "904237743",
         "title": "Things 3"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 17,
@@ -216,8 +216,8 @@
       },
       {
         "rank": 18,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "289894882",
+        "title": "White Noise"
       },
       {
         "rank": 19,
@@ -226,23 +226,23 @@
       },
       {
         "rank": 20,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 21,
         "id": "6756966178",
         "title": "V2Box Pro - V2ray Client"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "1633243177",
         "title": "Ableton Note"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "1662217862",
         "title": "Wipr 2"
-      },
-      {
-        "rank": 23,
-        "id": "289894882",
-        "title": "White Noise"
       },
       {
         "rank": 24,
