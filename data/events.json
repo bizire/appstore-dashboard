@@ -75382,5 +75382,101 @@
     "position": 25,
     "from": "AutoSnore: Snoring Recorder",
     "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-27T14:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-05-27T14:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-27T14:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Sam's Club Shopping & Delivery",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-27T14:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Meta AI",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-27T14:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Authenticator",
+    "to": "Sam's Club Shopping & Delivery"
+  },
+  {
+    "ts": "2026-05-27T14:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-27T14:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Planet Fitness",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-05-27T14:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-27T14:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-05-27T14:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "X",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-05-27T14:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-27T14:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "HBO Max: Stream Movies & TV"
   }
 ]
