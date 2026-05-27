@@ -75478,5 +75478,101 @@
     "position": 25,
     "from": "Peacock TV: Stream TV & Movies",
     "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-05-27T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Netflix Game Controller",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-05-27T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-27T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Meta AI",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-05-27T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-27T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Maps",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-27T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Sam's Club Shopping & Delivery",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-27T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Microsoft Authenticator",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-05-27T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Indeed Job Search",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-27T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "SHEIN - Shopping Online",
+    "to": "Sam's Club Shopping & Delivery"
+  },
+  {
+    "ts": "2026-05-27T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-27T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Planet Fitness",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-27T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Planet Fitness"
   }
 ]
