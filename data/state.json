@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T22:15:06Z",
+  "updated_at": "2026-05-27T22:30:07Z",
   "charts": {
     "free": [
       {
@@ -24,23 +24,23 @@
       },
       {
         "rank": 5,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 6,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
+        "rank": 6,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
         "rank": 7,
-        "id": "284815942",
-        "title": "Google"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 8,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 9,
@@ -49,28 +49,28 @@
       },
       {
         "rank": 10,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 11,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 12,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 11,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 12,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
         "rank": 13,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 14,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 15,
@@ -79,53 +79,53 @@
       },
       {
         "rank": 16,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
+        "rank": 17,
+        "id": "1558240027",
+        "title": "Meta AI"
+      },
+      {
+        "rank": 18,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
+        "rank": 19,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 17,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 18,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 19,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
         "rank": 20,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
-      },
-      {
-        "rank": 21,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
-      },
-      {
-        "rank": 22,
         "id": "535886823",
         "title": "Google Chrome"
       },
       {
+        "rank": 21,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 22,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
+      },
+      {
         "rank": 23,
-        "id": "382497397",
-        "title": "Sam's Club Shopping & Delivery"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 24,
-        "id": "399857015",
-        "title": "Planet Fitness"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 25,
-        "id": "333903271",
-        "title": "X"
+        "id": "544007664",
+        "title": "YouTube"
       }
     ],
     "paid": [
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 7,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 8,
@@ -171,88 +171,88 @@
       },
       {
         "rank": 9,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 10,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 11,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 12,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
-        "rank": 13,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "rank": 10,
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
-        "rank": 14,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 15,
+        "rank": 11,
         "id": "6756966178",
         "title": "V2Box Pro - V2ray Client"
       },
       {
-        "rank": 16,
-        "id": "1356726417",
-        "title": "ForzaTune Pro"
+        "rank": 12,
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
-        "rank": 17,
-        "id": "289894882",
-        "title": "White Noise"
+        "rank": 13,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
-        "rank": 18,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 19,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 20,
+        "rank": 14,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 21,
+        "rank": 15,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
+        "rank": 16,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 17,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
+        "rank": 18,
+        "id": "1356726417",
+        "title": "ForzaTune Pro"
+      },
+      {
+        "rank": 19,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 20,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
+        "rank": 21,
+        "id": "289894882",
+        "title": "White Noise"
+      },
+      {
         "rank": 22,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
+        "rank": 23,
         "id": "6746705608",
         "title": "AutoSnore: Snoring Recorder"
       },
       {
-        "rank": 23,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
         "rank": 24,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 25,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }
