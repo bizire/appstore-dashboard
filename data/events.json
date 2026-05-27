@@ -75574,5 +75574,69 @@
     "position": 25,
     "from": "HBO Max: Stream Movies & TV",
     "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-05-27T17:15:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "White Noise",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-27T17:15:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-05-27T17:15:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PeakFinder",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-27T17:15:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Pocket God",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-27T17:15:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Spirit Talker Â®",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-27T17:15:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-27T17:15:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Oldi - Phone Camera",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-27T17:15:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Oldi - Phone Camera"
   }
 ]

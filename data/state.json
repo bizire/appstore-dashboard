@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T17:00:10Z",
+  "updated_at": "2026-05-27T17:15:06Z",
   "charts": {
     "free": [
       {
@@ -196,13 +196,13 @@
       },
       {
         "rank": 14,
-        "id": "289894882",
-        "title": "White Noise"
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
       },
       {
         "rank": 15,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
+        "id": "289894882",
+        "title": "White Noise"
       },
       {
         "rank": 16,
@@ -216,18 +216,18 @@
       },
       {
         "rank": 18,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 19,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "301387274",
         "title": "Pocket God"
-      },
-      {
-        "rank": 20,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
       },
       {
         "rank": 21,
@@ -236,13 +236,13 @@
       },
       {
         "rank": 22,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 23,
-        "id": "6760838876",
-        "title": "Oldi - Phone Camera"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "6760838876",
+        "title": "Oldi - Phone Camera"
       }
     ]
   }
