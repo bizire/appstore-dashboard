@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-27T01:45:07Z",
+  "updated_at": "2026-05-27T02:00:08Z",
   "charts": {
     "free": [
       {
@@ -9,13 +9,13 @@
       },
       {
         "rank": 2,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
         "rank": 3,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 4,
@@ -29,23 +29,23 @@
       },
       {
         "rank": 6,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 7,
         "id": "284815942",
         "title": "Google"
       },
       {
+        "rank": 7,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
         "rank": 8,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 9,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 10,
@@ -59,18 +59,18 @@
       },
       {
         "rank": 12,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 13,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "422689480",
         "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 14,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 15,
@@ -84,23 +84,23 @@
       },
       {
         "rank": 17,
+        "id": "309735670",
+        "title": "Indeed Job Search"
+      },
+      {
+        "rank": 18,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "284882215",
         "title": "Facebook"
-      },
-      {
-        "rank": 20,
-        "id": "309735670",
-        "title": "Indeed Job Search"
       },
       {
         "rank": 21,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "544007664",
-        "title": "YouTube"
+        "id": "384830320",
+        "title": "Life360: Stay Connected & Safe"
       },
       {
         "rank": 25,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       }
     ],
     "paid": [
@@ -161,18 +161,18 @@
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 8,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "288419283",
         "title": "RadarScope"
+      },
+      {
+        "rank": 9,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 10,
@@ -191,13 +191,13 @@
       },
       {
         "rank": 13,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 14,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 15,
@@ -211,13 +211,13 @@
       },
       {
         "rank": 17,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 18,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
       },
       {
         "rank": 19,
@@ -226,8 +226,8 @@
       },
       {
         "rank": 20,
-        "id": "289894882",
-        "title": "White Noise"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 21,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "289894882",
+        "title": "White Noise"
       },
       {
         "rank": 24,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 25,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "301387274",
+        "title": "Pocket God"
       }
     ]
   }
