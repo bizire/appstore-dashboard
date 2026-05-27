@@ -75302,5 +75302,85 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-27T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "MilGPS",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-27T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Things 3",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-27T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "PeakFinder",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-27T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Spirit Talker Â®",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-27T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Wipr 2",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-05-27T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pocket God",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-27T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-05-27T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Oldi - Phone Camera"
+  },
+  {
+    "ts": "2026-05-27T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PhotoPills",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-27T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "QuickBend: Conduit Bending"
   }
 ]
