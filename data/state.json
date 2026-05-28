@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T13:30:08Z",
+  "updated_at": "2026-05-28T13:45:07Z",
   "charts": {
     "free": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 8,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 9,
@@ -64,8 +64,8 @@
       },
       {
         "rank": 13,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 14,
@@ -74,43 +74,43 @@
       },
       {
         "rank": 15,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
+        "rank": 16,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 16,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
         "rank": 17,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
-      },
-      {
-        "rank": 18,
-        "id": "6446202561",
-        "title": "KICK - Live Streaming"
-      },
-      {
-        "rank": 19,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 20,
+        "rank": 18,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
+      },
+      {
+        "rank": 19,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
+        "rank": 20,
+        "id": "6446202561",
+        "title": "KICK - Live Streaming"
+      },
+      {
         "rank": 21,
-        "id": "399857015",
-        "title": "Planet Fitness"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 22,
-        "id": "333903271",
-        "title": "X"
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 25,
-        "id": "384830320",
-        "title": "Life360: Stay Connected & Safe"
+        "id": "399857015",
+        "title": "Planet Fitness"
       }
     ],
     "paid": [
