@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T13:45:07Z",
+  "updated_at": "2026-05-28T14:00:10Z",
   "charts": {
     "free": [
       {
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "289894882",
+        "title": "White Noise"
       },
       {
         "rank": 7,
-        "id": "289894882",
-        "title": "White Noise"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 8,
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 12,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 13,
@@ -201,38 +201,38 @@
       },
       {
         "rank": 15,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 16,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 17,
-        "id": "1356726417",
-        "title": "ForzaTune Pro"
-      },
-      {
-        "rank": 18,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 16,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 17,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 18,
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
+      },
+      {
         "rank": 19,
+        "id": "1356726417",
+        "title": "ForzaTune Pro"
+      },
+      {
+        "rank": 20,
         "id": "904237743",
         "title": "Things 3"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 21,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
       },
       {
         "rank": 22,
