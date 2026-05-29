@@ -79046,5 +79046,109 @@
     "position": 24,
     "from": "LiveATC Air Radio",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "MilGPS",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Things 3",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "ForzaTune Pro",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Shot Tracer",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Spirit Talker Â®",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Goblin Tools",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-05-29T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Goblin Tools"
   }
 ]
