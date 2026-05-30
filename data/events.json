@@ -80422,5 +80422,293 @@
     "position": 25,
     "from": "Solocator - GPS Field Camera",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Claude by Anthropic",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Gmail - Email by Google",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Meta AI",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Shop: All your favorite brands",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Instagram",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "T-Life",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "SHEIN - Shopping Online",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "Shot Tracer",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Procreate Pocket",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "QuickBend: Conduit Bending",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "SkyViewÂ®",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "imo video calls and chat HD",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "MilGPS",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Streaks",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "White Noise",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "ForzaTune Pro",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Things 3",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Walkout Song DJ",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-30T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Goblin Tools",
+    "to": "Ableton Note"
   }
 ]
