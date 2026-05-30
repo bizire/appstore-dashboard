@@ -80918,5 +80918,237 @@
     "position": 25,
     "from": "Ableton Note",
     "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Claude by Anthropic",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Amazon Fire TV",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Amazon Fire TV"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Meta AI",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Gmail - Email by Google",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "SHEIN - Shopping Online",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Instagram",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Shop: All your favorite brands",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "X",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Chrome",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "imo video calls and chat HD",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "MilGPS",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Walkout Song DJ",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "ForzaTune Pro",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Streaks",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-05-30T13:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Ableton Note",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
