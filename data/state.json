@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T16:15:07Z",
+  "updated_at": "2026-05-31T16:30:07Z",
   "charts": {
     "free": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 8,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 9,
@@ -59,8 +59,8 @@
       },
       {
         "rank": 12,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 13,
@@ -69,18 +69,18 @@
       },
       {
         "rank": 14,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 15,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1558240027",
         "title": "Meta AI"
+      },
+      {
+        "rank": 16,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 17,
@@ -89,18 +89,18 @@
       },
       {
         "rank": 18,
-        "id": "545519333",
-        "title": "Amazon Prime Video"
-      },
-      {
-        "rank": 19,
         "id": "384830320",
         "title": "Life360: Stay Connected & Safe"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "389801252",
         "title": "Instagram"
+      },
+      {
+        "rank": 20,
+        "id": "1252497129",
+        "title": "PictureThis - Plant Identifier"
       },
       {
         "rank": 21,
@@ -109,13 +109,13 @@
       },
       {
         "rank": 22,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 23,
-        "id": "530168168",
-        "title": "Paramount+"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       }
     ],
     "paid": [
@@ -196,48 +196,48 @@
       },
       {
         "rank": 14,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 15,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 16,
-        "id": "289894882",
-        "title": "White Noise"
-      },
-      {
-        "rank": 17,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
+        "rank": 15,
+        "id": "289894882",
+        "title": "White Noise"
+      },
+      {
+        "rank": 16,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 17,
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
+      },
+      {
         "rank": 18,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
+        "rank": 19,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "741990930",
         "title": "Walkout Song DJ"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "1449584007",
         "title": "Koala Sampler â¢ Beat Maker"
-      },
-      {
-        "rank": 22,
-        "id": "596026805",
-        "title": "PhotoPills"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
+        "id": "596026805",
+        "title": "PhotoPills"
       },
       {
         "rank": 25,
-        "id": "1356726417",
-        "title": "ForzaTune Pro"
+        "id": "1596063349",
+        "title": "Stash - Rule Based Proxy"
       }
     ]
   }
