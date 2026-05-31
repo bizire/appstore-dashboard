@@ -82814,5 +82814,109 @@
     "position": 25,
     "from": "QuickBend: Conduit Bending",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "SHEIN - Shopping Online",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Meta AI",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Amazon Prime Video",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Paramount+",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "X"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-05-31T13:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Shop: All your favorite brands",
+    "to": "Gmail - Email by Google"
   }
 ]
