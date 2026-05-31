@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T01:45:06Z",
+  "updated_at": "2026-05-31T02:00:09Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 6,
-        "id": "284815942",
-        "title": "Google"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 7,
@@ -54,43 +54,43 @@
       },
       {
         "rank": 11,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
-      },
-      {
-        "rank": 12,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
+        "rank": 12,
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
+      },
+      {
         "rank": 13,
-        "id": "530168168",
-        "title": "Paramount+"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 14,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 15,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 16,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 17,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
+        "rank": 15,
+        "id": "530168168",
+        "title": "Paramount+"
+      },
+      {
+        "rank": 16,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
+        "rank": 17,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
         "rank": 18,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 19,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
-        "id": "544007664",
-        "title": "YouTube"
-      },
-      {
-        "rank": 21,
         "id": "368677368",
         "title": "Uber - Request a ride"
       },
       {
+        "rank": 21,
+        "id": "384830320",
+        "title": "Life360: Stay Connected & Safe"
+      },
+      {
         "rank": 22,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 23,
-        "id": "324684580",
-        "title": "Spotify: Music and Podcasts"
-      },
-      {
-        "rank": 24,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
+        "rank": 23,
+        "id": "544007664",
+        "title": "YouTube"
+      },
+      {
+        "rank": 24,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
         "rank": 25,
-        "id": "384830320",
-        "title": "Life360: Stay Connected & Safe"
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
       }
     ],
     "paid": [
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 8,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 9,
@@ -176,33 +176,33 @@
       },
       {
         "rank": 10,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 11,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 12,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 13,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
-      },
-      {
-        "rank": 14,
+        "rank": 11,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
-        "rank": 15,
+        "rank": 12,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
+        "rank": 13,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 14,
         "id": "357421934",
         "title": "PeakFinder"
+      },
+      {
+        "rank": 15,
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       },
       {
         "rank": 16,
@@ -216,23 +216,23 @@
       },
       {
         "rank": 18,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 19,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "id": "1356726417",
         "title": "ForzaTune Pro"
-      },
-      {
-        "rank": 21,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
+        "rank": 24,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "id": "1633243177",
         "title": "Ableton Note"
-      },
-      {
-        "rank": 25,
-        "id": "6449003064",
-        "title": "Goblin Tools"
       }
     ]
   }
