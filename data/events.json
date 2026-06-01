@@ -84382,5 +84382,109 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "SHEIN - Shopping Online",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "X"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "X",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Meta AI",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Instagram",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-01T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "NetShort - Popular Dramas & TV"
   }
 ]
