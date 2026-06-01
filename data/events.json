@@ -84566,5 +84566,277 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Claude by Anthropic",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Planet Fitness",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "SHEIN - Shopping Online",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "X",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Meta AI",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "X"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Amazon Prime Video",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Uber - Request a ride",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Instagram",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "NetShort - Popular Dramas & TV",
+    "to": "Life360: Stay Connected & Safe"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "NetShort - Popular Dramas & TV"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "PeakFinder",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Shot Tracer",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "MilGPS",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "PhotoPills",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "White Noise",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Spirit Talker Â®",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "ForzaTune Pro",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Things 3",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-06-01T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Pocket God",
+    "to": "Spirit Talker Â®"
   }
 ]
