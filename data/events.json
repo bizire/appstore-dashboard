@@ -84838,5 +84838,277 @@
     "position": 25,
     "from": "Pocket God",
     "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Google Gemini",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Planet Fitness",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Instagram",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "SHEIN - Shopping Online",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "YouTube",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Meta AI",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Life360: Stay Connected & Safe",
+    "to": "NetShort - Popular Dramas & TV"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "NetShort - Popular Dramas & TV",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "RadarScope",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "imo video calls and chat HD",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "White Noise",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Things 3",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "PhotoPills",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Goblin Tools",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-01T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "ForzaTune Pro",
+    "to": "PhotoPills"
   }
 ]
