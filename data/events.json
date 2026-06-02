@@ -86414,5 +86414,109 @@
     "position": 24,
     "from": "Things 3",
     "to": "White Noise"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Monash FODMAP Diet",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "MilGPS",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Wipr 2",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "Land Nav Assistant"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "ForzaTune Pro",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Goblin Tools",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Pocket God",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "White Noise",
+    "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-06-02T16:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "HappyCow - Vegan Food Near You",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
