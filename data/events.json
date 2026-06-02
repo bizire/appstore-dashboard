@@ -86238,5 +86238,125 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "HappyCow - Vegan Food Near You"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Netflix Game Controller",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Authenticator",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "HBO Max: Stream Movies & TV",
+    "to": "X"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "X",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Indeed Job Search",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Shop: All your favorite brands",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Instagram",
+    "to": "NetShort - Popular Dramas & TV"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Life360: Family Safety & GPS",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-06-02T13:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Love Island USA",
+    "to": "TikTok - Videos, Shop & LIVE"
   }
 ]
