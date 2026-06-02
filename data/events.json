@@ -87070,5 +87070,85 @@
     "position": 25,
     "from": "Microsoft Outlook",
     "to": "X"
+  },
+  {
+    "ts": "2026-06-02T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-02T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-02T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-02T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-02T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Solocator - GPS Field Camera",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-02T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Shot Tracer",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-02T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Things 3",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-02T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-02T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-06-02T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Threema. The Secure Messenger"
   }
 ]
