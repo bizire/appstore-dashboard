@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T19:30:09Z",
+  "updated_at": "2026-06-02T19:45:07Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 6,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 7,
@@ -54,38 +54,38 @@
       },
       {
         "rank": 11,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 12,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 12,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
         "rank": 13,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 14,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 15,
-        "id": "333903271",
-        "title": "X"
-      },
-      {
-        "rank": 16,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
+        "rank": 16,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
+      },
+      {
         "rank": 17,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "309735670",
+        "title": "Indeed Job Search"
       },
       {
         "rank": 18,
@@ -94,28 +94,28 @@
       },
       {
         "rank": 19,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 20,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
+        "rank": 21,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
-        "rank": 21,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
-      },
-      {
         "rank": 22,
-        "id": "6504849169",
-        "title": "NetShort - Popular Dramas & TV"
+        "id": "1111876388",
+        "title": "T-Life"
       },
       {
         "rank": 23,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "951937596",
+        "title": "Microsoft Outlook"
       }
     ],
     "paid": [
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 6,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
@@ -166,13 +166,13 @@
       },
       {
         "rank": 8,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 9,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 10,
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 12,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 13,
@@ -196,53 +196,53 @@
       },
       {
         "rank": 14,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 15,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 16,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 17,
-        "id": "525299323",
-        "title": "Land Nav Assistant"
-      },
-      {
-        "rank": 18,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
-        "rank": 19,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 20,
-        "id": "6449003064",
-        "title": "Goblin Tools"
-      },
-      {
-        "rank": 21,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 22,
+        "rank": 15,
         "id": "1356726417",
         "title": "ForzaTune Pro"
       },
       {
+        "rank": 16,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 17,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 18,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
+        "rank": 19,
+        "id": "525299323",
+        "title": "Land Nav Assistant"
+      },
+      {
+        "rank": 20,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 21,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
+        "rank": 22,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
         "rank": 23,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
       }
     ]
   }
