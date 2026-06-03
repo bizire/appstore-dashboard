@@ -88502,5 +88502,245 @@
     "position": 25,
     "from": "V2Box Pro - V2ray Client",
     "to": "Land Nav Assistant"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Facebook",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Chrome",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "X",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Teams",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "SHEIN - Shopping Online",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "YouTube",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Indeed Job Search",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "T-Life"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Wipr 2",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "RadarScope",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Paprika Recipe Manager 3",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "ForzaTune Pro",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "Land Nav Assistant"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Things 3",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-03T20:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Land Nav Assistant",
+    "to": "V2Box Pro - V2ray Client"
   }
 ]
