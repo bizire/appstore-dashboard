@@ -87150,5 +87150,165 @@
     "position": 25,
     "from": "V2Box Pro - V2ray Client",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Microsoft Teams",
+    "to": "T-Life"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "T-Life",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Indeed Job Search",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Instagram",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Love Island USA",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Facebook",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Wipr 2",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "ForzaTune Pro",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Land Nav Assistant"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Land Nav Assistant",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-03T01:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
   }
 ]
