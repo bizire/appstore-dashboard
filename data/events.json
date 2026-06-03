@@ -87646,5 +87646,221 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Authenticator",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Gmail - Email by Google",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Shop: All your favorite brands",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "SHEIN - Shopping Online",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Netflix Game Controller",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Teams",
+    "to": "X"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Instagram",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "MilGPS",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Monash FODMAP Diet",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Wipr 2",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "ForzaTune Pro",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "QuickBend: Conduit Bending",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Solocator - GPS Field Camera",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Land Nav Assistant",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Things 3",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-03T07:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Goblin Tools",
+    "to": "LiveATC Air Radio"
   }
 ]
