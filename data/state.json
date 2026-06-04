@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T10:15:06Z",
+  "updated_at": "2026-06-04T10:30:08Z",
   "charts": {
     "free": [
       {
@@ -9,13 +9,13 @@
       },
       {
         "rank": 2,
-        "id": "317469184",
-        "title": "ESPN: Live Sports & Scores"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 3,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "317469184",
+        "title": "ESPN: Live Sports & Scores"
       },
       {
         "rank": 4,
@@ -34,18 +34,18 @@
       },
       {
         "rank": 7,
-        "id": "1193350206",
-        "title": "YouTube TV"
-      },
-      {
-        "rank": 8,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "6446901002",
         "title": "Threads"
+      },
+      {
+        "rank": 9,
+        "id": "1193350206",
+        "title": "YouTube TV"
       },
       {
         "rank": 10,
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 13,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
       },
       {
         "rank": 14,
@@ -84,18 +84,18 @@
       },
       {
         "rank": 17,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 18,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 18,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
         "rank": 19,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 20,
@@ -104,13 +104,13 @@
       },
       {
         "rank": 21,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 22,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "1558240027",
+        "title": "Meta AI"
       }
     ],
     "paid": [
@@ -156,23 +156,23 @@
       },
       {
         "rank": 6,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
-      },
-      {
-        "rank": 7,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
+        "rank": 7,
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
+      },
+      {
         "rank": 8,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 9,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 10,
@@ -181,8 +181,8 @@
       },
       {
         "rank": 11,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 12,
@@ -191,18 +191,18 @@
       },
       {
         "rank": 13,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 14,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
+        "rank": 14,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
         "rank": 15,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 16,
@@ -216,23 +216,23 @@
       },
       {
         "rank": 18,
-        "id": "1356726417",
-        "title": "ForzaTune Pro"
-      },
-      {
-        "rank": 19,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 19,
+        "id": "1356726417",
+        "title": "ForzaTune Pro"
+      },
+      {
         "rank": 20,
-        "id": "525299323",
-        "title": "Land Nav Assistant"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 21,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "525299323",
+        "title": "Land Nav Assistant"
       },
       {
         "rank": 24,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 25,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
       }
     ]
   }
