@@ -89942,5 +89942,173 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "AutoSnore: Snoring Recorder"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Planet Fitness",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Claude by Anthropic",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google Gemini",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Indeed Job Search",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "SHEIN - Shopping Online",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Kalshi: Trade News & Sports",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Meta AI",
+    "to": "Grok - AI Chat & Video"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "PeakFinder",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "imo video calls and chat HD",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Shot Tracer",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Things 3",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Goblin Tools",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Land Nav Assistant",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pocket God",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-06-04T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Goblin Tools"
   }
 ]

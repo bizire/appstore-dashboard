@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T13:30:08Z",
+  "updated_at": "2026-06-04T13:45:07Z",
   "charts": {
     "free": [
       {
@@ -24,23 +24,23 @@
       },
       {
         "rank": 5,
-        "id": "399857015",
-        "title": "Planet Fitness"
-      },
-      {
-        "rank": 6,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
+        "rank": 6,
+        "id": "399857015",
+        "title": "Planet Fitness"
+      },
+      {
         "rank": 7,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 9,
@@ -64,13 +64,13 @@
       },
       {
         "rank": 13,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 14,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
       },
       {
         "rank": 15,
@@ -79,13 +79,13 @@
       },
       {
         "rank": 16,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 17,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 18,
@@ -99,23 +99,23 @@
       },
       {
         "rank": 20,
-        "id": "309735670",
-        "title": "Indeed Job Search"
-      },
-      {
-        "rank": 21,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
+        "rank": 21,
+        "id": "309735670",
+        "title": "Indeed Job Search"
+      },
+      {
         "rank": 22,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "1558240027",
+        "title": "Meta AI"
       },
       {
         "rank": 23,
-        "id": "1632713844",
-        "title": "Kalshi: Trade News & Sports"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "id": "6670324846",
+        "title": "Grok - AI Chat & Video"
       }
     ],
     "paid": [
@@ -211,13 +211,13 @@
       },
       {
         "rank": 17,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 18,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 19,
@@ -226,33 +226,33 @@
       },
       {
         "rank": 20,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 21,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
-      },
-      {
-        "rank": 23,
-        "id": "525299323",
-        "title": "Land Nav Assistant"
-      },
-      {
-        "rank": 24,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
+        "rank": 21,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
+        "rank": 22,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 23,
+        "id": "1633243177",
+        "title": "Ableton Note"
+      },
+      {
+        "rank": 24,
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
+      },
+      {
         "rank": 25,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       }
     ]
   }
