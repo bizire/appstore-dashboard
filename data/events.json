@@ -88990,5 +88990,173 @@
     "position": 25,
     "from": "V2Box Pro - V2ray Client",
     "to": "Site Audit Pro"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Claude by Anthropic",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Planet Fitness",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Microsoft Authenticator",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "T-Life"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Instagram",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Chrome",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "T-Life",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Shop: All your favorite brands",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "RadarScope",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Solocator - GPS Field Camera",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Paprika Recipe Manager 3",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "ForzaTune Pro",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "FL Studio Mobile",
+    "to": "ForzaTune Pro"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "Site Audit Pro"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Shot Tracer",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-04T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Site Audit Pro",
+    "to": "V2Box Pro - V2ray Client"
   }
 ]
