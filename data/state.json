@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T07:15:07Z",
+  "updated_at": "2026-06-04T07:30:08Z",
   "charts": {
     "free": [
       {
@@ -29,13 +29,13 @@
       },
       {
         "rank": 6,
-        "id": "1193350206",
-        "title": "YouTube TV"
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
         "rank": 7,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "1193350206",
+        "title": "YouTube TV"
       },
       {
         "rank": 8,
@@ -49,8 +49,8 @@
       },
       {
         "rank": 10,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 11,
@@ -59,38 +59,38 @@
       },
       {
         "rank": 12,
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
+      },
+      {
+        "rank": 13,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 13,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
         "rank": 14,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 15,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
+        "rank": 16,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
+      },
+      {
         "rank": 17,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 18,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 19,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 21,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
-        "rank": 22,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "rank": 21,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
+        "rank": 23,
+        "id": "1632713844",
+        "title": "Kalshi: Trade News & Sports"
+      },
+      {
         "rank": 24,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 25,
-        "id": "1111876388",
-        "title": "T-Life"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       }
     ],
     "paid": [
@@ -151,18 +151,18 @@
       },
       {
         "rank": 5,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
+        "rank": 6,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "id": "405835358",
         "title": "MilGPS"
-      },
-      {
-        "rank": 7,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 8,
@@ -171,13 +171,13 @@
       },
       {
         "rank": 9,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 10,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 11,
@@ -186,8 +186,8 @@
       },
       {
         "rank": 12,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 13,
@@ -196,13 +196,13 @@
       },
       {
         "rank": 14,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 15,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 16,
@@ -211,18 +211,18 @@
       },
       {
         "rank": 17,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 18,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1356726417",
+        "title": "ForzaTune Pro"
       },
       {
         "rank": 19,
-        "id": "1356726417",
-        "title": "ForzaTune Pro"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 20,
@@ -231,8 +231,8 @@
       },
       {
         "rank": 21,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 24,
         "id": "904237743",
         "title": "Things 3"
       },
       {
+        "rank": 24,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
         "rank": 25,
-        "id": "298206806",
-        "title": "iReal Pro"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       }
     ]
   }
