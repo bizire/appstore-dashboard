@@ -92742,5 +92742,205 @@
     "position": 25,
     "from": "Steel Rain Call for Fire",
     "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Love Island USA",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Microsoft Authenticator",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Instagram",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Teams",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Facebook",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Chrome",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "YouTube",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Meta AI",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Indeed Job Search",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "MilGPS",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Paprika Recipe Manager 3",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "PeakFinder",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "imo video calls and chat HD",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Shot Tracer",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Land Nav Assistant",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-05T22:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pocket God",
+    "to": "Land Nav Assistant"
   }
 ]
