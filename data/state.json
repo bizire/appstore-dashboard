@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T01:45:07Z",
+  "updated_at": "2026-06-05T02:00:10Z",
   "charts": {
     "free": [
       {
@@ -19,8 +19,8 @@
       },
       {
         "rank": 4,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 5,
@@ -29,8 +29,8 @@
       },
       {
         "rank": 6,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 7,
@@ -49,8 +49,8 @@
       },
       {
         "rank": 10,
-        "id": "317469184",
-        "title": "ESPN: Live Sports & Scores"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 11,
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 13,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "317469184",
+        "title": "ESPN: Live Sports & Scores"
       },
       {
         "rank": 14,
@@ -84,8 +84,8 @@
       },
       {
         "rank": 17,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 18,
@@ -94,38 +94,38 @@
       },
       {
         "rank": 19,
-        "id": "1193350206",
-        "title": "YouTube TV"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 20,
-        "id": "535886823",
-        "title": "Google Chrome"
-      },
-      {
-        "rank": 21,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 22,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
-        "rank": 23,
+        "rank": 21,
+        "id": "535886823",
+        "title": "Google Chrome"
+      },
+      {
+        "rank": 22,
         "id": "284882215",
         "title": "Facebook"
       },
       {
+        "rank": 23,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
+      },
+      {
         "rank": 24,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 25,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
       }
     ],
     "paid": [
@@ -156,8 +156,8 @@
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "6764386977",
+        "title": "Pro-A5 Synth + AUv3"
       },
       {
         "rank": 7,
@@ -171,28 +171,28 @@
       },
       {
         "rank": 9,
-        "id": "6764386977",
-        "title": "Pro-A5 Synth + AUv3"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 10,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 11,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
+        "rank": 11,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
         "rank": 12,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 13,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 14,
@@ -206,8 +206,8 @@
       },
       {
         "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 17,
@@ -216,13 +216,13 @@
       },
       {
         "rank": 18,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 19,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
-      },
-      {
-        "rank": 22,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
+        "rank": 22,
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
+      },
+      {
         "rank": 23,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 24,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 25,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       }
     ]
   }

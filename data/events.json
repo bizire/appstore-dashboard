@@ -90846,5 +90846,221 @@
     "position": 24,
     "from": "AutoSnore: Snoring Recorder",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "ESPN: Live Sports & Scores",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Maps",
+    "to": "ESPN: Live Sports & Scores"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "YouTube TV",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Chrome",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Indeed Job Search",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Facebook",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "Pro-A5 Synth + AUv3"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Pro-A5 Synth + AUv3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Solocator - GPS Field Camera",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "RadarScope",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Paprika Recipe Manager 3",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Wipr 2",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PeakFinder",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "LiveATC Air Radio",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-05T02:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Ableton Note",
+    "to": "Goblin Tools"
   }
 ]
