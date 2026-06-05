@@ -92206,5 +92206,13 @@
     "position": 25,
     "from": "Shop: All your favorite brands",
     "to": null
+  },
+  {
+    "ts": "2026-06-05T16:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": null,
+    "to": "Instagram"
   }
 ]

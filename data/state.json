@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T16:15:08Z",
+  "updated_at": "2026-06-05T16:30:08Z",
   "charts": {
     "free": [
       {
@@ -121,6 +121,11 @@
         "rank": 24,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 25,
+        "id": "389801252",
+        "title": "Instagram"
       }
     ],
     "paid": [
