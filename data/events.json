@@ -91854,5 +91854,173 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "Steel Rain Call for Fire"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Planet Fitness",
+    "to": "CÐ¸ÑÐ¸ÑÑ"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "CÐ¸ÑÐ¸ÑÑ",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Indeed Job Search",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "SHEIN - Shopping Online",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Meta AI",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "RadarScope",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Shot Tracer",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "ForzaTune Pro",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-05T14:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Threema. The Secure Messenger"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T13:45:07Z",
+  "updated_at": "2026-06-05T14:00:10Z",
   "charts": {
     "free": [
       {
@@ -14,23 +14,23 @@
       },
       {
         "rank": 3,
-        "id": "399857015",
-        "title": "Planet Fitness"
+        "id": "6749962031",
+        "title": "CÐ¸ÑÐ¸ÑÑ"
       },
       {
         "rank": 4,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
-      },
-      {
-        "rank": 5,
         "id": "6446901002",
         "title": "Threads"
       },
       {
+        "rank": 5,
+        "id": "399857015",
+        "title": "Planet Fitness"
+      },
+      {
         "rank": 6,
-        "id": "6749962031",
-        "title": "CÐ¸ÑÐ¸ÑÑ"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 7,
@@ -64,23 +64,23 @@
       },
       {
         "rank": 13,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 14,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 14,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 15,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
       },
       {
         "rank": 16,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 17,
@@ -89,23 +89,23 @@
       },
       {
         "rank": 18,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "1558240027",
+        "title": "Meta AI"
       },
       {
         "rank": 19,
-        "id": "309735670",
-        "title": "Indeed Job Search"
-      },
-      {
-        "rank": 20,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
+        "rank": 20,
+        "id": "309735670",
+        "title": "Indeed Job Search"
+      },
+      {
         "rank": 21,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 22,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
       },
       {
         "rank": 24,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "535886823",
+        "title": "Google Chrome"
       },
       {
         "rank": 25,
-        "id": "324684580",
-        "title": "Spotify: Music and Podcasts"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       }
     ],
     "paid": [
@@ -186,13 +186,13 @@
       },
       {
         "rank": 12,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 14,
@@ -226,8 +226,8 @@
       },
       {
         "rank": 20,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 21,
@@ -236,18 +236,18 @@
       },
       {
         "rank": 22,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
       },
       {
         "rank": 23,
-        "id": "1356726417",
-        "title": "ForzaTune Pro"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 24,
-        "id": "6756966178",
-        "title": "V2Box Pro - V2ray Client"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 25,
