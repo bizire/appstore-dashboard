@@ -93126,5 +93126,325 @@
     "position": 24,
     "from": "Threema. The Secure Messenger",
     "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Google Gemini",
+    "to": "ESPN: Live Sports & Scores"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Threads",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Planet Fitness",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "WhatsApp Messenger",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Maps",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Gmail - Email by Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Love Island USA",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Instagram",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Spotify: Music and Podcasts",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Meta AI",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Teams",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Facebook",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Chrome",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "T-Life",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "MilGPS",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Pro-A5 Synth + AUv3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Pro-A5 Synth + AUv3"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Paprika Recipe Manager 3",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "QuickBend: Conduit Bending",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "PeakFinder",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Shot Tracer",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "IONIQ 5 Companion",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "imo video calls and chat HD",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Streaks",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Land Nav Assistant"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Land Nav Assistant",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pocket God",
+    "to": "V2Box Pro - V2ray Client"
+  },
+  {
+    "ts": "2026-06-06T04:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Ableton Note",
+    "to": "imo video calls and chat HD"
   }
 ]
