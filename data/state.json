@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T16:45:07Z",
+  "updated_at": "2026-06-06T17:00:10Z",
   "charts": {
     "free": [
       {
@@ -34,18 +34,18 @@
       },
       {
         "rank": 7,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 8,
         "id": "6447582581",
         "title": "Netflix Game Controller"
       },
       {
-        "rank": 8,
-        "id": "317469184",
-        "title": "ESPN: Live Sports & Scores"
-      },
-      {
         "rank": 9,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 10,
@@ -54,8 +54,8 @@
       },
       {
         "rank": 11,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "317469184",
+        "title": "ESPN: Live Sports & Scores"
       },
       {
         "rank": 12,
@@ -64,33 +64,33 @@
       },
       {
         "rank": 13,
-        "id": "1193350206",
-        "title": "YouTube TV"
-      },
-      {
-        "rank": 14,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "6745274862",
         "title": "DealSeek: Coupons & Discounts"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
+        "rank": 16,
+        "id": "1193350206",
+        "title": "YouTube TV"
+      },
+      {
         "rank": 17,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 18,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "1558240027",
+        "title": "Meta AI"
       },
       {
         "rank": 19,
@@ -99,8 +99,8 @@
       },
       {
         "rank": 20,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 21,
@@ -109,8 +109,8 @@
       },
       {
         "rank": 22,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "324684580",
+        "title": "Spotify: Music and Podcasts"
       },
       {
         "rank": 25,
-        "id": "1632713844",
-        "title": "Kalshi: Trade News & Sports"
+        "id": "389801252",
+        "title": "Instagram"
       }
     ],
     "paid": [
@@ -151,23 +151,23 @@
       },
       {
         "rank": 5,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 6,
         "id": "916366645",
         "title": "Procreate Pocket"
       },
       {
+        "rank": 6,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
         "rank": 7,
-        "id": "6761347502",
-        "title": "IONIQ 5 Companion"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 8,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "6761347502",
+        "title": "IONIQ 5 Companion"
       },
       {
         "rank": 9,
@@ -186,18 +186,18 @@
       },
       {
         "rank": 12,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
+        "rank": 13,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "id": "6764386977",
         "title": "Pro-A5 Synth + AUv3"
-      },
-      {
-        "rank": 14,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 15,
@@ -216,38 +216,38 @@
       },
       {
         "rank": 18,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 19,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
+        "rank": 19,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
         "rank": 20,
-        "id": "596026805",
-        "title": "PhotoPills"
-      },
-      {
-        "rank": 21,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 22,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
+        "rank": 21,
+        "id": "596026805",
+        "title": "PhotoPills"
+      },
+      {
+        "rank": 22,
+        "id": "741990930",
+        "title": "Walkout Song DJ"
+      },
+      {
         "rank": 23,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 24,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 25,
