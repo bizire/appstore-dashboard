@@ -93446,5 +93446,309 @@
     "position": 25,
     "from": "Ableton Note",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Claude by Anthropic",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ESPN: Live Sports & Scores",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "ESPN: Live Sports & Scores"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google Gemini",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Planet Fitness",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "YouTube TV",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Love Island USA",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Netflix Game Controller",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Instagram",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Meta AI",
+    "to": "Kalshi: Trade News & Sports"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Life360: Family Safety & GPS",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Procreate Pocket",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Pro-A5 Synth + AUv3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "IONIQ 5 Companion",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "RadarScope",
+    "to": "Pro-A5 Synth + AUv3"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Shot Tracer",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Streaks",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Pocket God",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Land Nav Assistant",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "V2Box Pro - V2ray Client",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-06-06T07:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "Threema. The Secure Messenger"
   }
 ]
