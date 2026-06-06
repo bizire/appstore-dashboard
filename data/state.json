@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T13:45:07Z",
+  "updated_at": "2026-06-06T14:00:11Z",
   "charts": {
     "free": [
       {
@@ -19,23 +19,23 @@
       },
       {
         "rank": 4,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
-      },
-      {
-        "rank": 5,
         "id": "6446901002",
         "title": "Threads"
       },
       {
+        "rank": 5,
+        "id": "6477489729",
+        "title": "Google Gemini"
+      },
+      {
         "rank": 6,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 7,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 8,
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "399857015",
-        "title": "Planet Fitness"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 10,
-        "id": "284815942",
-        "title": "Google"
+        "id": "399857015",
+        "title": "Planet Fitness"
       },
       {
         "rank": 11,
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "1193350206",
-        "title": "YouTube TV"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 13,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1193350206",
+        "title": "YouTube TV"
       },
       {
         "rank": 14,
@@ -89,18 +89,18 @@
       },
       {
         "rank": 18,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
-      },
-      {
-        "rank": 19,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "368677368",
         "title": "Uber - Request a ride"
+      },
+      {
+        "rank": 20,
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
       },
       {
         "rank": 21,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "1632713844",
-        "title": "Kalshi: Trade News & Sports"
-      },
-      {
-        "rank": 24,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 25,
+        "rank": 24,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
+      },
+      {
+        "rank": 25,
+        "id": "1632713844",
+        "title": "Kalshi: Trade News & Sports"
       }
     ],
     "paid": [
@@ -176,13 +176,13 @@
       },
       {
         "rank": 10,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 11,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 12,
@@ -211,18 +211,18 @@
       },
       {
         "rank": 17,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 18,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 19,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 20,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 25,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "6756966178",
+        "title": "V2Box Pro - V2ray Client"
       }
     ]
   }
