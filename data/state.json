@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T07:45:06Z",
+  "updated_at": "2026-06-07T08:00:11Z",
   "charts": {
     "free": [
       {
@@ -9,33 +9,33 @@
       },
       {
         "rank": 2,
-        "id": "1465944282",
-        "title": "Love Island USA"
-      },
-      {
-        "rank": 3,
         "id": "6447582581",
         "title": "Netflix Game Controller"
       },
       {
-        "rank": 4,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "rank": 3,
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": "6446901002",
         "title": "Threads"
       },
       {
+        "rank": 5,
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
+      },
+      {
         "rank": 6,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 7,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 8,
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 10,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 11,
@@ -59,8 +59,8 @@
       },
       {
         "rank": 12,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 13,
@@ -69,8 +69,8 @@
       },
       {
         "rank": 14,
-        "id": "399857015",
-        "title": "Planet Fitness"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
         "rank": 15,
@@ -79,48 +79,48 @@
       },
       {
         "rank": 16,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
-      },
-      {
-        "rank": 17,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
+        "rank": 17,
+        "id": "399857015",
+        "title": "Planet Fitness"
+      },
+      {
         "rank": 18,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 19,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 20,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
       },
       {
-        "rank": 21,
+        "rank": 19,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
-        "rank": 22,
+        "rank": 20,
         "id": "384830320",
         "title": "Life360: Family Safety & GPS"
       },
       {
+        "rank": 21,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 22,
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
+      },
+      {
         "rank": 23,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 24,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 25,
@@ -146,8 +146,8 @@
       },
       {
         "rank": 4,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 5,
@@ -156,23 +156,23 @@
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 7,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 8,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
+      },
+      {
+        "rank": 9,
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 10,
@@ -186,18 +186,18 @@
       },
       {
         "rank": 12,
-        "id": "6761347502",
-        "title": "IONIQ 5 Companion"
-      },
-      {
-        "rank": 13,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
+        "rank": 13,
+        "id": "6761347502",
+        "title": "IONIQ 5 Companion"
+      },
+      {
         "rank": 14,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 15,
@@ -206,23 +206,23 @@
       },
       {
         "rank": 16,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 17,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 17,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
         "rank": 18,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "id": "6764386977",
+        "title": "Pro-A5 Synth + AUv3"
       },
       {
         "rank": 19,
-        "id": "6764386977",
-        "title": "Pro-A5 Synth + AUv3"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "741990930",
+        "title": "Walkout Song DJ"
       },
       {
         "rank": 22,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1396698319",
+        "title": "Necrophonic"
       },
       {
         "rank": 23,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 24,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
+        "rank": 24,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
         "rank": 25,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       }
     ]
   }

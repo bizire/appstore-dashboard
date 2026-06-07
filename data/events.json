@@ -95278,5 +95278,293 @@
     "position": 25,
     "from": "QuickBend: Conduit Bending",
     "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Love Island USA",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google Gemini",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Planet Fitness",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Uber - Request a ride",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Instagram",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Meta AI",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Life360: Family Safety & GPS",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Gmail - Email by Google",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "Wipr 2",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "MilGPS",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "IONIQ 5 Companion",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Shot Tracer",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Walkout Song DJ",
+    "to": "Pro-A5 Synth + AUv3"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Pro-A5 Synth + AUv3",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "Walkout Song DJ"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Necrophonic"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Moment Pro Camera II",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "LiveATC Air Radio",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-07T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Pocket God",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
