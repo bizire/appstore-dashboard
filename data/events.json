@@ -95990,5 +95990,133 @@
     "position": 24,
     "from": "Pro-A5 Synth + AUv3",
     "to": "Necrophonic"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Uber - Request a ride",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Meta AI",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Planet Fitness",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Life360: Family Safety & GPS",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-07T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Life360: Family Safety & GPS"
   }
 ]
