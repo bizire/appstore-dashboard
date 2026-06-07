@@ -95774,5 +95774,45 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-07T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-07T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Shot Tracer",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-07T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pro-A5 Synth + AUv3",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-07T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "LiveATC Air Radio",
+    "to": "Pro-A5 Synth + AUv3"
+  },
+  {
+    "ts": "2026-06-07T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "LiveATC Air Radio"
   }
 ]

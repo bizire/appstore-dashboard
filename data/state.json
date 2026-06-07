@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T13:45:07Z",
+  "updated_at": "2026-06-07T14:00:11Z",
   "charts": {
     "free": [
       {
@@ -186,13 +186,13 @@
       },
       {
         "rank": 12,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 13,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 14,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 24,
         "id": "6764386977",
         "title": "Pro-A5 Synth + AUv3"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "id": "317809458",
         "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 25,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
       }
     ]
   }
