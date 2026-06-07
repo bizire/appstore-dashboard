@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T10:45:06Z",
+  "updated_at": "2026-06-07T11:00:11Z",
   "charts": {
     "free": [
       {
@@ -9,13 +9,13 @@
       },
       {
         "rank": 2,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 3,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 4,
@@ -29,13 +29,13 @@
       },
       {
         "rank": 6,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 7,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 8,
@@ -49,8 +49,8 @@
       },
       {
         "rank": 10,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 11,
@@ -59,18 +59,18 @@
       },
       {
         "rank": 12,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 13,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
         "rank": 14,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 15,
@@ -84,13 +84,13 @@
       },
       {
         "rank": 17,
-        "id": "399857015",
-        "title": "Planet Fitness"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 18,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "399857015",
+        "title": "Planet Fitness"
       },
       {
         "rank": 19,
@@ -109,18 +109,18 @@
       },
       {
         "rank": 22,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
+        "rank": 23,
         "id": "6745274862",
         "title": "DealSeek: Coupons & Discounts"
       },
       {
-        "rank": 23,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
         "rank": 24,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 25,
@@ -176,13 +176,13 @@
       },
       {
         "rank": 10,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 11,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 12,
@@ -191,13 +191,13 @@
       },
       {
         "rank": 13,
-        "id": "6761347502",
-        "title": "IONIQ 5 Companion"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 14,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 15,
@@ -206,8 +206,8 @@
       },
       {
         "rank": 16,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "6761347502",
+        "title": "IONIQ 5 Companion"
       },
       {
         "rank": 17,
@@ -216,43 +216,43 @@
       },
       {
         "rank": 18,
-        "id": "6764386977",
-        "title": "Pro-A5 Synth + AUv3"
-      },
-      {
-        "rank": 19,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 20,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 21,
-        "id": "741990930",
-        "title": "Walkout Song DJ"
+        "rank": 19,
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
-        "rank": 22,
+        "rank": 20,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 21,
         "id": "1396698319",
         "title": "Necrophonic"
       },
       {
+        "rank": 22,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
         "rank": 23,
+        "id": "6764386977",
+        "title": "Pro-A5 Synth + AUv3"
+      },
+      {
+        "rank": 24,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
-        "rank": 24,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
         "rank": 25,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       }
     ]
   }
