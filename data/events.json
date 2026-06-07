@@ -95894,5 +95894,101 @@
     "position": 23,
     "from": "DealSeek: Coupons & Discounts",
     "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-06-07T16:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-07T16:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "MilGPS",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-07T16:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-07T16:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-07T16:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Shot Tracer",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-07T16:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-07T16:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Pocket God",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-07T16:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-07T16:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Necrophonic",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-07T16:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Things 3",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-07T16:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-07T16:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pro-A5 Synth + AUv3",
+    "to": "Necrophonic"
   }
 ]
