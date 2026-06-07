@@ -95814,5 +95814,85 @@
     "position": 25,
     "from": "imo video calls and chat HD",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-07T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-07T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-07T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-07T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-07T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-07T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Planet Fitness",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-07T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Meta AI",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-07T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Life360: Family Safety & GPS",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-07T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "SHEIN - Shopping Online",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-06-07T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Life360: Family Safety & GPS"
   }
 ]
