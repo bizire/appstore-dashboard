@@ -98094,5 +98094,173 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Love Island USA",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Claude by Anthropic",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Authenticator",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Planet Fitness",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "SHEIN - Shopping Online",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "MilGPS",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Shot Tracer",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Streaks",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Things 3",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Pocket God",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "IONIQ 5 Companion",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-08T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
