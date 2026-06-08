@@ -97862,5 +97862,237 @@
     "position": 25,
     "from": "Necrophonic",
     "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google Gemini",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Planet Fitness",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "SHEIN - Shopping Online",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Meta AI",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Microsoft Authenticator",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Gmail - Email by Google",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Shop: All your favorite brands",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "RadarScope",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Shot Tracer",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "MilGPS",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Threema. The Secure Messenger",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Pocket God",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "IONIQ 5 Companion",
+    "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-06-08T19:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "HeartWatch: Heart Rate Monitor"
   }
 ]
