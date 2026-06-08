@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T13:45:07Z",
+  "updated_at": "2026-06-08T14:00:07Z",
   "charts": {
     "free": [
       {
@@ -226,28 +226,28 @@
       },
       {
         "rank": 20,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 21,
-        "id": "596026805",
-        "title": "PhotoPills"
-      },
-      {
-        "rank": 22,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
+        "rank": 21,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 22,
+        "id": "596026805",
+        "title": "PhotoPills"
+      },
+      {
         "rank": 23,
-        "id": "6761347502",
-        "title": "IONIQ 5 Companion"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       },
       {
         "rank": 24,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "6761347502",
+        "title": "IONIQ 5 Companion"
       },
       {
         "rank": 25,

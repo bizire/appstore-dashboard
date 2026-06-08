@@ -97630,5 +97630,45 @@
     "position": 24,
     "from": "Walmart: Shopping & Savings",
     "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-06-08T14:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Things 3",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-08T14:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PhotoPills",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-08T14:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-08T14:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "IONIQ 5 Companion",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-06-08T14:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "LiveATC Air Radio",
+    "to": "IONIQ 5 Companion"
   }
 ]
