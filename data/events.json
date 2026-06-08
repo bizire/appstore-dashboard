@@ -96694,5 +96694,85 @@
     "position": 24,
     "from": "Uber - Request a ride",
     "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-08T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-08T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-08T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-08T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-08T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-08T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-08T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Land Nav Assistant",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-08T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-08T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PhotoPills",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-06-08T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Things 3",
+    "to": "Walkout Song DJ"
   }
 ]
