@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T13:30:08Z",
+  "updated_at": "2026-06-08T13:45:07Z",
   "charts": {
     "free": [
       {
@@ -29,13 +29,13 @@
       },
       {
         "rank": 6,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 7,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 8,
@@ -79,48 +79,48 @@
       },
       {
         "rank": 16,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
-      },
-      {
-        "rank": 17,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "6476561442",
         "title": "FIFA World Cup 2026â¢"
       },
       {
-        "rank": 19,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "rank": 18,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
-        "rank": 21,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
+        "rank": 20,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "id": "368677368",
         "title": "Uber - Request a ride"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "389801252",
         "title": "Instagram"
       },
       {
+        "rank": 23,
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
+      },
+      {
         "rank": 24,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "384830320",
+        "title": "Life360: Family Safety & GPS"
       },
       {
         "rank": 25,
