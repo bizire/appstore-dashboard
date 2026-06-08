@@ -97318,5 +97318,229 @@
     "position": 25,
     "from": "FORScan Lite - for Ford, Mazda",
     "to": "Necrophonic"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Claude by Anthropic",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Planet Fitness",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Maps",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Life360: Family Safety & GPS",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Meta AI",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Instagram",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Airbnb",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "SkyViewÂ®",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Procreate Pocket",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Monash FODMAP Diet",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Pocket God",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "IONIQ 5 Companion",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-08T11:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "LiveATC Air Radio"
   }
 ]
