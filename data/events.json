@@ -99574,5 +99574,133 @@
     "position": 25,
     "from": "QuickBend: Conduit Bending",
     "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Google Gemini",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "YouTube TV",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "ESPN: Live Sports & Scores",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Microsoft Authenticator",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Instagram",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Trump Accounts: Official App",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "YouTube",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Kalshi: Trade News & Sports"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Facebook",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Kalshi: Trade News & Sports",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Netflix Game Controller",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-06-09T19:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "ESPN: Live Sports & Scores"
   }
 ]

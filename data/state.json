@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T19:30:08Z",
+  "updated_at": "2026-06-09T19:45:06Z",
   "charts": {
     "free": [
       {
@@ -19,13 +19,13 @@
       },
       {
         "rank": 4,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 5,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 6,
@@ -54,8 +54,8 @@
       },
       {
         "rank": 11,
-        "id": "1193350206",
-        "title": "YouTube TV"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 12,
@@ -64,68 +64,68 @@
       },
       {
         "rank": 13,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 14,
-        "id": "317469184",
-        "title": "ESPN: Live Sports & Scores"
-      },
-      {
-        "rank": 15,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 16,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "rank": 14,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
-        "rank": 17,
+        "rank": 15,
+        "id": "1193350206",
+        "title": "YouTube TV"
+      },
+      {
+        "rank": 16,
         "id": "389801252",
         "title": "Instagram"
       },
       {
-        "rank": 18,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
-      },
-      {
-        "rank": 19,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 20,
-        "id": "544007664",
-        "title": "YouTube"
-      },
-      {
-        "rank": 21,
+        "rank": 17,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 22,
-        "id": "284882215",
-        "title": "Facebook"
+        "rank": 18,
+        "id": "544007664",
+        "title": "YouTube"
       },
       {
-        "rank": 23,
+        "rank": 19,
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
+      },
+      {
+        "rank": 20,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 21,
         "id": "1632713844",
         "title": "Kalshi: Trade News & Sports"
       },
       {
+        "rank": 22,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
+      },
+      {
+        "rank": 23,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
         "rank": 24,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 25,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "317469184",
+        "title": "ESPN: Live Sports & Scores"
       }
     ],
     "paid": [
