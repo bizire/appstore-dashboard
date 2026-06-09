@@ -98262,5 +98262,205 @@
     "position": 25,
     "from": "HeartWatch: Heart Rate Monitor",
     "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Love Island USA",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Google Gemini",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Netflix Game Controller",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Microsoft Authenticator",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Planet Fitness",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "SHEIN - Shopping Online",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Shop: All your favorite brands",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Kalshi: Trade News & Sports"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Meta AI",
+    "to": "Dunkin'"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Shot Tracer",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "imo video calls and chat HD",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Spirit Talker Â®",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Things 3",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PhotoPills",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-09T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "IONIQ 5 Companion"
   }
 ]
