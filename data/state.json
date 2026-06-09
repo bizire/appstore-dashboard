@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T22:45:07Z",
+  "updated_at": "2026-06-09T23:00:11Z",
   "charts": {
     "free": [
       {
@@ -29,13 +29,13 @@
       },
       {
         "rank": 6,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 7,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 8,
@@ -49,13 +49,13 @@
       },
       {
         "rank": 10,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 11,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 12,
@@ -69,33 +69,33 @@
       },
       {
         "rank": 14,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 15,
         "id": "835599320",
         "title": "TikTok - Videos, Shop & LIVE"
       },
       {
-        "rank": 15,
-        "id": "1193350206",
-        "title": "YouTube TV"
-      },
-      {
         "rank": 16,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 17,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
+        "rank": 17,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
         "rank": 18,
-        "id": "544007664",
-        "title": "YouTube"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 19,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
+        "id": "1632713844",
+        "title": "Kalshi: Trade News & Sports"
       },
       {
         "rank": 20,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "1632713844",
-        "title": "Kalshi: Trade News & Sports"
+        "id": "544007664",
+        "title": "YouTube"
       },
       {
         "rank": 22,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 23,
         "id": "284882215",
         "title": "Facebook"
       },
       {
+        "rank": 23,
+        "id": "535886823",
+        "title": "Google Chrome"
+      },
+      {
         "rank": 24,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "1193350206",
+        "title": "YouTube TV"
       },
       {
         "rank": 25,
-        "id": "317469184",
-        "title": "ESPN: Live Sports & Scores"
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       }
     ],
     "paid": [
@@ -171,28 +171,28 @@
       },
       {
         "rank": 9,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
-      },
-      {
-        "rank": 10,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 11,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
+        "rank": 10,
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
+      },
+      {
+        "rank": 11,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
         "rank": 12,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 13,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 14,
@@ -201,38 +201,38 @@
       },
       {
         "rank": 15,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 16,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 17,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 18,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
-        "rank": 19,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "rank": 16,
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
-        "rank": 20,
+        "rank": 17,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 18,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
+        "rank": 19,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
+      },
+      {
+        "rank": 21,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
+        "id": "1633243177",
+        "title": "Ableton Note"
+      },
+      {
+        "rank": 24,
         "id": "904237743",
         "title": "Things 3"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "id": "301387274",
         "title": "Pocket God"
-      },
-      {
-        "rank": 25,
-        "id": "1633243177",
-        "title": "Ableton Note"
       }
     ]
   }

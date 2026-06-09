@@ -99846,5 +99846,245 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "WhatsApp Messenger",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "YouTube TV",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Instagram",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "YouTube",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Trump Accounts: Official App",
+    "to": "Kalshi: Trade News & Sports"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Kalshi: Trade News & Sports",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Facebook",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Microsoft Teams",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "ESPN: Live Sports & Scores",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PeakFinder",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "imo video calls and chat HD",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Shot Tracer",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Spirit Talker Â®",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pocket God",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-09T23:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Ableton Note",
+    "to": "Pocket God"
   }
 ]
