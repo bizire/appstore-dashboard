@@ -99318,5 +99318,261 @@
     "position": 25,
     "from": "SHEIN - Shopping Online",
     "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "YouTube TV",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Planet Fitness",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "ESPN: Live Sports & Scores",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Netflix Game Controller",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "ESPN: Live Sports & Scores"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Kalshi: Trade News & Sports",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Trump Accounts: Official App",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Gmail - Email by Google",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Polymarket",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Kalshi: Trade News & Sports"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Authenticator",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Shot Tracer",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Spirit Talker Â®",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "imo video calls and chat HD",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Things 3",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Pocket God",
+    "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Moment Pro Camera II",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-09T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
