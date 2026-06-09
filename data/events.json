@@ -99190,5 +99190,133 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google Gemini",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "ESPN: Live Sports & Scores",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Netflix Game Controller",
+    "to": "ESPN: Live Sports & Scores"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Polymarket",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Authenticator",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Gmail - Email by Google",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-09T13:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "SHEIN - Shopping Online",
+    "to": "Microsoft Authenticator"
   }
 ]
