@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T13:15:06Z",
+  "updated_at": "2026-06-09T13:30:08Z",
   "charts": {
     "free": [
       {
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 12,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 13,
@@ -221,38 +221,38 @@
       },
       {
         "rank": 19,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 20,
-        "id": "301387274",
-        "title": "Pocket God"
-      },
-      {
-        "rank": 21,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 22,
+        "rank": 20,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 21,
         "id": "1581140954",
         "title": "Noir - Dark Mode for Safari"
       },
       {
-        "rank": 23,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "rank": 22,
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
-        "rank": 25,
+        "rank": 24,
         "id": "1449584007",
         "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
+        "rank": 25,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       }
     ]
   }

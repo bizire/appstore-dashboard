@@ -99118,5 +99118,77 @@
     "position": 24,
     "from": "Goblin Tools",
     "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-09T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-09T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-09T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Things 3",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-09T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pocket God",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-09T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-06-09T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-09T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-09T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Moment Pro Camera II",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-06-09T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "QuickBend: Conduit Bending"
   }
 ]
