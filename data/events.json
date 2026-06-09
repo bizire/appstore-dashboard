@@ -98966,5 +98966,157 @@
     "position": 25,
     "from": "iReal Pro",
     "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "YouTube TV",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Planet Fitness",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "ESPN: Live Sports & Scores",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "ESPN: Live Sports & Scores"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Netflix Game Controller",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Polymarket",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "imo video calls and chat HD",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Things 3",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Moment Pro Camera II",
+    "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pocket God",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-09T11:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Goblin Tools",
+    "to": "Moment Pro Camera II"
   }
 ]
