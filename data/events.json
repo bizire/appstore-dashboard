@@ -98734,5 +98734,237 @@
     "position": 25,
     "from": "IONIQ 5 Companion",
     "to": "iReal Pro"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "YouTube TV",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "ESPN: Live Sports & Scores",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "ESPN: Live Sports & Scores"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Trump Accounts: Official App",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Kalshi: Trade News & Sports"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Kalshi: Trade News & Sports",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Microsoft Authenticator",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Polymarket",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Shop: All your favorite brands",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Wipr 2",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "MilGPS",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "RadarScope",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Shot Tracer",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Spirit Talker Â®",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pocket God",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Moment Pro Camera II",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Things 3",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-09T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "iReal Pro",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]

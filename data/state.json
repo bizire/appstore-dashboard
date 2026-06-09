@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T07:45:07Z",
+  "updated_at": "2026-06-09T08:00:08Z",
   "charts": {
     "free": [
       {
@@ -14,23 +14,23 @@
       },
       {
         "rank": 3,
-        "id": "1193350206",
-        "title": "YouTube TV"
-      },
-      {
-        "rank": 4,
         "id": "1508186374",
         "title": "Peacock TV: Stream TV & Movies"
       },
       {
+        "rank": 4,
+        "id": "1193350206",
+        "title": "YouTube TV"
+      },
+      {
         "rank": 5,
-        "id": "317469184",
-        "title": "ESPN: Live Sports & Scores"
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
         "rank": 6,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 7,
@@ -39,8 +39,8 @@
       },
       {
         "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "317469184",
+        "title": "ESPN: Live Sports & Scores"
       },
       {
         "rank": 9,
@@ -64,28 +64,28 @@
       },
       {
         "rank": 13,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
-      },
-      {
-        "rank": 14,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "id": "1632713844",
         "title": "Kalshi: Trade News & Sports"
+      },
+      {
+        "rank": 17,
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       },
       {
         "rank": 18,
@@ -94,13 +94,13 @@
       },
       {
         "rank": 19,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 20,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6648798962",
+        "title": "Polymarket"
       },
       {
         "rank": 21,
@@ -109,8 +109,8 @@
       },
       {
         "rank": 22,
-        "id": "6648798962",
-        "title": "Polymarket"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 23,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       }
     ],
     "paid": [
@@ -156,18 +156,18 @@
       },
       {
         "rank": 6,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
+        "rank": 7,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "id": "405835358",
         "title": "MilGPS"
-      },
-      {
-        "rank": 8,
-        "id": "288419283",
-        "title": "RadarScope"
       },
       {
         "rank": 9,
@@ -191,28 +191,28 @@
       },
       {
         "rank": 13,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 14,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 15,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 14,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
+        "rank": 15,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
         "rank": 16,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 17,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 18,
@@ -221,38 +221,38 @@
       },
       {
         "rank": 19,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 20,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 21,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 22,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
-      },
-      {
-        "rank": 23,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 24,
         "id": "904237743",
         "title": "Things 3"
       },
       {
+        "rank": 22,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
+        "rank": 23,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
+        "rank": 24,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
         "rank": 25,
-        "id": "298206806",
-        "title": "iReal Pro"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       }
     ]
   }
