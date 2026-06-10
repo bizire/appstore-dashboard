@@ -101126,5 +101126,189 @@
     "position": 25,
     "from": "Things 3",
     "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google Gemini",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Kalshi: Trade News & Sports",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "Kalshi: Trade News & Sports"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Netflix Game Controller",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Authenticator",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Chrome",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Wipr 2",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "PeakFinder",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Spirit Talker Â®",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Shot Tracer",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "iReal Pro",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-10T16:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Ableton Note",
+    "to": "Noir - Dark Mode for Safari"
   }
 ]
