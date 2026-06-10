@@ -100998,5 +100998,133 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Claude by Anthropic",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Netflix Game Controller",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Kalshi: Trade News & Sports",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Kalshi: Trade News & Sports"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Shot Tracer",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Ableton Note",
+    "to": "iReal Pro"
+  },
+  {
+    "ts": "2026-06-10T13:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Things 3",
+    "to": "Ableton Note"
   }
 ]
