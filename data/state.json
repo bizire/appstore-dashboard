@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T10:15:08Z",
+  "updated_at": "2026-06-10T10:30:08Z",
   "charts": {
     "free": [
       {
@@ -74,23 +74,23 @@
       },
       {
         "rank": 15,
-        "id": "6476561442",
-        "title": "FIFA World Cup 2026â¢"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 16,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
-      },
-      {
-        "rank": 17,
         "id": "1632713844",
         "title": "Kalshi: Trade News & Sports"
       },
       {
+        "rank": 17,
+        "id": "6476561442",
+        "title": "FIFA World Cup 2026â¢"
+      },
+      {
         "rank": 18,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
       },
       {
         "rank": 19,
@@ -99,18 +99,18 @@
       },
       {
         "rank": 20,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 21,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "983156458",
         "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 22,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
       },
       {
         "rank": 23,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "711923939",
-        "title": "Cash App"
+        "id": "333903271",
+        "title": "X"
       }
     ],
     "paid": [
@@ -146,13 +146,13 @@
       },
       {
         "rank": 4,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 5,
-        "id": "916366645",
-        "title": "Procreate Pocket"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 6,
@@ -186,13 +186,13 @@
       },
       {
         "rank": 12,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 13,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 14,
@@ -201,58 +201,58 @@
       },
       {
         "rank": 15,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 16,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
+        "rank": 16,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
         "rank": 17,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 18,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 19,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 20,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
-      },
-      {
-        "rank": 21,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 22,
-        "id": "298206806",
-        "title": "iReal Pro"
+        "rank": 18,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
-        "rank": 23,
-        "id": "301387274",
-        "title": "Pocket God"
+        "rank": 19,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
-        "rank": 24,
+        "rank": 20,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
+        "rank": 21,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 25,
+        "rank": 22,
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
+        "rank": 23,
         "id": "317809458",
         "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 24,
+        "id": "1633243177",
+        "title": "Ableton Note"
+      },
+      {
+        "rank": 25,
+        "id": "904237743",
+        "title": "Things 3"
       }
     ]
   }
