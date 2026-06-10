@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T07:30:08Z",
+  "updated_at": "2026-06-10T07:45:07Z",
   "charts": {
     "free": [
       {
@@ -146,23 +146,23 @@
       },
       {
         "rank": 4,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
+        "rank": 5,
         "id": "916366645",
         "title": "Procreate Pocket"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
-      },
-      {
-        "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
       },
       {
         "rank": 8,
@@ -186,73 +186,73 @@
       },
       {
         "rank": 12,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 13,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 14,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 15,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 16,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 17,
+        "rank": 13,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 18,
+        "rank": 14,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 15,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
+        "rank": 16,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 17,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
+        "rank": 18,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
         "rank": 19,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 21,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
-      },
-      {
-        "rank": 22,
-        "id": "301387274",
-        "title": "Pocket God"
-      },
-      {
-        "rank": 23,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 24,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
+        "rank": 20,
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
+        "rank": 21,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 22,
+        "id": "298206806",
+        "title": "iReal Pro"
+      },
+      {
+        "rank": 23,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
+        "rank": 24,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
         "rank": 25,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       }
     ]
   }
