@@ -100126,5 +100126,117 @@
     "position": 10,
     "from": "TonalEnergy Tuner & Metronome",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "WhatsApp Messenger",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Planet Fitness",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Gmail - Email by Google",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Maps",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Teams",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Instagram",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "YouTube",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Chrome",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "YouTube TV",
+    "to": "Google Chrome"
+  },
+  {
+    "ts": "2026-06-10T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Trump Accounts: Official App",
+    "to": "Indeed Job Search"
   }
 ]
