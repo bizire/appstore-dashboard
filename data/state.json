@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T22:30:07Z",
+  "updated_at": "2026-06-10T22:45:07Z",
   "charts": {
     "free": [
       {
@@ -34,8 +34,8 @@
       },
       {
         "rank": 7,
-        "id": "399857015",
-        "title": "Planet Fitness"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 8,
@@ -44,43 +44,43 @@
       },
       {
         "rank": 9,
+        "id": "399857015",
+        "title": "Planet Fitness"
+      },
+      {
+        "rank": 10,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 10,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
-      },
-      {
         "rank": 11,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 12,
         "id": "6476561442",
         "title": "FIFA World Cup 2026â¢"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
-        "rank": 14,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "rank": 13,
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
+        "rank": 15,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
         "rank": 16,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 17,
@@ -89,13 +89,13 @@
       },
       {
         "rank": 18,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       },
       {
         "rank": 19,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "535886823",
+        "title": "Google Chrome"
       },
       {
         "rank": 20,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 22,
-        "id": "535886823",
-        "title": "Google Chrome"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 23,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
+        "rank": 24,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
-        "rank": 24,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
         "rank": 25,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "389801252",
+        "title": "Instagram"
       }
     ],
     "paid": [
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 9,
@@ -181,8 +181,8 @@
       },
       {
         "rank": 11,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "6761347502",
+        "title": "IONIQ 5 Companion"
       },
       {
         "rank": 12,
@@ -191,8 +191,8 @@
       },
       {
         "rank": 13,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 14,
@@ -206,8 +206,8 @@
       },
       {
         "rank": 16,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 17,
@@ -216,43 +216,43 @@
       },
       {
         "rank": 18,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 19,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 20,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
+        "rank": 21,
+        "id": "430234732",
+        "title": "Site Audit Pro"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
-        "rank": 23,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
         "rank": 24,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "6746705608",
+        "title": "AutoSnore: Snoring Recorder"
       },
       {
         "rank": 25,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       }
     ]
   }
