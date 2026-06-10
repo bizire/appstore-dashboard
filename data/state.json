@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T07:45:07Z",
+  "updated_at": "2026-06-10T08:00:15Z",
   "charts": {
     "free": [
       {
@@ -44,8 +44,8 @@
       },
       {
         "rank": 9,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 10,
@@ -54,73 +54,73 @@
       },
       {
         "rank": 11,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 12,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 13,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "rank": 12,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 15,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 16,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 17,
-        "id": "6476561442",
-        "title": "FIFA World Cup 2026â¢"
-      },
-      {
-        "rank": 18,
+        "rank": 14,
         "id": "6447582581",
         "title": "Netflix Game Controller"
       },
       {
-        "rank": 19,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "rank": 15,
+        "id": "6476561442",
+        "title": "FIFA World Cup 2026â¢"
       },
       {
-        "rank": 20,
+        "rank": 16,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 21,
+        "rank": 17,
         "id": "1632713844",
         "title": "Kalshi: Trade News & Sports"
       },
       {
-        "rank": 22,
+        "rank": 18,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 19,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 20,
         "id": "309735670",
         "title": "Indeed Job Search"
       },
       {
+        "rank": 21,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
+        "rank": 22,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
         "rank": 23,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 24,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 25,
