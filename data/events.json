@@ -101798,5 +101798,301 @@
     "position": 25,
     "from": "Ableton Note",
     "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Claude by Anthropic",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "WhatsApp Messenger",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "ESPN: Live Sports & Scores"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Microsoft Authenticator",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Maps",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Gmail - Email by Google",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Teams",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Trump Accounts: Official App",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Chrome",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Kalshi: Trade the Cup",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Indeed Job Search",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Instagram",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "MilGPS",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "IONIQ 5 Companion",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PeakFinder",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Spirit Talker Â®",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-11T04:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Shot Tracer",
+    "to": "Goblin Tools"
   }
 ]
