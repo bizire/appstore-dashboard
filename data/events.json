@@ -102094,5 +102094,205 @@
     "position": 25,
     "from": "Shot Tracer",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Planet Fitness",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Trump Accounts: Official App",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "YouTube TV",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Kalshi: Trade the Cup",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "Tubi: Movies & Live TV"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Gmail - Email by Google",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Authenticator",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Polymarket",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "IONIQ 5 Companion",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Wipr 2",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Solocator - GPS Field Camera",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Site Audit Pro",
+    "to": "iReal Pro"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Site Audit Pro"
+  },
+  {
+    "ts": "2026-06-11T06:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Shot Tracer",
+    "to": "RadarOmega: Doppler Radar App"
   }
 ]
