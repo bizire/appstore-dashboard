@@ -102294,5 +102294,157 @@
     "position": 24,
     "from": "Shot Tracer",
     "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Google Gemini",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "ESPN: Live Sports & Scores"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "ESPN: Live Sports & Scores",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "YouTube TV",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Planet Fitness",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Trump Accounts: Official App",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Kalshi: Trade the Cup",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "WhatsApp Messenger",
+    "to": "Tubi: Movies & Live TV"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Tubi: Movies & Live TV",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Gmail - Email by Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-11T07:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Authenticator",
+    "to": "Gmail - Email by Google"
   }
 ]
