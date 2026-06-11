@@ -102446,5 +102446,125 @@
     "position": 25,
     "from": "Microsoft Authenticator",
     "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "IONIQ 5 Companion",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Solocator - GPS Field Camera",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "PeakFinder",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Site Audit Pro",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-11T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Goblin Tools",
+    "to": "LiveATC Air Radio"
   }
 ]
