@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-06-11T22:45:07Z",
+  "updated_at": "2026-06-11T23:00:11Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "886445756",
+        "title": "Tubi: Movies & Live TV"
       },
       {
         "rank": 2,
@@ -19,33 +19,33 @@
       },
       {
         "rank": 4,
-        "id": "886445756",
-        "title": "Tubi: Movies & Live TV"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 5,
-        "id": "6448311069",
-        "title": "ChatGPT"
-      },
-      {
-        "rank": 6,
         "id": "6476561442",
         "title": "FIFA World Cup 2026â¢"
       },
       {
+        "rank": 6,
+        "id": "6448311069",
+        "title": "ChatGPT"
+      },
+      {
         "rank": 7,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
       },
       {
         "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
       },
       {
         "rank": 9,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
         "rank": 10,
@@ -54,38 +54,38 @@
       },
       {
         "rank": 11,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 12,
+        "id": "6446901002",
+        "title": "Threads"
+      },
+      {
+        "rank": 13,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 13,
+        "rank": 14,
+        "id": "1193350206",
+        "title": "YouTube TV"
+      },
+      {
+        "rank": 15,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 14,
+        "rank": 16,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 15,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
-      },
-      {
-        "rank": 16,
+        "rank": 17,
         "id": "6648798962",
         "title": "Polymarket"
-      },
-      {
-        "rank": 17,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 18,
@@ -94,18 +94,18 @@
       },
       {
         "rank": 19,
-        "id": "1193350206",
-        "title": "YouTube TV"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 20,
-        "id": "317469184",
-        "title": "ESPN: Live Sports & Scores"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 21,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "317469184",
+        "title": "ESPN: Live Sports & Scores"
       },
       {
         "rank": 22,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 25,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "535886823",
+        "title": "Google Chrome"
       }
     ],
     "paid": [
@@ -186,8 +186,8 @@
       },
       {
         "rank": 12,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 13,
@@ -196,8 +196,8 @@
       },
       {
         "rank": 14,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 15,
@@ -211,18 +211,18 @@
       },
       {
         "rank": 17,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 18,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 19,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "6449003064",
-        "title": "Goblin Tools"
-      },
-      {
-        "rank": 22,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
+        "rank": 22,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
         "rank": 23,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 24,
         "id": "6746705608",
         "title": "AutoSnore: Snoring Recorder"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "id": "1633243177",
         "title": "Ableton Note"
-      },
-      {
-        "rank": 25,
-        "id": "1596063349",
-        "title": "Stash - Rule Based Proxy"
       }
     ]
   }
