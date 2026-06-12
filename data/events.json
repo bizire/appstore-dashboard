@@ -104518,5 +104518,157 @@
     "position": 25,
     "from": "Shot Tracer",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Procreate Pocket",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "MilGPS",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Wipr 2",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "NOAA Weather Radio",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PeakFinder",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Spirit Talker Â®",
+    "to": "NOAA Weather Radio"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Solocator - GPS Field Camera",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Ableton Note",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-12T17:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Noir - Dark Mode for Safari"
   }
 ]
