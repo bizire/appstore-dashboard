@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T17:30:08Z",
+  "updated_at": "2026-06-12T17:45:07Z",
   "charts": {
     "free": [
       {
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
+        "id": "1632713844",
+        "title": "Kalshi: Trade the Cup"
       },
       {
         "rank": 9,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the Cup"
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
       },
       {
         "rank": 10,
@@ -54,28 +54,28 @@
       },
       {
         "rank": 11,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
-      },
-      {
-        "rank": 12,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
+        "rank": 13,
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
+      },
+      {
         "rank": 14,
-        "id": "6648798962",
-        "title": "Polymarket"
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
       },
       {
         "rank": 15,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
+        "id": "6648798962",
+        "title": "Polymarket"
       },
       {
         "rank": 16,
@@ -84,13 +84,13 @@
       },
       {
         "rank": 17,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 18,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 19,
@@ -99,13 +99,13 @@
       },
       {
         "rank": 20,
-        "id": "1193350206",
-        "title": "YouTube TV"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 21,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "284882215",
+        "title": "Facebook"
       },
       {
         "rank": 22,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
+        "id": "1193350206",
+        "title": "YouTube TV"
+      },
+      {
+        "rank": 24,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "id": "422689480",
         "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 25,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
       }
     ],
     "paid": [
