@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-12T04:45:08Z",
+  "updated_at": "2026-06-12T05:00:10Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "886445756",
-        "title": "Tubi: Movies & Live TV"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 2,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "886445756",
+        "title": "Tubi: Movies & Live TV"
       },
       {
         "rank": 3,
@@ -39,93 +39,93 @@
       },
       {
         "rank": 8,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 9,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
-      },
-      {
-        "rank": 10,
         "id": "1632713844",
         "title": "Kalshi: Trade the Cup"
       },
       {
+        "rank": 10,
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
+      },
+      {
         "rank": 11,
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
+      },
+      {
+        "rank": 12,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 13,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
         "rank": 14,
-        "id": "1193350206",
-        "title": "YouTube TV"
-      },
-      {
-        "rank": 15,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 16,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 17,
+        "rank": 15,
         "id": "6648798962",
         "title": "Polymarket"
       },
       {
+        "rank": 16,
+        "id": "1193350206",
+        "title": "YouTube TV"
+      },
+      {
+        "rank": 17,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
         "rank": 18,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 19,
         "id": "399857015",
         "title": "Planet Fitness"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 21,
-        "id": "317469184",
-        "title": "ESPN: Live Sports & Scores"
+        "rank": 22,
+        "id": "589653414",
+        "title": "7-Eleven: Rewards & Shopping"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 23,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
         "rank": 24,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 25,
-        "id": "535886823",
-        "title": "Google Chrome"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       }
     ],
     "paid": [
@@ -146,13 +146,13 @@
       },
       {
         "rank": 4,
-        "id": "916366645",
-        "title": "Procreate Pocket"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 5,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 6,
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "6761347502",
-        "title": "IONIQ 5 Companion"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "6761347502",
+        "title": "IONIQ 5 Companion"
       },
       {
         "rank": 9,
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
       },
       {
         "rank": 12,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 13,
@@ -196,63 +196,63 @@
       },
       {
         "rank": 14,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 15,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
+        "rank": 16,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 16,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
         "rank": 17,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 18,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 19,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 20,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
-      },
-      {
-        "rank": 21,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
+        "rank": 18,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 19,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 20,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
+        "rank": 21,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
         "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 23,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 24,
-        "id": "6746705608",
-        "title": "AutoSnore: Snoring Recorder"
+        "id": "410148139",
+        "title": "NOAA Weather Radio"
       },
       {
         "rank": 25,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       }
     ]
   }

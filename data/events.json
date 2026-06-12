@@ -103590,5 +103590,309 @@
     "position": 25,
     "from": "Stash - Rule Based Proxy",
     "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Tubi: Movies & Live TV",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Tubi: Movies & Live TV"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Claude by Anthropic",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Kalshi: Trade the Cup",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "YouTube TV",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "WhatsApp Messenger",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Polymarket",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Planet Fitness",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "ESPN: Live Sports & Scores",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Gmail - Email by Google",
+    "to": "7-Eleven: Rewards & Shopping"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Microsoft Authenticator",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Microsoft Teams",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Chrome",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "Procreate Pocket",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "RadarScope",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "IONIQ 5 Companion",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "QuickBend: Conduit Bending",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Paprika Recipe Manager 3",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Wipr 2",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PeakFinder",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Goblin Tools",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "AutoSnore: Snoring Recorder",
+    "to": "NOAA Weather Radio"
+  },
+  {
+    "ts": "2026-06-12T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Ableton Note",
+    "to": "LiveATC Air Radio"
   }
 ]
