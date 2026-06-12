@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T10:45:07Z",
+  "updated_at": "2026-06-12T11:00:14Z",
   "charts": {
     "free": [
       {
@@ -29,13 +29,13 @@
       },
       {
         "rank": 6,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 7,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 8,
@@ -69,13 +69,13 @@
       },
       {
         "rank": 14,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
+        "id": "6648798962",
+        "title": "Polymarket"
       },
       {
         "rank": 15,
-        "id": "6648798962",
-        "title": "Polymarket"
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
       },
       {
         "rank": 16,
@@ -84,18 +84,18 @@
       },
       {
         "rank": 17,
-        "id": "1193350206",
-        "title": "YouTube TV"
-      },
-      {
-        "rank": 18,
         "id": "399857015",
         "title": "Planet Fitness"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
+      },
+      {
+        "rank": 19,
+        "id": "1193350206",
+        "title": "YouTube TV"
       },
       {
         "rank": 20,
@@ -104,8 +104,8 @@
       },
       {
         "rank": 21,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 22,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 24,
-        "id": "589653414",
-        "title": "7-Eleven: Rewards & Shopping"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "589653414",
+        "title": "7-Eleven: Rewards & Shopping"
       }
     ],
     "paid": [
@@ -151,23 +151,23 @@
       },
       {
         "rank": 5,
-        "id": "916366645",
-        "title": "Procreate Pocket"
-      },
-      {
-        "rank": 6,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
+        "rank": 6,
+        "id": "916366645",
+        "title": "Procreate Pocket"
+      },
+      {
         "rank": 7,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
       },
       {
         "rank": 9,
@@ -181,43 +181,43 @@
       },
       {
         "rank": 11,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 12,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 13,
-        "id": "410148139",
-        "title": "NOAA Weather Radio"
+        "rank": 12,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
+        "rank": 15,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
         "rank": 16,
+        "id": "410148139",
+        "title": "NOAA Weather Radio"
+      },
+      {
+        "rank": 17,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "id": "357421934",
         "title": "PeakFinder"
-      },
-      {
-        "rank": 18,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 19,
@@ -226,18 +226,18 @@
       },
       {
         "rank": 20,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
+        "rank": 21,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 22,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 25,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       }
     ]
   }
