@@ -104782,5 +104782,133 @@
     "position": 25,
     "from": "Temu: Shop Like a Billionaire",
     "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Love Island USA",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "ChatGPT",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Netflix Game Controller",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Kalshi: Trade the Cup",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Polymarket",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Planet Fitness",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "YouTube TV",
+    "to": "Robinhood: Trading & Investing"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-12T19:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Authenticator"
   }
 ]
