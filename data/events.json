@@ -106198,5 +106198,157 @@
     "position": 25,
     "from": "Solocator - GPS Field Camera",
     "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Gemini",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 3,
+    "from": "SkyViewÂ®",
+    "to": "AnkiMobile Flashcards"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "AnkiMobile Flashcards",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "IONIQ 5 Companion",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Paprika Recipe Manager 3",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "QuickBend: Conduit Bending",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Shot Tracer",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Ableton Note",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-13T13:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Necrophonic"
   }
 ]
