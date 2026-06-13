@@ -105974,5 +105974,229 @@
     "position": 25,
     "from": "Shot Tracer",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Netflix Game Controller",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Kalshi: Trade the Cup",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "ChatGPT",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Polymarket",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Claude by Anthropic",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Planet Fitness",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "YouTube TV",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 3,
+    "from": "AnkiMobile Flashcards",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "SkyViewÂ®",
+    "to": "AnkiMobile Flashcards"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Wipr 2",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Spirit Talker Â®",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Streaks",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "LiveATC Air Radio",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Shot Tracer",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-13T10:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Solocator - GPS Field Camera",
+    "to": "RadarOmega: Doppler Radar App"
   }
 ]
