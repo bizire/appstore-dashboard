@@ -105462,5 +105462,245 @@
     "position": 25,
     "from": "NOAA Weather Radio",
     "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Tubi: Movies & Live TV"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Tubi: Movies & Live TV",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Love Island USA",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Netflix Game Controller",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Claude by Anthropic",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Polymarket",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Planet Fitness",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Facebook",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Gmail - Email by Google",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Instagram",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "MilGPS",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Fields - Audio Recorder"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Solocator - GPS Field Camera",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Wipr 2",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Streaks",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Spirit Talker Â®",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-13T04:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Ableton Note",
+    "to": "imo video calls and chat HD"
   }
 ]
