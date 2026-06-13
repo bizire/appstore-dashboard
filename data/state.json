@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T07:15:07Z",
+  "updated_at": "2026-06-13T07:30:09Z",
   "charts": {
     "free": [
       {
@@ -24,8 +24,8 @@
       },
       {
         "rank": 5,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 6,
@@ -34,18 +34,18 @@
       },
       {
         "rank": 7,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 8,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 9,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
       },
       {
         "rank": 10,
@@ -54,28 +54,28 @@
       },
       {
         "rank": 11,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
-      },
-      {
-        "rank": 12,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
+        "rank": 13,
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
+      },
+      {
         "rank": 14,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 15,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 16,
@@ -89,13 +89,13 @@
       },
       {
         "rank": 18,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 19,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 20,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 23,
-        "id": "1193350206",
-        "title": "YouTube TV"
-      },
-      {
-        "rank": 24,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
+        "rank": 23,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
+      },
+      {
+        "rank": 24,
+        "id": "368677368",
+        "title": "Uber - Request a ride"
+      },
+      {
         "rank": 25,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "1193350206",
+        "title": "YouTube TV"
       }
     ],
     "paid": [
@@ -146,8 +146,8 @@
       },
       {
         "rank": 4,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 5,
@@ -156,23 +156,23 @@
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 7,
+        "id": "6761787638",
+        "title": "Fields - Audio Recorder"
+      },
+      {
+        "rank": 8,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 9,
-        "id": "405835358",
-        "title": "MilGPS"
       },
       {
         "rank": 10,
@@ -181,18 +181,18 @@
       },
       {
         "rank": 11,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
+        "rank": 12,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "id": "357421934",
         "title": "PeakFinder"
-      },
-      {
-        "rank": 13,
-        "id": "6761787638",
-        "title": "Fields - Audio Recorder"
       },
       {
         "rank": 14,
@@ -201,58 +201,58 @@
       },
       {
         "rank": 15,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 16,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
-      },
-      {
-        "rank": 17,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 18,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 19,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 20,
+        "rank": 16,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
-        "rank": 21,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "rank": 17,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
-        "rank": 22,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 23,
+        "rank": 18,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 19,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 20,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 21,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
+        "rank": 22,
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
+      },
+      {
+        "rank": 23,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
         "rank": 24,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 25,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       }
     ]
   }
