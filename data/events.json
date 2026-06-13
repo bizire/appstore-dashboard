@@ -106350,5 +106350,261 @@
     "position": 25,
     "from": "RadarOmega: Doppler Radar App",
     "to": "Necrophonic"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Love Island USA",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Gemini",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "WhatsApp Messenger",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Planet Fitness",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Meta AI",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "FL Studio Mobile",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "MilGPS",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "IONIQ 5 Companion",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Paprika Recipe Manager 3",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Spirit Talker Â®",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Streaks",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "QuickBend: Conduit Bending",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Ableton Note",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Shot Tracer",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-13T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Necrophonic",
+    "to": "Ableton Note"
   }
 ]
