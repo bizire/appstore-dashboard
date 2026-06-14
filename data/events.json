@@ -107526,5 +107526,285 @@
     "position": 25,
     "from": "RadarOmega: Doppler Radar App",
     "to": "HappyCow - Vegan Food Near You"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Tubi: Movies & Live TV",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Kalshi: Trade the Cup",
+    "to": "Tubi: Movies & Live TV"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "ESPN: Live Sports & Scores"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "ESPN: Live Sports & Scores",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "YouTube TV",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Polymarket",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DraftKings: Sports & Casino",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DraftKings: Sports & Casino"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Love Island USA",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Uber - Request a ride",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 3,
+    "from": "AnkiMobile Flashcards",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "Procreate Pocket",
+    "to": "AnkiMobile Flashcards"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "PeakFinder",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Fields - Audio Recorder",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "Fields - Audio Recorder"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "MilGPS",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "IONIQ 5 Companion",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Threema. The Secure Messenger",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Wipr 2",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Streaks",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Spirit Talker Â®",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Shot Tracer",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Stylebook",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-14T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "HappyCow - Vegan Food Near You",
+    "to": "imo video calls and chat HD"
   }
 ]
