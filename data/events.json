@@ -107006,5 +107006,253 @@
     "position": 25,
     "from": "Ableton Note",
     "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "ChatGPT",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Kalshi: Trade the Cup",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Polymarket",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Threads",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Love Island USA",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Instagram",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Facebook",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Fields - Audio Recorder",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Fields - Audio Recorder"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "IONIQ 5 Companion",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "imo video calls and chat HD",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Wipr 2",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Streaks",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Solocator - GPS Field Camera",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Shot Tracer",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-14T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "PhotoPills",
+    "to": "RadarOmega: Doppler Radar App"
   }
 ]
