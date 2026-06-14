@@ -108518,5 +108518,109 @@
     "position": 25,
     "from": "Shot Tracer",
     "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "SkyViewÂ®",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Procreate Pocket",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Fields - Audio Recorder",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "IONIQ 5 Companion",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PhotoPills",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Fields - Audio Recorder"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Stylebook",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-06-14T22:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "HappyCow - Vegan Food Near You"
   }
 ]
