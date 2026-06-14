@@ -108622,5 +108622,173 @@
     "position": 25,
     "from": "FORScan Lite - for Ford, Mazda",
     "to": "HappyCow - Vegan Food Near You"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Kalshi: Trade the Cup",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Tubi: Movies & Live TV",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Tubi: Movies & Live TV"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "ChatGPT",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Netflix Game Controller",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "ESPN: Live Sports & Scores",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "YouTube TV",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Polymarket",
+    "to": "ESPN: Live Sports & Scores"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Claude by Anthropic",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Threads",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Paramount+",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-14T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Uber - Request a ride",
+    "to": "Depop - Buy & Sell Clothes"
   }
 ]
