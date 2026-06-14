@@ -107254,5 +107254,277 @@
     "position": 25,
     "from": "PhotoPills",
     "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Netflix Game Controller",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "ESPN: Live Sports & Scores"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Polymarket",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Claude by Anthropic",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Gemini",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Threads",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Maps",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Love Island USA",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Gmail - Email by Google",
+    "to": "DraftKings: Sports & Casino"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Instagram",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Fields - Audio Recorder",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Fields - Audio Recorder"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Wipr 2",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Spirit Talker Â®",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Shot Tracer",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-06-14T05:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "HappyCow - Vegan Food Near You"
   }
 ]
