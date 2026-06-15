@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T19:45:06Z",
+  "updated_at": "2026-06-15T20:00:09Z",
   "charts": {
     "free": [
       {
@@ -9,23 +9,23 @@
       },
       {
         "rank": 2,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the Cup"
-      },
-      {
-        "rank": 3,
         "id": "1508186374",
         "title": "Peacock TV: Stream TV & Movies"
       },
       {
+        "rank": 3,
+        "id": "1632713844",
+        "title": "Kalshi: Trade the Cup"
+      },
+      {
         "rank": 4,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 5,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 6,
@@ -34,18 +34,18 @@
       },
       {
         "rank": 7,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 8,
         "id": "6476561442",
         "title": "FIFA World Cup 2026â¢"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
+      },
+      {
+        "rank": 9,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 10,
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 12,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 13,
@@ -79,23 +79,23 @@
       },
       {
         "rank": 16,
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
+      },
+      {
+        "rank": 17,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 17,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
         "rank": 18,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 19,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 20,
@@ -104,23 +104,23 @@
       },
       {
         "rank": 21,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 22,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 23,
         "id": "1465944282",
         "title": "Love Island USA"
       },
       {
-        "rank": 22,
-        "id": "1375031369",
-        "title": "DraftKings: Sports & Casino"
-      },
-      {
-        "rank": 23,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
-      },
-      {
         "rank": 24,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 25,
