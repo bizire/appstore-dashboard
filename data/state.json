@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-15T01:15:07Z",
+  "updated_at": "2026-06-15T01:30:09Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 2,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 3,
@@ -19,23 +19,23 @@
       },
       {
         "rank": 4,
+        "id": "530168168",
+        "title": "Paramount+"
+      },
+      {
+        "rank": 5,
         "id": "6448311069",
         "title": "ChatGPT"
       },
       {
-        "rank": 5,
-        "id": "886445756",
-        "title": "Tubi: Movies & Live TV"
-      },
-      {
         "rank": 6,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
+        "id": "6476561442",
+        "title": "FIFA World Cup 2026â¢"
       },
       {
         "rank": 7,
-        "id": "6476561442",
-        "title": "FIFA World Cup 2026â¢"
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
       },
       {
         "rank": 8,
@@ -44,8 +44,8 @@
       },
       {
         "rank": 9,
-        "id": "1193350206",
-        "title": "YouTube TV"
+        "id": "886445756",
+        "title": "Tubi: Movies & Live TV"
       },
       {
         "rank": 10,
@@ -54,18 +54,18 @@
       },
       {
         "rank": 11,
-        "id": "317469184",
-        "title": "ESPN: Live Sports & Scores"
-      },
-      {
-        "rank": 12,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "680595680",
         "title": "Telemundo: Series y TV en vivo"
+      },
+      {
+        "rank": 13,
+        "id": "1193350206",
+        "title": "YouTube TV"
       },
       {
         "rank": 14,
@@ -84,8 +84,8 @@
       },
       {
         "rank": 17,
-        "id": "530168168",
-        "title": "Paramount+"
+        "id": "317469184",
+        "title": "ESPN: Live Sports & Scores"
       },
       {
         "rank": 18,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 25,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       }
     ],
     "paid": [
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 6,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
@@ -176,33 +176,33 @@
       },
       {
         "rank": 10,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 11,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 12,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
+        "rank": 11,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 12,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
         "rank": 13,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 14,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "id": "1662217862",
         "title": "Wipr 2"
-      },
-      {
-        "rank": 15,
-        "id": "963034692",
-        "title": "Streaks"
       },
       {
         "rank": 16,
@@ -211,13 +211,13 @@
       },
       {
         "rank": 17,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 18,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 19,
@@ -226,33 +226,33 @@
       },
       {
         "rank": 20,
-        "id": "596026805",
-        "title": "PhotoPills"
-      },
-      {
-        "rank": 21,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
+        "rank": 21,
+        "id": "596026805",
+        "title": "PhotoPills"
+      },
+      {
         "rank": 22,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
+        "rank": 23,
         "id": "6761787638",
         "title": "Fields - Audio Recorder"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "id": "892347083",
         "title": "FORScan Lite - for Ford, Mazda"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "id": "335709058",
         "title": "Stylebook"
-      },
-      {
-        "rank": 25,
-        "id": "435871950",
-        "title": "HappyCow - Vegan Food Near You"
       }
     ]
   }
