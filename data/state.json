@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T13:00:10Z",
+  "updated_at": "2026-06-15T13:15:07Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "6648798962",
-        "title": "Polymarket"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 6,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6648798962",
+        "title": "Polymarket"
       },
       {
         "rank": 7,
@@ -54,18 +54,18 @@
       },
       {
         "rank": 11,
+        "id": "6446901002",
+        "title": "Threads"
+      },
+      {
+        "rank": 12,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "id": "6473753684",
         "title": "Claude by Anthropic"
-      },
-      {
-        "rank": 13,
-        "id": "6446901002",
-        "title": "Threads"
       },
       {
         "rank": 14,
@@ -74,8 +74,8 @@
       },
       {
         "rank": 15,
-        "id": "1375031369",
-        "title": "DraftKings: Sports & Casino"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 16,
@@ -84,48 +84,48 @@
       },
       {
         "rank": 17,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1375031369",
+        "title": "DraftKings: Sports & Casino"
       },
       {
         "rank": 18,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
-      },
-      {
-        "rank": 19,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 22,
-        "id": "1193350206",
-        "title": "YouTube TV"
+        "rank": 21,
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
+        "rank": 23,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
         "rank": 24,
-        "id": "1465717844",
-        "title": "bet365 - Sportsbook & Casino"
+        "id": "1193350206",
+        "title": "YouTube TV"
       },
       {
         "rank": 25,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1465717844",
+        "title": "bet365 - Sportsbook & Casino"
       }
     ],
     "paid": [
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 12,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 13,
@@ -196,13 +196,13 @@
       },
       {
         "rank": 14,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 15,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 16,
@@ -216,8 +216,8 @@
       },
       {
         "rank": 18,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 19,
@@ -226,13 +226,13 @@
       },
       {
         "rank": 20,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 21,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "id": "289894882",
+        "title": "White Noise"
       },
       {
         "rank": 22,
@@ -241,8 +241,8 @@
       },
       {
         "rank": 23,
-        "id": "289894882",
-        "title": "White Noise"
+        "id": "596026805",
+        "title": "PhotoPills"
       },
       {
         "rank": 24,

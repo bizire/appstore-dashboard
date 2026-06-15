@@ -109710,5 +109710,189 @@
     "position": 24,
     "from": "Depop - Buy & Sell Clothes",
     "to": "bet365 - Sportsbook & Casino"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Polymarket",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "ChatGPT",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Claude by Anthropic",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Threads",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DraftKings: Sports & Casino",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google",
+    "to": "DraftKings: Sports & Casino"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "YouTube TV",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "bet365 - Sportsbook & Casino",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "WhatsApp Messenger",
+    "to": "bet365 - Sportsbook & Casino"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Wipr 2",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PhotoPills",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-06-15T13:15:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "White Noise",
+    "to": "PhotoPills"
   }
 ]
