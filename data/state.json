@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T10:45:06Z",
+  "updated_at": "2026-06-15T11:00:11Z",
   "charts": {
     "free": [
       {
@@ -79,48 +79,48 @@
       },
       {
         "rank": 16,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
-      },
-      {
-        "rank": 17,
         "id": "1465944282",
         "title": "Love Island USA"
       },
       {
-        "rank": 18,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 19,
+        "rank": 17,
         "id": "284815942",
         "title": "Google"
       },
       {
+        "rank": 18,
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
+      },
+      {
+        "rank": 19,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
         "rank": 20,
-        "id": "1193350206",
-        "title": "YouTube TV"
-      },
-      {
-        "rank": 21,
-        "id": "1465717844",
-        "title": "bet365 - Sportsbook & Casino"
-      },
-      {
-        "rank": 22,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 23,
+        "rank": 21,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 24,
+        "rank": 22,
+        "id": "1193350206",
+        "title": "YouTube TV"
+      },
+      {
+        "rank": 23,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
+      },
+      {
+        "rank": 24,
+        "id": "1465717844",
+        "title": "bet365 - Sportsbook & Casino"
       },
       {
         "rank": 25,
