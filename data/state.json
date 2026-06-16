@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T22:30:09Z",
+  "updated_at": "2026-06-16T22:45:07Z",
   "charts": {
     "free": [
       {
@@ -19,13 +19,13 @@
       },
       {
         "rank": 4,
-        "id": "530168168",
-        "title": "Paramount+"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 5,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "530168168",
+        "title": "Paramount+"
       },
       {
         "rank": 6,
@@ -59,28 +59,28 @@
       },
       {
         "rank": 12,
-        "id": "6648798962",
-        "title": "Polymarket"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 13,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 14,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
+        "rank": 15,
+        "id": "6648798962",
+        "title": "Polymarket"
+      },
+      {
         "rank": 16,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 17,
@@ -94,13 +94,13 @@
       },
       {
         "rank": 19,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 20,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 21,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
+      },
+      {
+        "rank": 23,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 24,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 23,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 24,
+        "rank": 25,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
       }
     ],
     "paid": [
