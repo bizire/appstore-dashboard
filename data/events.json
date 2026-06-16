@@ -111934,5 +111934,301 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Paramount+",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ChatGPT",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Kalshi: Trade the Cup",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Netflix Game Controller",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Polymarket",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Microsoft Authenticator",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Planet Fitness",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Trump Accounts: Official App",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Tubi: Movies & Live TV",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PeakFinder",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Wipr 2",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "QuickBend: Conduit Bending",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "imo video calls and chat HD",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Spirit Talker Â®",
+    "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "IONIQ 5 Companion",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-16T19:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "PhotoPills",
+    "to": "Goblin Tools"
   }
 ]
