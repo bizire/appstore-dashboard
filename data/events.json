@@ -113438,5 +113438,93 @@
     "position": 25,
     "from": "iReal Pro",
     "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-17T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-17T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-17T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Netflix Game Controller",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-17T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Paramount+",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-17T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-06-17T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Polymarket",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-17T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-17T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-17T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-17T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-17T13:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Tubi: Movies & Live TV",
+    "to": "Google Maps"
   }
 ]
