@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T16:45:09Z",
+  "updated_at": "2026-06-17T17:00:14Z",
   "charts": {
     "free": [
       {
@@ -54,78 +54,78 @@
       },
       {
         "rank": 11,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 12,
-        "id": "530168168",
-        "title": "Paramount+"
-      },
-      {
-        "rank": 13,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
-      },
-      {
-        "rank": 14,
         "id": "6767364919",
         "title": "Trump Accounts: Official App"
       },
       {
-        "rank": 15,
+        "rank": 12,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 16,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 17,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 18,
-        "id": "6648798962",
-        "title": "Polymarket"
-      },
-      {
-        "rank": 19,
+        "rank": 13,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 20,
-        "id": "399857015",
-        "title": "Planet Fitness"
+        "rank": 14,
+        "id": "530168168",
+        "title": "Paramount+"
       },
       {
-        "rank": 21,
+        "rank": 15,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
+        "rank": 16,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
+        "rank": 17,
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
+      },
+      {
+        "rank": 18,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 19,
+        "id": "6648798962",
+        "title": "Polymarket"
+      },
+      {
+        "rank": 20,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
+        "rank": 22,
+        "id": "399857015",
+        "title": "Planet Fitness"
+      },
+      {
         "rank": 23,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 24,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 25,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       }
     ],
     "paid": [
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 6,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
@@ -196,63 +196,63 @@
       },
       {
         "rank": 14,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 15,
-        "id": "640429366",
-        "title": "Radio ID"
-      },
-      {
-        "rank": 16,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
-        "rank": 17,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "rank": 15,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
-        "rank": 18,
+        "rank": 16,
+        "id": "640429366",
+        "title": "Radio ID"
+      },
+      {
+        "rank": 17,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
+        "rank": 18,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
         "rank": 19,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 20,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 21,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 22,
-        "id": "289894882",
-        "title": "White Noise"
-      },
-      {
-        "rank": 23,
         "id": "6769140324",
         "title": "Milky Way Tonight"
       },
       {
+        "rank": 20,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 21,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 22,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
+        "rank": 23,
+        "id": "289894882",
+        "title": "White Noise"
+      },
+      {
         "rank": 24,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "6776381848",
+        "title": "Clink: Custom Keyboards"
       },
       {
         "rank": 25,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }
