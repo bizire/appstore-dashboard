@@ -112942,5 +112942,285 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Love Island USA",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Kalshi: Trade the Cup",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Claude by Anthropic",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Trump Accounts: Official App",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Threads",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Netflix Game Controller",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Polymarket",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Tubi: Movies & Live TV",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Authenticator",
+    "to": "Tubi: Movies & Live TV"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Dadbod GO!"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Dadbod GO!",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Radio ID"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "iReal Pro",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "IONIQ 5 Companion",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Radio ID",
+    "to": "Milky Way Tonight"
+  },
+  {
+    "ts": "2026-06-17T07:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Spirit Talker Â®",
+    "to": "iReal Pro"
   }
 ]
