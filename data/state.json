@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T22:15:08Z",
+  "updated_at": "2026-06-17T22:30:11Z",
   "charts": {
     "free": [
       {
@@ -14,13 +14,13 @@
       },
       {
         "rank": 3,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the Cup"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 4,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "1632713844",
+        "title": "Kalshi: Trade the Cup"
       },
       {
         "rank": 5,
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 12,
-        "id": "284815942",
-        "title": "Google"
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
       },
       {
         "rank": 13,
@@ -79,8 +79,8 @@
       },
       {
         "rank": 16,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
+        "id": "6648798962",
+        "title": "Polymarket"
       },
       {
         "rank": 17,
@@ -89,43 +89,43 @@
       },
       {
         "rank": 18,
-        "id": "6648798962",
-        "title": "Polymarket"
-      },
-      {
-        "rank": 19,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "905401434",
         "title": "Fubo: Watch Live TV & Sports"
       },
       {
-        "rank": 22,
-        "id": "530168168",
-        "title": "Paramount+"
+        "rank": 21,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
+        "rank": 23,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
+      },
+      {
         "rank": 24,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "399857015",
+        "title": "Planet Fitness"
       },
       {
         "rank": 25,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       }
     ],
     "paid": [
@@ -146,13 +146,13 @@
       },
       {
         "rank": 4,
-        "id": "916366645",
-        "title": "Procreate Pocket"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 5,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 6,
@@ -166,13 +166,13 @@
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 9,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 10,
@@ -181,28 +181,28 @@
       },
       {
         "rank": 11,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 12,
         "id": "6769140324",
         "title": "Milky Way Tonight"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
+        "rank": 13,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
         "rank": 14,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 15,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 16,
@@ -221,18 +221,18 @@
       },
       {
         "rank": 19,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 20,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "410148139",
         "title": "NOAA Weather Radio"
+      },
+      {
+        "rank": 21,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 22,
@@ -241,13 +241,13 @@
       },
       {
         "rank": 23,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "430234732",
+        "title": "Site Audit Pro"
       },
       {
         "rank": 24,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
       },
       {
         "rank": 25,
