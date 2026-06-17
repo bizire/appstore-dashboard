@@ -112438,5 +112438,197 @@
     "position": 25,
     "from": "DoorDash: Food, Grocery, More",
     "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Paramount+",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Love Island USA",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Authenticator",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Polymarket",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Planet Fitness",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Microsoft Teams",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "MilGPS",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "FL Studio Mobile",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Wipr 2",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Things 3",
+    "to": "iReal Pro"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-17T02:45:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "White Noise",
+    "to": "HeartWatch: Heart Rate Monitor"
   }
 ]

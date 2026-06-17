@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T02:15:08Z",
+  "updated_at": "2026-06-17T02:45:07Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "530168168",
-        "title": "Paramount+"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 6,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "530168168",
+        "title": "Paramount+"
       },
       {
         "rank": 7,
@@ -59,23 +59,23 @@
       },
       {
         "rank": 12,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 13,
         "id": "284815942",
         "title": "Google"
       },
       {
+        "rank": 13,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
         "rank": 14,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "6648798962",
+        "title": "Polymarket"
       },
       {
         "rank": 15,
-        "id": "6648798962",
-        "title": "Polymarket"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 16,
@@ -94,38 +94,38 @@
       },
       {
         "rank": 19,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 20,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 21,
         "id": "399857015",
         "title": "Planet Fitness"
       },
       {
+        "rank": 20,
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
+      },
+      {
+        "rank": 21,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
         "rank": 22,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 23,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
       },
       {
-        "rank": 23,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
-      },
-      {
         "rank": 24,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 25,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       }
     ],
     "paid": [
@@ -156,18 +156,18 @@
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 7,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "id": "405835358",
         "title": "MilGPS"
+      },
+      {
+        "rank": 8,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 9,
@@ -206,23 +206,23 @@
       },
       {
         "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 17,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 17,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
         "rank": 18,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 19,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 20,
@@ -231,23 +231,23 @@
       },
       {
         "rank": 21,
+        "id": "298206806",
+        "title": "iReal Pro"
+      },
+      {
+        "rank": 22,
         "id": "904237743",
         "title": "Things 3"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "id": "1062745479",
         "title": "HeartWatch: Heart Rate Monitor"
-      },
-      {
-        "rank": 24,
-        "id": "289894882",
-        "title": "White Noise"
       },
       {
         "rank": 25,
