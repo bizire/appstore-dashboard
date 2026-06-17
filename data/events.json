@@ -112630,5 +112630,317 @@
     "position": 24,
     "from": "White Noise",
     "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "ChatGPT",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Kalshi: Trade the Cup",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Love Island USA",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Paramount+",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Claude by Anthropic",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Polymarket",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Microsoft Authenticator",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Netflix Game Controller",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Planet Fitness",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Trump Accounts: Official App",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Gmail - Email by Google",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Tubi: Movies & Live TV"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Teams",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "MilGPS",
+    "to": "Dadbod GO!"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PeakFinder",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Streaks",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "imo video calls and chat HD",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Wipr 2",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "IONIQ 5 Companion",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Things 3",
+    "to": "IONIQ 5 Companion"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "Radio ID"
+  },
+  {
+    "ts": "2026-06-17T04:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Goblin Tools",
+    "to": "Spirit Talker Â®"
   }
 ]
