@@ -114318,5 +114318,269 @@
     "position": 24,
     "from": "Threema. The Secure Messenger",
     "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Love Island USA",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Kalshi: Trade the Cup",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Polymarket",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Teams",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Planet Fitness",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Trump Accounts: Official App",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "MilGPS",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Milky Way Tonight",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Milky Way Tonight"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "FL Studio Mobile",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Radio ID",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "imo video calls and chat HD",
+    "to": "NOAA Weather Radio"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "NOAA Weather Radio",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Radio ID"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Wipr 2",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Site Audit Pro",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-18T02:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Clink: Custom Keyboards",
+    "to": "Site Audit Pro"
   }
 ]

@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-06-18T01:45:09Z",
+  "updated_at": "2026-06-18T02:00:15Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "1465944282",
-        "title": "Love Island USA"
-      },
-      {
-        "rank": 2,
         "id": "1508186374",
         "title": "Peacock TV: Stream TV & Movies"
       },
       {
+        "rank": 2,
+        "id": "1465944282",
+        "title": "Love Island USA"
+      },
+      {
         "rank": 3,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "1632713844",
+        "title": "Kalshi: Trade the Cup"
       },
       {
         "rank": 4,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the Cup"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 5,
@@ -59,53 +59,53 @@
       },
       {
         "rank": 12,
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
+      },
+      {
+        "rank": 13,
         "id": "680595680",
         "title": "Telemundo: Series y TV en vivo"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "id": "6476561442",
         "title": "FIFA World Cup 2026â¢"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 15,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
         "rank": 16,
-        "id": "6648798962",
-        "title": "Polymarket"
-      },
-      {
-        "rank": 17,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
+        "rank": 17,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
         "rank": 18,
+        "id": "6648798962",
+        "title": "Polymarket"
+      },
+      {
+        "rank": 19,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 20,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
-      },
-      {
         "rank": 21,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "399857015",
+        "title": "Planet Fitness"
       },
       {
         "rank": 22,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 24,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
       },
       {
-        "rank": 24,
-        "id": "399857015",
-        "title": "Planet Fitness"
-      },
-      {
         "rank": 25,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
       }
     ],
     "paid": [
@@ -166,28 +166,28 @@
       },
       {
         "rank": 8,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 9,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
+        "rank": 9,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
         "rank": 10,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 11,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "id": "6769140324",
         "title": "Milky Way Tonight"
-      },
-      {
-        "rank": 12,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 13,
@@ -196,8 +196,8 @@
       },
       {
         "rank": 14,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 15,
@@ -206,53 +206,53 @@
       },
       {
         "rank": 16,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 17,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 18,
-        "id": "640429366",
-        "title": "Radio ID"
-      },
-      {
         "rank": 19,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 20,
         "id": "410148139",
         "title": "NOAA Weather Radio"
       },
       {
-        "rank": 21,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 22,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 23,
-        "id": "430234732",
-        "title": "Site Audit Pro"
-      },
-      {
-        "rank": 24,
+        "rank": 20,
         "id": "1439881811",
         "title": "RadarOmega: Doppler Radar App"
       },
       {
+        "rank": 21,
+        "id": "640429366",
+        "title": "Radio ID"
+      },
+      {
+        "rank": 22,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 23,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 24,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
         "rank": 25,
-        "id": "6776381848",
-        "title": "Clink: Custom Keyboards"
+        "id": "430234732",
+        "title": "Site Audit Pro"
       }
     ]
   }
