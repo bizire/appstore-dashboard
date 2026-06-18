@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T16:45:10Z",
+  "updated_at": "2026-06-18T17:00:16Z",
   "charts": {
     "free": [
       {
@@ -186,18 +186,18 @@
       },
       {
         "rank": 12,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "6769140324",
+        "title": "Milky Way Tonight"
       },
       {
         "rank": 14,
-        "id": "6769140324",
-        "title": "Milky Way Tonight"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 15,
@@ -206,8 +206,8 @@
       },
       {
         "rank": 16,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 17,
@@ -231,18 +231,18 @@
       },
       {
         "rank": 21,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 22,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
+        "rank": 22,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
         "rank": 23,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "596026805",
+        "title": "PhotoPills"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }
