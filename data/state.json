@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T16:30:09Z",
+  "updated_at": "2026-06-18T16:45:10Z",
   "charts": {
     "free": [
       {
@@ -14,13 +14,13 @@
       },
       {
         "rank": 3,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 4,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 5,
@@ -44,8 +44,8 @@
       },
       {
         "rank": 9,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
       },
       {
         "rank": 10,
@@ -59,18 +59,18 @@
       },
       {
         "rank": 12,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
-      },
-      {
-        "rank": 13,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "310633997",
         "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 14,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 15,
@@ -79,18 +79,18 @@
       },
       {
         "rank": 16,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
-      },
-      {
-        "rank": 17,
         "id": "6648798962",
         "title": "Polymarket"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 18,
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 19,
@@ -99,8 +99,8 @@
       },
       {
         "rank": 20,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
       },
       {
         "rank": 21,
@@ -109,18 +109,18 @@
       },
       {
         "rank": 22,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 23,
         "id": "399857015",
         "title": "Planet Fitness"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 24,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 25,
