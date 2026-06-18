@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T13:45:05Z",
+  "updated_at": "2026-06-18T14:00:07Z",
   "charts": {
     "free": [
       {
@@ -9,13 +9,13 @@
       },
       {
         "rank": 2,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "1632713844",
+        "title": "Kalshi: Trade the Cup"
       },
       {
         "rank": 3,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the Cup"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 4,
@@ -29,13 +29,13 @@
       },
       {
         "rank": 6,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 7,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
         "rank": 8,
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 12,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
       },
       {
         "rank": 13,
@@ -69,8 +69,8 @@
       },
       {
         "rank": 14,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 15,
@@ -79,8 +79,8 @@
       },
       {
         "rank": 16,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
       },
       {
         "rank": 17,
@@ -89,18 +89,18 @@
       },
       {
         "rank": 18,
-        "id": "6476561442",
-        "title": "FIFA World Cup 2026â¢"
-      },
-      {
-        "rank": 19,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
+        "rank": 19,
+        "id": "6476561442",
+        "title": "FIFA World Cup 2026â¢"
+      },
+      {
         "rank": 20,
-        "id": "399857015",
-        "title": "Planet Fitness"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 21,
@@ -109,13 +109,13 @@
       },
       {
         "rank": 22,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "399857015",
+        "title": "Planet Fitness"
       },
       {
         "rank": 23,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       }
     ],
     "paid": [
@@ -186,18 +186,18 @@
       },
       {
         "rank": 12,
-        "id": "6769140324",
-        "title": "Milky Way Tonight"
-      },
-      {
-        "rank": 13,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
+        "rank": 13,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
         "rank": 14,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "6769140324",
+        "title": "Milky Way Tonight"
       },
       {
         "rank": 15,
@@ -206,18 +206,18 @@
       },
       {
         "rank": 16,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 17,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 18,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 19,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 22,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
-        "rank": 22,
-        "id": "596026805",
-        "title": "PhotoPills"
-      },
-      {
         "rank": 23,
-        "id": "459313476",
-        "title": "Tenuto"
-      },
-      {
-        "rank": 24,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
+        "rank": 24,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
         "rank": 25,
-        "id": "640429366",
-        "title": "Radio ID"
+        "id": "596026805",
+        "title": "PhotoPills"
       }
     ]
   }
