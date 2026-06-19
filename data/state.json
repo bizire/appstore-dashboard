@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T19:15:09Z",
+  "updated_at": "2026-06-19T19:30:13Z",
   "charts": {
     "free": [
       {
@@ -44,28 +44,28 @@
       },
       {
         "rank": 9,
-        "id": "1465944282",
-        "title": "Love Island USA"
-      },
-      {
-        "rank": 10,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "id": "284815942",
         "title": "Google"
       },
       {
+        "rank": 11,
+        "id": "1465944282",
+        "title": "Love Island USA"
+      },
+      {
         "rank": 12,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
+        "id": "6648798962",
+        "title": "Polymarket"
       },
       {
         "rank": 13,
-        "id": "6648798962",
-        "title": "Polymarket"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 14,
@@ -74,38 +74,38 @@
       },
       {
         "rank": 15,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 16,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 17,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 18,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 19,
+        "rank": 16,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 20,
+        "rank": 17,
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
+      },
+      {
+        "rank": 18,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 19,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
+        "rank": 20,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
         "rank": 21,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 22,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "886445756",
-        "title": "Tubi: Movies & Live TV"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 25,
-        "id": "284882215",
-        "title": "Facebook"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       }
     ],
     "paid": [
@@ -171,33 +171,33 @@
       },
       {
         "rank": 9,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 10,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 11,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
-        "rank": 12,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 13,
+        "rank": 10,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 14,
+        "rank": 11,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
+        "rank": 12,
         "id": "357421934",
         "title": "PeakFinder"
+      },
+      {
+        "rank": 13,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 14,
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 15,
@@ -206,23 +206,23 @@
       },
       {
         "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 17,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
+        "rank": 17,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
         "rank": 18,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "6761114951",
+        "title": "JustinGuitar Note Trainer"
       },
       {
         "rank": 19,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 20,
@@ -236,23 +236,23 @@
       },
       {
         "rank": 22,
-        "id": "6761114951",
-        "title": "JustinGuitar Note Trainer"
-      },
-      {
-        "rank": 23,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 23,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
         "rank": 24,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "1062745479",
+        "title": "HeartWatch: Heart Rate Monitor"
       },
       {
         "rank": 25,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
       }
     ]
   }
