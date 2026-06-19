@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T16:45:09Z",
+  "updated_at": "2026-06-19T17:00:18Z",
   "charts": {
     "free": [
       {
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 8,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 9,
@@ -181,38 +181,38 @@
       },
       {
         "rank": 11,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 12,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 13,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 14,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
-        "rank": 15,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "rank": 12,
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
-        "rank": 16,
+        "rank": 13,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
+        "rank": 14,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
+        "rank": 15,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
+        "rank": 16,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
         "rank": 17,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 18,
@@ -221,8 +221,8 @@
       },
       {
         "rank": 19,
-        "id": "6769140324",
-        "title": "Milky Way Tonight"
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
       },
       {
         "rank": 20,
@@ -231,8 +231,8 @@
       },
       {
         "rank": 21,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "6769140324",
+        "title": "Milky Way Tonight"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 24,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 24,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
         "rank": 25,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "id": "904237743",
+        "title": "Things 3"
       }
     ]
   }
