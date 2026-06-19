@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T22:30:09Z",
+  "updated_at": "2026-06-19T22:45:10Z",
   "charts": {
     "free": [
       {
@@ -181,18 +181,18 @@
       },
       {
         "rank": 11,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 12,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "432850619",
         "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 13,
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 14,
@@ -201,8 +201,8 @@
       },
       {
         "rank": 15,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "6761114951",
+        "title": "JustinGuitar Note Trainer"
       },
       {
         "rank": 16,
@@ -216,8 +216,8 @@
       },
       {
         "rank": 18,
-        "id": "6761114951",
-        "title": "JustinGuitar Note Trainer"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 19,
@@ -226,18 +226,18 @@
       },
       {
         "rank": 20,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 21,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "6769140324",
         "title": "Milky Way Tonight"
-      },
-      {
-        "rank": 22,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "1062745479",
-        "title": "HeartWatch: Heart Rate Monitor"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 25,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
+        "id": "1062745479",
+        "title": "HeartWatch: Heart Rate Monitor"
       }
     ]
   }
