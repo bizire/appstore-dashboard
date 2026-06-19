@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-19T01:15:09Z",
+  "updated_at": "2026-06-19T01:30:13Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "1632713844",
+        "title": "Kalshi: Trade the Cup"
       },
       {
         "rank": 2,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the Cup"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 3,
@@ -19,13 +19,13 @@
       },
       {
         "rank": 4,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 5,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 6,
@@ -54,18 +54,18 @@
       },
       {
         "rank": 11,
+        "id": "6648798962",
+        "title": "Polymarket"
+      },
+      {
+        "rank": 12,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 13,
-        "id": "6648798962",
-        "title": "Polymarket"
       },
       {
         "rank": 14,
@@ -79,18 +79,18 @@
       },
       {
         "rank": 16,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 17,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "id": "983156458",
         "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 18,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 19,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
-      },
-      {
-        "rank": 21,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 22,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 23,
         "id": "399857015",
         "title": "Planet Fitness"
       },
       {
-        "rank": 24,
+        "rank": 21,
         "id": "6447582581",
         "title": "Netflix Game Controller"
       },
       {
+        "rank": 22,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 23,
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
+      },
+      {
+        "rank": 24,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
+      },
+      {
         "rank": 25,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
@@ -141,13 +141,13 @@
       },
       {
         "rank": 3,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "373493387",
+        "title": "AnkiMobile Flashcards"
       },
       {
         "rank": 4,
-        "id": "373493387",
-        "title": "AnkiMobile Flashcards"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 5,
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 9,
@@ -176,28 +176,28 @@
       },
       {
         "rank": 10,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 11,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
+        "rank": 11,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
         "rank": 12,
-        "id": "6769140324",
-        "title": "Milky Way Tonight"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 13,
-        "id": "6762940633",
-        "title": "Dadbod GO!"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 14,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "6769140324",
+        "title": "Milky Way Tonight"
       },
       {
         "rank": 15,
@@ -206,13 +206,13 @@
       },
       {
         "rank": 16,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 17,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "6762940633",
+        "title": "Dadbod GO!"
       },
       {
         "rank": 18,
@@ -221,18 +221,18 @@
       },
       {
         "rank": 19,
-        "id": "410148139",
-        "title": "NOAA Weather Radio"
-      },
-      {
-        "rank": 20,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 21,
+        "id": "410148139",
+        "title": "NOAA Weather Radio"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
+        "id": "6761114951",
+        "title": "JustinGuitar Note Trainer"
+      },
+      {
+        "rank": 24,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 24,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
         "rank": 25,
-        "id": "430234732",
-        "title": "Site Audit Pro"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       }
     ]
   }

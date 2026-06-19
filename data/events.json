@@ -116102,5 +116102,269 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "Site Audit Pro"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Kalshi: Trade the Cup",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Love Island USA",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Polymarket",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Authenticator",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Trump Accounts: Official App",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Shop: All your favorite brands",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Planet Fitness",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Netflix Game Controller",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Instagram",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 3,
+    "from": "RadarScope",
+    "to": "AnkiMobile Flashcards"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "AnkiMobile Flashcards",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Wipr 2",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Paprika Recipe Manager 3",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Milky Way Tonight",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Dadbod GO!",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "MilGPS",
+    "to": "Milky Way Tonight"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "PeakFinder",
+    "to": "Dadbod GO!"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "NOAA Weather Radio",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Solocator - GPS Field Camera",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "NOAA Weather Radio"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "JustinGuitar Note Trainer"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-19T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Site Audit Pro",
+    "to": "Goblin Tools"
   }
 ]
