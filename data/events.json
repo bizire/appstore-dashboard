@@ -118046,5 +118046,205 @@
     "position": 25,
     "from": "RadarOmega: Doppler Radar App",
     "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Kalshi: Trade the Cup",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "WhatsApp Messenger",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Maps",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Netflix Game Controller",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Love Island USA",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Instagram",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "YouTube",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Meta AI",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "JustinGuitar Note Trainer"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "QuickBend: Conduit Bending",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Wipr 2",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "JustinGuitar Note Trainer",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Milky Way Tonight",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-20T01:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Things 3",
+    "to": "Milky Way Tonight"
   }
 ]

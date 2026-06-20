@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T01:15:09Z",
+  "updated_at": "2026-06-20T01:30:13Z",
   "charts": {
     "free": [
       {
@@ -9,13 +9,13 @@
       },
       {
         "rank": 2,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "1632713844",
+        "title": "Kalshi: Trade the Cup"
       },
       {
         "rank": 3,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the Cup"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 4,
@@ -44,8 +44,8 @@
       },
       {
         "rank": 9,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 10,
@@ -59,33 +59,33 @@
       },
       {
         "rank": 12,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 13,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 14,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "rank": 15,
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "id": "1465944282",
         "title": "Love Island USA"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "id": "905401434",
         "title": "Fubo: Watch Live TV & Sports"
-      },
-      {
-        "rank": 17,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
       },
       {
         "rank": 18,
@@ -94,13 +94,13 @@
       },
       {
         "rank": 19,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 20,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 21,
@@ -109,8 +109,8 @@
       },
       {
         "rank": 22,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "544007664",
-        "title": "YouTube"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 25,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "id": "389801252",
+        "title": "Instagram"
       }
     ],
     "paid": [
@@ -166,13 +166,13 @@
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "6761114951",
+        "title": "JustinGuitar Note Trainer"
       },
       {
         "rank": 9,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 10,
@@ -186,23 +186,23 @@
       },
       {
         "rank": 12,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 13,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "id": "963034692",
         "title": "Streaks"
-      },
-      {
-        "rank": 15,
-        "id": "6761114951",
-        "title": "JustinGuitar Note Trainer"
       },
       {
         "rank": 16,
@@ -226,28 +226,28 @@
       },
       {
         "rank": 20,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 21,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
-        "rank": 22,
-        "id": "6769140324",
-        "title": "Milky Way Tonight"
+        "rank": 21,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "904237743",
         "title": "Things 3"
+      },
+      {
+        "rank": 24,
+        "id": "6769140324",
+        "title": "Milky Way Tonight"
       },
       {
         "rank": 25,
