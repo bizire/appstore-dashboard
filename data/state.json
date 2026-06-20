@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T07:15:10Z",
+  "updated_at": "2026-06-20T07:30:15Z",
   "charts": {
     "free": [
       {
@@ -19,13 +19,13 @@
       },
       {
         "rank": 4,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 5,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 6,
@@ -34,23 +34,23 @@
       },
       {
         "rank": 7,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
-      },
-      {
-        "rank": 8,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "id": "6477489729",
         "title": "Google Gemini"
+      },
+      {
+        "rank": 10,
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
       },
       {
         "rank": 11,
@@ -59,73 +59,73 @@
       },
       {
         "rank": 12,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 13,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 13,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
         "rank": 14,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 15,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
-      },
-      {
-        "rank": 16,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 17,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 18,
         "id": "6741796873",
         "title": "TikTok Pro - Events"
       },
       {
-        "rank": 19,
+        "rank": 15,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 16,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 17,
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
+      },
+      {
+        "rank": 18,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
+        "rank": 19,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
         "rank": 20,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
-      },
-      {
-        "rank": 21,
-        "id": "1465944282",
-        "title": "Love Island USA"
-      },
-      {
-        "rank": 22,
-        "id": "6476561442",
-        "title": "FIFA World Cup 2026â¢"
-      },
-      {
-        "rank": 23,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
+        "rank": 21,
+        "id": "368677368",
+        "title": "Uber - Request a ride"
+      },
+      {
+        "rank": 22,
+        "id": "1558240027",
+        "title": "Meta AI"
+      },
+      {
+        "rank": 23,
+        "id": "1465944282",
+        "title": "Love Island USA"
+      },
+      {
         "rank": 24,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "6476561442",
+        "title": "FIFA World Cup 2026â¢"
       },
       {
         "rank": 25,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
       }
     ],
     "paid": [
@@ -151,43 +151,43 @@
       },
       {
         "rank": 5,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 6,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
+        "rank": 6,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
         "rank": 7,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 8,
-        "id": "6761114951",
-        "title": "JustinGuitar Note Trainer"
-      },
-      {
-        "rank": 9,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
+        "rank": 8,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 9,
+        "id": "6761114951",
+        "title": "JustinGuitar Note Trainer"
+      },
+      {
         "rank": 10,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 11,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 12,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
       },
       {
         "rank": 13,
@@ -196,8 +196,8 @@
       },
       {
         "rank": 14,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 15,
@@ -206,53 +206,53 @@
       },
       {
         "rank": 16,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 17,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 18,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
+        "rank": 17,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 18,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
         "rank": 19,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "289894882",
+        "title": "White Noise"
       },
       {
         "rank": 20,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 21,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 22,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 23,
+        "rank": 21,
+        "id": "432791399",
+        "title": "Cloud Baby Monitor"
+      },
+      {
+        "rank": 22,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
+        "rank": 23,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
         "rank": 24,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 25,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "596026805",
+        "title": "PhotoPills"
       }
     ]
   }
