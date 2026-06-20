@@ -119502,5 +119502,285 @@
     "position": 24,
     "from": "Shop: All your favorite brands",
     "to": "FIFA World Cup 2026â¢"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "ChatGPT",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Polymarket",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "TikTok Pro - Events",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Meta AI",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Uber - Request a ride",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Shop: All your favorite brands",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "FIFA World Cup 2026â¢",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "SHEIN - Shopping Online",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "JustinGuitar Note Trainer",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "JustinGuitar Note Trainer"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Paprika Recipe Manager 3",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Wipr 2",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Spirit Talker Â®",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "MilGPS",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PhotoPills",
+    "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-20T22:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Pocket God"
   }
 ]
