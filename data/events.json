@@ -119374,5 +119374,69 @@
     "position": 24,
     "from": "FIFA World Cup 2026â¢",
     "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-06-20T19:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-20T19:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Paprika Recipe Manager 3",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-20T19:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "White Noise",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-20T19:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-06-20T19:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-20T19:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "PhotoPills",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-20T19:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "MilGPS",
+    "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-20T19:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "imo video calls and chat HD",
+    "to": "PhotoPills"
   }
 ]
