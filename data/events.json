@@ -119182,5 +119182,117 @@
     "position": 25,
     "from": "MilGPS",
     "to": "HappyCow - Vegan Food Near You"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "JustinGuitar Note Trainer"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "JustinGuitar Note Trainer",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Wipr 2",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Spirit Talker Â®",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "LiveATC Air Radio",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PhotoPills",
+    "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Cloud Baby Monitor",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "MilGPS",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-20T16:45:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "HappyCow - Vegan Food Near You",
+    "to": "Solocator - GPS Field Camera"
   }
 ]
