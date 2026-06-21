@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T10:30:05Z",
+  "updated_at": "2026-06-21T10:45:06Z",
   "charts": {
     "free": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 8,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 9,
@@ -49,8 +49,8 @@
       },
       {
         "rank": 10,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 11,
@@ -59,8 +59,8 @@
       },
       {
         "rank": 12,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 13,
@@ -69,8 +69,8 @@
       },
       {
         "rank": 14,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 15,
@@ -79,13 +79,13 @@
       },
       {
         "rank": 16,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 17,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
         "rank": 18,
@@ -94,38 +94,38 @@
       },
       {
         "rank": 19,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 20,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
-        "rank": 20,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
-      },
-      {
         "rank": 21,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
-      },
-      {
-        "rank": 22,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
+        "rank": 22,
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
+      },
+      {
         "rank": 23,
-        "id": "6476561442",
-        "title": "FIFA World Cup 2026â¢"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 24,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 25,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
+        "id": "389801252",
+        "title": "Instagram"
       }
     ],
     "paid": [
@@ -196,8 +196,8 @@
       },
       {
         "rank": 14,
-        "id": "6761114951",
-        "title": "JustinGuitar Note Trainer"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 15,
@@ -206,13 +206,13 @@
       },
       {
         "rank": 16,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "6761114951",
+        "title": "JustinGuitar Note Trainer"
       },
       {
         "rank": 17,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 18,
@@ -226,33 +226,33 @@
       },
       {
         "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 21,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 22,
         "id": "1633243177",
         "title": "Ableton Note"
       },
       {
+        "rank": 21,
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
+        "rank": 22,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
         "rank": 23,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 24,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "id": "1396698319",
+        "title": "Necrophonic"
       },
       {
         "rank": 25,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "6752672420",
+        "title": "SkySafari 8 Pro"
       }
     ]
   }
