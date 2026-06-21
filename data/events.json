@@ -119998,5 +119998,309 @@
     "position": 25,
     "from": "Pocket God",
     "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Netflix Game Controller",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Claude by Anthropic",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Maps",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "TikTok Pro - Events",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Meta AI",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Gmail - Email by Google",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Instagram",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "YouTube",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Spotify: Music and Podcasts"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "JustinGuitar Note Trainer",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Moment Pro Camera II",
+    "to": "JustinGuitar Note Trainer"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Wipr 2",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Streaks",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PhotoPills",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "MilGPS",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "White Noise",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Spirit Talker Â®",
+    "to": "Cloud Baby Monitor"
+  },
+  {
+    "ts": "2026-06-21T04:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "HappyCow - Vegan Food Near You"
   }
 ]
