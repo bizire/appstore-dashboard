@@ -121270,5 +121270,117 @@
     "position": 24,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Claude by Anthropic",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Polymarket",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Meta AI",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Instagram",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "YouTube",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Facebook",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Gmail - Email by Google",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-21T20:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "DoorDash: Food, Grocery, More"
   }
 ]
