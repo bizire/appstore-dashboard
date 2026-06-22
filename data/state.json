@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T01:30:05Z",
+  "updated_at": "2026-06-22T01:45:05Z",
   "charts": {
     "free": [
       {
@@ -69,13 +69,13 @@
       },
       {
         "rank": 14,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 15,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 16,
@@ -84,43 +84,43 @@
       },
       {
         "rank": 17,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 18,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 19,
-        "id": "389801252",
-        "title": "Instagram"
+        "rank": 18,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "284882215",
         "title": "Facebook"
       },
       {
+        "rank": 20,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
         "rank": 21,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
+        "rank": 22,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "id": "544007664",
         "title": "YouTube"
-      },
-      {
-        "rank": 24,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 25,
@@ -191,33 +191,33 @@
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 14,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 14,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
         "rank": 15,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
+        "rank": 16,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 18,
-        "id": "1140451547",
-        "title": "Shot Tracer"
       },
       {
         "rank": 19,
@@ -226,33 +226,33 @@
       },
       {
         "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 21,
-        "id": "6761114951",
-        "title": "JustinGuitar Note Trainer"
-      },
-      {
-        "rank": 22,
         "id": "1499236474",
         "title": "CE5 Contact"
       },
       {
-        "rank": 23,
+        "rank": 21,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 24,
+        "rank": 22,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 23,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
+        "rank": 24,
+        "id": "6761114951",
+        "title": "JustinGuitar Note Trainer"
+      },
+      {
         "rank": 25,
-        "id": "289894882",
-        "title": "White Noise"
+        "id": "1633243177",
+        "title": "Ableton Note"
       }
     ]
   }
