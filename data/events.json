@@ -121966,5 +121966,221 @@
     "position": 25,
     "from": "Ableton Note",
     "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Kalshi: Trade the Cup",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Claude by Anthropic",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Meta AI",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Facebook",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Instagram",
+    "to": "HBO Max: Stream Movies & TV"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "SHEIN - Shopping Online",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Moment Pro Camera II",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Wipr 2",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "RadarOmega: Doppler Radar App"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "RadarOmega: Doppler Radar App",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pocket God",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "CE5 Contact",
+    "to": "SkySafari 8 Pro"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "HappyCow - Vegan Food Near You"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "SkySafari 8 Pro",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-22T07:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "MilGPS",
+    "to": "CE5 Contact"
   }
 ]
