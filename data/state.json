@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T22:15:09Z",
+  "updated_at": "2026-06-22T22:30:09Z",
   "charts": {
     "free": [
       {
@@ -44,88 +44,88 @@
       },
       {
         "rank": 9,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 10,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 11,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
-      },
-      {
-        "rank": 12,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 13,
+        "rank": 10,
         "id": "284815942",
         "title": "Google"
       },
       {
+        "rank": 11,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
+        "rank": 12,
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
+      },
+      {
+        "rank": 13,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 14,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 15,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 16,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
-        "rank": 17,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "rank": 15,
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
-        "rank": 18,
+        "rank": 16,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "id": "407558537",
         "title": "Capital One Mobile"
       },
       {
-        "rank": 20,
+        "rank": 18,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 19,
         "id": "6648798962",
         "title": "Polymarket"
       },
       {
-        "rank": 21,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 22,
+        "rank": 20,
         "id": "441599004",
         "title": "Huntington Mobile Banking"
       },
       {
+        "rank": 21,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 22,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
         "rank": 23,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "1558240027",
+        "title": "Meta AI"
       },
       {
         "rank": 24,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 25,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "389801252",
+        "title": "Instagram"
       }
     ],
     "paid": [
@@ -171,78 +171,78 @@
       },
       {
         "rank": 9,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 10,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 12,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 13,
+        "rank": 11,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 14,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "rank": 12,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       },
       {
-        "rank": 15,
+        "rank": 13,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 14,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
+        "rank": 15,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
         "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 17,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 18,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 17,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 18,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
         "rank": 19,
-        "id": "1439881811",
-        "title": "RadarOmega: Doppler Radar App"
-      },
-      {
-        "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 21,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 22,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
+        "rank": 20,
+        "id": "1439881811",
+        "title": "RadarOmega: Doppler Radar App"
+      },
+      {
+        "rank": 21,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 22,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
         "rank": 23,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 24,
