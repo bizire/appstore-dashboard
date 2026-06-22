@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T10:00:18Z",
+  "updated_at": "2026-06-22T10:15:10Z",
   "charts": {
     "free": [
       {
@@ -24,18 +24,18 @@
       },
       {
         "rank": 5,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
-      },
-      {
-        "rank": 6,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "id": "6477489729",
         "title": "Google Gemini"
+      },
+      {
+        "rank": 7,
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 8,
@@ -64,18 +64,18 @@
       },
       {
         "rank": 13,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 14,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 15,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
       },
       {
         "rank": 16,
@@ -94,23 +94,23 @@
       },
       {
         "rank": 19,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 20,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
+        "rank": 20,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
         "rank": 21,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
+        "id": "1666653815",
+        "title": "HBO Max: Stream Movies & TV"
       },
       {
         "rank": 22,
-        "id": "1666653815",
-        "title": "HBO Max: Stream Movies & TV"
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 25,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "284882215",
+        "title": "Facebook"
       }
     ],
     "paid": [
@@ -176,18 +176,18 @@
       },
       {
         "rank": 10,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 11,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "id": "963034692",
         "title": "Streaks"
-      },
-      {
-        "rank": 12,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
       },
       {
         "rank": 13,
@@ -226,33 +226,33 @@
       },
       {
         "rank": 20,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 21,
         "id": "6752672420",
         "title": "SkySafari 8 Pro"
       },
       {
-        "rank": 22,
-        "id": "435871950",
-        "title": "HappyCow - Vegan Food Near You"
+        "rank": 21,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
+        "rank": 23,
+        "id": "1499236474",
+        "title": "CE5 Contact"
+      },
+      {
         "rank": 24,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
       },
       {
         "rank": 25,
-        "id": "1499236474",
-        "title": "CE5 Contact"
+        "id": "335709058",
+        "title": "Stylebook"
       }
     ]
   }
