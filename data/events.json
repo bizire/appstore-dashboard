@@ -124782,5 +124782,309 @@
     "position": 25,
     "from": "Meta AI",
     "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Threads",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "TikTok Pro - Events",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Netflix Game Controller",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google Gemini",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Capital One Mobile",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Polymarket",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Microsoft Authenticator",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Meta AI",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Gmail - Email by Google",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "SHEIN - Shopping Online",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Production 02074",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Production 02074"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Moment Pro Camera II",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "MilGPS",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Pocket God",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Shot Tracer",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-06-23T20:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Things 3",
+    "to": "Resamplr"
   }
 ]
