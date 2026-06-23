@@ -124246,5 +124246,69 @@
     "position": 25,
     "from": "Gmail - Email by Google",
     "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-23T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "MilGPS",
+    "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-06-23T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Wipr 2",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-23T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-23T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-23T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Shot Tracer",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-23T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pocket God",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-23T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Stylebook",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-23T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Things 3"
   }
 ]
