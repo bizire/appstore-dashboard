@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T01:30:12Z",
+  "updated_at": "2026-06-23T01:45:10Z",
   "charts": {
     "free": [
       {
@@ -44,23 +44,23 @@
       },
       {
         "rank": 9,
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
+      },
+      {
+        "rank": 10,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 12,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
       },
       {
         "rank": 13,
@@ -74,18 +74,18 @@
       },
       {
         "rank": 15,
+        "id": "407558537",
+        "title": "Capital One Mobile"
+      },
+      {
+        "rank": 16,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
-      },
-      {
-        "rank": 17,
-        "id": "407558537",
-        "title": "Capital One Mobile"
       },
       {
         "rank": 18,
@@ -109,8 +109,8 @@
       },
       {
         "rank": 22,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 23,
@@ -119,8 +119,8 @@
       },
       {
         "rank": 24,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 25,

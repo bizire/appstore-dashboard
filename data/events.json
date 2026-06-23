@@ -123230,5 +123230,77 @@
     "position": 23,
     "from": "Spirit Talker Â®",
     "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-23T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "WhatsApp Messenger",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-23T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-23T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-23T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "TikTok Pro - Events",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-23T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-06-23T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-23T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Capital One Mobile",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-23T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-23T01:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "TikTok - Videos, Shop & LIVE"
   }
 ]
