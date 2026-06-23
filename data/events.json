@@ -125086,5 +125086,261 @@
     "position": 25,
     "from": "Things 3",
     "to": "Resamplr"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "ChatGPT",
+    "to": "Kalshi: Trade the Cup"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Kalshi: Trade the Cup",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google Gemini",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Netflix Game Controller",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Capital One Mobile",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Polymarket",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Instagram",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Trump Accounts: Official App",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Production 02074",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "MilGPS",
+    "to": "Production 02074"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Moment Pro Camera II",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Shot Tracer",
+    "to": "ASCCP Management Guidelines"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Wipr 2",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-23T23:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Resamplr",
+    "to": "Noir - Dark Mode for Safari"
   }
 ]
