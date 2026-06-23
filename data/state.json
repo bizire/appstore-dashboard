@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T01:45:10Z",
+  "updated_at": "2026-06-23T02:00:12Z",
   "charts": {
     "free": [
       {
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 7,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 8,
@@ -171,8 +171,8 @@
       },
       {
         "rank": 9,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 10,
@@ -181,8 +181,8 @@
       },
       {
         "rank": 11,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 12,
@@ -201,18 +201,18 @@
       },
       {
         "rank": 15,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 16,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 17,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 18,
@@ -221,8 +221,8 @@
       },
       {
         "rank": 19,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 22,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       },
       {
         "rank": 23,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 24,
         "id": "904237743",
         "title": "Things 3"
       },
       {
-        "rank": 24,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
-      },
-      {
         "rank": 25,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "335709058",
+        "title": "Stylebook"
       }
     ]
   }
