@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T10:45:11Z",
+  "updated_at": "2026-06-24T11:00:17Z",
   "charts": {
     "free": [
       {
@@ -54,8 +54,8 @@
       },
       {
         "rank": 11,
-        "id": "407558537",
-        "title": "Capital One Mobile"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 12,
@@ -64,23 +64,23 @@
       },
       {
         "rank": 13,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 14,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
+        "rank": 14,
+        "id": "407558537",
+        "title": "Capital One Mobile"
+      },
+      {
         "rank": 15,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 16,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 17,
@@ -89,8 +89,8 @@
       },
       {
         "rank": 18,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       },
       {
         "rank": 19,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
-        "id": "399857015",
-        "title": "Planet Fitness"
-      },
-      {
-        "rank": 21,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
-        "rank": 22,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
-      },
-      {
-        "rank": 23,
+        "rank": 21,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 24,
+        "rank": 22,
+        "id": "399857015",
+        "title": "Planet Fitness"
+      },
+      {
+        "rank": 23,
         "id": "297606951",
         "title": "Amazon Shopping"
       },
       {
+        "rank": 24,
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
+      },
+      {
         "rank": 25,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       }
     ],
     "paid": [
@@ -161,18 +161,18 @@
       },
       {
         "rank": 7,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
-      },
-      {
-        "rank": 8,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 9,
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 10,
@@ -186,28 +186,28 @@
       },
       {
         "rank": 12,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 14,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
+        "rank": 13,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 14,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
         "rank": 15,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 16,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 17,
@@ -216,28 +216,28 @@
       },
       {
         "rank": 18,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 19,
-        "id": "335709058",
-        "title": "Stylebook"
-      },
-      {
-        "rank": 20,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 21,
         "id": "1449584007",
         "title": "Koala Sampler â¢ Beat Maker"
       },
       {
-        "rank": 22,
+        "rank": 19,
         "id": "1662217862",
         "title": "Wipr 2"
+      },
+      {
+        "rank": 20,
+        "id": "335709058",
+        "title": "Stylebook"
+      },
+      {
+        "rank": 21,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 22,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 25,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       }
     ]
   }
