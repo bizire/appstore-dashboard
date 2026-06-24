@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T01:30:15Z",
+  "updated_at": "2026-06-24T01:45:12Z",
   "charts": {
     "free": [
       {
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "407558537",
+        "title": "Capital One Mobile"
       },
       {
         "rank": 10,
-        "id": "407558537",
-        "title": "Capital One Mobile"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 11,
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 13,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 14,
@@ -94,13 +94,13 @@
       },
       {
         "rank": 19,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       },
       {
         "rank": 20,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 21,
@@ -109,13 +109,13 @@
       },
       {
         "rank": 22,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
       },
       {
         "rank": 23,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       }
     ],
     "paid": [
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 7,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 8,
@@ -171,8 +171,8 @@
       },
       {
         "rank": 9,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 10,
@@ -181,8 +181,8 @@
       },
       {
         "rank": 11,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 12,
@@ -191,53 +191,53 @@
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 14,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 15,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 16,
-        "id": "6760157431",
-        "title": "Production 02074"
-      },
-      {
-        "rank": 17,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 18,
+        "rank": 14,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
-        "rank": 19,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "rank": 15,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
-        "rank": 20,
+        "rank": 16,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
+        "rank": 17,
+        "id": "6760157431",
+        "title": "Production 02074"
+      },
+      {
+        "rank": 18,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 19,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
+        "rank": 20,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
         "rank": 21,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1498550832",
+        "title": "ASCCP Management Guidelines"
       },
       {
         "rank": 22,
-        "id": "1498550832",
-        "title": "ASCCP Management Guidelines"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 23,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
+        "id": "335709058",
+        "title": "Stylebook"
       }
     ]
   }
