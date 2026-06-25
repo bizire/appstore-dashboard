@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T10:15:06Z",
+  "updated_at": "2026-06-25T10:30:05Z",
   "charts": {
     "free": [
       {
@@ -29,23 +29,23 @@
       },
       {
         "rank": 6,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
-      },
-      {
-        "rank": 7,
         "id": "6446901002",
         "title": "Threads"
       },
       {
+        "rank": 7,
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
+      },
+      {
         "rank": 8,
-        "id": "6648798962",
-        "title": "Polymarket"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 9,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "6648798962",
+        "title": "Polymarket"
       },
       {
         "rank": 10,
@@ -54,18 +54,18 @@
       },
       {
         "rank": 11,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 12,
         "id": "6447582581",
         "title": "Netflix Game Controller"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "id": "680595680",
         "title": "Telemundo: Series y TV en vivo"
-      },
-      {
-        "rank": 13,
-        "id": "284815942",
-        "title": "Google"
       },
       {
         "rank": 14,
@@ -74,8 +74,8 @@
       },
       {
         "rank": 15,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 16,
@@ -84,8 +84,8 @@
       },
       {
         "rank": 17,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 18,
@@ -94,38 +94,38 @@
       },
       {
         "rank": 19,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
-      },
-      {
-        "rank": 20,
-        "id": "407558537",
-        "title": "Capital One Mobile"
-      },
-      {
-        "rank": 21,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
-      },
-      {
-        "rank": 22,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
-        "rank": 23,
+        "rank": 20,
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
+      },
+      {
+        "rank": 21,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 24,
+        "rank": 22,
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
+      },
+      {
+        "rank": 23,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
+        "rank": 24,
+        "id": "407558537",
+        "title": "Capital One Mobile"
+      },
+      {
         "rank": 25,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "297606951",
+        "title": "Amazon Shopping"
       }
     ],
     "paid": [
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "1449893235",
+        "title": "Earthquake Network"
       },
       {
         "rank": 7,
-        "id": "1449893235",
-        "title": "Earthquake Network"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 8,
@@ -186,8 +186,8 @@
       },
       {
         "rank": 12,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "975770717",
+        "title": "My Earthquake Alerts Pro"
       },
       {
         "rank": 13,
@@ -196,8 +196,8 @@
       },
       {
         "rank": 14,
-        "id": "975770717",
-        "title": "My Earthquake Alerts Pro"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 15,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "1062745479",
-        "title": "HeartWatch: Heart Rate Monitor"
+        "id": "904237743",
+        "title": "Things 3"
       }
     ]
   }
