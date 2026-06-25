@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T16:30:14Z",
+  "updated_at": "2026-06-25T16:45:10Z",
   "charts": {
     "free": [
       {
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "284815942",
-        "title": "Google"
+        "id": "975709372",
+        "title": "My Earthquake Alerts & Feed"
       },
       {
         "rank": 12,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 13,
@@ -69,28 +69,28 @@
       },
       {
         "rank": 14,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 15,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 16,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
-      },
-      {
-        "rank": 17,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 18,
+        "rank": 15,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 16,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 17,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
+      },
+      {
+        "rank": 18,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 19,
@@ -99,8 +99,8 @@
       },
       {
         "rank": 20,
-        "id": "975709372",
-        "title": "My Earthquake Alerts & Feed"
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
       },
       {
         "rank": 21,
@@ -109,13 +109,13 @@
       },
       {
         "rank": 22,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
       },
       {
         "rank": 23,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 24,
@@ -141,13 +141,13 @@
       },
       {
         "rank": 3,
-        "id": "373493387",
-        "title": "AnkiMobile Flashcards"
+        "id": "1449893235",
+        "title": "Earthquake Network"
       },
       {
         "rank": 4,
-        "id": "1449893235",
-        "title": "Earthquake Network"
+        "id": "373493387",
+        "title": "AnkiMobile Flashcards"
       },
       {
         "rank": 5,
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "975770717",
+        "title": "My Earthquake Alerts Pro"
       },
       {
         "rank": 7,
-        "id": "975770717",
-        "title": "My Earthquake Alerts Pro"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 8,
@@ -196,28 +196,28 @@
       },
       {
         "rank": 14,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 15,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 16,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 17,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
+        "rank": 16,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 17,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
         "rank": 18,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 19,
@@ -226,13 +226,13 @@
       },
       {
         "rank": 20,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 21,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 22,
@@ -246,8 +246,8 @@
       },
       {
         "rank": 24,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 25,
