@@ -128358,5 +128358,133 @@
     "position": 25,
     "from": "Amazon Shopping",
     "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "Procreate Pocket",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "RadarScope",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Earthquake Network",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Shot Tracer",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "My Earthquake Alerts Pro",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Wipr 2",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "iReal Pro",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-06-25T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Things 3",
+    "to": "LiveATC Air Radio"
   }
 ]
