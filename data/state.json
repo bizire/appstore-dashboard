@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-25T07:45:05Z",
+  "updated_at": "2026-06-25T08:00:06Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "1632713844",
+        "title": "Kalshi: Trade the Cup"
       },
       {
         "rank": 2,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the Cup"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 3,
@@ -29,23 +29,23 @@
       },
       {
         "rank": 6,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
-      },
-      {
-        "rank": 7,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "6648798962",
         "title": "Polymarket"
+      },
+      {
+        "rank": 9,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 10,
@@ -54,23 +54,23 @@
       },
       {
         "rank": 11,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
+        "rank": 12,
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
+      },
+      {
+        "rank": 13,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 12,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
-      },
-      {
-        "rank": 13,
+        "rank": 14,
         "id": "310633997",
         "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 14,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
       },
       {
         "rank": 15,
@@ -79,23 +79,23 @@
       },
       {
         "rank": 16,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 17,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
+        "rank": 17,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
         "rank": 18,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 19,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
       },
       {
         "rank": 20,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       },
       {
         "rank": 22,
+        "id": "1558240027",
+        "title": "Meta AI"
+      },
+      {
+        "rank": 23,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 24,
-        "id": "297606951",
-        "title": "Amazon Shopping"
-      },
-      {
         "rank": 25,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       }
     ],
     "paid": [
@@ -161,18 +161,18 @@
       },
       {
         "rank": 7,
+        "id": "1449893235",
+        "title": "Earthquake Network"
+      },
+      {
+        "rank": 8,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 9,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 10,
@@ -181,8 +181,8 @@
       },
       {
         "rank": 11,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 12,
@@ -191,23 +191,23 @@
       },
       {
         "rank": 13,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 14,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
+        "rank": 14,
+        "id": "975770717",
+        "title": "My Earthquake Alerts Pro"
+      },
+      {
         "rank": 15,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 16,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 17,
@@ -216,18 +216,18 @@
       },
       {
         "rank": 18,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 19,
-        "id": "1449893235",
-        "title": "Earthquake Network"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 20,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 21,
@@ -236,23 +236,23 @@
       },
       {
         "rank": 22,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
+        "rank": 23,
         "id": "298206806",
         "title": "iReal Pro"
       },
       {
-        "rank": 23,
-        "id": "975770717",
-        "title": "My Earthquake Alerts Pro"
-      },
-      {
         "rank": 24,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "892347083",
+        "title": "FORScan Lite - for Ford, Mazda"
       },
       {
         "rank": 25,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1062745479",
+        "title": "HeartWatch: Heart Rate Monitor"
       }
     ]
   }
