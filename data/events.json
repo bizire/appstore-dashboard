@@ -129126,5 +129126,181 @@
     "position": 25,
     "from": "ASCCP Management Guidelines",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "My Earthquake Alerts & Feed",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "My Earthquake Alerts & Feed"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Polymarket",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Microsoft Authenticator",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Meta AI",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Teams",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Capital One Mobile",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Threema. The Secure Messenger",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "MilGPS",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "PeakFinder",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Solocator - GPS Field Camera",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-26T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Solocator - GPS Field Camera"
   }
 ]
