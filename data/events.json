@@ -130214,5 +130214,149 @@
     "position": 25,
     "from": "Pocket God",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Love Island USA",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "TikTok Pro - Events",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "My Earthquake Alerts & Feed",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "My Earthquake Alerts & Feed"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Meta AI",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Potto: Meal Planner & Recipes",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Netflix Game Controller",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Potto: Meal Planner & Recipes"
+  },
+  {
+    "ts": "2026-06-26T17:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Gmail - Email by Google"
   }
 ]

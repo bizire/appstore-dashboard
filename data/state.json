@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T17:00:18Z",
+  "updated_at": "2026-06-26T17:15:09Z",
   "charts": {
     "free": [
       {
@@ -14,13 +14,13 @@
       },
       {
         "rank": 3,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 4,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 5,
@@ -29,13 +29,13 @@
       },
       {
         "rank": 6,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 7,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 8,
@@ -49,13 +49,13 @@
       },
       {
         "rank": 10,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 11,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
       },
       {
         "rank": 12,
@@ -64,18 +64,18 @@
       },
       {
         "rank": 13,
-        "id": "975709372",
-        "title": "My Earthquake Alerts & Feed"
-      },
-      {
-        "rank": 14,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 15,
+        "id": "975709372",
+        "title": "My Earthquake Alerts & Feed"
       },
       {
         "rank": 16,
@@ -84,48 +84,48 @@
       },
       {
         "rank": 17,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 18,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
-      },
-      {
-        "rank": 19,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
-        "rank": 20,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "rank": 18,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 21,
+        "rank": 19,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 20,
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
+      },
+      {
+        "rank": 21,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
         "rank": 22,
-        "id": "6778760884",
-        "title": "Potto: Meal Planner & Recipes"
-      },
-      {
-        "rank": 23,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 24,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
+        "rank": 23,
+        "id": "407558537",
+        "title": "Capital One Mobile"
+      },
+      {
+        "rank": 24,
+        "id": "6778760884",
+        "title": "Potto: Meal Planner & Recipes"
+      },
+      {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       }
     ],
     "paid": [
