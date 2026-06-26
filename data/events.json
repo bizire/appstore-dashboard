@@ -130062,5 +130062,157 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "My Earthquake Alerts & Feed",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "My Earthquake Alerts & Feed"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Netflix Game Controller",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Google Maps",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Streaks",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "MilGPS",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Goblin Tools",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-26T14:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Pocket God",
+    "to": "Goblin Tools"
   }
 ]
