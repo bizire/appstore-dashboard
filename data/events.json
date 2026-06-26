@@ -129822,5 +129822,133 @@
     "position": 25,
     "from": "Things 3",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ChatGPT",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "TikTok Pro - Events",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Netflix Game Controller",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Potto: Meal Planner & Recipes",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Meta AI",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Potto: Meal Planner & Recipes"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Maps",
+    "to": "DoorDash: Food, Grocery, More"
   }
 ]
