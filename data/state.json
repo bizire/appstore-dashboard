@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T22:45:08Z",
+  "updated_at": "2026-06-26T23:00:17Z",
   "charts": {
     "free": [
       {
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 10,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 11,
@@ -59,33 +59,33 @@
       },
       {
         "rank": 12,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
-      },
-      {
-        "rank": 13,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 14,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 15,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 16,
+        "rank": 13,
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
+      },
+      {
+        "rank": 14,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 15,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
+        "rank": 16,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 17,
-        "id": "975709372",
-        "title": "My Earthquake Alerts & Feed"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 18,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 21,
+        "id": "975709372",
+        "title": "My Earthquake Alerts & Feed"
+      },
+      {
+        "rank": 22,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 22,
+        "rank": 23,
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
+      },
+      {
+        "rank": 24,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 23,
+        "rank": 25,
         "id": "407558537",
         "title": "Capital One Mobile"
-      },
-      {
-        "rank": 24,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
       }
     ],
     "paid": [
