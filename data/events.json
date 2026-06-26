@@ -129302,5 +129302,165 @@
     "position": 22,
     "from": "imo video calls and chat HD",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "TikTok Pro - Events",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Claude by Anthropic",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Polymarket",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "My Earthquake Alerts & Feed",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "My Earthquake Alerts & Feed"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Meta AI",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Authenticator",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Capital One Mobile",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Microsoft Teams",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-06-26T04:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Gmail - Email by Google"
   }
 ]
