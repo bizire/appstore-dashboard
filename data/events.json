@@ -129566,5 +129566,261 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "ChatGPT",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Love Island USA",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "My Earthquake Alerts & Feed"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "My Earthquake Alerts & Feed",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "Potto: Meal Planner & Recipes"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Netflix Game Controller",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Capital One Mobile",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Gmail - Email by Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Threema. The Secure Messenger",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "SkyViewÂ®",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "FL Studio Mobile",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "MilGPS",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Solocator - GPS Field Camera",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "ASCCP Management Guidelines",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Goblin Tools",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-26T08:00:20Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Things 3",
+    "to": "Goblin Tools"
   }
 ]
