@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T14:45:12Z",
+  "updated_at": "2026-06-27T15:00:18Z",
   "charts": {
     "free": [
       {
@@ -49,13 +49,13 @@
       },
       {
         "rank": 10,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 11,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 12,
@@ -89,8 +89,8 @@
       },
       {
         "rank": 18,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 19,
@@ -99,18 +99,18 @@
       },
       {
         "rank": 20,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 21,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
+        "id": "975709372",
+        "title": "My Earthquake Alerts & Feed"
       },
       {
         "rank": 22,
-        "id": "975709372",
-        "title": "My Earthquake Alerts & Feed"
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
       },
       {
         "rank": 23,
@@ -221,28 +221,28 @@
       },
       {
         "rank": 19,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 20,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
+        "rank": 20,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
         "rank": 21,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
+        "rank": 22,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 23,
-        "id": "405835358",
-        "title": "MilGPS"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "1453647914",
-        "title": "iWebTV PRO"
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
       }
     ]
   }
