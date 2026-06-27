@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T11:30:10Z",
+  "updated_at": "2026-06-27T11:45:11Z",
   "charts": {
     "free": [
       {
@@ -181,78 +181,78 @@
       },
       {
         "rank": 11,
-        "id": "6782841240",
-        "title": "MECCHA CHAMELEON!"
-      },
-      {
-        "rank": 12,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
-        "rank": 25,
+        "rank": 24,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 25,
+        "id": "6780514866",
+        "title": "Battery Hub for HomeKit"
       }
     ]
   }
