@@ -131374,5 +131374,277 @@
     "position": 25,
     "from": "Pocket God",
     "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "TikTok Pro - Events",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Netflix Game Controller",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Maps",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "My Earthquake Alerts & Feed",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "My Earthquake Alerts & Feed"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Gmail - Email by Google",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Shot Tracer",
+    "to": "MECCHA CHAMELEON!"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "QuickBend: Conduit Bending",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Threema. The Secure Messenger",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "SkyViewÂ®",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Streaks",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "MilGPS",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Solocator - GPS Field Camera",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Goblin Tools",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pocket God",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "ASCCP Management Guidelines",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-27T11:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "imo video calls and chat HD"
   }
 ]
