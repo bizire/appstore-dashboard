@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T01:45:10Z",
+  "updated_at": "2026-06-27T02:00:15Z",
   "charts": {
     "free": [
       {
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 10,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 11,
@@ -64,13 +64,13 @@
       },
       {
         "rank": 13,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 14,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
       },
       {
         "rank": 15,
@@ -84,8 +84,8 @@
       },
       {
         "rank": 17,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "975709372",
+        "title": "My Earthquake Alerts & Feed"
       },
       {
         "rank": 18,
@@ -94,38 +94,38 @@
       },
       {
         "rank": 19,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 20,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 20,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
         "rank": 21,
-        "id": "975709372",
-        "title": "My Earthquake Alerts & Feed"
-      },
-      {
-        "rank": 22,
         "id": "6532603739",
         "title": "FWC2026 Mobile Tickets"
       },
       {
-        "rank": 23,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "rank": 22,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
+        "rank": 24,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
         "rank": 25,
-        "id": "407558537",
-        "title": "Capital One Mobile"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       }
     ],
     "paid": [
@@ -171,18 +171,18 @@
       },
       {
         "rank": 9,
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
+      },
+      {
+        "rank": 10,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
-        "rank": 10,
+        "rank": 11,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 11,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 12,
@@ -196,28 +196,28 @@
       },
       {
         "rank": 14,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 15,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 15,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
         "rank": 16,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 17,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 18,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 19,
@@ -236,8 +236,8 @@
       },
       {
         "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "1498550832",
+        "title": "ASCCP Management Guidelines"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 25,
-        "id": "1498550832",
-        "title": "ASCCP Management Guidelines"
+        "id": "301387274",
+        "title": "Pocket God"
       }
     ]
   }
