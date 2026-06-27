@@ -132398,5 +132398,253 @@
     "position": 25,
     "from": "Noir - Dark Mode for Safari",
     "to": "Stash - Rule Based Proxy"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Netflix Game Controller",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Claude by Anthropic",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "TikTok Pro - Events",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Meta AI",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "My Earthquake Alerts & Feed",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "SkyViewÂ®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Shot Tracer",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "MilGPS",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Spirit Talker Â®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-27T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Moment Pro Camera II",
+    "to": "Spirit Talker Â®"
   }
 ]
