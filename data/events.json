@@ -133310,5 +133310,149 @@
     "position": 25,
     "from": "My Lightning Tracker Pro",
     "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Claude by Anthropic",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Meta AI",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-28T08:00:20Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Uber - Request a ride",
+    "to": "FWC2026 Mobile Tickets"
   }
 ]
