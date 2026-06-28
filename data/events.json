@@ -133910,5 +133910,213 @@
     "position": 25,
     "from": "Necrophonic",
     "to": "TeleGuard"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "ChatGPT",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "TikTok Pro - Events",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Polymarket: Trade Soccer",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "WhatsApp Messenger",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "iWebTV PRO",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "iWebTV PRO"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Ableton Note",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pocket God",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-28T17:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "TeleGuard",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
