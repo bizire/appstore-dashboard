@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T10:30:13Z",
+  "updated_at": "2026-06-28T10:45:09Z",
   "charts": {
     "free": [
       {
@@ -19,13 +19,13 @@
       },
       {
         "rank": 4,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 5,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 6,
@@ -64,23 +64,23 @@
       },
       {
         "rank": 13,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 14,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 15,
         "id": "6445905219",
         "title": "DramaBox - Stream Drama Shorts"
       },
       {
+        "rank": 15,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
         "rank": 16,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 17,
@@ -94,8 +94,8 @@
       },
       {
         "rank": 19,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 20,
@@ -104,8 +104,8 @@
       },
       {
         "rank": 21,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 22,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 24,
         "id": "368677368",
         "title": "Uber - Request a ride"
       },
       {
+        "rank": 24,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
         "rank": 25,
-        "id": "6532603739",
-        "title": "FWC2026 Mobile Tickets"
+        "id": "333903271",
+        "title": "X"
       }
     ],
     "paid": [
@@ -191,33 +191,33 @@
       },
       {
         "rank": 13,
-        "id": "1453647914",
-        "title": "iWebTV PRO"
-      },
-      {
-        "rank": 14,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 14,
+        "id": "1453647914",
+        "title": "iWebTV PRO"
+      },
+      {
         "rank": 15,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 16,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "id": "1140451547",
         "title": "Shot Tracer"
-      },
-      {
-        "rank": 18,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 19,
@@ -226,8 +226,8 @@
       },
       {
         "rank": 20,
-        "id": "1062745479",
-        "title": "HeartWatch: Heart Rate Monitor"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 21,
@@ -236,23 +236,23 @@
       },
       {
         "rank": 22,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1062745479",
+        "title": "HeartWatch: Heart Rate Monitor"
       },
       {
         "rank": 23,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 24,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 25,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1396698319",
+        "title": "Necrophonic"
       }
     ]
   }

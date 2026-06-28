@@ -133590,5 +133590,181 @@
     "position": 25,
     "from": "HeartWatch: Heart Rate Monitor",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "TikTok Pro - Events",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "WhatsApp Messenger",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "FWC2026 Mobile Tickets",
+    "to": "X"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "iWebTV PRO",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "iWebTV PRO"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Spirit Talker Â®",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Shot Tracer",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Moment Pro Camera II",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-06-28T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "Necrophonic"
   }
 ]
