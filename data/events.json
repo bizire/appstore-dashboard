@@ -132838,5 +132838,77 @@
     "position": 25,
     "from": "Stash - Rule Based Proxy",
     "to": "MilGPS"
+  },
+  {
+    "ts": "2026-06-28T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-28T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Shot Tracer",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-28T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-28T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-28T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-28T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Spirit Talker Â®",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-28T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Moment Pro Camera II",
+    "to": "HappyCow - Vegan Food Near You"
+  },
+  {
+    "ts": "2026-06-28T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "HappyCow - Vegan Food Near You",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-28T02:15:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "MilGPS",
+    "to": "My Lightning Tracker Pro"
   }
 ]
