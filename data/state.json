@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T19:30:12Z",
+  "updated_at": "2026-06-28T19:45:11Z",
   "charts": {
     "free": [
       {
@@ -161,18 +161,18 @@
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 8,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "288419283",
         "title": "RadarScope"
+      },
+      {
+        "rank": 9,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 10,
@@ -191,48 +191,48 @@
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 14,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 15,
-        "id": "1453647914",
-        "title": "iWebTV PRO"
+        "rank": 14,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 17,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "rank": 16,
+        "id": "1453647914",
+        "title": "iWebTV PRO"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
-        "rank": 19,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 20,
+        "rank": 18,
         "id": "1062745479",
         "title": "HeartWatch: Heart Rate Monitor"
       },
       {
-        "rank": 21,
+        "rank": 19,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
+        "rank": 20,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 21,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 22,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 25,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       }
     ]
   }

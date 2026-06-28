@@ -134118,5 +134118,117 @@
     "position": 25,
     "from": "TeleGuard",
     "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "iWebTV PRO",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "iWebTV PRO"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Spirit Talker Â®",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Shot Tracer",
+    "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Moment Pro Camera II",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-28T19:45:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Moment Pro Camera II"
   }
 ]
