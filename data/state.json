@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T22:45:08Z",
+  "updated_at": "2026-06-28T23:00:15Z",
   "charts": {
     "free": [
       {
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 9,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 10,
@@ -59,58 +59,58 @@
       },
       {
         "rank": 12,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 13,
-        "id": "6445905219",
-        "title": "DramaBox - Stream Drama Shorts"
-      },
-      {
-        "rank": 14,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 15,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
-      },
-      {
-        "rank": 16,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 17,
-        "id": "1558240027",
-        "title": "Meta AI"
-      },
-      {
-        "rank": 18,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 19,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
+        "rank": 13,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 14,
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
+      },
+      {
+        "rank": 15,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 16,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
+        "rank": 17,
+        "id": "6445905219",
+        "title": "DramaBox - Stream Drama Shorts"
+      },
+      {
+        "rank": 18,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
+        "rank": 19,
+        "id": "1558240027",
+        "title": "Meta AI"
+      },
+      {
         "rank": 20,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
+      },
+      {
+        "rank": 21,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "6741796873",
         "title": "TikTok Pro - Events"
-      },
-      {
-        "rank": 22,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
         "rank": 25,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
       }
     ],
     "paid": [
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "975770717",
-        "title": "My Earthquake Alerts Pro"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 7,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "975770717",
+        "title": "My Earthquake Alerts Pro"
       },
       {
         "rank": 8,
@@ -171,13 +171,13 @@
       },
       {
         "rank": 9,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 10,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 11,
@@ -201,33 +201,33 @@
       },
       {
         "rank": 15,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 16,
-        "id": "1453647914",
-        "title": "iWebTV PRO"
-      },
-      {
-        "rank": 17,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
+        "rank": 16,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 17,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
         "rank": 18,
-        "id": "1062745479",
-        "title": "HeartWatch: Heart Rate Monitor"
+        "id": "1453647914",
+        "title": "iWebTV PRO"
       },
       {
         "rank": 19,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 20,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1062745479",
+        "title": "HeartWatch: Heart Rate Monitor"
       },
       {
         "rank": 21,
@@ -236,23 +236,23 @@
       },
       {
         "rank": 22,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 23,
-        "id": "301387274",
-        "title": "Pocket God"
-      },
-      {
-        "rank": 24,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
+        "rank": 23,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
+        "rank": 24,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
         "rank": 25,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       }
     ]
   }
