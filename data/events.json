@@ -133766,5 +133766,149 @@
     "position": 25,
     "from": "imo video calls and chat HD",
     "to": "Necrophonic"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "TikTok Pro - Events",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Meta AI",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "WhatsApp Messenger",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Wipr 2",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Ableton Note",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-06-28T14:00:22Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Necrophonic",
+    "to": "TeleGuard"
   }
 ]

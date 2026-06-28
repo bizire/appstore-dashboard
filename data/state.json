@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T13:45:11Z",
+  "updated_at": "2026-06-28T14:00:22Z",
   "charts": {
     "free": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 9,
@@ -74,38 +74,38 @@
       },
       {
         "rank": 15,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 16,
         "id": "6741796873",
         "title": "TikTok Pro - Events"
       },
       {
-        "rank": 17,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 18,
+        "rank": 16,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
-        "rank": 19,
+        "rank": 17,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 18,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 19,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
         "rank": 20,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 21,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
       },
       {
         "rank": 22,
@@ -114,13 +114,13 @@
       },
       {
         "rank": 23,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 24,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
         "rank": 25,
@@ -176,13 +176,13 @@
       },
       {
         "rank": 10,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 11,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 12,
@@ -221,18 +221,18 @@
       },
       {
         "rank": 19,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 20,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
+        "rank": 20,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
         "rank": 21,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 22,
@@ -241,8 +241,8 @@
       },
       {
         "rank": 23,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "1396698319",
-        "title": "Necrophonic"
+        "id": "1505636751",
+        "title": "TeleGuard"
       }
     ]
   }
