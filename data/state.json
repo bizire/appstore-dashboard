@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T07:45:12Z",
+  "updated_at": "2026-06-29T08:00:20Z",
   "charts": {
     "free": [
       {
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "975770717",
-        "title": "My Earthquake Alerts Pro"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 8,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "975770717",
+        "title": "My Earthquake Alerts Pro"
       },
       {
         "rank": 9,
@@ -176,13 +176,13 @@
       },
       {
         "rank": 10,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 11,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 12,
@@ -221,38 +221,38 @@
       },
       {
         "rank": 19,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 20,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
-        "rank": 21,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 22,
-        "id": "1062745479",
-        "title": "HeartWatch: Heart Rate Monitor"
-      },
-      {
-        "rank": 23,
+        "rank": 20,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
+        "rank": 21,
+        "id": "1062745479",
+        "title": "HeartWatch: Heart Rate Monitor"
+      },
+      {
+        "rank": 22,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 23,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
         "rank": 24,
-        "id": "892347083",
-        "title": "FORScan Lite - for Ford, Mazda"
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 25,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }
