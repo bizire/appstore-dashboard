@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T07:30:11Z",
+  "updated_at": "2026-06-29T07:45:12Z",
   "charts": {
     "free": [
       {
@@ -19,13 +19,13 @@
       },
       {
         "rank": 4,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the World Cup"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 5,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1632713844",
+        "title": "Kalshi: Trade the World Cup"
       },
       {
         "rank": 6,
@@ -59,23 +59,23 @@
       },
       {
         "rank": 12,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 13,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
+        "rank": 13,
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
+      },
+      {
         "rank": 14,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 15,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 16,
@@ -84,23 +84,23 @@
       },
       {
         "rank": 17,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
-      },
-      {
-        "rank": 18,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
+        "rank": 18,
+        "id": "6445905219",
+        "title": "DramaBox - Stream Drama Shorts"
+      },
+      {
         "rank": 19,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 20,
-        "id": "6445905219",
-        "title": "DramaBox - Stream Drama Shorts"
+        "id": "1558240027",
+        "title": "Meta AI"
       },
       {
         "rank": 21,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "1574452924",
+        "title": "Watch Duty: Wildfire & Floods"
       },
       {
         "rank": 24,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
       },
       {
         "rank": 25,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
+        "id": "384830320",
+        "title": "Life360: Family Safety & GPS"
       }
     ],
     "paid": [
