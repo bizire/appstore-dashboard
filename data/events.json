@@ -135854,5 +135854,253 @@
     "position": 25,
     "from": "Ableton Note",
     "to": "White Noise"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Love Island USA",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Netflix Game Controller",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google Maps",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Meta AI",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok Pro - Events",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Watch Duty: Wildfire & Floods",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Wipr 2",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "iWebTV PRO",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Pocket God",
+    "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-29T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "White Noise",
+    "to": "Pocket God"
   }
 ]
