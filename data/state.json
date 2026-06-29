@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T10:45:10Z",
+  "updated_at": "2026-06-29T11:00:08Z",
   "charts": {
     "free": [
       {
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 9,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 10,
@@ -69,13 +69,13 @@
       },
       {
         "rank": 14,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 15,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 16,
@@ -84,18 +84,18 @@
       },
       {
         "rank": 17,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 18,
         "id": "6445905219",
         "title": "DramaBox - Stream Drama Shorts"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "310633997",
         "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 19,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 20,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
-        "rank": 23,
-        "id": "1574452924",
-        "title": "Watch Duty: Wildfire & Floods"
-      },
-      {
-        "rank": 24,
         "id": "6648798962",
         "title": "Polymarket: Trade Soccer"
       },
       {
+        "rank": 23,
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
+      },
+      {
+        "rank": 24,
+        "id": "1574452924",
+        "title": "Watch Duty: Wildfire & Floods"
+      },
+      {
         "rank": 25,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
@@ -171,8 +171,8 @@
       },
       {
         "rank": 9,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 10,
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 12,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 13,
@@ -196,8 +196,8 @@
       },
       {
         "rank": 14,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 15,
@@ -206,23 +206,23 @@
       },
       {
         "rank": 16,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 17,
         "id": "1453647914",
         "title": "iWebTV PRO"
       },
       {
-        "rank": 17,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
         "rank": 18,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 19,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "1062745479",
-        "title": "HeartWatch: Heart Rate Monitor"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       },
       {
         "rank": 22,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 23,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 24,
         "id": "1633243177",
         "title": "Ableton Note"
       },
       {
-        "rank": 25,
+        "rank": 23,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 24,
+        "id": "1062745479",
+        "title": "HeartWatch: Heart Rate Monitor"
+      },
+      {
+        "rank": 25,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       }
     ]
   }
