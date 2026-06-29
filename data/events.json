@@ -135406,5 +135406,181 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Love Island USA",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "ChatGPT",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "WhatsApp Messenger",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Meta AI",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Watch Duty: Wildfire & Floods",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "X"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "Earthquake Network",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Procreate Pocket",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Ableton Note",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-06-29T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "Ableton Note"
   }
 ]
