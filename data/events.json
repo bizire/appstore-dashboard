@@ -136798,5 +136798,293 @@
     "position": 25,
     "from": "HeartWatch: Heart Rate Monitor",
     "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Trump Accounts: Official App",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Love Island USA",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Netflix Game Controller",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google Maps",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Gemini",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Meta AI",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Gmail - Email by Google",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Planet Fitness"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "My Earthquake Alerts Pro",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PeakFinder",
+    "to": "YoungPhoto - Aesthetic Camera"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "RadarScope",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PhotoPills",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "QuickBend: Conduit Bending",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Shot Tracer",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Wipr 2",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-30T08:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "Pocket God"
   }
 ]
