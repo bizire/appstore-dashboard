@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-30T16:45:12Z",
+  "updated_at": "2026-06-30T17:00:30Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the World Cup"
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       },
       {
         "rank": 2,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
+        "id": "1632713844",
+        "title": "Kalshi: Trade the World Cup"
       },
       {
         "rank": 3,
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 6,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 7,
@@ -44,73 +44,73 @@
       },
       {
         "rank": 9,
-        "id": "6477489729",
-        "title": "Google Gemini"
-      },
-      {
-        "rank": 10,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
+        "rank": 10,
+        "id": "6477489729",
+        "title": "Google Gemini"
+      },
+      {
         "rank": 11,
-        "id": "1465944282",
-        "title": "Love Island USA"
-      },
-      {
-        "rank": 12,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 13,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 14,
+        "rank": 12,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 15,
+        "rank": 13,
+        "id": "1465944282",
+        "title": "Love Island USA"
+      },
+      {
+        "rank": 14,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 16,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "rank": 15,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
+        "rank": 17,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
         "rank": 18,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 19,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
-      },
-      {
-        "rank": 20,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
-      },
-      {
-        "rank": 21,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
+        "rank": 19,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
+      },
+      {
+        "rank": 20,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
+      },
+      {
+        "rank": 21,
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
+      },
+      {
         "rank": 22,
-        "id": "1574452924",
-        "title": "Watch Duty: Wildfire & Floods"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "6532603739",
+        "title": "FWC2026 Mobile Tickets"
       },
       {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "1574452924",
+        "title": "Watch Duty: Wildfire & Floods"
       }
     ],
     "paid": [
@@ -141,13 +141,13 @@
       },
       {
         "rank": 3,
-        "id": "1449893235",
-        "title": "Earthquake Network"
+        "id": "373493387",
+        "title": "AnkiMobile Flashcards"
       },
       {
         "rank": 4,
-        "id": "373493387",
-        "title": "AnkiMobile Flashcards"
+        "id": "1449893235",
+        "title": "Earthquake Network"
       },
       {
         "rank": 5,
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "975770717",
-        "title": "My Earthquake Alerts Pro"
+        "id": "6763737180",
+        "title": "YoungPhoto - Aesthetic Camera"
       },
       {
         "rank": 8,
-        "id": "6763737180",
-        "title": "YoungPhoto - Aesthetic Camera"
+        "id": "975770717",
+        "title": "My Earthquake Alerts Pro"
       },
       {
         "rank": 9,
@@ -176,13 +176,13 @@
       },
       {
         "rank": 10,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 11,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 12,
@@ -206,8 +206,8 @@
       },
       {
         "rank": 16,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 17,
@@ -216,23 +216,23 @@
       },
       {
         "rank": 18,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
+        "rank": 19,
         "id": "596026805",
         "title": "PhotoPills"
       },
       {
-        "rank": 19,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
         "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 21,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 24,
-        "id": "289894882",
-        "title": "White Noise"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 25,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "289894882",
+        "title": "White Noise"
       }
     ]
   }

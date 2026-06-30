@@ -137414,5 +137414,277 @@
     "position": 24,
     "from": "Moment Pro Camera II",
     "to": "White Noise"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Trump Accounts: Official App",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Love Island USA",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Netflix Game Controller",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Maps",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Meta AI",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Watch Duty: Wildfire & Floods",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok Pro - Events",
+    "to": "FWC2026 Mobile Tickets"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Watch Duty: Wildfire & Floods"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 3,
+    "from": "Earthquake Network",
+    "to": "AnkiMobile Flashcards"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "AnkiMobile Flashcards",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "My Earthquake Alerts Pro",
+    "to": "YoungPhoto - Aesthetic Camera"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PhotoPills",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Shot Tracer",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Moment Pro Camera II",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "White Noise",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-30T17:00:30Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "QuickBend: Conduit Bending",
+    "to": "White Noise"
   }
 ]
