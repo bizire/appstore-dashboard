@@ -137214,5 +137214,61 @@
     "position": 25,
     "from": "Pocket God",
     "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-30T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Netflix Game Controller",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-30T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-30T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-30T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-30T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-06-30T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "WhatsApp Messenger",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-30T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Planet Fitness",
+    "to": "Gmail - Email by Google"
   }
 ]
