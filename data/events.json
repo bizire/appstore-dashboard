@@ -137830,5 +137830,117 @@
     "position": 25,
     "from": "Watch Duty: Wildfire & Floods",
     "to": "Instagram"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "YoungPhoto - Aesthetic Camera"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "RadarScope",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PeakFinder",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Wipr 2",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PhotoPills",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "FL Studio Mobile",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-06-30T20:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "White Noise",
+    "to": "LiveATC Air Radio"
   }
 ]
