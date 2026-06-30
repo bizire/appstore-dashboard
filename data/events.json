@@ -137942,5 +137942,245 @@
     "position": 25,
     "from": "White Noise",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Love Island USA",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Meta AI",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Netflix Game Controller",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Instagram",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "My Earthquake Alerts Pro",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "RadarScope",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Threema. The Secure Messenger",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Moment Pro Camera II",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "FL Studio Mobile",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Wipr 2",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PhotoPills",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Shot Tracer",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-30T23:00:17Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "PhotoPills"
   }
 ]
