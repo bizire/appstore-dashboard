@@ -137270,5 +137270,149 @@
     "position": 25,
     "from": "Planet Fitness",
     "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "ChatGPT",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Love Island USA",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Netflix Game Controller",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Claude by Anthropic",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Gmail - Email by Google",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Shot Tracer",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "White Noise",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-06-30T14:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Moment Pro Camera II",
+    "to": "White Noise"
   }
 ]
