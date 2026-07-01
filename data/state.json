@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T02:00:18Z",
+  "updated_at": "2026-07-01T02:15:10Z",
   "charts": {
     "free": [
       {
@@ -44,8 +44,8 @@
       },
       {
         "rank": 9,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
       },
       {
         "rank": 10,
@@ -54,8 +54,8 @@
       },
       {
         "rank": 11,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 12,
@@ -64,23 +64,23 @@
       },
       {
         "rank": 13,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 14,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 14,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
         "rank": 15,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 16,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 17,
@@ -89,8 +89,8 @@
       },
       {
         "rank": 18,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 19,
@@ -99,8 +99,8 @@
       },
       {
         "rank": 20,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 21,
@@ -109,18 +109,18 @@
       },
       {
         "rank": 22,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "1111876388",
+        "title": "T-Life"
       },
       {
         "rank": 23,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 24,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 25,
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 8,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 9,
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 12,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 13,
@@ -201,23 +201,23 @@
       },
       {
         "rank": 15,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 16,
+        "id": "335709058",
+        "title": "Stylebook"
+      },
+      {
+        "rank": 17,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
-        "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 17,
+        "rank": 18,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 18,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
       },
       {
         "rank": 19,
@@ -226,13 +226,13 @@
       },
       {
         "rank": 20,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 21,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 22,
@@ -241,8 +241,8 @@
       },
       {
         "rank": 23,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "id": "327963391",
+        "title": "Pedi STAT"
       }
     ]
   }
