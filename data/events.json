@@ -139262,5 +139262,189 @@
     "position": 25,
     "from": "PhotoPills",
     "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Netflix Game Controller",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Meta AI",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok Pro - Events",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Earthquake Network",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "RadarScope",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Moment Pro Camera II",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "FL Studio Mobile",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PhotoPills",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-07-01T17:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "QuickBend: Conduit Bending",
+    "to": "LiveATC Air Radio"
   }
 ]

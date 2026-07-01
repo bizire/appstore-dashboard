@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T16:45:10Z",
+  "updated_at": "2026-07-01T17:00:14Z",
   "charts": {
     "free": [
       {
@@ -29,28 +29,28 @@
       },
       {
         "rank": 6,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 7,
         "id": "6648798962",
         "title": "Polymarket: Trade Soccer"
       },
       {
-        "rank": 8,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
+        "rank": 7,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "id": "6446901002",
         "title": "Threads"
+      },
+      {
+        "rank": 10,
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
       },
       {
         "rank": 11,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 22,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
-        "rank": 23,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
+        "rank": 22,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
+        "rank": 24,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
         "rank": 25,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
       }
     ],
     "paid": [
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1449893235",
+        "title": "Earthquake Network"
       },
       {
         "rank": 7,
-        "id": "1449893235",
-        "title": "Earthquake Network"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 8,
@@ -196,13 +196,13 @@
       },
       {
         "rank": 14,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 15,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 16,
@@ -211,48 +211,48 @@
       },
       {
         "rank": 17,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 18,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 19,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
+        "rank": 18,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
+        "rank": 19,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
         "rank": 20,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 21,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
-        "rank": 21,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "rank": 22,
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
-        "rank": 22,
+        "rank": 23,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 24,
         "id": "1449584007",
         "title": "Koala Sampler â¢ Beat Maker"
       },
       {
-        "rank": 23,
-        "id": "596026805",
-        "title": "PhotoPills"
-      },
-      {
-        "rank": 24,
-        "id": "892347083",
-        "title": "FORScan Lite - for Ford, Mazda"
-      },
-      {
         "rank": 25,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       }
     ]
   }
