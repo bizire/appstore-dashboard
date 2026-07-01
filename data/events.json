@@ -139102,5 +139102,165 @@
     "position": 25,
     "from": "Gmail - Email by Google",
     "to": "T-Life"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Gemini",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Meta AI",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "T-Life",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Earthquake Network",
+    "to": "YoungPhoto - Aesthetic Camera"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PeakFinder",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "LiveATC Air Radio",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Wipr 2",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Shot Tracer",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-01T14:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "PhotoPills",
+    "to": "QuickBend: Conduit Bending"
   }
 ]

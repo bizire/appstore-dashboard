@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T13:45:08Z",
+  "updated_at": "2026-07-01T14:00:14Z",
   "charts": {
     "free": [
       {
@@ -64,28 +64,28 @@
       },
       {
         "rank": 13,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 14,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 15,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
+        "rank": 14,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 15,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 16,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 17,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 18,
@@ -99,23 +99,23 @@
       },
       {
         "rank": 20,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 21,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
-      },
-      {
-        "rank": 22,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 23,
+        "rank": 21,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 22,
         "id": "1558240027",
         "title": "Meta AI"
+      },
+      {
+        "rank": 23,
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "1111876388",
-        "title": "T-Life"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       }
     ],
     "paid": [
@@ -151,8 +151,8 @@
       },
       {
         "rank": 5,
-        "id": "1449893235",
-        "title": "Earthquake Network"
+        "id": "6763737180",
+        "title": "YoungPhoto - Aesthetic Camera"
       },
       {
         "rank": 6,
@@ -161,8 +161,8 @@
       },
       {
         "rank": 7,
-        "id": "6763737180",
-        "title": "YoungPhoto - Aesthetic Camera"
+        "id": "1449893235",
+        "title": "Earthquake Network"
       },
       {
         "rank": 8,
@@ -201,13 +201,13 @@
       },
       {
         "rank": 15,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 17,
@@ -226,33 +226,33 @@
       },
       {
         "rank": 20,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 21,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
+        "rank": 21,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
         "rank": 22,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       },
       {
         "rank": 23,
+        "id": "596026805",
+        "title": "PhotoPills"
+      },
+      {
+        "rank": 24,
         "id": "892347083",
         "title": "FORScan Lite - for Ford, Mazda"
       },
       {
-        "rank": 24,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
         "rank": 25,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       }
     ]
   }
