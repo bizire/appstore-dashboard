@@ -139742,5 +139742,149 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "ASCCP Management Guidelines"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Lidl Plus"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Netflix Game Controller",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "WhatsApp Messenger",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Lidl Plus",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Meta AI",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-01T23:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Gmail - Email by Google",
+    "to": "DoorDash: Food, Grocery, More"
   }
 ]
