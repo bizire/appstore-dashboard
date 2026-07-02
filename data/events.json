@@ -141294,5 +141294,237 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ChatGPT",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Trump Accounts: Official App",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Netflix Game Controller",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Polymarket: Trade Soccer",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Meta AI",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok Pro - Events",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Earthquake Network",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Streaks",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "PeakFinder",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "Pedi STAT"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "My Earthquake Alerts Pro",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "MilGPS",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Shot Tracer",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pedi STAT",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-02T20:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Wipr 2",
+    "to": "My Earthquake Alerts Pro"
   }
 ]

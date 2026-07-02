@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T19:45:09Z",
+  "updated_at": "2026-07-02T20:00:11Z",
   "charts": {
     "free": [
       {
@@ -9,13 +9,13 @@
       },
       {
         "rank": 2,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 3,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 4,
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 6,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       },
       {
         "rank": 7,
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 9,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 10,
@@ -74,8 +74,8 @@
       },
       {
         "rank": 15,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 16,
@@ -84,13 +84,13 @@
       },
       {
         "rank": 17,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
       },
       {
         "rank": 18,
-        "id": "6670430706",
-        "title": "DramaWave - Dramas & Reels"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 19,
@@ -99,28 +99,28 @@
       },
       {
         "rank": 20,
+        "id": "6670430706",
+        "title": "DramaWave - Dramas & Reels"
+      },
+      {
+        "rank": 21,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
-        "rank": 21,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
         "rank": 22,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
-      },
-      {
-        "rank": 23,
         "id": "6741796873",
         "title": "TikTok Pro - Events"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "422689480",
         "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 24,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 25,
@@ -171,43 +171,43 @@
       },
       {
         "rank": 9,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 10,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 11,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 12,
-        "id": "1449893235",
-        "title": "Earthquake Network"
+        "rank": 10,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 13,
+        "rank": 11,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
+        "rank": 12,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 14,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 15,
+        "rank": 13,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 16,
+        "rank": 14,
         "id": "357421934",
         "title": "PeakFinder"
+      },
+      {
+        "rank": 15,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 16,
+        "id": "1449893235",
+        "title": "Earthquake Network"
       },
       {
         "rank": 17,
@@ -221,38 +221,38 @@
       },
       {
         "rank": 19,
-        "id": "1079999103",
-        "title": "Mealime Meal Plans & Recipes"
-      },
-      {
-        "rank": 20,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 21,
-        "id": "975770717",
-        "title": "My Earthquake Alerts Pro"
-      },
-      {
-        "rank": 22,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 23,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 24,
         "id": "327963391",
         "title": "Pedi STAT"
       },
       {
+        "rank": 20,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
+        "rank": 21,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 22,
+        "id": "1079999103",
+        "title": "Mealime Meal Plans & Recipes"
+      },
+      {
+        "rank": 23,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
+        "rank": 24,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
         "rank": 25,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "975770717",
+        "title": "My Earthquake Alerts Pro"
       }
     ]
   }
