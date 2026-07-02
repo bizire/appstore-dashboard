@@ -141070,5 +141070,141 @@
     "position": 25,
     "from": "MilGPS",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "ChatGPT",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Netflix Game Controller",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Trump Accounts: Official App",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Claude by Anthropic",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "WhatsApp Messenger",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Meta AI",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-02T17:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Gmail - Email by Google",
+    "to": "DoorDash: Food, Grocery, More"
   }
 ]
