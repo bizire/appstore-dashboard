@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T10:45:09Z",
+  "updated_at": "2026-07-02T11:00:11Z",
   "charts": {
     "free": [
       {
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 9,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
         "rank": 10,
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 12,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
       },
       {
         "rank": 13,
@@ -69,13 +69,13 @@
       },
       {
         "rank": 14,
-        "id": "284815942",
-        "title": "Google"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 15,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 16,
@@ -84,28 +84,28 @@
       },
       {
         "rank": 17,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 18,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 18,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
         "rank": 19,
+        "id": "1558240027",
+        "title": "Meta AI"
+      },
+      {
+        "rank": 20,
         "id": "6745274862",
         "title": "DealSeek: Coupons & Discounts"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "id": "6741796873",
         "title": "TikTok Pro - Events"
-      },
-      {
-        "rank": 21,
-        "id": "1558240027",
-        "title": "Meta AI"
       },
       {
         "rank": 22,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "6670430706",
+        "title": "DramaWave - Dramas & Reels"
       },
       {
         "rank": 25,
-        "id": "6670430706",
-        "title": "DramaWave - Dramas & Reels"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       }
     ],
     "paid": [
@@ -191,13 +191,13 @@
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 14,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 15,
@@ -216,23 +216,23 @@
       },
       {
         "rank": 18,
-        "id": "975770717",
-        "title": "My Earthquake Alerts Pro"
-      },
-      {
-        "rank": 19,
         "id": "1079999103",
         "title": "Mealime Meal Plans & Recipes"
       },
       {
+        "rank": 19,
+        "id": "975770717",
+        "title": "My Earthquake Alerts Pro"
+      },
+      {
         "rank": 20,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 21,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 22,
@@ -241,8 +241,8 @@
       },
       {
         "rank": 23,
-        "id": "892347083",
-        "title": "FORScan Lite - for Ford, Mazda"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "405835358",
+        "title": "MilGPS"
       }
     ]
   }
