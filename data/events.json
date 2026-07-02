@@ -140246,5 +140246,157 @@
     "position": 25,
     "from": "Moment Pro Camera II",
     "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ChatGPT",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Trump Accounts: Official App",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Lidl Plus",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Netflix Game Controller",
+    "to": "Lidl Plus"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Claude by Anthropic",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "WhatsApp Messenger",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Microsoft Authenticator",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Gmail - Email by Google",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Meta AI",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-02T05:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Walmart: Shopping & Savings"
   }
 ]
