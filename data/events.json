@@ -141998,5 +141998,269 @@
     "position": 25,
     "from": "My Earthquake Alerts Pro",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Lidl Plus",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Meta AI",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "WhatsApp Messenger",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok Pro - Events",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Lidl Plus"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "T-Life",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Foggy: Bay Area Fog Tracker",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Monash FODMAP Diet",
+    "to": "Foggy: Bay Area Fog Tracker"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "YoungPhoto - Aesthetic Camera"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "Cloud Baby Monitor"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Pedi STAT",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Stylebook",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "MilGPS",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Earthquake Network",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-03T08:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PhotoPills",
+    "to": "LiveATC Air Radio"
   }
 ]
