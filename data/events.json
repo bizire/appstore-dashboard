@@ -143054,5 +143054,213 @@
     "position": 25,
     "from": "PhotoPills",
     "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Love Island USA",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Meta AI",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Lidl Plus",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Lidl Plus"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Polymarket: Trade Soccer",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Foggy: Bay Area Fog Tracker",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Foggy: Bay Area Fog Tracker"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "RadarScope",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PeakFinder",
+    "to": "YoungPhoto - Aesthetic Camera"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Streaks",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Shot Tracer",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Cloud Baby Monitor",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "Cloud Baby Monitor"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PhotoPills",
+    "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "HappyCow - Vegan Food Near You"
+  },
+  {
+    "ts": "2026-07-03T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "MilGPS",
+    "to": "PhotoPills"
   }
 ]
