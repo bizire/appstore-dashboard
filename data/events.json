@@ -142574,5 +142574,213 @@
     "position": 22,
     "from": "Google Maps",
     "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Meta AI",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "WhatsApp Messenger",
+    "to": "Lidl Plus"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Polymarket: Trade Soccer",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok Pro - Events",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Lidl Plus",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Paprika Recipe Manager 3",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Streaks",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Cloud Baby Monitor",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "Cloud Baby Monitor"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Wipr 2",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "PhotoPills",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pocket God",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-03T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "PhotoPills"
   }
 ]
