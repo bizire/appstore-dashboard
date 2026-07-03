@@ -141734,5 +141734,269 @@
     "position": 23,
     "from": "Solocator - GPS Field Camera",
     "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "ChatGPT",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Lidl Plus",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Lidl Plus"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "WhatsApp Messenger",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Meta AI",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok Pro - Events",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Monash FODMAP Diet",
+    "to": "YoungPhoto - Aesthetic Camera"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "QuickBend: Conduit Bending",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Pedi STAT",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Earthquake Network",
+    "to": "Pedi STAT"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Stylebook",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "MilGPS",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Shot Tracer",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-03T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "My Earthquake Alerts Pro",
+    "to": "imo video calls and chat HD"
   }
 ]
