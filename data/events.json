@@ -144254,5 +144254,165 @@
     "position": 23,
     "from": "WhatsApp Messenger",
     "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Polymarket: Trade Soccer",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Spirit Talker Â®",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Slow Shutter Cam",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "Slow Shutter Cam"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-04T14:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
