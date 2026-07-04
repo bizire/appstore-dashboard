@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T08:00:10Z",
+  "updated_at": "2026-07-04T08:15:07Z",
   "charts": {
     "free": [
       {
@@ -9,28 +9,28 @@
       },
       {
         "rank": 2,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the World Cup"
-      },
-      {
-        "rank": 3,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
-      },
-      {
-        "rank": 4,
         "id": "1465944282",
         "title": "Love Island USA"
       },
       {
+        "rank": 3,
+        "id": "1632713844",
+        "title": "Kalshi: Trade the World Cup"
+      },
+      {
+        "rank": 4,
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
+      },
+      {
         "rank": 5,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 6,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 7,
@@ -49,53 +49,53 @@
       },
       {
         "rank": 10,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 11,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
-        "rank": 13,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
+        "rank": 12,
+        "id": "284815942",
+        "title": "Google"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "1558240027",
         "title": "Meta AI"
       },
       {
+        "rank": 15,
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
+      },
+      {
         "rank": 16,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 17,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 18,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
+        "rank": 18,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 19,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 20,
@@ -104,8 +104,8 @@
       },
       {
         "rank": 21,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 22,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 24,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
         "rank": 25,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "333903271",
+        "title": "X"
       }
     ],
     "paid": [
@@ -151,43 +151,43 @@
       },
       {
         "rank": 5,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 7,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
-        "rank": 8,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "rank": 6,
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
-        "rank": 9,
+        "rank": 7,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
+        "rank": 8,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
+        "rank": 9,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
         "rank": 10,
+        "id": "432791399",
+        "title": "Cloud Baby Monitor"
+      },
+      {
+        "rank": 11,
         "id": "6754467968",
         "title": "Foggy: Bay Area Fog Tracker"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "id": "432850619",
         "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 12,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 13,
@@ -196,8 +196,8 @@
       },
       {
         "rank": 14,
-        "id": "432791399",
-        "title": "Cloud Baby Monitor"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 15,
@@ -211,48 +211,48 @@
       },
       {
         "rank": 17,
-        "id": "1079999103",
-        "title": "Mealime Meal Plans & Recipes"
-      },
-      {
-        "rank": 18,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 19,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 20,
-        "id": "335709058",
-        "title": "Stylebook"
-      },
-      {
-        "rank": 21,
-        "id": "892347083",
-        "title": "FORScan Lite - for Ford, Mazda"
-      },
-      {
-        "rank": 22,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 23,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
-        "rank": 24,
+        "rank": 18,
+        "id": "1079999103",
+        "title": "Mealime Meal Plans & Recipes"
+      },
+      {
+        "rank": 19,
+        "id": "357404131",
+        "title": "Slow Shutter Cam"
+      },
+      {
+        "rank": 20,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 21,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 22,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
+        "rank": 23,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 24,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
         "rank": 25,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "335709058",
+        "title": "Stylebook"
       }
     ]
   }
