@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T10:15:10Z",
+  "updated_at": "2026-07-04T10:30:11Z",
   "charts": {
     "free": [
       {
@@ -166,8 +166,8 @@
       },
       {
         "rank": 8,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "6754467968",
+        "title": "Foggy: Bay Area Fog Tracker"
       },
       {
         "rank": 9,
@@ -176,18 +176,18 @@
       },
       {
         "rank": 10,
-        "id": "432791399",
-        "title": "Cloud Baby Monitor"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 11,
-        "id": "6754467968",
-        "title": "Foggy: Bay Area Fog Tracker"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 12,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "432791399",
+        "title": "Cloud Baby Monitor"
       },
       {
         "rank": 13,
@@ -201,38 +201,38 @@
       },
       {
         "rank": 15,
-        "id": "6763737180",
-        "title": "YoungPhoto - Aesthetic Camera"
-      },
-      {
-        "rank": 16,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 17,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 18,
+        "rank": 16,
         "id": "1079999103",
         "title": "Mealime Meal Plans & Recipes"
       },
       {
+        "rank": 17,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
+        "rank": 18,
+        "id": "6763737180",
+        "title": "YoungPhoto - Aesthetic Camera"
+      },
+      {
         "rank": 19,
-        "id": "357404131",
-        "title": "Slow Shutter Cam"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 21,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "357404131",
+        "title": "Slow Shutter Cam"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 24,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       },
       {
         "rank": 25,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       }
     ]
   }

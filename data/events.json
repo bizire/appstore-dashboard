@@ -144070,5 +144070,117 @@
     "position": 25,
     "from": "Pocket God",
     "to": "Stylebook"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "PeakFinder",
+    "to": "Foggy: Bay Area Fog Tracker"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Cloud Baby Monitor",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Foggy: Bay Area Fog Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "Cloud Baby Monitor"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Wipr 2",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "YoungPhoto - Aesthetic Camera"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Slow Shutter Cam",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Slow Shutter Cam"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Moment Pro Camera II",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-07-04T10:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stylebook",
+    "to": "imo video calls and chat HD"
   }
 ]
