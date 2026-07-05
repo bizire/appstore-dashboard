@@ -145414,5 +145414,333 @@
     "position": 25,
     "from": "Slow Shutter Cam",
     "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "ChatGPT",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Love Island USA",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Trump Accounts: Official App",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "TikTok Pro - Events",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Uber - Request a ride",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Claude by Anthropic",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Meta AI",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Maps",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Lyft"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Lime - #RideGreen"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 3,
+    "from": "AnkiMobile Flashcards",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "RadarScope",
+    "to": "AnkiMobile Flashcards"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Procreate Pocket",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Slow Shutter Cam"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Foggy: Bay Area Fog Tracker",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Cloud Baby Monitor",
+    "to": "Foggy: Bay Area Fog Tracker"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "Cloud Baby Monitor"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Slow Shutter Cam",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Shot Tracer",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Spirit Talker Â®",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Pocket God",
+    "to": "NAVLIGHTS for Boats"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Moment Pro Camera II",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-05T08:00:18Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "imo video calls and chat HD"
   }
 ]
