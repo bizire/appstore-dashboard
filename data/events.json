@@ -146430,5 +146430,213 @@
     "position": 24,
     "from": "NAVLIGHTS for Boats",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Love Island USA",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google Gemini",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Uber - Request a ride",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Claude by Anthropic",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Meta AI",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "X",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Lyft",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "WhatsApp Messenger",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Lyft"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Cloud Baby Monitor",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Pocket God",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "Cloud Baby Monitor"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Spirit Talker Â®",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Monash FODMAP Diet",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Moment Pro Camera II",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Wipr 2",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-05T19:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
