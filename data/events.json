@@ -145974,5 +145974,213 @@
     "position": 25,
     "from": "imo video calls and chat HD",
     "to": "NightCap Camera"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Claude by Anthropic",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Meta AI",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "X",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Polymarket: Trade Soccer",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "WhatsApp Messenger",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Slow Shutter Cam",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Procreate Pocket",
+    "to": "Slow Shutter Cam"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Cloud Baby Monitor",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "Cloud Baby Monitor"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Monash FODMAP Diet",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Pocket God",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Moment Pro Camera II",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Wipr 2",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "NAVLIGHTS for Boats",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "imo video calls and chat HD",
+    "to": "NAVLIGHTS for Boats"
+  },
+  {
+    "ts": "2026-07-05T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "NightCap Camera",
+    "to": "Shot Tracer"
   }
 ]
