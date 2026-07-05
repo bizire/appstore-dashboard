@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T04:45:10Z",
+  "updated_at": "2026-07-05T05:00:10Z",
   "charts": {
     "free": [
       {
@@ -19,13 +19,13 @@
       },
       {
         "rank": 4,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 5,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 6,
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 9,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 10,
@@ -54,28 +54,28 @@
       },
       {
         "rank": 11,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
         "rank": 12,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 13,
-        "id": "1558240027",
-        "title": "Meta AI"
-      },
-      {
-        "rank": 14,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
+        "rank": 13,
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
+      },
+      {
+        "rank": 14,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 15,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1558240027",
+        "title": "Meta AI"
       },
       {
         "rank": 16,
@@ -84,13 +84,13 @@
       },
       {
         "rank": 17,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 18,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 19,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
       },
       {
         "rank": 21,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
-      },
-      {
-        "rank": 22,
-        "id": "6670430706",
-        "title": "DramaWave - Dramas & Reels"
-      },
-      {
-        "rank": 23,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
+        "rank": 22,
+        "id": "333903271",
+        "title": "X"
+      },
+      {
+        "rank": 23,
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
+      },
+      {
         "rank": 24,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 25,
-        "id": "333903271",
-        "title": "X"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       }
     ],
     "paid": [
@@ -146,13 +146,13 @@
       },
       {
         "rank": 4,
-        "id": "916366645",
-        "title": "Procreate Pocket"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 5,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 6,
@@ -186,33 +186,33 @@
       },
       {
         "rank": 12,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 13,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
+        "rank": 13,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
         "rank": 14,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "357404131",
+        "title": "Slow Shutter Cam"
       },
       {
         "rank": 15,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 16,
         "id": "1079999103",
         "title": "Mealime Meal Plans & Recipes"
       },
       {
+        "rank": 16,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
         "rank": 17,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 18,
@@ -221,13 +221,13 @@
       },
       {
         "rank": 19,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 20,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 21,
@@ -236,23 +236,23 @@
       },
       {
         "rank": 22,
-        "id": "1449584007",
-        "title": "Koala Sampler â¢ Beat Maker"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 23,
-        "id": "6763737180",
-        "title": "YoungPhoto - Aesthetic Camera"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 24,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 25,
-        "id": "357404131",
-        "title": "Slow Shutter Cam"
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
       }
     ]
   }
