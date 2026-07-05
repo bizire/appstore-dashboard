@@ -144974,5 +144974,197 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Love Island USA",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "WhatsApp Messenger",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "X",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Uber - Request a ride",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "Cloud Baby Monitor"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Cloud Baby Monitor",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Shot Tracer",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "imo video calls and chat HD",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Wipr 2",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "YoungPhoto - Aesthetic Camera"
+  },
+  {
+    "ts": "2026-07-05T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "Slow Shutter Cam"
   }
 ]
