@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T07:30:13Z",
+  "updated_at": "2026-07-06T07:45:07Z",
   "charts": {
     "free": [
       {
@@ -9,13 +9,13 @@
       },
       {
         "rank": 2,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 3,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 4,
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 6,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
       },
       {
         "rank": 7,
@@ -54,23 +54,23 @@
       },
       {
         "rank": 11,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
-      },
-      {
-        "rank": 12,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
+        "rank": 12,
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
+      },
+      {
         "rank": 13,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 14,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 15,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
-        "id": "1193350206",
-        "title": "YouTube TV"
-      },
-      {
-        "rank": 21,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 22,
-        "id": "1558240027",
-        "title": "Meta AI"
-      },
-      {
-        "rank": 23,
         "id": "6670430706",
         "title": "DramaWave - Dramas & Reels"
       },
       {
-        "rank": 24,
+        "rank": 21,
         "id": "1465944282",
         "title": "Love Island USA"
       },
       {
-        "rank": 25,
+        "rank": 22,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 23,
+        "id": "6758667154",
+        "title": "VibeShort: AI Comic Dramas"
+      },
+      {
+        "rank": 24,
         "id": "310633997",
         "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 25,
+        "id": "333903271",
+        "title": "X"
       }
     ],
     "paid": [

@@ -147494,5 +147494,117 @@
     "position": 25,
     "from": "My Lightning Tracker Pro",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "ChatGPT",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "TikTok Pro - Events",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Gemini",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "YouTube TV",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Meta AI",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Love Island USA",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-06T07:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "WhatsApp Messenger",
+    "to": "X"
   }
 ]
