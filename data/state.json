@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T07:45:07Z",
+  "updated_at": "2026-07-06T08:00:13Z",
   "charts": {
     "free": [
       {
@@ -146,13 +146,13 @@
       },
       {
         "rank": 4,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 5,
-        "id": "916366645",
-        "title": "Procreate Pocket"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 6,
@@ -186,73 +186,73 @@
       },
       {
         "rank": 12,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 13,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
-      },
-      {
-        "rank": 14,
         "id": "1079999103",
         "title": "Mealime Meal Plans & Recipes"
       },
       {
-        "rank": 15,
+        "rank": 13,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 14,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 15,
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
+      },
+      {
         "rank": 16,
-        "id": "6754467968",
-        "title": "Foggy: Bay Area Fog Tracker"
-      },
-      {
-        "rank": 17,
-        "id": "6763737180",
-        "title": "YoungPhoto - Aesthetic Camera"
-      },
-      {
-        "rank": 18,
-        "id": "432791399",
-        "title": "Cloud Baby Monitor"
-      },
-      {
-        "rank": 19,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 20,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 21,
+        "rank": 17,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
+        "rank": 18,
+        "id": "6463562198",
+        "title": "Ye said"
+      },
+      {
+        "rank": 19,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
+        "rank": 20,
+        "id": "6763737180",
+        "title": "YoungPhoto - Aesthetic Camera"
+      },
+      {
+        "rank": 21,
+        "id": "6754467968",
+        "title": "Foggy: Bay Area Fog Tracker"
+      },
+      {
         "rank": 22,
+        "id": "432791399",
+        "title": "Cloud Baby Monitor"
+      },
+      {
+        "rank": 23,
+        "id": "6758589017",
+        "title": "Modern METAR Widget"
+      },
+      {
+        "rank": 24,
         "id": "1175031995",
         "title": "My Lightning Tracker Pro"
       },
       {
-        "rank": 23,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 24,
-        "id": "435871950",
-        "title": "HappyCow - Vegan Food Near You"
-      },
-      {
         "rank": 25,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "335709058",
+        "title": "Stylebook"
       }
     ]
   }

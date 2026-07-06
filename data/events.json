@@ -147606,5 +147606,133 @@
     "position": 25,
     "from": "WhatsApp Messenger",
     "to": "X"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "SkyViewÂ®",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Procreate Pocket",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Foggy: Bay Area Fog Tracker",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Cloud Baby Monitor",
+    "to": "Ye said"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Spirit Talker Â®",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "YoungPhoto - Aesthetic Camera"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Foggy: Bay Area Fog Tracker"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "My Lightning Tracker Pro",
+    "to": "Cloud Baby Monitor"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Moment Pro Camera II",
+    "to": "Modern METAR Widget"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "HappyCow - Vegan Food Near You",
+    "to": "My Lightning Tracker Pro"
+  },
+  {
+    "ts": "2026-07-06T08:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "Stylebook"
   }
 ]
