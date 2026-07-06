@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T10:45:09Z",
+  "updated_at": "2026-07-06T11:00:14Z",
   "charts": {
     "free": [
       {
@@ -29,13 +29,13 @@
       },
       {
         "rank": 6,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       },
       {
         "rank": 7,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
+        "id": "680595680",
+        "title": "Telemundo: Series y TV en vivo"
       },
       {
         "rank": 8,
@@ -59,73 +59,73 @@
       },
       {
         "rank": 12,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
-      },
-      {
-        "rank": 13,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 14,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "rank": 13,
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
-        "rank": 17,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "rank": 16,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
+        "rank": 19,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
         "rank": 20,
-        "id": "6670430706",
-        "title": "DramaWave - Dramas & Reels"
-      },
-      {
-        "rank": 21,
-        "id": "1465944282",
-        "title": "Love Island USA"
-      },
-      {
-        "rank": 22,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 23,
         "id": "6758667154",
         "title": "VibeShort: AI Comic Dramas"
       },
       {
-        "rank": 24,
+        "rank": 21,
+        "id": "6670430706",
+        "title": "DramaWave - Dramas & Reels"
+      },
+      {
+        "rank": 22,
+        "id": "333903271",
+        "title": "X"
+      },
+      {
+        "rank": 23,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
+        "rank": 24,
+        "id": "6445905219",
+        "title": "DramaBox - Stream Drama Shorts"
+      },
+      {
         "rank": 25,
-        "id": "333903271",
-        "title": "X"
+        "id": "1465944282",
+        "title": "Love Island USA"
       }
     ],
     "paid": [
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "1079999103",
+        "title": "Mealime Meal Plans & Recipes"
       },
       {
         "rank": 12,
-        "id": "1079999103",
-        "title": "Mealime Meal Plans & Recipes"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 13,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "1175031995",
-        "title": "My Lightning Tracker Pro"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 25,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       }
     ]
   }
