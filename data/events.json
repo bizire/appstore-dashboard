@@ -148750,5 +148750,245 @@
     "position": 25,
     "from": "QuickBend: Conduit Bending",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Trump Accounts: Official App",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Authenticator",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "WhatsApp Messenger",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Pocket God",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Slow Shutter Cam",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Slow Shutter Cam"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Ye said",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Ye said"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "YoungPhoto - Aesthetic Camera"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-07T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "Things 3"
   }
 ]
