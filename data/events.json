@@ -150558,5 +150558,109 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Twitch: Live Streaming",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "TikTok Pro - Events",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Authenticator",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Maps",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-07T23:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Shop: All your favorite brands"
   }
 ]
