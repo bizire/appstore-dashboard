@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T07:30:10Z",
+  "updated_at": "2026-07-07T07:45:08Z",
   "charts": {
     "free": [
       {
@@ -14,13 +14,13 @@
       },
       {
         "rank": 3,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the World Cup"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 4,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1632713844",
+        "title": "Kalshi: Trade the World Cup"
       },
       {
         "rank": 5,
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 9,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 10,
@@ -54,78 +54,78 @@
       },
       {
         "rank": 11,
-        "id": "905401434",
-        "title": "Fubo: Watch Live TV & Sports"
-      },
-      {
-        "rank": 12,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 13,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
-      },
-      {
-        "rank": 14,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
-        "rank": 15,
-        "id": "6477489729",
-        "title": "Google Gemini"
-      },
-      {
-        "rank": 16,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 17,
+        "rank": 12,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
-        "rank": 18,
+        "rank": 13,
+        "id": "6477489729",
+        "title": "Google Gemini"
+      },
+      {
+        "rank": 14,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 15,
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
+      },
+      {
+        "rank": 16,
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
+      },
+      {
+        "rank": 17,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 19,
+        "id": "1465944282",
+        "title": "Love Island USA"
+      },
+      {
         "rank": 20,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 21,
-        "id": "6758667154",
-        "title": "VibeShort: AI Comic Dramas"
-      },
-      {
-        "rank": 22,
         "id": "6670430706",
         "title": "DramaWave - Dramas & Reels"
       },
       {
+        "rank": 21,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 22,
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
+      },
+      {
         "rank": 23,
-        "id": "1193350206",
-        "title": "YouTube TV"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 24,
-        "id": "680595680",
-        "title": "Telemundo: Series y TV en vivo"
+        "id": "6758667154",
+        "title": "VibeShort: AI Comic Dramas"
       },
       {
         "rank": 25,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
+        "id": "6445905219",
+        "title": "DramaBox - Stream Drama Shorts"
       }
     ],
     "paid": [

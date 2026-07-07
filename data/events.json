@@ -149406,5 +149406,157 @@
     "position": 25,
     "from": "My Lightning Tracker Pro",
     "to": "Things 3"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Claude by Anthropic",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Gemini",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "WhatsApp Messenger",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "YouTube TV",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-07T07:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "DramaBox - Stream Drama Shorts"
   }
 ]
