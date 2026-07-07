@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T19:15:06Z",
+  "updated_at": "2026-07-07T19:30:05Z",
   "charts": {
     "free": [
       {
@@ -206,33 +206,33 @@
       },
       {
         "rank": 16,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 17,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
+        "rank": 17,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
         "rank": 18,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 19,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "6754467968",
         "title": "Foggy: Bay Area Fog Tracker"
       },
       {
-        "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
         "rank": 21,
-        "id": "357404131",
-        "title": "Slow Shutter Cam"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 24,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
+        "id": "357404131",
+        "title": "Slow Shutter Cam"
       },
       {
         "rank": 25,
-        "id": "6778099993",
-        "title": "Manager for KuKirin"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       }
     ]
   }
