@@ -148990,5 +148990,189 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "Things 3"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Trump Accounts: Official App",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Netflix Game Controller",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Claude by Anthropic",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Fubo: Watch Live TV & Sports",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Telemundo: Series y TV en vivo",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "TikTok Pro - Events",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Authenticator",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Telemundo: Series y TV en vivo"
+  },
+  {
+    "ts": "2026-07-07T04:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "StoryReel: Exclusive Drama"
   }
 ]
