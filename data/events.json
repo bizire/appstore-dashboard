@@ -149318,5 +149318,93 @@
     "position": 25,
     "from": "Things 3",
     "to": "My Lightning Tracker Pro"
+  },
+  {
+    "ts": "2026-07-07T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-07T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-07T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Pocket God",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-07T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Spirit Talker Â®",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-07T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "Modern METAR Widget"
+  },
+  {
+    "ts": "2026-07-07T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Ye said",
+    "to": "Foggy: Bay Area Fog Tracker"
+  },
+  {
+    "ts": "2026-07-07T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-07T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Things 3",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-07T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Ye said"
+  },
+  {
+    "ts": "2026-07-07T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-07T07:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "My Lightning Tracker Pro",
+    "to": "Things 3"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T07:15:09Z",
+  "updated_at": "2026-07-07T07:30:10Z",
   "charts": {
     "free": [
       {
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 8,
@@ -191,8 +191,8 @@
       },
       {
         "rank": 13,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 14,
@@ -201,8 +201,8 @@
       },
       {
         "rank": 15,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 16,
@@ -216,28 +216,28 @@
       },
       {
         "rank": 18,
+        "id": "6758589017",
+        "title": "Modern METAR Widget"
+      },
+      {
+        "rank": 19,
+        "id": "6754467968",
+        "title": "Foggy: Bay Area Fog Tracker"
+      },
+      {
+        "rank": 20,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 19,
-        "id": "6463562198",
-        "title": "Ye said"
-      },
-      {
-        "rank": 20,
+        "rank": 21,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
-        "rank": 21,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
         "rank": 22,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "6463562198",
+        "title": "Ye said"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "6763737180",
-        "title": "YoungPhoto - Aesthetic Camera"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 25,
-        "id": "1175031995",
-        "title": "My Lightning Tracker Pro"
+        "id": "904237743",
+        "title": "Things 3"
       }
     ]
   }
