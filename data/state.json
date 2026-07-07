@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T19:45:05Z",
+  "updated_at": "2026-07-07T20:00:07Z",
   "charts": {
     "free": [
       {
@@ -14,8 +14,8 @@
       },
       {
         "rank": 3,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 4,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 5,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 6,
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "460177396",
-        "title": "Twitch: Live Streaming"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "460177396",
+        "title": "Twitch: Live Streaming"
       },
       {
         "rank": 9,
@@ -64,18 +64,18 @@
       },
       {
         "rank": 13,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
-      },
-      {
-        "rank": 14,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "6741796873",
         "title": "TikTok Pro - Events"
+      },
+      {
+        "rank": 15,
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 16,
@@ -84,8 +84,8 @@
       },
       {
         "rank": 17,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 18,
@@ -99,13 +99,13 @@
       },
       {
         "rank": 20,
-        "id": "1636235979",
-        "title": "ReelShort - Stream Drama & TV"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 21,
-        "id": "6758667154",
-        "title": "VibeShort: AI Comic Dramas"
+        "id": "1636235979",
+        "title": "ReelShort - Stream Drama & TV"
       },
       {
         "rank": 22,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "905401434",
+        "title": "Fubo: Watch Live TV & Sports"
       },
       {
         "rank": 25,
-        "id": "6445905219",
-        "title": "DramaBox - Stream Drama Shorts"
+        "id": "6758667154",
+        "title": "VibeShort: AI Comic Dramas"
       }
     ],
     "paid": [

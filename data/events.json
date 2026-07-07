@@ -150310,5 +150310,101 @@
     "position": 25,
     "from": "Manager for KuKirin",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-07T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-07T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-07T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Twitch: Live Streaming",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-07T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-07T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-07T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-07T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "TikTok Pro - Events",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-07T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-07T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-07T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-07-07T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Fubo: Watch Live TV & Sports"
+  },
+  {
+    "ts": "2026-07-07T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "VibeShort: AI Comic Dramas"
   }
 ]
