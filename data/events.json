@@ -151566,5 +151566,93 @@
     "position": 25,
     "from": "Google Maps",
     "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-08T11:15:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-08T11:15:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-08T11:15:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-08T11:15:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-08T11:15:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Spirit Talker Â®",
+    "to": "Modern METAR Widget"
+  },
+  {
+    "ts": "2026-07-08T11:15:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Modern METAR Widget",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-08T11:15:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-08T11:15:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "My Lightning Tracker Pro",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-08T11:15:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Solocator - GPS Field Camera",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-08T11:15:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-08T11:15:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
   }
 ]

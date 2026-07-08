@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T11:00:08Z",
+  "updated_at": "2026-07-08T11:15:08Z",
   "charts": {
     "free": [
       {
@@ -151,23 +151,23 @@
       },
       {
         "rank": 5,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 6,
         "id": "1079999103",
         "title": "Mealime Meal Plans & Recipes"
       },
       {
+        "rank": 6,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
         "rank": 7,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 8,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 9,
@@ -196,13 +196,13 @@
       },
       {
         "rank": 14,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "6758589017",
+        "title": "Modern METAR Widget"
       },
       {
         "rank": 15,
-        "id": "6758589017",
-        "title": "Modern METAR Widget"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 16,
@@ -221,8 +221,8 @@
       },
       {
         "rank": 19,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 20,
@@ -231,8 +231,8 @@
       },
       {
         "rank": 21,
-        "id": "1175031995",
-        "title": "My Lightning Tracker Pro"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 24,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 25,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }
