@@ -151750,5 +151750,61 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-08T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-08T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Gemini",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-08T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-08T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-08T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Twitch: Live Streaming",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-08T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Maps",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-08T14:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Meta AI",
+    "to": "Twitch: Live Streaming"
   }
 ]

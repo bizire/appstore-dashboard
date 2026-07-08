@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T13:45:11Z",
+  "updated_at": "2026-07-08T14:00:13Z",
   "charts": {
     "free": [
       {
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 13,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 14,
@@ -99,28 +99,28 @@
       },
       {
         "rank": 20,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 21,
         "id": "6761538521",
         "title": "StoryReel: Exclusive Drama"
       },
       {
-        "rank": 22,
-        "id": "460177396",
-        "title": "Twitch: Live Streaming"
+        "rank": 21,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "1558240027",
         "title": "Meta AI"
+      },
+      {
+        "rank": 24,
+        "id": "460177396",
+        "title": "Twitch: Live Streaming"
       },
       {
         "rank": 25,
