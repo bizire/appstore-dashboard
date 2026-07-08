@@ -151806,5 +151806,109 @@
     "position": 24,
     "from": "Meta AI",
     "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Mealime Meal Plans & Recipes"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "Modern METAR Widget"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Modern METAR Widget",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Pocket God",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PhotoPills",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Goblin Tools",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "MilGPS",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-07-08T16:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Solocator - GPS Field Camera"
   }
 ]
