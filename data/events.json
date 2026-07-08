@@ -151910,5 +151910,69 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-07-08T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-08T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "TikTok Pro - Events",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-08T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Claude by Anthropic",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-08T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-08T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-08T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-08T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Meta AI",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-08T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Twitch: Live Streaming",
+    "to": "ReelShort - Stream Drama & TV"
   }
 ]
