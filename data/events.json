@@ -151462,5 +151462,109 @@
     "position": 25,
     "from": "Microsoft Authenticator",
     "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "ChatGPT",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "TikTok Pro - Events",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Twitch: Live Streaming",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Shop: All your favorite brands",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-08T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Maps",
+    "to": "Shop: All your favorite brands"
   }
 ]
