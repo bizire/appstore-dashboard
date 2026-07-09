@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T10:45:08Z",
+  "updated_at": "2026-07-09T11:00:11Z",
   "charts": {
     "free": [
       {
@@ -9,13 +9,13 @@
       },
       {
         "rank": 2,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 3,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 4,
@@ -34,18 +34,18 @@
       },
       {
         "rank": 7,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 8,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
+      },
+      {
+        "rank": 9,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 10,
@@ -54,23 +54,23 @@
       },
       {
         "rank": 11,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
-      },
-      {
-        "rank": 12,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
+        "rank": 12,
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
+      },
+      {
         "rank": 13,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 14,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 15,
@@ -94,23 +94,23 @@
       },
       {
         "rank": 19,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 20,
         "id": "6761538521",
         "title": "StoryReel: Exclusive Drama"
       },
       {
+        "rank": 20,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
         "rank": 21,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 22,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 25,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       }
     ],
     "paid": [
@@ -171,53 +171,53 @@
       },
       {
         "rank": 9,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 10,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 10,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
         "rank": 11,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 12,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 13,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 14,
+        "rank": 12,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
+        "rank": 13,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
+        "rank": 14,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
         "rank": 15,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
+        "rank": 16,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 18,
-        "id": "1662217862",
-        "title": "Wipr 2"
       },
       {
         "rank": 19,
@@ -231,18 +231,18 @@
       },
       {
         "rank": 21,
-        "id": "892347083",
-        "title": "FORScan Lite - for Ford, Mazda"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "596026805",
+        "title": "PhotoPills"
       },
       {
         "rank": 23,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "id": "335709058",
+        "title": "Stylebook"
       }
     ]
   }
