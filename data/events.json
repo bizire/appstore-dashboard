@@ -153518,5 +153518,149 @@
     "position": 25,
     "from": "PhotoPills",
     "to": "Stylebook"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Meta AI",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Spirit Talker Â®",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Shot Tracer",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "PhotoPills",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "LiveATC Air Radio",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-09T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stylebook",
+    "to": "LiveATC Air Radio"
   }
 ]
