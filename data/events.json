@@ -153662,5 +153662,237 @@
     "position": 25,
     "from": "Stylebook",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "TikTok Pro - Events",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Claude by Anthropic",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Meta AI",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Shop: All your favorite brands",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Spirit Talker Â®",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Wipr 2",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Threema. The Secure Messenger",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Modern METAR Widget",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Pocket God",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Shot Tracer",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "Modern METAR Widget"
+  },
+  {
+    "ts": "2026-07-09T16:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Goblin Tools"
   }
 ]
