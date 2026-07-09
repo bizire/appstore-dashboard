@@ -152494,5 +152494,245 @@
     "position": 25,
     "from": "Pedi STAT",
     "to": "ASCCP Management Guidelines"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Trump Accounts: Official App",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "TikTok Pro - Events",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Microsoft Authenticator",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Lidl Plus"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Microsoft Teams",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Lidl Plus",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Mealime Meal Plans & Recipes",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "SkyViewÂ®",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Modern METAR Widget",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "MilGPS",
+    "to": "Modern METAR Widget"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Solocator - GPS Field Camera",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "FL Studio Mobile",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Wipr 2",
+    "to": "ASCCP Management Guidelines"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "PhotoPills",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-09T02:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "ASCCP Management Guidelines",
+    "to": "Pocket God"
   }
 ]
