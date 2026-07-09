@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-09T04:45:08Z",
+  "updated_at": "2026-07-09T05:00:15Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 2,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1465944282",
+        "title": "Love Island USA"
       },
       {
         "rank": 3,
@@ -29,13 +29,13 @@
       },
       {
         "rank": 6,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 7,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 8,
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 12,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 13,
@@ -69,23 +69,23 @@
       },
       {
         "rank": 14,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
-      },
-      {
-        "rank": 15,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
+        "rank": 16,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
+      },
+      {
         "rank": 17,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 18,
@@ -94,38 +94,38 @@
       },
       {
         "rank": 19,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 20,
-        "id": "1238611143",
-        "title": "Lidl Plus"
-      },
-      {
-        "rank": 21,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
-      },
-      {
-        "rank": 22,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
+        "rank": 21,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 22,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
         "rank": 23,
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
+      },
+      {
+        "rank": 24,
         "id": "6761538521",
         "title": "StoryReel: Exclusive Drama"
       },
       {
-        "rank": 24,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
-      },
-      {
         "rank": 25,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       }
     ],
     "paid": [
