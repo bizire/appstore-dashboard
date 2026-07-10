@@ -154622,5 +154622,205 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "ASCCP Management Guidelines"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Love Island USA",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "TikTok Pro - Events",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Microsoft Authenticator",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Microsoft Teams",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Gmail - Email by Google",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Meta AI",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "RadarScope",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Wipr 2",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "imo video calls and chat HD",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Spirit Talker Â®",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pedi STAT",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Shot Tracer",
+    "to": "My Lightning Tracker Pro"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "Pedi STAT"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Goblin Tools",
+    "to": "ASCCP Management Guidelines"
+  },
+  {
+    "ts": "2026-07-10T02:30:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "ASCCP Management Guidelines",
+    "to": "LiveATC Air Radio"
   }
 ]
