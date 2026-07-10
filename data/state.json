@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-10T19:30:08Z",
+  "updated_at": "2026-07-10T19:45:08Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 2,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 3,
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 12,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 13,
@@ -69,8 +69,8 @@
       },
       {
         "rank": 14,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 15,
@@ -79,8 +79,8 @@
       },
       {
         "rank": 16,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 17,
@@ -89,18 +89,18 @@
       },
       {
         "rank": 18,
-        "id": "1465944282",
-        "title": "Love Island USA"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 19,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
+        "id": "1558240027",
+        "title": "Meta AI"
       },
       {
         "rank": 20,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 21,
@@ -109,8 +109,8 @@
       },
       {
         "rank": 22,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "333903271",
-        "title": "X"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       }
     ],
     "paid": [
@@ -181,33 +181,33 @@
       },
       {
         "rank": 11,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 12,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 13,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
+        "rank": 12,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 13,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
         "rank": 14,
+        "id": "1449893235",
+        "title": "Earthquake Network"
+      },
+      {
+        "rank": 15,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 15,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
         "rank": 16,
-        "id": "6763737180",
-        "title": "YoungPhoto - Aesthetic Camera"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 17,
@@ -216,38 +216,38 @@
       },
       {
         "rank": 18,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "6763737180",
+        "title": "YoungPhoto - Aesthetic Camera"
       },
       {
         "rank": 19,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 20,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 20,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
         "rank": 21,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 22,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
+        "rank": 22,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
         "rank": 23,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 24,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 25,
