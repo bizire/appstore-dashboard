@@ -156446,5 +156446,101 @@
     "position": 25,
     "from": "PhotoPills",
     "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-11T02:15:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-11T02:15:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-11T02:15:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-11T02:15:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-11T02:15:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Trump Accounts: Official App",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-11T02:15:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-07-11T02:15:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Shop: All your favorite brands",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-11T02:15:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Microsoft Authenticator",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-11T02:15:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-11T02:15:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-11T02:15:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-11T02:15:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Teams",
+    "to": "DealSeek: Coupons & Discounts"
   }
 ]
