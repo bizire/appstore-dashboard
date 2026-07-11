@@ -157406,5 +157406,53 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-11T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "MilGPS",
+    "to": "CineTemp"
+  },
+  {
+    "ts": "2026-07-11T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "CineTemp",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-11T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Pocket God",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-11T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Wipr 2",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-11T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-11T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Moment Pro Camera II",
+    "to": "Threema. The Secure Messenger"
   }
 ]
