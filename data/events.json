@@ -157742,5 +157742,261 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "Stash - Rule Based Proxy"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Claude by Anthropic",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "X",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Life360: Family Safety & GPS",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Trump Accounts: Official App",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Shop: All your favorite brands",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Earthquake Network",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Spirit Talker Â®",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "CineTemp",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "imo video calls and chat HD",
+    "to": "CineTemp"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "PhotoPills",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "MilGPS",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Wipr 2",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pocket God",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-11T20:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stash - Rule Based Proxy",
+    "to": "Threema. The Secure Messenger"
   }
 ]
