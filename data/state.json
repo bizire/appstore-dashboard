@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T16:45:08Z",
+  "updated_at": "2026-07-11T17:00:10Z",
   "charts": {
     "free": [
       {
@@ -181,28 +181,28 @@
       },
       {
         "rank": 11,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 12,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 13,
-        "id": "1449893235",
-        "title": "Earthquake Network"
+        "rank": 12,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 14,
+        "id": "1449893235",
+        "title": "Earthquake Network"
+      },
+      {
         "rank": 15,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 16,
@@ -211,28 +211,28 @@
       },
       {
         "rank": 17,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 18,
-        "id": "596026805",
-        "title": "PhotoPills"
-      },
-      {
-        "rank": 19,
         "id": "6738967033",
         "title": "CineTemp"
       },
       {
+        "rank": 19,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
         "rank": 20,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "596026805",
+        "title": "PhotoPills"
       },
       {
         "rank": 21,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 24,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
-        "rank": 25,
+        "rank": 24,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 25,
+        "id": "1596063349",
+        "title": "Stash - Rule Based Proxy"
       }
     ]
   }

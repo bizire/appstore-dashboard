@@ -157638,5 +157638,109 @@
     "position": 25,
     "from": "Trump Accounts: Official App",
     "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Earthquake Network",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Spirit Talker Â®",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PhotoPills",
+    "to": "CineTemp"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "CineTemp",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "MilGPS",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pocket God",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-11T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "Stash - Rule Based Proxy"
   }
 ]
