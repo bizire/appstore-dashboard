@@ -156798,5 +156798,117 @@
     "position": 25,
     "from": "DealSeek: Coupons & Discounts",
     "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Solocator - GPS Field Camera",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PhotoPills",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-11T05:30:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "YoungPhoto - Aesthetic Camera",
+    "to": "imo video calls and chat HD"
   }
 ]
