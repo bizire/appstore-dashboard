@@ -157454,5 +157454,93 @@
     "position": 25,
     "from": "Moment Pro Camera II",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-11T14:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-11T14:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-11T14:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-11T14:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-11T14:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-11T14:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Polymarket: Trade Soccer",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-11T14:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "X",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-11T14:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Life360: Family Safety & GPS",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-07-11T14:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-07-11T14:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Trump Accounts: Official App",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-11T14:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Trump Accounts: Official App"
   }
 ]
