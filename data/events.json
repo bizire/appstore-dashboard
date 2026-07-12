@@ -159654,5 +159654,221 @@
     "position": 25,
     "from": "Pocket God",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Love Island USA",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "TikTok Pro - Events",
+    "to": "Love Island USA"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "DraftKings: Sports & Casino",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Claude by Anthropic",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google",
+    "to": "DraftKings: Sports & Casino"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "WhatsApp Messenger",
+    "to": "NetShort - Popular Dramas & TV"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Shot Tracer",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "RadarScope",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Spirit Talker Â®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Monash FODMAP Diet",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Wipr 2",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PhotoPills",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Moment Pro Camera II",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Stylebook",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Necrophonic",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "imo video calls and chat HD",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-12T20:00:07Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "MilGPS"
   }
 ]
