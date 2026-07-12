@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T07:30:06Z",
+  "updated_at": "2026-07-12T07:45:05Z",
   "charts": {
     "free": [
       {
@@ -59,33 +59,33 @@
       },
       {
         "rank": 12,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 13,
         "id": "6446901002",
         "title": "Threads"
       },
       {
+        "rank": 13,
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
+      },
+      {
         "rank": 14,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 15,
         "id": "589653414",
         "title": "7-Eleven: Rewards & Shopping"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "id": "6477489729",
         "title": "Google Gemini"
-      },
-      {
-        "rank": 17,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 18,
@@ -94,8 +94,8 @@
       },
       {
         "rank": 19,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 20,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 22,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 23,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 22,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 23,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
         "rank": 24,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "545519333",
+        "title": "Amazon Prime Video"
       },
       {
         "rank": 25,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
+        "id": "333903271",
+        "title": "X"
       }
     ],
     "paid": [

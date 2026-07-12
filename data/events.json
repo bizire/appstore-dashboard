@@ -158830,5 +158830,101 @@
     "position": 24,
     "from": "QuickBend: Conduit Bending",
     "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-12T07:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-12T07:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Threads",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-12T07:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "7-Eleven: Rewards & Shopping",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-12T07:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Claude by Anthropic",
+    "to": "7-Eleven: Rewards & Shopping"
+  },
+  {
+    "ts": "2026-07-12T07:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-12T07:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-12T07:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-12T07:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-12T07:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-12T07:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-12T07:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Amazon Prime Video"
+  },
+  {
+    "ts": "2026-07-12T07:45:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Life360: Family Safety & GPS",
+    "to": "X"
   }
 ]
