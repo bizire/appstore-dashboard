@@ -159078,5 +159078,165 @@
     "position": 25,
     "from": "Pocket God",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "ChatGPT",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "7-Eleven: Rewards & Shopping",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Gemini",
+    "to": "7-Eleven: Rewards & Shopping"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Maps",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Amazon Prime Video",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "PeakFinder",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "RadarScope",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Spirit Talker Â®",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "LiveATC Air Radio",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PhotoPills",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "My Lightning Tracker Pro",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Cloud Baby Monitor",
+    "to": "Necrophonic"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "My Lightning Tracker Pro"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "MilGPS",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-12T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "CineTemp"
   }
 ]
