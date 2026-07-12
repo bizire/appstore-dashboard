@@ -159990,5 +159990,109 @@
     "position": 25,
     "from": "X",
     "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Earthquake Network",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Shot Tracer",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Moment Pro Camera II",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Wipr 2",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "LiveATC Air Radio",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "PhotoPills",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Stylebook",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pocket God",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-07-12T23:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "MilGPS",
+    "to": "Threema. The Secure Messenger"
   }
 ]
