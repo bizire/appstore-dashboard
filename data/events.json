@@ -159350,5 +159350,101 @@
     "position": 25,
     "from": "Uber - Request a ride",
     "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-12T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Shot Tracer",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-12T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "RadarScope",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-12T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-12T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-12T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Spirit Talker Â®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-12T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Moment Pro Camera II",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-12T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-12T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "Necrophonic"
+  },
+  {
+    "ts": "2026-07-12T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Necrophonic",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-12T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "My Lightning Tracker Pro",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-12T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-07-12T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "CineTemp",
+    "to": "Pocket God"
   }
 ]
