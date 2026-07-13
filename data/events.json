@@ -161134,5 +161134,93 @@
     "position": 24,
     "from": "Wipr 2",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-13T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "TikTok Pro - Events",
+    "to": "NetShort - Popular Dramas & TV"
+  },
+  {
+    "ts": "2026-07-13T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-13T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-13T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-13T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-13T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-13T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "NetShort - Popular Dramas & TV",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-13T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Polymarket: Trade Soccer",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-13T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Claude by Anthropic",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-07-13T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-13T14:30:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "DramaBox - Stream Drama Shorts"
   }
 ]
