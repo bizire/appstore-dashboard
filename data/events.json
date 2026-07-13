@@ -160374,5 +160374,245 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "Stylebook"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "ChatGPT",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Polymarket: Trade Soccer",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "TikTok Pro - Events",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Polymarket: Trade Soccer"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Claude by Anthropic",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Love Island USA",
+    "to": "NetShort - Popular Dramas & TV"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "NetShort - Popular Dramas & TV",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "WhatsApp Messenger",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Earthquake Network",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Shot Tracer",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Wipr 2",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Moment Pro Camera II",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "MilGPS",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PhotoPills",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-13T05:15:05Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stylebook",
+    "to": "Moment Pro Camera II"
   }
 ]
