@@ -161718,5 +161718,261 @@
     "position": 23,
     "from": "White Noise",
     "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Paramount+",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Shot Tracer",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "MilGPS",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "imo video calls and chat HD",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Earthquake Network",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Spirit Talker Â®",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PhotoPills",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Goblin Tools",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-13T23:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stylebook",
+    "to": "Pocket God"
   }
 ]
