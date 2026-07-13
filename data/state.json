@@ -1,86 +1,86 @@
 {
-  "updated_at": "2026-07-13T20:15:06Z",
+  "updated_at": "2026-07-13T20:30:07Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "530168168",
-        "title": "Paramount+"
-      },
-      {
-        "rank": 2,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 3,
         "id": "6448311069",
         "title": "ChatGPT"
       },
       {
-        "rank": 4,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the World Cup"
+        "rank": 2,
+        "id": "530168168",
+        "title": "Paramount+"
       },
       {
-        "rank": 5,
+        "rank": 3,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
+        "rank": 4,
         "id": "6504849169",
         "title": "NetShort - Popular Dramas & TV"
       },
       {
-        "rank": 6,
-        "id": "6446901002",
-        "title": "Threads"
+        "rank": 5,
+        "id": "1632713844",
+        "title": "Kalshi: Trade the World Cup"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "id": "6758667154",
         "title": "VibeShort: AI Comic Dramas"
       },
       {
-        "rank": 8,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "rank": 7,
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "6741796873",
         "title": "TikTok Pro - Events"
       },
       {
-        "rank": 10,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
-      },
-      {
-        "rank": 11,
+        "rank": 9,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 12,
+        "rank": 10,
+        "id": "6648798962",
+        "title": "Polymarket"
+      },
+      {
+        "rank": 11,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
+        "rank": 13,
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
+      },
+      {
         "rank": 14,
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
+      },
+      {
+        "rank": 15,
         "id": "6745274862",
         "title": "DealSeek: Coupons & Discounts"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "id": "284815942",
         "title": "Google"
-      },
-      {
-        "rank": 16,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
       },
       {
         "rank": 17,
@@ -89,18 +89,18 @@
       },
       {
         "rank": 18,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 19,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "585027354",
         "title": "Google Maps"
+      },
+      {
+        "rank": 20,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 21,
@@ -109,13 +109,13 @@
       },
       {
         "rank": 22,
-        "id": "6670430706",
-        "title": "DramaWave - Dramas & Reels"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 23,
-        "id": "333903271",
-        "title": "X"
+        "id": "6670430706",
+        "title": "DramaWave - Dramas & Reels"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
+        "id": "333903271",
+        "title": "X"
       }
     ],
     "paid": [
@@ -166,18 +166,18 @@
       },
       {
         "rank": 8,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 9,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "id": "357421934",
         "title": "PeakFinder"
-      },
-      {
-        "rank": 10,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 11,
@@ -191,13 +191,13 @@
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 14,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 15,
@@ -206,43 +206,43 @@
       },
       {
         "rank": 16,
-        "id": "1449893235",
-        "title": "Earthquake Network"
-      },
-      {
-        "rank": 17,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 18,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 17,
+        "id": "1449893235",
+        "title": "Earthquake Network"
+      },
+      {
+        "rank": 18,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
         "rank": 19,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 20,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
-        "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
         "rank": 21,
-        "id": "596026805",
-        "title": "PhotoPills"
-      },
-      {
-        "rank": 22,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
+        "rank": 22,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
         "rank": 23,
-        "id": "289894882",
-        "title": "White Noise"
+        "id": "596026805",
+        "title": "PhotoPills"
       },
       {
         "rank": 24,
