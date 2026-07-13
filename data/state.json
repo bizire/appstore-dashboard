@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T16:30:07Z",
+  "updated_at": "2026-07-13T16:45:06Z",
   "charts": {
     "free": [
       {
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 8,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 9,
@@ -196,43 +196,43 @@
       },
       {
         "rank": 14,
-        "id": "1449893235",
-        "title": "Earthquake Network"
-      },
-      {
-        "rank": 15,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 17,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 18,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 19,
-        "id": "596026805",
-        "title": "PhotoPills"
-      },
-      {
-        "rank": 20,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 21,
+        "rank": 15,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 16,
+        "id": "1449893235",
+        "title": "Earthquake Network"
+      },
+      {
+        "rank": 17,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
+        "rank": 18,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 19,
         "id": "1662217862",
         "title": "Wipr 2"
+      },
+      {
+        "rank": 20,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 21,
+        "id": "596026805",
+        "title": "PhotoPills"
       },
       {
         "rank": 22,
@@ -241,8 +241,8 @@
       },
       {
         "rank": 23,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "289894882",
+        "title": "White Noise"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "335709058",
+        "title": "Stylebook"
       }
     ]
   }
