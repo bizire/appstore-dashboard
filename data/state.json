@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T13:45:07Z",
+  "updated_at": "2026-07-13T14:00:08Z",
   "charts": {
     "free": [
       {
@@ -196,58 +196,58 @@
       },
       {
         "rank": 14,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 15,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 16,
         "id": "1449893235",
         "title": "Earthquake Network"
       },
       {
-        "rank": 17,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "rank": 15,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
-        "rank": 18,
+        "rank": 16,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 17,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 19,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 20,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 21,
-        "id": "335709058",
-        "title": "Stylebook"
-      },
-      {
-        "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
-      },
-      {
-        "rank": 23,
+        "rank": 18,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 24,
+        "rank": 19,
+        "id": "596026805",
+        "title": "PhotoPills"
+      },
+      {
+        "rank": 20,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
+        "rank": 21,
         "id": "1662217862",
         "title": "Wipr 2"
+      },
+      {
+        "rank": 22,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 23,
+        "id": "335709058",
+        "title": "Stylebook"
+      },
+      {
+        "rank": 24,
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 25,
