@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T10:45:06Z",
+  "updated_at": "2026-07-13T11:00:08Z",
   "charts": {
     "free": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 8,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 9,
@@ -54,18 +54,18 @@
       },
       {
         "rank": 11,
-        "id": "6648798962",
-        "title": "Polymarket: Trade Soccer"
-      },
-      {
-        "rank": 12,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
+        "rank": 12,
+        "id": "6504849169",
+        "title": "NetShort - Popular Dramas & TV"
+      },
+      {
         "rank": 13,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
+        "id": "6648798962",
+        "title": "Polymarket: Trade Soccer"
       },
       {
         "rank": 14,
@@ -74,23 +74,23 @@
       },
       {
         "rank": 15,
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
+      },
+      {
+        "rank": 16,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 16,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
         "rank": 17,
-        "id": "6504849169",
-        "title": "NetShort - Popular Dramas & TV"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 18,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 19,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 22,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
-      },
-      {
-        "rank": 23,
         "id": "6670430706",
         "title": "DramaWave - Dramas & Reels"
       },
       {
-        "rank": 24,
+        "rank": 22,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 23,
+        "id": "333903271",
+        "title": "X"
+      },
+      {
+        "rank": 24,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
         "rank": 25,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "384830320",
+        "title": "Life360: Family Safety & GPS"
       }
     ],
     "paid": [
@@ -166,13 +166,13 @@
       },
       {
         "rank": 8,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 9,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 10,
@@ -191,23 +191,23 @@
       },
       {
         "rank": 13,
-        "id": "1449893235",
-        "title": "Earthquake Network"
-      },
-      {
-        "rank": 14,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 16,
+        "id": "1449893235",
+        "title": "Earthquake Network"
       },
       {
         "rank": 17,
@@ -216,13 +216,13 @@
       },
       {
         "rank": 18,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 19,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "335709058",
+        "title": "Stylebook"
       },
       {
         "rank": 22,
-        "id": "892347083",
-        "title": "FORScan Lite - for Ford, Mazda"
-      },
-      {
-        "rank": 23,
-        "id": "1662217862",
-        "title": "Wipr 2"
-      },
-      {
-        "rank": 24,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
+        "rank": 23,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 24,
+        "id": "1662217862",
+        "title": "Wipr 2"
+      },
+      {
         "rank": 25,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "301387274",
+        "title": "Pocket God"
       }
     ]
   }
