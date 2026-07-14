@@ -162686,5 +162686,117 @@
     "position": 24,
     "from": "PhotoPills",
     "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Paramount+",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "NetShort - Popular Dramas & TV",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "NetShort - Popular Dramas & TV"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-07-14T11:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "X"
   }
 ]
