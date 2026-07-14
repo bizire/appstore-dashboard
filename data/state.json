@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-14T07:30:06Z",
+  "updated_at": "2026-07-14T07:45:06Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 2,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 3,
@@ -19,33 +19,33 @@
       },
       {
         "rank": 4,
-        "id": "530168168",
-        "title": "Paramount+"
-      },
-      {
-        "rank": 5,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
+        "rank": 5,
+        "id": "6758667154",
+        "title": "VibeShort: AI Comic Dramas"
+      },
+      {
         "rank": 6,
+        "id": "530168168",
+        "title": "Paramount+"
+      },
+      {
+        "rank": 7,
         "id": "1632713844",
         "title": "Kalshi: Trade the World Cup"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 8,
-        "id": "6504849169",
-        "title": "NetShort - Popular Dramas & TV"
-      },
-      {
         "rank": 9,
-        "id": "6758667154",
-        "title": "VibeShort: AI Comic Dramas"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 10,
@@ -54,18 +54,18 @@
       },
       {
         "rank": 11,
+        "id": "6504849169",
+        "title": "NetShort - Popular Dramas & TV"
+      },
+      {
+        "rank": 12,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 12,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
-      },
-      {
         "rank": 13,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "6648798962",
+        "title": "Polymarket"
       },
       {
         "rank": 14,
@@ -74,13 +74,13 @@
       },
       {
         "rank": 15,
-        "id": "6648798962",
-        "title": "Polymarket"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 16,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 17,
@@ -89,8 +89,8 @@
       },
       {
         "rank": 18,
-        "id": "363590051",
-        "title": "Netflix"
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
       },
       {
         "rank": 19,
@@ -99,18 +99,18 @@
       },
       {
         "rank": 20,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 21,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
+        "id": "363590051",
+        "title": "Netflix"
       },
       {
         "rank": 22,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 25,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       }
     ],
     "paid": [
