@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T13:30:06Z",
+  "updated_at": "2026-07-14T13:45:06Z",
   "charts": {
     "free": [
       {
@@ -186,13 +186,13 @@
       },
       {
         "rank": 12,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 13,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 14,
@@ -216,28 +216,28 @@
       },
       {
         "rank": 18,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 19,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 20,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "rank": 19,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
+      },
+      {
+        "rank": 22,
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 23,
