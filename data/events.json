@@ -163254,5 +163254,237 @@
     "position": 25,
     "from": "FORScan Lite - for Ford, Mazda",
     "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google Gemini",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "NetShort - Popular Dramas & TV",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "NetShort - Popular Dramas & TV"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Paramount+",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Polymarket",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Microsoft Authenticator",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "MilGPS",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "RadarScope",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Shot Tracer",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Wipr 2",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Pocket God",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "imo video calls and chat HD",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "PhotoPills",
+    "to": "Air & Space Fitness Calculator"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "White Noise",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Ableton Note",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-14T20:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "Ableton Note"
   }
 ]
