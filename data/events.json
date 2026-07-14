@@ -162078,5 +162078,165 @@
     "position": 25,
     "from": "Pocket God",
     "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Paramount+",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "NetShort - Popular Dramas & TV",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "TikTok Pro - Events",
+    "to": "NetShort - Popular Dramas & TV"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Polymarket",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Claude by Anthropic",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Authenticator",
+    "to": "Netflix"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-14T05:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Instagram"
   }
 ]
