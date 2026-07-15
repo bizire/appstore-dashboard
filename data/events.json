@@ -164294,5 +164294,125 @@
     "position": 25,
     "from": "PhotoPills",
     "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Polymarket",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "NetShort - Popular Dramas & TV"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "NetShort - Popular Dramas & TV",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Shop: All your favorite brands",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-15T11:15:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Instagram",
+    "to": "StoryReel: Exclusive Drama"
   }
 ]

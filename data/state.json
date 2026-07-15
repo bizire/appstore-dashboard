@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T11:00:08Z",
+  "updated_at": "2026-07-15T11:15:06Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the World Cup"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 6,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "1632713844",
+        "title": "Kalshi: Trade the World Cup"
       },
       {
         "rank": 7,
@@ -59,38 +59,38 @@
       },
       {
         "rank": 12,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 13,
         "id": "1508186374",
         "title": "Peacock TV: Stream TV & Movies"
       },
       {
-        "rank": 14,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
-      },
-      {
-        "rank": 15,
+        "rank": 13,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 16,
+        "rank": 14,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 15,
         "id": "6648798962",
         "title": "Polymarket"
       },
       {
+        "rank": 16,
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
+      },
+      {
         "rank": 17,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 18,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 19,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 21,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 22,
         "id": "6504849169",
         "title": "NetShort - Popular Dramas & TV"
       },
       {
-        "rank": 23,
+        "rank": 21,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
+        "rank": 22,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 23,
+        "id": "333903271",
+        "title": "X"
+      },
+      {
         "rank": 24,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 25,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
       }
     ],
     "paid": [
