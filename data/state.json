@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T19:30:08Z",
+  "updated_at": "2026-07-15T19:45:07Z",
   "charts": {
     "free": [
       {
@@ -9,28 +9,28 @@
       },
       {
         "rank": 2,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 3,
         "id": "6741796873",
         "title": "TikTok Pro - Events"
       },
       {
-        "rank": 4,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 5,
+        "rank": 3,
         "id": "1632713844",
         "title": "Kalshi: Trade the World Cup"
       },
       {
-        "rank": 6,
+        "rank": 4,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
+        "rank": 5,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
+      },
+      {
+        "rank": 6,
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 7,
@@ -74,8 +74,8 @@
       },
       {
         "rank": 15,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 16,
@@ -84,33 +84,33 @@
       },
       {
         "rank": 17,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
+        "rank": 18,
         "id": "6648798962",
         "title": "Polymarket"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "6746049430",
         "title": "FOX One: Live News, Sports, TV"
       },
       {
-        "rank": 20,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
         "rank": 21,
-        "id": "6504849169",
-        "title": "NetShort - Popular Dramas & TV"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 22,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 23,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "333903271",
-        "title": "X"
+        "id": "6504849169",
+        "title": "NetShort - Popular Dramas & TV"
       }
     ],
     "paid": [
