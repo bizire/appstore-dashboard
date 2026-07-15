@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T16:45:07Z",
+  "updated_at": "2026-07-15T17:00:09Z",
   "charts": {
     "free": [
       {
@@ -19,23 +19,23 @@
       },
       {
         "rank": 4,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 5,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
-      },
-      {
-        "rank": 6,
         "id": "1632713844",
         "title": "Kalshi: Trade the World Cup"
       },
       {
+        "rank": 6,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
+      },
+      {
         "rank": 7,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 8,
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "6758667154",
-        "title": "VibeShort: AI Comic Dramas"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 10,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6758667154",
+        "title": "VibeShort: AI Comic Dramas"
       },
       {
         "rank": 11,
@@ -69,8 +69,8 @@
       },
       {
         "rank": 14,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 15,
@@ -79,43 +79,43 @@
       },
       {
         "rank": 16,
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
+      },
+      {
+        "rank": 17,
         "id": "6648798962",
         "title": "Polymarket"
       },
       {
-        "rank": 17,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
-      },
-      {
         "rank": 18,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
-      },
-      {
-        "rank": 19,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 20,
-        "id": "6504849169",
-        "title": "NetShort - Popular Dramas & TV"
-      },
-      {
-        "rank": 21,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 19,
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
+      },
+      {
+        "rank": 20,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 21,
+        "id": "6504849169",
+        "title": "NetShort - Popular Dramas & TV"
+      },
+      {
         "rank": 22,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 23,
-        "id": "333903271",
-        "title": "X"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
+        "id": "333903271",
+        "title": "X"
       }
     ],
     "paid": [
@@ -166,13 +166,13 @@
       },
       {
         "rank": 8,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 9,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 10,
@@ -186,23 +186,23 @@
       },
       {
         "rank": 12,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 13,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 15,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 16,
@@ -216,43 +216,43 @@
       },
       {
         "rank": 18,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 19,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 20,
-        "id": "1633243177",
-        "title": "Ableton Note"
-      },
-      {
-        "rank": 21,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
-      },
-      {
-        "rank": 23,
-        "id": "596026805",
-        "title": "PhotoPills"
-      },
-      {
-        "rank": 24,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 19,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
+        "rank": 20,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
+        "rank": 21,
+        "id": "1633243177",
+        "title": "Ableton Note"
+      },
+      {
+        "rank": 22,
+        "id": "596026805",
+        "title": "PhotoPills"
+      },
+      {
+        "rank": 23,
+        "id": "1272541874",
+        "title": "Label Pics"
+      },
+      {
+        "rank": 24,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
         "rank": 25,
-        "id": "1581140954",
-        "title": "Noir - Dark Mode for Safari"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       }
     ]
   }
