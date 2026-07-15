@@ -164022,5 +164022,277 @@
     "position": 25,
     "from": "Ableton Note",
     "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Polymarket",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Shop: All your favorite brands",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "NetShort - Popular Dramas & TV"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "NetShort - Popular Dramas & TV",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Microsoft Authenticator",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Monash FODMAP Diet",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "MilGPS",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "SkyViewÂ®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Shot Tracer",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Threema. The Secure Messenger",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Wipr 2",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pocket God",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Goblin Tools",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Solocator - GPS Field Camera",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Air & Space Fitness Calculator",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-15T08:00:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "PhotoPills",
+    "to": "Ableton Note"
   }
 ]
