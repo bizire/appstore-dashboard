@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T13:30:07Z",
+  "updated_at": "2026-07-15T14:00:08Z",
   "charts": {
     "free": [
       {
@@ -59,8 +59,8 @@
       },
       {
         "rank": 12,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 13,
@@ -69,18 +69,18 @@
       },
       {
         "rank": 14,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 15,
-        "id": "6648798962",
-        "title": "Polymarket"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 16,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "6648798962",
+        "title": "Polymarket"
       },
       {
         "rank": 17,
@@ -89,8 +89,8 @@
       },
       {
         "rank": 18,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 19,
@@ -104,13 +104,13 @@
       },
       {
         "rank": 21,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 22,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 23,
@@ -171,13 +171,13 @@
       },
       {
         "rank": 9,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 10,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 11,
@@ -191,13 +191,13 @@
       },
       {
         "rank": 13,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 14,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 15,
@@ -226,23 +226,23 @@
       },
       {
         "rank": 20,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "1633243177",
+        "title": "Ableton Note"
       },
       {
         "rank": 21,
-        "id": "596026805",
-        "title": "PhotoPills"
-      },
-      {
-        "rank": 22,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
+        "rank": 22,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
         "rank": 23,
-        "id": "1633243177",
-        "title": "Ableton Note"
+        "id": "596026805",
+        "title": "PhotoPills"
       },
       {
         "rank": 24,

@@ -164526,5 +164526,125 @@
     "position": 25,
     "from": "Ableton Note",
     "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Polymarket",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Shop: All your favorite brands",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "RadarScope",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "MilGPS",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Goblin Tools",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PhotoPills",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-15T14:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Ableton Note",
+    "to": "PhotoPills"
   }
 ]
