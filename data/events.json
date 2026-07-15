@@ -164414,5 +164414,117 @@
     "position": 25,
     "from": "Instagram",
     "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PeakFinder",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "QuickBend: Conduit Bending",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Shot Tracer",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Spirit Talker Â®",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Wipr 2",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Pocket God",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "PhotoPills",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "Ableton Note"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-15T11:30:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Ableton Note",
+    "to": "Noir - Dark Mode for Safari"
   }
 ]
