@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T22:45:07Z",
+  "updated_at": "2026-07-15T23:00:09Z",
   "charts": {
     "free": [
       {
@@ -9,68 +9,68 @@
       },
       {
         "rank": 2,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 3,
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
+      },
+      {
+        "rank": 4,
         "id": "1632713844",
         "title": "Kalshi: Trade the World Cup"
       },
       {
-        "rank": 4,
+        "rank": 5,
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
+      },
+      {
+        "rank": 6,
         "id": "6447582581",
         "title": "Netflix Game Controller"
       },
       {
-        "rank": 5,
+        "rank": 7,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 6,
+        "rank": 8,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 7,
+        "rank": 9,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
-        "rank": 8,
+        "rank": 10,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
-        "rank": 9,
+        "rank": 11,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 10,
+        "rank": 12,
         "id": "6758667154",
         "title": "VibeShort: AI Comic Dramas"
       },
       {
-        "rank": 11,
+        "rank": 13,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 12,
+        "rank": 14,
         "id": "310633997",
         "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 13,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 14,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 15,
@@ -79,13 +79,13 @@
       },
       {
         "rank": 16,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 17,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 18,
@@ -94,18 +94,18 @@
       },
       {
         "rank": 19,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 20,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 21,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 22,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "6504849169",
-        "title": "NetShort - Popular Dramas & TV"
+        "id": "309735670",
+        "title": "Indeed Job Search"
       }
     ],
     "paid": [
@@ -161,28 +161,28 @@
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 8,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
+        "rank": 9,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
         "rank": 10,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 11,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 12,
@@ -211,23 +211,23 @@
       },
       {
         "rank": 17,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 18,
         "id": "1569922923",
         "title": "Air & Space Fitness Calculator"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "6449003064",
         "title": "Goblin Tools"
-      },
-      {
-        "rank": 20,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
       },
       {
         "rank": 21,
@@ -236,18 +236,18 @@
       },
       {
         "rank": 22,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 23,
         "id": "1633243177",
         "title": "Ableton Note"
       },
       {
-        "rank": 23,
-        "id": "301387274",
-        "title": "Pocket God"
-      },
-      {
         "rank": 24,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 25,
