@@ -167030,5 +167030,221 @@
     "position": 25,
     "from": "StoryReel: Exclusive Drama",
     "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Claude by Anthropic",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Twitch: Live Streaming",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Authenticator",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Microsoft Teams",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Chicken Salad Chick"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Label Pics"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Label Pics",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "RadarScope",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "LiveATC Air Radio",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Goblin Tools",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Air & Space Fitness Calculator",
+    "to": "Pedi STAT"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Pedi STAT",
+    "to": "Air & Space Fitness Calculator"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-16T23:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Wipr 2",
+    "to": "Moment Pro Camera II"
   }
 ]
