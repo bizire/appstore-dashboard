@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T17:30:09Z",
+  "updated_at": "2026-07-16T17:45:07Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 6,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 7,
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
         "rank": 9,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 10,
@@ -59,33 +59,33 @@
       },
       {
         "rank": 12,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
-      },
-      {
-        "rank": 13,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 14,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "rank": 13,
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
+      },
+      {
+        "rank": 17,
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 18,
@@ -94,33 +94,33 @@
       },
       {
         "rank": 19,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 20,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 20,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 21,
-        "id": "333903271",
-        "title": "X"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 22,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 23,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
+        "rank": 23,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
         "rank": 24,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 25,
