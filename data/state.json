@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T20:15:07Z",
+  "updated_at": "2026-07-16T20:30:08Z",
   "charts": {
     "free": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "460177396",
-        "title": "Twitch: Live Streaming"
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
         "rank": 8,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "460177396",
+        "title": "Twitch: Live Streaming"
       },
       {
         "rank": 9,
@@ -64,8 +64,8 @@
       },
       {
         "rank": 13,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 14,
@@ -74,23 +74,23 @@
       },
       {
         "rank": 15,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 16,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
       },
       {
+        "rank": 16,
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
+      },
+      {
         "rank": 17,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 18,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 19,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 21,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 21,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "rank": 22,
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
-        "rank": 23,
+        "rank": 24,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 24,
-        "id": "333903271",
-        "title": "X"
-      },
-      {
         "rank": 25,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       }
     ],
     "paid": [
