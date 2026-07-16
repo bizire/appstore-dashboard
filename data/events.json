@@ -165374,5 +165374,173 @@
     "position": 24,
     "from": "Shot Tracer",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Microsoft Authenticator",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Microsoft Teams",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "Label Pics"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Label Pics",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "imo video calls and chat HD",
+    "to": "Air & Space Fitness Calculator"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Air & Space Fitness Calculator",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Goblin Tools",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Wipr 2",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Ableton Note",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-16T02:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "ASCCP Management Guidelines"
   }
 ]
