@@ -165542,5 +165542,293 @@
     "position": 25,
     "from": "FORScan Lite - for Ford, Mazda",
     "to": "ASCCP Management Guidelines"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "TikTok Pro - Events",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Netflix Game Controller",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Authenticator",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Polymarket",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Teams",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Shop: All your favorite brands",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Gmail - Email by Google",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Indeed Job Search",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Monash FODMAP Diet",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "RadarScope",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Label Pics"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Label Pics",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Air & Space Fitness Calculator",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "imo video calls and chat HD",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Goblin Tools",
+    "to": "Air & Space Fitness Calculator"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Wipr 2",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-16T05:00:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "ASCCP Management Guidelines",
+    "to": "imo video calls and chat HD"
   }
 ]
