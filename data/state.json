@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T01:45:07Z",
+  "updated_at": "2026-07-17T02:00:10Z",
   "charts": {
     "free": [
       {
@@ -24,18 +24,18 @@
       },
       {
         "rank": 5,
+        "id": "460177396",
+        "title": "Twitch: Live Streaming"
+      },
+      {
+        "rank": 6,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "id": "1632713844",
         "title": "Kalshi: Trade the World Cup"
-      },
-      {
-        "rank": 7,
-        "id": "460177396",
-        "title": "Twitch: Live Streaming"
       },
       {
         "rank": 8,
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "6758667154",
-        "title": "VibeShort: AI Comic Dramas"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 10,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "6758667154",
+        "title": "VibeShort: AI Comic Dramas"
       },
       {
         "rank": 11,
@@ -59,58 +59,58 @@
       },
       {
         "rank": 12,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 13,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
       },
       {
-        "rank": 16,
+        "rank": 17,
+        "id": "950774184",
+        "title": "Chicken Salad Chick"
+      },
+      {
+        "rank": 18,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
-        "rank": 17,
+        "rank": 19,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 18,
+        "rank": 20,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 19,
+        "rank": 21,
         "id": "1113153706",
         "title": "Microsoft Teams"
       },
       {
-        "rank": 20,
+        "rank": 22,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 21,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
-      },
-      {
-        "rank": 22,
-        "id": "950774184",
-        "title": "Chicken Salad Chick"
       },
       {
         "rank": 23,
@@ -119,8 +119,8 @@
       },
       {
         "rank": 24,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       },
       {
         "rank": 25,
