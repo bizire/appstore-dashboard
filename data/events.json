@@ -168398,5 +168398,149 @@
     "position": 25,
     "from": "FORScan Lite - for Ford, Mazda",
     "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Twitch: Live Streaming",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Trump Accounts: Official App",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "X",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "QuickBend: Conduit Bending",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Goblin Tools",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PhotoPills",
+    "to": "Air & Space Fitness Calculator"
+  },
+  {
+    "ts": "2026-07-17T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Shot Tracer",
+    "to": "PhotoPills"
   }
 ]
