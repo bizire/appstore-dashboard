@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T10:45:07Z",
+  "updated_at": "2026-07-17T11:00:12Z",
   "charts": {
     "free": [
       {
@@ -39,8 +39,8 @@
       },
       {
         "rank": 8,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 9,
@@ -49,13 +49,13 @@
       },
       {
         "rank": 10,
-        "id": "1632713844",
-        "title": "Kalshi: Trade the World Cup"
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       },
       {
         "rank": 11,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "1632713844",
+        "title": "Kalshi: Trade the World Cup"
       },
       {
         "rank": 12,
@@ -74,13 +74,13 @@
       },
       {
         "rank": 15,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 16,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 17,
@@ -94,13 +94,13 @@
       },
       {
         "rank": 19,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 20,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 21,
@@ -109,8 +109,8 @@
       },
       {
         "rank": 22,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 23,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "333903271",
-        "title": "X"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       }
     ],
     "paid": [
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 8,
@@ -171,53 +171,53 @@
       },
       {
         "rank": 9,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 10,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 11,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "rank": 10,
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 13,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "rank": 12,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 15,
-        "id": "1272541874",
-        "title": "Label Pics"
+        "rank": 14,
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
+        "rank": 16,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
         "rank": 17,
-        "id": "1175031995",
-        "title": "My Lightning Tracker Pro"
+        "id": "1272541874",
+        "title": "Label Pics"
       },
       {
         "rank": 18,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "1175031995",
+        "title": "My Lightning Tracker Pro"
       },
       {
         "rank": 19,
@@ -226,28 +226,28 @@
       },
       {
         "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 21,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "id": "596026805",
         "title": "PhotoPills"
       },
       {
+        "rank": 22,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
         "rank": 23,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 24,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 25,
