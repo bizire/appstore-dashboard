@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T23:00:12Z",
+  "updated_at": "2026-07-17T23:15:08Z",
   "charts": {
     "free": [
       {
@@ -161,8 +161,8 @@
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 8,
@@ -171,28 +171,28 @@
       },
       {
         "rank": 9,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 10,
-        "id": "975770717",
-        "title": "My Earthquake Alerts Pro"
-      },
-      {
-        "rank": 11,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
+        "rank": 11,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
         "rank": 12,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "975770717",
+        "title": "My Earthquake Alerts Pro"
       },
       {
         "rank": 13,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 14,
@@ -206,28 +206,28 @@
       },
       {
         "rank": 16,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 17,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 17,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
         "rank": 18,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 19,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "1175031995",
         "title": "My Lightning Tracker Pro"
-      },
-      {
-        "rank": 20,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
       },
       {
         "rank": 21,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "327963391",
-        "title": "Pedi STAT"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 25,
-        "id": "1569922923",
-        "title": "Air & Space Fitness Calculator"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       }
     ]
   }
