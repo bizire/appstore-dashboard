@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17T23:15:08Z",
+  "updated_at": "2026-07-17T23:30:09Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 6,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 7,
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 9,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
         "rank": 10,
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
+        "id": "6758667154",
+        "title": "VibeShort: AI Comic Dramas"
       },
       {
         "rank": 12,
-        "id": "6758667154",
-        "title": "VibeShort: AI Comic Dramas"
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       },
       {
         "rank": 13,
@@ -79,53 +79,53 @@
       },
       {
         "rank": 16,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
-      },
-      {
-        "rank": 17,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 18,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "rank": 17,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 20,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "rank": 19,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 22,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "rank": 21,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "983156458",
         "title": "Microsoft Authenticator"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "338137227",
         "title": "Walmart: Shopping & Savings"
       },
       {
+        "rank": 24,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
         "rank": 25,
-        "id": "333903271",
-        "title": "X"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       }
     ],
     "paid": [
