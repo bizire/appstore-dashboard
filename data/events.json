@@ -168542,5 +168542,221 @@
     "position": 25,
     "from": "Shot Tracer",
     "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "WhatsApp Messenger",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Shop: All your favorite brands",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "RadarScope",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PeakFinder",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Label Pics",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "My Lightning Tracker Pro",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Shot Tracer",
+    "to": "My Lightning Tracker Pro"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Goblin Tools",
+    "to": "Label Pics"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Air & Space Fitness Calculator",
+    "to": "ASCCP Management Guidelines"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Moment Pro Camera II",
+    "to": "Pedi STAT"
+  },
+  {
+    "ts": "2026-07-17T19:45:08Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "PhotoPills",
+    "to": "Air & Space Fitness Calculator"
   }
 ]
