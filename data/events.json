@@ -167510,5 +167510,205 @@
     "position": 24,
     "from": "Gmail - Email by Google",
     "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "TikTok Pro - Events",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Twitch: Live Streaming",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Trump Accounts: Official App"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Facebook",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Chicken Salad Chick",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Teams",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Shop: All your favorite brands",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Chicken Salad Chick"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pedi STAT",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "imo video calls and chat HD",
+    "to": "Pedi STAT"
+  },
+  {
+    "ts": "2026-07-17T05:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "ASCCP Management Guidelines",
+    "to": "imo video calls and chat HD"
   }
 ]
