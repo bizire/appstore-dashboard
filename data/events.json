@@ -170318,5 +170318,125 @@
     "position": 25,
     "from": "Pocket God",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Twitch: Live Streaming",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Claude by Anthropic",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Facebook",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "X",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-18T20:00:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Uber - Request a ride"
   }
 ]
