@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T01:45:08Z",
+  "updated_at": "2026-07-18T02:00:09Z",
   "charts": {
     "free": [
       {
@@ -19,13 +19,13 @@
       },
       {
         "rank": 4,
-        "id": "284882215",
-        "title": "Facebook"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 5,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "284882215",
+        "title": "Facebook"
       },
       {
         "rank": 6,
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "460177396",
-        "title": "Twitch: Live Streaming"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 8,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "460177396",
+        "title": "Twitch: Live Streaming"
       },
       {
         "rank": 9,
@@ -59,33 +59,33 @@
       },
       {
         "rank": 12,
-        "id": "6767364919",
-        "title": "Trump Accounts: Official App"
-      },
-      {
-        "rank": 13,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "1632713844",
         "title": "Kalshi: Trade the World Cup"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
+      },
+      {
+        "rank": 17,
+        "id": "6767364919",
+        "title": "Trump Accounts: Official App"
       },
       {
         "rank": 18,
@@ -99,18 +99,18 @@
       },
       {
         "rank": 20,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 21,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 22,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
       },
       {
         "rank": 23,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       }
     ],
     "paid": [
