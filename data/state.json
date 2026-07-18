@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T10:30:09Z",
+  "updated_at": "2026-07-18T10:45:08Z",
   "charts": {
     "free": [
       {
@@ -64,13 +64,13 @@
       },
       {
         "rank": 13,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 14,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 15,
@@ -84,13 +84,13 @@
       },
       {
         "rank": 17,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 18,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 19,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
-        "rank": 22,
         "id": "368677368",
         "title": "Uber - Request a ride"
       },
       {
+        "rank": 22,
+        "id": "333903271",
+        "title": "X"
+      },
+      {
         "rank": 23,
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
+      },
+      {
+        "rank": 24,
         "id": "384830320",
         "title": "Life360: Family Safety & GPS"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 25,
-        "id": "500003565",
-        "title": "Ticketmasterï¼Buy, Sell Tickets"
       }
     ],
     "paid": [

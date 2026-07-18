@@ -169702,5 +169702,77 @@
     "position": 25,
     "from": "Trump Accounts: Official App",
     "to": "Ticketmasterï¼Buy, Sell Tickets"
+  },
+  {
+    "ts": "2026-07-18T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-18T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-18T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-18T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-18T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-07-18T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Uber - Request a ride",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-18T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Life360: Family Safety & GPS",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-18T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-07-18T10:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Ticketmasterï¼Buy, Sell Tickets",
+    "to": "Shop: All your favorite brands"
   }
 ]
