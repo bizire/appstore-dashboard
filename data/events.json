@@ -172182,5 +172182,117 @@
     "position": 24,
     "from": "White Noise",
     "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Spirit Talker Â®",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PeakFinder",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Shot Tracer",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "MilGPS",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Wipr 2",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Moment Pro Camera II",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "My Lightning Tracker Pro",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-19T22:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "My Lightning Tracker Pro"
   }
 ]
