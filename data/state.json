@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T07:30:07Z",
+  "updated_at": "2026-07-19T07:45:08Z",
   "charts": {
     "free": [
       {
@@ -44,8 +44,8 @@
       },
       {
         "rank": 9,
-        "id": "284815942",
-        "title": "Google"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 10,
@@ -54,78 +54,78 @@
       },
       {
         "rank": 11,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 12,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
-      },
-      {
-        "rank": 13,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 14,
+        "rank": 12,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 15,
+        "rank": 13,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 14,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
-        "rank": 16,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 17,
+        "rank": 15,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 18,
+        "rank": 16,
         "id": "1508186374",
         "title": "Peacock TV: Stream TV & Movies"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "id": "6758667154",
         "title": "VibeShort: AI Comic Dramas"
       },
       {
-        "rank": 20,
+        "rank": 18,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 21,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 22,
-        "id": "530168168",
-        "title": "Paramount+"
-      },
-      {
-        "rank": 23,
+        "rank": 19,
         "id": "6670430706",
         "title": "DramaWave - Dramas & Reels"
       },
       {
+        "rank": 20,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 21,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 22,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 23,
+        "id": "368677368",
+        "title": "Uber - Request a ride"
+      },
+      {
         "rank": 24,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
       },
       {
         "rank": 25,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "530168168",
+        "title": "Paramount+"
       }
     ],
     "paid": [
