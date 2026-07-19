@@ -171438,5 +171438,117 @@
     "position": 25,
     "from": "Paramount+",
     "to": "Polymarket"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Blueprint 4-Track",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Shot Tracer",
+    "to": "Blueprint 4-Track"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "LiveATC Air Radio",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Streaks",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "My Lightning Tracker Pro",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "My Lightning Tracker Pro"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Wipr 2",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-19T11:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stylebook",
+    "to": "Goblin Tools"
   }
 ]
