@@ -170822,5 +170822,309 @@
     "position": 25,
     "from": "Wipr 2",
     "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "TikTok Pro - Events",
+    "to": "Kalshi: Trade the World Cup"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Twitch: Live Streaming",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Claude by Anthropic",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Facebook",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "WhatsApp Messenger",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "MilGPS",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Blueprint 4-Track"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "LiveATC Air Radio",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Blueprint 4-Track",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "My Lightning Tracker Pro",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "My Lightning Tracker Pro"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Shot Tracer",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Spirit Talker Â®",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-19T05:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "MyRadar Weather Radar Pro"
   }
 ]
