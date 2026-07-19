@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T16:45:08Z",
+  "updated_at": "2026-07-19T17:00:10Z",
   "charts": {
     "free": [
       {
@@ -29,18 +29,18 @@
       },
       {
         "rank": 6,
+        "id": "6446901002",
+        "title": "Threads"
+      },
+      {
+        "rank": 7,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "id": "460177396",
         "title": "Twitch: Live Streaming"
-      },
-      {
-        "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
       },
       {
         "rank": 9,
@@ -54,33 +54,33 @@
       },
       {
         "rank": 11,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
-      },
-      {
-        "rank": 12,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 13,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 14,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 15,
         "id": "6670430706",
         "title": "DramaWave - Dramas & Reels"
       },
       {
-        "rank": 16,
+        "rank": 12,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
+      },
+      {
+        "rank": 13,
         "id": "6758667154",
         "title": "VibeShort: AI Comic Dramas"
+      },
+      {
+        "rank": 14,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 15,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 16,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 17,
@@ -94,38 +94,38 @@
       },
       {
         "rank": 19,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 20,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 21,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 22,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 23,
         "id": "6761538521",
         "title": "StoryReel: Exclusive Drama"
       },
       {
+        "rank": 20,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 21,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 22,
+        "id": "6648798962",
+        "title": "Polymarket"
+      },
+      {
+        "rank": 23,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
         "rank": 24,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 25,
-        "id": "6648798962",
-        "title": "Polymarket"
+        "id": "6504849169",
+        "title": "NetShort - Popular Dramas & TV"
       }
     ],
     "paid": [
@@ -166,8 +166,8 @@
       },
       {
         "rank": 8,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 9,
@@ -176,8 +176,8 @@
       },
       {
         "rank": 10,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 11,
@@ -186,38 +186,38 @@
       },
       {
         "rank": 12,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 13,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 13,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
         "rank": 14,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 15,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 16,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
+        "rank": 15,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
+        "rank": 16,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
         "rank": 17,
-        "id": "6777792345",
-        "title": "Blueprint 4-Track"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 18,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "6777792345",
+        "title": "Blueprint 4-Track"
       },
       {
         "rank": 19,
@@ -236,23 +236,23 @@
       },
       {
         "rank": 22,
-        "id": "289894882",
-        "title": "White Noise"
-      },
-      {
-        "rank": 23,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
+        "rank": 23,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
         "rank": 24,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "289894882",
+        "title": "White Noise"
       },
       {
         "rank": 25,
-        "id": "1062745479",
-        "title": "HeartWatch: Heart Rate Monitor"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }

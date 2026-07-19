@@ -171718,5 +171718,237 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Twitch: Live Streaming",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Facebook",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "WhatsApp Messenger",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Polymarket",
+    "to": "NetShort - Popular Dramas & TV"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "MilGPS",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Shot Tracer",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Blueprint 4-Track",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "Blueprint 4-Track"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "White Noise",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Moment Pro Camera II",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Goblin Tools",
+    "to": "White Noise"
+  },
+  {
+    "ts": "2026-07-19T17:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "Threema. The Secure Messenger"
   }
 ]
