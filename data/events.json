@@ -171254,5 +171254,117 @@
     "position": 25,
     "from": "Walmart: Shopping & Savings",
     "to": "Paramount+"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Spirit Talker Â®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Blueprint 4-Track",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "MilGPS",
+    "to": "Blueprint 4-Track"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "LiveATC Air Radio",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Streaks",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Shot Tracer",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "QuickBend: Conduit Bending",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "MyRadar Weather Radar Pro",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-19T08:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Moment Pro Camera II",
+    "to": "Stylebook"
   }
 ]
