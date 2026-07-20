@@ -172678,5 +172678,269 @@
     "position": 25,
     "from": "My Lightning Tracker Pro",
     "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "ChatGPT",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Polymarket",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Twitch: Live Streaming",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Claude by Anthropic",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Polymarket"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "WhatsApp Messenger",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "YouTube TV",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Maps",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "RadarScope",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "SkyViewÂ®",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "MilGPS",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Shot Tracer",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "imo video calls and chat HD",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Goblin Tools",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Wipr 2",
+    "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-07-20T05:00:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "imo video calls and chat HD"
   }
 ]
