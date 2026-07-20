@@ -172470,5 +172470,101 @@
     "position": 25,
     "from": "NetShort - Popular Dramas & TV",
     "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-20T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Twitch: Live Streaming",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-20T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Claude by Anthropic",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-20T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-20T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-20T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-20T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-07-20T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-20T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-20T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "WhatsApp Messenger",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-20T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-20T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "YouTube TV"
+  },
+  {
+    "ts": "2026-07-20T01:45:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "Google Maps"
   }
 ]

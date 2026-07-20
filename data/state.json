@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T01:30:08Z",
+  "updated_at": "2026-07-20T01:45:08Z",
   "charts": {
     "free": [
       {
@@ -54,8 +54,8 @@
       },
       {
         "rank": 11,
-        "id": "460177396",
-        "title": "Twitch: Live Streaming"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 12,
@@ -64,38 +64,38 @@
       },
       {
         "rank": 13,
+        "id": "460177396",
+        "title": "Twitch: Live Streaming"
+      },
+      {
+        "rank": 14,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
-        "rank": 14,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
         "rank": 15,
-        "id": "6670430706",
-        "title": "DramaWave - Dramas & Reels"
-      },
-      {
-        "rank": 16,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
       },
       {
+        "rank": 17,
+        "id": "6670430706",
+        "title": "DramaWave - Dramas & Reels"
+      },
+      {
         "rank": 18,
-        "id": "6758667154",
-        "title": "VibeShort: AI Comic Dramas"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 19,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "6758667154",
+        "title": "VibeShort: AI Comic Dramas"
       },
       {
         "rank": 20,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 23,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 24,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
+        "rank": 23,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 24,
+        "id": "1193350206",
+        "title": "YouTube TV"
+      },
+      {
         "rank": 25,
-        "id": "284882215",
-        "title": "Facebook"
+        "id": "585027354",
+        "title": "Google Maps"
       }
     ],
     "paid": [
