@@ -173734,5 +173734,165 @@
     "position": 24,
     "from": "Goblin Tools",
     "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "PeakFinder",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "RadarScope",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Spirit Talker Â®",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Monash FODMAP Diet",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "MilGPS",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Shot Tracer",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Wipr 2",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Blueprint 4-Track",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-20T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Moment Pro Camera II",
+    "to": "Stylebook"
   }
 ]
