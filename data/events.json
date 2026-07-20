@@ -173438,5 +173438,125 @@
     "position": 25,
     "from": "Moment Pro Camera II",
     "to": "Stylebook"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Kalshi: Trade the World Cup",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "ChatGPT",
+    "to": "Kalshi: Trade Events & Sports"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Twitch: Live Streaming",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Claude by Anthropic",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Moment Pro Camera II",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-20T14:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stylebook",
+    "to": "Moment Pro Camera II"
   }
 ]
