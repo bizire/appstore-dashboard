@@ -174038,5 +174038,229 @@
     "position": 25,
     "from": "Facebook",
     "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Kalshi: Trade Events & Sports",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Kalshi: Trade Events & Sports"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Authenticator",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Twitch: Live Streaming",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Twitch: Live Streaming"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "MilGPS",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "RadarScope",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Monash FODMAP Diet",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Spirit Talker Â®",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "LiveATC Air Radio",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "QuickBend: Conduit Bending",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Wipr 2",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Shot Tracer",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Goblin Tools",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-20T23:30:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stylebook",
+    "to": "Things 3"
   }
 ]
