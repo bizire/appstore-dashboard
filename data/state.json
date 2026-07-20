@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20T16:45:09Z",
+  "updated_at": "2026-07-20T17:00:12Z",
   "charts": {
     "free": [
       {
@@ -9,13 +9,13 @@
       },
       {
         "rank": 2,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 3,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 4,
@@ -59,48 +59,48 @@
       },
       {
         "rank": 12,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 13,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
-      },
-      {
-        "rank": 14,
-        "id": "460177396",
-        "title": "Twitch: Live Streaming"
-      },
-      {
-        "rank": 15,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 16,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 17,
         "id": "6761538521",
         "title": "StoryReel: Exclusive Drama"
       },
       {
-        "rank": 18,
+        "rank": 13,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 14,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
+      },
+      {
+        "rank": 15,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 16,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 17,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "6758667154",
         "title": "VibeShort: AI Comic Dramas"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "310633997",
         "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 20,
+        "id": "460177396",
+        "title": "Twitch: Live Streaming"
       },
       {
         "rank": 21,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
-        "id": "6648798962",
-        "title": "Polymarket"
-      },
-      {
-        "rank": 23,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 23,
+        "id": "333903271",
+        "title": "X"
+      },
+      {
         "rank": 24,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 25,
-        "id": "333903271",
-        "title": "X"
+        "id": "284882215",
+        "title": "Facebook"
       }
     ],
     "paid": [
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 8,
@@ -191,13 +191,13 @@
       },
       {
         "rank": 13,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 14,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 15,
@@ -236,18 +236,18 @@
       },
       {
         "rank": 22,
-        "id": "1062745479",
-        "title": "HeartWatch: Heart Rate Monitor"
-      },
-      {
-        "rank": 23,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "6449003064",
         "title": "Goblin Tools"
+      },
+      {
+        "rank": 24,
+        "id": "1062745479",
+        "title": "HeartWatch: Heart Rate Monitor"
       },
       {
         "rank": 25,
