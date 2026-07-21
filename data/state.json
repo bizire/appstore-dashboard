@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T22:45:10Z",
+  "updated_at": "2026-07-21T23:00:14Z",
   "charts": {
     "free": [
       {
@@ -54,8 +54,8 @@
       },
       {
         "rank": 11,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 12,
@@ -64,18 +64,18 @@
       },
       {
         "rank": 13,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
       },
       {
         "rank": 14,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 15,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 16,
@@ -94,38 +94,38 @@
       },
       {
         "rank": 19,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 20,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 21,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 22,
-        "id": "1632713844",
-        "title": "Kalshi: Trade Events & Sports"
-      },
-      {
-        "rank": 23,
         "id": "1113153706",
         "title": "Microsoft Teams"
       },
       {
+        "rank": 20,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 21,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 22,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 23,
+        "id": "309735670",
+        "title": "Indeed Job Search"
+      },
+      {
         "rank": 24,
-        "id": "333903271",
-        "title": "X"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 25,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
+        "id": "333903271",
+        "title": "X"
       }
     ],
     "paid": [
