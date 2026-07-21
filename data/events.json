@@ -175038,5 +175038,101 @@
     "position": 25,
     "from": "HeartWatch: Heart Rate Monitor",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-21T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-21T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-21T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-21T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-21T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-21T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-21T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "WhatsApp Messenger",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-21T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-21T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-21T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-21T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Google Maps",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-21T10:30:08Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Twitch: Live Streaming",
+    "to": "Gmail - Email by Google"
   }
 ]
