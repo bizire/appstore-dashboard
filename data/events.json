@@ -174342,5 +174342,101 @@
     "position": 25,
     "from": "Things 3",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-21T02:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-21T02:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "TikTok Pro - Events",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-21T02:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Kalshi: Trade Events & Sports",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-21T02:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Kalshi: Trade Events & Sports"
+  },
+  {
+    "ts": "2026-07-21T02:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-21T02:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-21T02:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-21T02:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Authenticator",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-21T02:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "WhatsApp Messenger",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-21T02:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-21T02:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Twitch: Live Streaming",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-21T02:15:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "DoorDash: Food, Grocery, More"
   }
 ]
