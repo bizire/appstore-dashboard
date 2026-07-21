@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T14:15:10Z",
+  "updated_at": "2026-07-21T14:30:12Z",
   "charts": {
     "free": [
       {
@@ -9,13 +9,13 @@
       },
       {
         "rank": 2,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 3,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 4,
@@ -44,8 +44,8 @@
       },
       {
         "rank": 9,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 10,
@@ -54,48 +54,48 @@
       },
       {
         "rank": 11,
-        "id": "284815942",
-        "title": "Google"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 12,
-        "id": "1632713844",
-        "title": "Kalshi: Trade Events & Sports"
-      },
-      {
-        "rank": 13,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 14,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
-      },
-      {
-        "rank": 15,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 16,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
-      },
-      {
-        "rank": 17,
+        "rank": 13,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 18,
+        "rank": 14,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 15,
+        "id": "1632713844",
+        "title": "Kalshi: Trade Events & Sports"
+      },
+      {
+        "rank": 16,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 19,
+        "rank": 17,
         "id": "6758667154",
         "title": "VibeShort: AI Comic Dramas"
+      },
+      {
+        "rank": 18,
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
+      },
+      {
+        "rank": 19,
+        "id": "6746049430",
+        "title": "FOX One: Live News, Sports, TV"
       },
       {
         "rank": 20,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 22,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "333903271",
         "title": "X"
       },
       {
+        "rank": 23,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
         "rank": 24,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 25,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "284882215",
+        "title": "Facebook"
       }
     ],
     "paid": [
