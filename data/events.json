@@ -174262,5 +174262,85 @@
     "position": 25,
     "from": "Stylebook",
     "to": "Things 3"
+  },
+  {
+    "ts": "2026-07-21T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "SkyViewÂ®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-21T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-21T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "imo video calls and chat HD",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-21T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Shot Tracer",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-21T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-21T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Goblin Tools",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-21T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-21T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "HeartWatch: Heart Rate Monitor",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-07-21T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "HeartWatch: Heart Rate Monitor"
+  },
+  {
+    "ts": "2026-07-21T02:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Things 3",
+    "to": "Threema. The Secure Messenger"
   }
 ]
