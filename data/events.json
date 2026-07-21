@@ -175758,5 +175758,117 @@
     "position": 25,
     "from": "Moment Pro Camera II",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Kalshi: Trade Events & Sports",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Microsoft Authenticator",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Shop: All your favorite brands",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "SHEIN - Shopping Online",
+    "to": "Kalshi: Trade Events & Sports"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-21T20:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "Peacock TV: Stream TV & Movies"
   }
 ]

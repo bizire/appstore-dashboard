@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21T19:45:08Z",
+  "updated_at": "2026-07-21T20:00:12Z",
   "charts": {
     "free": [
       {
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "284815942",
-        "title": "Google"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 10,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 11,
@@ -64,18 +64,18 @@
       },
       {
         "rank": 13,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
+        "rank": 14,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 14,
+        "rank": 15,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 15,
-        "id": "6758667154",
-        "title": "VibeShort: AI Comic Dramas"
       },
       {
         "rank": 16,
@@ -84,48 +84,48 @@
       },
       {
         "rank": 17,
-        "id": "1632713844",
-        "title": "Kalshi: Trade Events & Sports"
-      },
-      {
-        "rank": 18,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 18,
+        "id": "6758667154",
+        "title": "VibeShort: AI Comic Dramas"
+      },
+      {
         "rank": 19,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 20,
-        "id": "1508186374",
-        "title": "Peacock TV: Stream TV & Movies"
-      },
-      {
-        "rank": 21,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
-        "rank": 22,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 23,
+        "rank": 20,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
+        "rank": 21,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 22,
+        "id": "1632713844",
+        "title": "Kalshi: Trade Events & Sports"
+      },
+      {
+        "rank": 23,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
         "rank": 24,
-        "id": "6746049430",
-        "title": "FOX One: Live News, Sports, TV"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 25,
-        "id": "333903271",
-        "title": "X"
+        "id": "1508186374",
+        "title": "Peacock TV: Stream TV & Movies"
       }
     ],
     "paid": [
