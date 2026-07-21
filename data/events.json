@@ -175454,5 +175454,205 @@
     "position": 25,
     "from": "Gmail - Email by Google",
     "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Kalshi: Trade Events & Sports",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Kalshi: Trade Events & Sports"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Peacock TV: Stream TV & Movies",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "FOX One: Live News, Sports, TV",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "SHEIN - Shopping Online",
+    "to": "Peacock TV: Stream TV & Movies"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Shop: All your favorite brands",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Gmail - Email by Google",
+    "to": "FOX One: Live News, Sports, TV"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Shot Tracer",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "imo video calls and chat HD",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "QuickBend: Conduit Bending",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-21T17:45:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Pocket God",
+    "to": "Moment Pro Camera II"
   }
 ]
