@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T07:45:09Z",
+  "updated_at": "2026-07-22T08:00:15Z",
   "charts": {
     "free": [
       {
@@ -89,8 +89,8 @@
       },
       {
         "rank": 18,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 19,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "6758667154",
+        "title": "VibeShort: AI Comic Dramas"
       },
       {
         "rank": 25,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       }
     ],
     "paid": [

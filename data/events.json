@@ -176654,5 +176654,29 @@
     "position": 25,
     "from": "My Lightning Tracker Pro",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-22T08:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Authenticator",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-22T08:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-22T08:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Indeed Job Search",
+    "to": "Microsoft Authenticator"
   }
 ]
