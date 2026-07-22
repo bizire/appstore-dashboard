@@ -177094,5 +177094,229 @@
     "position": 25,
     "from": "Solocator - GPS Field Camera",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "ColdTrace: Cold Case Mystery",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "ColdTrace: Cold Case Mystery"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "SHEIN - Shopping Online",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Shop: All your favorite brands",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Grok AI",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Grok AI"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Shot Tracer",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Moment Pro Camera II",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Spirit Talker Â®",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Goblin Tools",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pedi STAT",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-07-22T17:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "LiveATC Air Radio"
   }
 ]

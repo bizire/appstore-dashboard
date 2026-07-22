@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T16:45:09Z",
+  "updated_at": "2026-07-22T17:00:12Z",
   "charts": {
     "free": [
       {
@@ -19,18 +19,18 @@
       },
       {
         "rank": 4,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 5,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 6,
+        "rank": 5,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
+      },
+      {
+        "rank": 6,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 7,
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 13,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 14,
@@ -79,38 +79,38 @@
       },
       {
         "rank": 16,
-        "id": "6762513021",
-        "title": "ColdTrace: Cold Case Mystery"
-      },
-      {
-        "rank": 17,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 18,
+        "id": "6762513021",
+        "title": "ColdTrace: Cold Case Mystery"
+      },
+      {
         "rank": 19,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 20,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 21,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
+        "rank": 21,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
         "rank": 22,
-        "id": "333903271",
-        "title": "X"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "6670324846",
-        "title": "Grok AI"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "6670324846",
+        "title": "Grok AI"
       }
     ],
     "paid": [
@@ -166,13 +166,13 @@
       },
       {
         "rank": 8,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 9,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 10,
@@ -181,18 +181,18 @@
       },
       {
         "rank": 11,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 12,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 12,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 14,
@@ -201,23 +201,23 @@
       },
       {
         "rank": 15,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 16,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 17,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
+        "rank": 17,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
         "rank": 18,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       },
       {
         "rank": 19,
@@ -226,8 +226,8 @@
       },
       {
         "rank": 20,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 21,
@@ -236,23 +236,23 @@
       },
       {
         "rank": 22,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 23,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 24,
-        "id": "327963391",
-        "title": "Pedi STAT"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 25,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       }
     ]
   }
