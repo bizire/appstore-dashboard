@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T04:45:09Z",
+  "updated_at": "2026-07-22T05:00:10Z",
   "charts": {
     "free": [
       {
@@ -14,8 +14,8 @@
       },
       {
         "rank": 3,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 4,
@@ -24,8 +24,8 @@
       },
       {
         "rank": 5,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 6,
@@ -34,18 +34,18 @@
       },
       {
         "rank": 7,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
+      },
+      {
+        "rank": 8,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "id": "6477489729",
         "title": "Google Gemini"
-      },
-      {
-        "rank": 9,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 10,
@@ -54,28 +54,28 @@
       },
       {
         "rank": 11,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 12,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 13,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
-      },
-      {
-        "rank": 14,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 15,
+        "rank": 12,
+        "id": "6762513021",
+        "title": "ColdTrace: Cold Case Mystery"
+      },
+      {
+        "rank": 13,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 14,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
+      },
+      {
+        "rank": 15,
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
       },
       {
         "rank": 16,
@@ -84,33 +84,33 @@
       },
       {
         "rank": 17,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 18,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
+        "rank": 18,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
         "rank": 19,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 20,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 21,
-        "id": "6758667154",
-        "title": "VibeShort: AI Comic Dramas"
+        "id": "382497397",
+        "title": "Sam's Club Shopping & Delivery"
       },
       {
         "rank": 22,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 23,
@@ -119,8 +119,8 @@
       },
       {
         "rank": 24,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 25,
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 6,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 7,
@@ -181,8 +181,8 @@
       },
       {
         "rank": 11,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 12,
@@ -191,13 +191,13 @@
       },
       {
         "rank": 13,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 14,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 15,
@@ -206,53 +206,53 @@
       },
       {
         "rank": 16,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 17,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 17,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
         "rank": 18,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 19,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
-        "rank": 20,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "rank": 19,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
+        "rank": 21,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
         "rank": 22,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 23,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
-        "rank": 23,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
         "rank": 24,
-        "id": "1498550832",
-        "title": "ASCCP Management Guidelines"
+        "id": "327963391",
+        "title": "Pedi STAT"
       },
       {
         "rank": 25,
-        "id": "430234732",
-        "title": "Site Audit Pro"
+        "id": "1175031995",
+        "title": "My Lightning Tracker Pro"
       }
     ]
   }
