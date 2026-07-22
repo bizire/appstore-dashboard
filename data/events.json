@@ -176910,5 +176910,189 @@
     "position": 25,
     "from": "Microsoft Authenticator",
     "to": "Sam's Club Shopping & Delivery"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "Rar Sharp"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Rar Sharp",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "ColdTrace: Cold Case Mystery",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "ColdTrace: Cold Case Mystery"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "SHEIN - Shopping Online",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Shop: All your favorite brands",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "X",
+    "to": "VibeShort: AI Comic Dramas"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "VibeShort: AI Comic Dramas",
+    "to": "Grok AI"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Sam's Club Shopping & Delivery",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "My Lightning Tracker Pro",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Goblin Tools",
+    "to": "My Lightning Tracker Pro"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Spirit Talker Â®",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-22T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Solocator - GPS Field Camera",
+    "to": "imo video calls and chat HD"
   }
 ]
