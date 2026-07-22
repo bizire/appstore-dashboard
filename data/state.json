@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T19:45:11Z",
+  "updated_at": "2026-07-22T20:00:13Z",
   "charts": {
     "free": [
       {
@@ -14,28 +14,28 @@
       },
       {
         "rank": 3,
-        "id": "683270527",
-        "title": "Rar Sharp"
-      },
-      {
-        "rank": 4,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
+        "rank": 5,
+        "id": "683270527",
+        "title": "Rar Sharp"
+      },
+      {
         "rank": 6,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 7,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 8,
@@ -69,18 +69,18 @@
       },
       {
         "rank": 14,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
+        "rank": 15,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "id": "6761538521",
         "title": "StoryReel: Exclusive Drama"
-      },
-      {
-        "rank": 16,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 17,
@@ -89,28 +89,28 @@
       },
       {
         "rank": 18,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 19,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 20,
         "id": "6762513021",
         "title": "ColdTrace: Cold Case Mystery"
       },
       {
-        "rank": 19,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 20,
+        "rank": 21,
         "id": "1223471316",
         "title": "Shop: All your favorite brands"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "422689480",
         "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 22,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "333903271",
-        "title": "X"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 25,
-        "id": "6670324846",
-        "title": "Grok AI"
+        "id": "309735670",
+        "title": "Indeed Job Search"
       }
     ],
     "paid": [
@@ -166,23 +166,23 @@
       },
       {
         "rank": 8,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 9,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 10,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
+        "rank": 9,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
+        "rank": 10,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
         "rank": 11,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 12,
@@ -191,8 +191,8 @@
       },
       {
         "rank": 13,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 14,
@@ -201,28 +201,28 @@
       },
       {
         "rank": 15,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 17,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
-        "rank": 18,
+        "rank": 16,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
+        "rank": 17,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
+        "rank": 18,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
         "rank": 19,
-        "id": "1175031995",
-        "title": "My Lightning Tracker Pro"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 20,
@@ -231,23 +231,23 @@
       },
       {
         "rank": 21,
+        "id": "1175031995",
+        "title": "My Lightning Tracker Pro"
+      },
+      {
+        "rank": 22,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
-        "rank": 23,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
         "rank": 24,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "327963391",
+        "title": "Pedi STAT"
       },
       {
         "rank": 25,

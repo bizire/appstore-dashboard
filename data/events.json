@@ -177318,5 +177318,237 @@
     "position": 25,
     "from": "imo video calls and chat HD",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Rar Sharp",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Rar Sharp"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Netflix Game Controller",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "ColdTrace: Cold Case Mystery",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Microsoft Authenticator",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Shop: All your favorite brands",
+    "to": "ColdTrace: Cold Case Mystery"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Gmail - Email by Google",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "SHEIN - Shopping Online",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "X",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Grok AI",
+    "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "MilGPS",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Shot Tracer",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Moment Pro Camera II",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "My Lightning Tracker Pro",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "My Lightning Tracker Pro"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Goblin Tools",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Spirit Talker Â®",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-22T20:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Pedi STAT"
   }
 ]
