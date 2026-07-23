@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T02:00:14Z",
+  "updated_at": "2026-07-23T02:15:07Z",
   "charts": {
     "free": [
       {
@@ -44,18 +44,18 @@
       },
       {
         "rank": 9,
-        "id": "683270527",
-        "title": "Rar Sharp"
-      },
-      {
-        "rank": 10,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
       },
       {
-        "rank": 11,
+        "rank": 10,
         "id": "284815942",
         "title": "Google"
+      },
+      {
+        "rank": 11,
+        "id": "683270527",
+        "title": "Rar Sharp"
       },
       {
         "rank": 12,
@@ -79,13 +79,13 @@
       },
       {
         "rank": 16,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 17,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 18,
@@ -94,8 +94,8 @@
       },
       {
         "rank": 19,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
       },
       {
         "rank": 20,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 24,
-        "id": "6758667154",
-        "title": "VibeShort: AI Comic Dramas"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "309735670",
+        "title": "Indeed Job Search"
       }
     ],
     "paid": [
