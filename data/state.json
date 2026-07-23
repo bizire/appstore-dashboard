@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T13:45:10Z",
+  "updated_at": "2026-07-23T14:00:16Z",
   "charts": {
     "free": [
       {
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 12,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 13,
@@ -74,38 +74,38 @@
       },
       {
         "rank": 15,
-        "id": "6762513021",
-        "title": "ColdTrace: Cold Case Mystery"
-      },
-      {
-        "rank": 16,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 17,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 18,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
-        "rank": 19,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
-      },
-      {
-        "rank": 20,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 21,
+        "rank": 16,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 17,
+        "id": "6762513021",
+        "title": "ColdTrace: Cold Case Mystery"
+      },
+      {
+        "rank": 18,
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
+      },
+      {
+        "rank": 19,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 20,
         "id": "422689480",
         "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 21,
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 22,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "309735670",
-        "title": "Indeed Job Search"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       }
     ],
     "paid": [
@@ -161,28 +161,28 @@
       },
       {
         "rank": 7,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 8,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 9,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
+        "rank": 8,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
+        "rank": 9,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
         "rank": 10,
-        "id": "6779987526",
-        "title": "Parchment: Agenda & Daily Note"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 11,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "6779987526",
+        "title": "Parchment: Agenda & Daily Note"
       },
       {
         "rank": 12,
@@ -206,13 +206,13 @@
       },
       {
         "rank": 16,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 17,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 18,
@@ -226,23 +226,23 @@
       },
       {
         "rank": 20,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 21,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
+        "rank": 21,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
         "rank": 22,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 23,
-        "id": "894811756",
-        "title": "PromptSmart Pro - Teleprompter"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "894811756",
+        "title": "PromptSmart Pro - Teleprompter"
       }
     ]
   }
