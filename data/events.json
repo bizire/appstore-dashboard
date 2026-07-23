@@ -177766,5 +177766,61 @@
     "position": 25,
     "from": "Indeed Job Search",
     "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-23T02:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "FL Studio Mobile",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-07-23T02:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Solocator - GPS Field Camera",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-23T02:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-23T02:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-23T02:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Pedi STAT"
+  },
+  {
+    "ts": "2026-07-23T02:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pedi STAT",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-23T02:00:14Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "PromptSmart Pro - Teleprompter"
   }
 ]

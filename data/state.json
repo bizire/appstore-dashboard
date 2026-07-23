@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T01:45:08Z",
+  "updated_at": "2026-07-23T02:00:14Z",
   "charts": {
     "free": [
       {
@@ -211,23 +211,23 @@
       },
       {
         "rank": 17,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 18,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
       },
       {
+        "rank": 18,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
         "rank": 19,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 20,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 21,
@@ -236,13 +236,13 @@
       },
       {
         "rank": 22,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "327963391",
+        "title": "Pedi STAT"
       },
       {
         "rank": 23,
-        "id": "327963391",
-        "title": "Pedi STAT"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "894811756",
+        "title": "PromptSmart Pro - Teleprompter"
       }
     ]
   }
