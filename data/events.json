@@ -177894,5 +177894,213 @@
     "position": 25,
     "from": "DoorDash: Food, Grocery, More",
     "to": "Indeed Job Search"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Claude by Anthropic",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Netflix Game Controller",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Rar Sharp",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "ColdTrace: Cold Case Mystery"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Maps",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Teams",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "ColdTrace: Cold Case Mystery",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Gmail - Email by Google",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Shop: All your favorite brands",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Indeed Job Search",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "FL Studio Mobile",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Pedi STAT",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-23T05:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "Pedi STAT"
   }
 ]
