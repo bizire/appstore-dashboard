@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T01:45:08Z",
+  "updated_at": "2026-07-24T02:00:12Z",
   "charts": {
     "free": [
       {
@@ -146,23 +146,23 @@
       },
       {
         "rank": 4,
-        "id": "916366645",
-        "title": "Procreate Pocket"
-      },
-      {
-        "rank": 5,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
+        "rank": 5,
+        "id": "916366645",
+        "title": "Procreate Pocket"
+      },
+      {
         "rank": 6,
-        "id": "6785557805",
-        "title": "Antizuck Smart Glasses Scanner"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 7,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "6785557805",
+        "title": "Antizuck Smart Glasses Scanner"
       },
       {
         "rank": 8,
@@ -201,58 +201,58 @@
       },
       {
         "rank": 15,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 16,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
-        "rank": 17,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 18,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 19,
-        "id": "1175031995",
-        "title": "My Lightning Tracker Pro"
-      },
-      {
-        "rank": 20,
+        "rank": 16,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 21,
+        "rank": 17,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
+        "rank": 18,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
+        "rank": 19,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 20,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
-        "rank": 22,
+        "rank": 21,
         "id": "894811756",
         "title": "PromptSmart Pro - Teleprompter"
       },
       {
-        "rank": 23,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "rank": 22,
+        "id": "1175031995",
+        "title": "My Lightning Tracker Pro"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
+        "rank": 24,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
         "rank": 25,
-        "id": "327963391",
-        "title": "Pedi STAT"
+        "id": "525299323",
+        "title": "Land Nav Assistant"
       }
     ]
   }
