@@ -179694,5 +179694,173 @@
     "position": 25,
     "from": "Pedi STAT",
     "to": "Land Nav Assistant"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "ChatGPT",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "TikTok Pro - Events",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Threads",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Claude by Anthropic",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Netflix Game Controller",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Authenticator",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Teams",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Instagram",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Facebook",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-24T04:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Shop: All your favorite brands",
+    "to": "Life360: Family Safety & GPS"
   }
 ]
