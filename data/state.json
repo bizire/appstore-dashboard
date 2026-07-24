@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T04:45:07Z",
+  "updated_at": "2026-07-24T05:00:08Z",
   "charts": {
     "free": [
       {
@@ -161,18 +161,18 @@
       },
       {
         "rank": 7,
-        "id": "6785557805",
-        "title": "Antizuck Smart Glasses Scanner"
-      },
-      {
-        "rank": 8,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 9,
+        "id": "6785557805",
+        "title": "Antizuck Smart Glasses Scanner"
       },
       {
         "rank": 10,
@@ -181,48 +181,48 @@
       },
       {
         "rank": 11,
-        "id": "6779987526",
-        "title": "Parchment: Agenda & Daily Note"
-      },
-      {
-        "rank": 12,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 12,
+        "id": "6779987526",
+        "title": "Parchment: Agenda & Daily Note"
+      },
+      {
         "rank": 13,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 14,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 15,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 16,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 17,
+        "rank": 14,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
+        "rank": 15,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 16,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
+        "rank": 17,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
         "rank": 18,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 19,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "525299323",
+        "title": "Land Nav Assistant"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
+      },
+      {
+        "rank": 22,
         "id": "894811756",
         "title": "PromptSmart Pro - Teleprompter"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "1175031995",
         "title": "My Lightning Tracker Pro"
       },
       {
-        "rank": 23,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
         "rank": 24,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 25,
-        "id": "525299323",
-        "title": "Land Nav Assistant"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       }
     ]
   }
