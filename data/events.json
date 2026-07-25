@@ -181702,5 +181702,165 @@
     "position": 25,
     "from": "Solocator - GPS Field Camera",
     "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Netflix Game Controller",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Maps",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Gmail - Email by Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Instagram",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Ticketmasterï¼Buy, Sell Tickets"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "X",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Facebook",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-25T04:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Ticketmasterï¼Buy, Sell Tickets",
+    "to": "SHEIN - Shopping Online"
   }
 ]
