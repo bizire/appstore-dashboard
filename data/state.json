@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T04:45:09Z",
+  "updated_at": "2026-07-25T05:00:11Z",
   "charts": {
     "free": [
       {
@@ -156,23 +156,23 @@
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 7,
         "id": "6779987526",
         "title": "Parchment: Agenda & Daily Note"
       },
       {
+        "rank": 7,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
         "rank": 8,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 9,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 10,
@@ -181,23 +181,23 @@
       },
       {
         "rank": 11,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 12,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
+        "rank": 12,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
         "rank": 13,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 14,
-        "id": "894811756",
-        "title": "PromptSmart Pro - Teleprompter"
+        "id": "6785557805",
+        "title": "Antizuck Smart Glasses Scanner"
       },
       {
         "rank": 15,
@@ -206,33 +206,33 @@
       },
       {
         "rank": 16,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 17,
-        "id": "6785557805",
-        "title": "Antizuck Smart Glasses Scanner"
-      },
-      {
-        "rank": 18,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
-        "rank": 19,
-        "id": "963034692",
-        "title": "Streaks"
+        "rank": 18,
+        "id": "894811756",
+        "title": "PromptSmart Pro - Teleprompter"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
+        "rank": 20,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
         "rank": 21,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 22,
@@ -241,8 +241,8 @@
       },
       {
         "rank": 23,
-        "id": "525299323",
-        "title": "Land Nav Assistant"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "892347083",
-        "title": "FORScan Lite - for Ford, Mazda"
+        "id": "1662217862",
+        "title": "Wipr 2"
       }
     ]
   }
