@@ -181990,5 +181990,269 @@
     "position": 25,
     "from": "FORScan Lite - for Ford, Mazda",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Claude by Anthropic",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Life360: Family Safety & GPS",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Facebook",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "SHEIN - Shopping Online",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "MilGPS",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "SkyViewÂ®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Threema. The Secure Messenger",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Shot Tracer",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PromptSmart Pro - Teleprompter",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Spirit Talker Â®",
+    "to": "PromptSmart Pro - Teleprompter"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "LiveATC Air Radio",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-25T07:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Wipr 2",
+    "to": "LiveATC Air Radio"
   }
 ]
