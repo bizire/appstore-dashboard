@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-25T01:30:10Z",
+  "updated_at": "2026-07-25T01:45:10Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 2,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 3,
@@ -39,18 +39,18 @@
       },
       {
         "rank": 8,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 9,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "id": "310633997",
         "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 10,
-        "id": "284815942",
-        "title": "Google"
       },
       {
         "rank": 11,
@@ -64,23 +64,23 @@
       },
       {
         "rank": 13,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
-      },
-      {
-        "rank": 14,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 15,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 16,
+        "rank": 14,
         "id": "422689480",
         "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 15,
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
+      },
+      {
+        "rank": 16,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 17,
@@ -89,43 +89,43 @@
       },
       {
         "rank": 18,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 19,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 20,
-        "id": "333903271",
-        "title": "X"
-      },
-      {
-        "rank": 21,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
-        "rank": 22,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "rank": 19,
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
-        "rank": 23,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 24,
+        "rank": 20,
         "id": "338137227",
         "title": "Walmart: Shopping & Savings"
       },
       {
+        "rank": 21,
+        "id": "333903271",
+        "title": "X"
+      },
+      {
+        "rank": 22,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 23,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 24,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
         "rank": 25,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "500003565",
+        "title": "Ticketmasterï¼Buy, Sell Tickets"
       }
     ],
     "paid": [
@@ -161,28 +161,28 @@
       },
       {
         "rank": 7,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 8,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 9,
         "id": "6779987526",
         "title": "Parchment: Agenda & Daily Note"
       },
       {
+        "rank": 8,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 9,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
         "rank": 10,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 11,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 12,
@@ -191,18 +191,18 @@
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 14,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
+        "rank": 14,
+        "id": "894811756",
+        "title": "PromptSmart Pro - Teleprompter"
+      },
+      {
         "rank": 15,
-        "id": "6785557805",
-        "title": "Antizuck Smart Glasses Scanner"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 16,
@@ -211,18 +211,18 @@
       },
       {
         "rank": 17,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "6785557805",
+        "title": "Antizuck Smart Glasses Scanner"
       },
       {
         "rank": 18,
-        "id": "894811756",
-        "title": "PromptSmart Pro - Teleprompter"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 19,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 20,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "430234732",
-        "title": "Site Audit Pro"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 25,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "892347083",
+        "title": "FORScan Lite - for Ford, Mazda"
       }
     ]
   }
