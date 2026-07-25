@@ -183254,5 +183254,93 @@
     "position": 25,
     "from": "Spirit Talker Â®",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-25T22:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Claude by Anthropic",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-25T22:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-25T22:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-25T22:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-25T22:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Instagram",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-25T22:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-07-25T22:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "X",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-25T22:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "YouTube",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-25T22:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-25T22:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-25T22:45:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "SHEIN - Shopping Online",
+    "to": "YouTube"
   }
 ]
