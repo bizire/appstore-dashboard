@@ -183718,5 +183718,293 @@
     "position": 25,
     "from": "Wipr 2",
     "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "TikTok Pro - Events",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Walmart: Shopping & Savings",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Uber - Request a ride",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Ticketmasterï¼Buy, Sell Tickets",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Instagram",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "SHEIN - Shopping Online",
+    "to": "Ticketmasterï¼Buy, Sell Tickets"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Life360: Family Safety & GPS",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "PeakFinder",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "RadarScope",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Shot Tracer",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Threema. The Secure Messenger",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Spirit Talker Â®",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Pocket God",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PromptSmart Pro - Teleprompter",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "LiveATC Air Radio",
+    "to": "PromptSmart Pro - Teleprompter"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "QuickBend: Conduit Bending",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Moment Pro Camera II",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Wipr 2",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-26T07:30:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Streaks",
+    "to": "Cloud Baby Monitor"
   }
 ]
