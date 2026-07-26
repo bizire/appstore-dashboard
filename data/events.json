@@ -184006,5 +184006,181 @@
     "position": 25,
     "from": "Streaks",
     "to": "Cloud Baby Monitor"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Uber - Request a ride",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "SHEIN - Shopping Online",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Walmart: Shopping & Savings",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "X",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Ticketmasterï¼Buy, Sell Tickets",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Paramount+",
+    "to": "Ticketmasterï¼Buy, Sell Tickets"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "RadarScope",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Spirit Talker Â®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "MilGPS",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Shot Tracer",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Wipr 2",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-26T10:45:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "LiveATC Air Radio"
   }
 ]
