@@ -183382,5 +183382,109 @@
     "position": 24,
     "from": "Spirit Talker Â®",
     "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google Gemini",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Gmail - Email by Google",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Instagram",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Facebook",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "X",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-07-26T01:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "YouTube",
+    "to": "Ticketmasterï¼Buy, Sell Tickets"
   }
 ]
