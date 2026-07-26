@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-26T16:15:08Z",
+  "updated_at": "2026-07-26T16:30:09Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 2,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 3,
@@ -54,33 +54,33 @@
       },
       {
         "rank": 11,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 12,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 13,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "rank": 12,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 14,
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
+      },
+      {
         "rank": 15,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 16,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
         "rank": 17,
@@ -89,8 +89,8 @@
       },
       {
         "rank": 18,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 19,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
-      },
-      {
-        "rank": 24,
         "id": "686449807",
         "title": "Telegram Messenger"
       },
       {
+        "rank": 24,
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
+      },
+      {
         "rank": 25,
-        "id": "284882215",
-        "title": "Facebook"
+        "id": "389801252",
+        "title": "Instagram"
       }
     ],
     "paid": [
