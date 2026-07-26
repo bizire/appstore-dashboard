@@ -184262,5 +184262,85 @@
     "position": 25,
     "from": "Cloud Baby Monitor",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-26T13:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-26T13:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-26T13:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Uber - Request a ride",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-26T13:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-07-26T13:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-26T13:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "X",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-26T13:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Life360: Family Safety & GPS",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-26T13:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-07-26T13:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Ticketmasterï¼Buy, Sell Tickets",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-07-26T13:45:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Paramount+",
+    "to": "Facebook"
   }
 ]
