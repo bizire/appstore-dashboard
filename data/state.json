@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T13:15:08Z",
+  "updated_at": "2026-07-26T13:30:09Z",
   "charts": {
     "free": [
       {
@@ -201,43 +201,43 @@
       },
       {
         "rank": 15,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 16,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 18,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "rank": 17,
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
+        "rank": 19,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
         "rank": 20,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
+        "rank": 21,
         "id": "894811756",
         "title": "PromptSmart Pro - Teleprompter"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1581140954",
+        "title": "Noir - Dark Mode for Safari"
       },
       {
         "rank": 25,
-        "id": "432791399",
-        "title": "Cloud Baby Monitor"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }
