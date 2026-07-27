@@ -186270,5 +186270,133 @@
     "position": 25,
     "from": "Telegram Messenger",
     "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "Drillbook Next Reader"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "RadarScope",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Pocket God",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Shot Tracer",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Drillbook Next Reader",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "imo video calls and chat HD",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "MilGPS",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Goblin Tools",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "PromptSmart Pro - Teleprompter"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "PromptSmart Pro - Teleprompter",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Wipr 2",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Spirit Talker Â®",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-27T17:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Spirit Talker Â®"
   }
 ]
