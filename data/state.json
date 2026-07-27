@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T01:15:10Z",
+  "updated_at": "2026-07-27T01:30:11Z",
   "charts": {
     "free": [
       {
@@ -59,8 +59,8 @@
       },
       {
         "rank": 12,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 13,
@@ -74,8 +74,8 @@
       },
       {
         "rank": 15,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 16,
@@ -84,43 +84,43 @@
       },
       {
         "rank": 17,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 18,
-        "id": "284882215",
-        "title": "Facebook"
-      },
-      {
-        "rank": 19,
         "id": "338137227",
         "title": "Walmart: Shopping & Savings"
       },
       {
-        "rank": 20,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "rank": 18,
+        "id": "389801252",
+        "title": "Instagram"
       },
       {
-        "rank": 21,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
-      },
-      {
-        "rank": 22,
+        "rank": 19,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
+        "rank": 20,
+        "id": "284882215",
+        "title": "Facebook"
+      },
+      {
+        "rank": 21,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 22,
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
+      },
+      {
         "rank": 23,
-        "id": "544007664",
-        "title": "YouTube"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 24,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "544007664",
+        "title": "YouTube"
       },
       {
         "rank": 25,
@@ -176,13 +176,13 @@
       },
       {
         "rank": 10,
-        "id": "6779987526",
-        "title": "Parchment: Agenda & Daily Note"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 11,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "6779987526",
+        "title": "Parchment: Agenda & Daily Note"
       },
       {
         "rank": 12,
@@ -196,13 +196,13 @@
       },
       {
         "rank": 14,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 15,
-        "id": "6785557805",
-        "title": "Antizuck Smart Glasses Scanner"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 16,
@@ -211,33 +211,33 @@
       },
       {
         "rank": 17,
+        "id": "6785557805",
+        "title": "Antizuck Smart Glasses Scanner"
+      },
+      {
+        "rank": 18,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
-        "rank": 20,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
         "rank": 21,
-        "id": "894811756",
-        "title": "PromptSmart Pro - Teleprompter"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 22,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "894811756",
+        "title": "PromptSmart Pro - Teleprompter"
       },
       {
         "rank": 23,

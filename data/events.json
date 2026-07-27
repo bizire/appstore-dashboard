@@ -185006,5 +185006,165 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Instagram",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Facebook",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Walmart: Shopping & Savings",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "YouTube",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "MilGPS",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Shot Tracer",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Streaks",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PromptSmart Pro - Teleprompter",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-27T01:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "PromptSmart Pro - Teleprompter"
   }
 ]
