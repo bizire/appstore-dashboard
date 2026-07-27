@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-07-27T13:45:09Z",
+  "updated_at": "2026-07-27T14:00:13Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 2,
@@ -14,8 +14,8 @@
       },
       {
         "rank": 3,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 4,
@@ -49,28 +49,28 @@
       },
       {
         "rank": 10,
+        "id": "407558537",
+        "title": "Capital One Mobile"
+      },
+      {
+        "rank": 11,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 14,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
       },
       {
         "rank": 15,
@@ -79,18 +79,18 @@
       },
       {
         "rank": 16,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
+        "rank": 17,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "id": "6745274862",
         "title": "DealSeek: Coupons & Discounts"
-      },
-      {
-        "rank": 18,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 19,
@@ -104,18 +104,18 @@
       },
       {
         "rank": 21,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 22,
         "id": "338137227",
         "title": "Walmart: Shopping & Savings"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "530168168",
         "title": "Paramount+"
-      },
-      {
-        "rank": 23,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "686449807",
+        "title": "Telegram Messenger"
       }
     ],
     "paid": [
@@ -191,18 +191,18 @@
       },
       {
         "rank": 13,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 14,
         "id": "6779987526",
         "title": "Parchment: Agenda & Daily Note"
       },
       {
+        "rank": 14,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
         "rank": 15,
-        "id": "795739546",
-        "title": "Drillbook Next Reader"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 16,
@@ -211,23 +211,23 @@
       },
       {
         "rank": 17,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "795739546",
+        "title": "Drillbook Next Reader"
       },
       {
         "rank": 18,
-        "id": "894811756",
-        "title": "PromptSmart Pro - Teleprompter"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 19,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 20,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 21,
@@ -236,23 +236,23 @@
       },
       {
         "rank": 22,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "894811756",
+        "title": "PromptSmart Pro - Teleprompter"
       },
       {
         "rank": 23,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 24,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 25,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       }
     ]
   }
