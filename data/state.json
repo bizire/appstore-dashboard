@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T10:30:12Z",
+  "updated_at": "2026-07-27T10:45:12Z",
   "charts": {
     "free": [
       {
@@ -29,13 +29,13 @@
       },
       {
         "rank": 6,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 7,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 8,
@@ -49,8 +49,8 @@
       },
       {
         "rank": 10,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 11,
@@ -59,8 +59,8 @@
       },
       {
         "rank": 12,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 13,
@@ -84,33 +84,33 @@
       },
       {
         "rank": 17,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 18,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
-        "rank": 19,
         "id": "6745274862",
         "title": "DealSeek: Coupons & Discounts"
       },
       {
-        "rank": 20,
-        "id": "530168168",
-        "title": "Paramount+"
+        "rank": 18,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
-        "rank": 21,
+        "rank": 19,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 22,
+        "rank": 20,
         "id": "333903271",
         "title": "X"
+      },
+      {
+        "rank": 21,
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
+      },
+      {
+        "rank": 22,
+        "id": "530168168",
+        "title": "Paramount+"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 25,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       }
     ],
     "paid": [

@@ -185814,5 +185814,101 @@
     "position": 25,
     "from": "Stylebook",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-07-27T10:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-27T10:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-27T10:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-27T10:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-27T10:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-07-27T10:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Walmart: Shopping & Savings",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-27T10:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-27T10:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Paramount+",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-27T10:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-27T10:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-07-27T10:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-27T10:45:12Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Shop: All your favorite brands",
+    "to": "Uber - Request a ride"
   }
 ]
