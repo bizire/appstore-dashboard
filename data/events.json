@@ -187878,5 +187878,61 @@
     "position": 25,
     "from": "Things 3",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-28T13:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-07-28T13:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-07-28T13:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Walmart: Shopping & Savings",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-28T13:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-07-28T13:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "T-Life",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-28T13:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-07-28T13:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "T-Life"
   }
 ]
