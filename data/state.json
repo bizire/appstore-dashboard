@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T07:30:11Z",
+  "updated_at": "2026-07-28T07:45:09Z",
   "charts": {
     "free": [
       {
@@ -156,23 +156,23 @@
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 7,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 8,
         "id": "6764665158",
         "title": "Reelo - Media Hub"
       },
       {
+        "rank": 7,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
+        "rank": 8,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
         "rank": 9,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 10,
@@ -181,23 +181,23 @@
       },
       {
         "rank": 11,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 12,
+        "id": "404990064",
+        "title": "SkyViewÂ®"
+      },
+      {
+        "rank": 13,
         "id": "6785557805",
         "title": "Antizuck Smart Glasses Scanner"
       },
       {
-        "rank": 12,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 13,
+        "rank": 14,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 14,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
       },
       {
         "rank": 15,
@@ -206,18 +206,18 @@
       },
       {
         "rank": 16,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 17,
         "id": "1140451547",
         "title": "Shot Tracer"
       },
       {
+        "rank": 17,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
         "rank": 18,
-        "id": "795739546",
-        "title": "Drillbook Next Reader"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 19,
@@ -226,33 +226,33 @@
       },
       {
         "rank": 20,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "795739546",
+        "title": "Drillbook Next Reader"
       },
       {
         "rank": 21,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 22,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 23,
         "id": "6779987526",
         "title": "Parchment: Agenda & Daily Note"
       },
       {
+        "rank": 22,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
+        "rank": 23,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
         "rank": 24,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 25,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "904237743",
+        "title": "Things 3"
       }
     ]
   }
