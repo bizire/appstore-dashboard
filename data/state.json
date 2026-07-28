@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T13:30:11Z",
+  "updated_at": "2026-07-28T13:45:13Z",
   "charts": {
     "free": [
       {
@@ -146,13 +146,13 @@
       },
       {
         "rank": 4,
-        "id": "916366645",
-        "title": "Procreate Pocket"
+        "id": "6764665158",
+        "title": "Reelo - Media Hub"
       },
       {
         "rank": 5,
-        "id": "6764665158",
-        "title": "Reelo - Media Hub"
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 6,
@@ -186,73 +186,73 @@
       },
       {
         "rank": 12,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 13,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 14,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
+        "rank": 13,
+        "id": "357421934",
+        "title": "PeakFinder"
+      },
+      {
+        "rank": 14,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
         "rank": 15,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 16,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 17,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
-        "rank": 18,
+        "rank": 16,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 17,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 19,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "rank": 18,
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
-        "rank": 20,
+        "rank": 19,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
+        "rank": 21,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
         "rank": 22,
-        "id": "795739546",
-        "title": "Drillbook Next Reader"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 23,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 24,
         "id": "6779987526",
         "title": "Parchment: Agenda & Daily Note"
       },
       {
+        "rank": 24,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
         "rank": 25,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "795739546",
+        "title": "Drillbook Next Reader"
       }
     ]
   }
