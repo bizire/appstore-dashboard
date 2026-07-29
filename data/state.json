@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T16:15:08Z",
+  "updated_at": "2026-07-29T16:30:09Z",
   "charts": {
     "free": [
       {
@@ -59,23 +59,23 @@
       },
       {
         "rank": 12,
-        "id": "497387361",
-        "title": "Taco Bell Fast Food & Delivery"
-      },
-      {
-        "rank": 13,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
+      },
+      {
+        "rank": 15,
+        "id": "497387361",
+        "title": "Taco Bell Fast Food & Delivery"
       },
       {
         "rank": 16,
@@ -89,43 +89,43 @@
       },
       {
         "rank": 18,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 19,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 19,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
         "rank": 20,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 21,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 22,
+        "rank": 23,
         "id": "878577184",
         "title": "SHEIN - Shopping Online"
       },
       {
-        "rank": 23,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
         "rank": 24,
-        "id": "333903271",
-        "title": "X"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       },
       {
         "rank": 25,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
