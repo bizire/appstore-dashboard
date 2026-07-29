@@ -189542,5 +189542,61 @@
     "position": 25,
     "from": "Parchment: Agenda & Daily Note",
     "to": "My Lightning Tracker Pro"
+  },
+  {
+    "ts": "2026-07-29T10:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "T-Life",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-29T10:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "T-Life"
+  },
+  {
+    "ts": "2026-07-29T10:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "SHEIN - Shopping Online",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-29T10:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-29T10:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Gmail - Email by Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-29T10:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-29T10:45:07Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Authenticator",
+    "to": "TikTok - Videos, Shop & LIVE"
   }
 ]

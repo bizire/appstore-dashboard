@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T10:30:07Z",
+  "updated_at": "2026-07-29T10:45:07Z",
   "charts": {
     "free": [
       {
@@ -69,13 +69,13 @@
       },
       {
         "rank": 14,
-        "id": "1111876388",
-        "title": "T-Life"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 15,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1111876388",
+        "title": "T-Life"
       },
       {
         "rank": 16,
@@ -94,23 +94,23 @@
       },
       {
         "rank": 19,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
-      },
-      {
-        "rank": 20,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
+        "rank": 20,
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
+      },
+      {
         "rank": 21,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 22,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 23,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
