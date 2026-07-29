@@ -190502,5 +190502,77 @@
     "position": 25,
     "from": "Microsoft Teams",
     "to": "Facebook"
+  },
+  {
+    "ts": "2026-07-29T23:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "SkyViewÂ®",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-29T23:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-29T23:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Goblin Tools",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-29T23:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-29T23:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-07-29T23:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-07-29T23:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pocket God",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-07-29T23:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PhotoPills",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-07-29T23:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "Air & Space Fitness Calculator"
   }
 ]
