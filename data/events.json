@@ -191038,5 +191038,261 @@
     "position": 25,
     "from": "Air & Space Fitness Calculator",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "T-Life",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "T-Life"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "ParentSquare",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Walmart: Shopping & Savings",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Microsoft Authenticator",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Google Maps",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Instagram",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Procreate Pocket",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Moment Pro Camera II",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "MilGPS",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "SkyViewÂ®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Goblin Tools",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Air & Space Fitness Calculator",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Stylebook",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-30T08:00:09Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Spirit Talker Â®"
   }
 ]
