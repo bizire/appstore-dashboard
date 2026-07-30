@@ -191294,5 +191294,157 @@
     "position": 25,
     "from": "Solocator - GPS Field Camera",
     "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Claude by Anthropic",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Authenticator",
+    "to": "X"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "RadarScope",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Stylebook",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PhotoPills",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Pocket God",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-07-30T10:45:06Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Spirit Talker Â®",
+    "to": "Stylebook"
   }
 ]
