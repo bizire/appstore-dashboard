@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T02:30:06Z",
+  "updated_at": "2026-07-30T02:45:06Z",
   "charts": {
     "free": [
       {
@@ -59,28 +59,28 @@
       },
       {
         "rank": 12,
-        "id": "6477489729",
-        "title": "Google Gemini"
-      },
-      {
-        "rank": 13,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 14,
         "id": "1111876388",
         "title": "T-Life"
       },
       {
+        "rank": 13,
+        "id": "6477489729",
+        "title": "Google Gemini"
+      },
+      {
+        "rank": 14,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
         "rank": 15,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 16,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 17,
@@ -94,38 +94,38 @@
       },
       {
         "rank": 19,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 20,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 20,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
+      },
+      {
         "rank": 21,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 22,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
-      },
-      {
-        "rank": 23,
-        "id": "389801252",
-        "title": "Instagram"
-      },
-      {
-        "rank": 24,
         "id": "908126679",
         "title": "ParentSquare"
       },
       {
+        "rank": 22,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 23,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 24,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
         "rank": 25,
-        "id": "284882215",
-        "title": "Facebook"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       }
     ],
     "paid": [
