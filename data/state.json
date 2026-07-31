@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T16:30:09Z",
+  "updated_at": "2026-07-31T16:45:10Z",
   "charts": {
     "free": [
       {
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "6764665158",
+        "title": "Reelo - Media Hub"
       },
       {
         "rank": 8,
-        "id": "6764665158",
-        "title": "Reelo - Media Hub"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 9,
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 12,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 13,
@@ -196,23 +196,23 @@
       },
       {
         "rank": 14,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 15,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 15,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
         "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 17,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 18,
@@ -221,23 +221,23 @@
       },
       {
         "rank": 19,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 20,
         "id": "6779987526",
         "title": "Parchment: Agenda & Daily Note"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
-        "rank": 21,
+        "rank": 22,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 22,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "1569922923",
+        "title": "Air & Space Fitness Calculator"
       },
       {
         "rank": 25,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "1662217862",
+        "title": "Wipr 2"
       }
     ]
   }
