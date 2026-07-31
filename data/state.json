@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T13:30:10Z",
+  "updated_at": "2026-07-31T14:00:17Z",
   "charts": {
     "free": [
       {
@@ -59,28 +59,28 @@
       },
       {
         "rank": 12,
-        "id": "1089294040",
-        "title": "Capital One Shopping: Save Now"
-      },
-      {
-        "rank": 13,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 14,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "rank": 13,
+        "id": "1089294040",
+        "title": "Capital One Shopping: Save Now"
       },
       {
-        "rank": 15,
+        "rank": 14,
         "id": "284815942",
         "title": "Google"
       },
       {
+        "rank": 15,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
         "rank": 16,
-        "id": "1111876388",
-        "title": "T-Life"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 17,
@@ -89,23 +89,23 @@
       },
       {
         "rank": 18,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1111876388",
+        "title": "T-Life"
       },
       {
         "rank": 19,
-        "id": "908126679",
-        "title": "ParentSquare"
-      },
-      {
-        "rank": 20,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "1636235979",
         "title": "ReelShort - Stream Drama & TV"
+      },
+      {
+        "rank": 21,
+        "id": "908126679",
+        "title": "ParentSquare"
       },
       {
         "rank": 22,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "878577184",
+        "title": "SHEIN - Shopping Online"
       }
     ],
     "paid": [
@@ -196,13 +196,13 @@
       },
       {
         "rank": 14,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       },
       {
         "rank": 15,
-        "id": "288419283",
-        "title": "RadarScope"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 16,
@@ -211,13 +211,13 @@
       },
       {
         "rank": 17,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 18,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 19,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 25,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       }
     ]
   }
