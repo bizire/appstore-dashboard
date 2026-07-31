@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-31T16:15:08Z",
+  "updated_at": "2026-07-31T16:30:09Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "407558537",
+        "title": "Capital One Mobile"
       },
       {
         "rank": 2,
-        "id": "407558537",
-        "title": "Capital One Mobile"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 3,
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 9,
@@ -54,8 +54,8 @@
       },
       {
         "rank": 11,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "1089294040",
+        "title": "Capital One Shopping: Save Now"
       },
       {
         "rank": 12,
@@ -64,18 +64,18 @@
       },
       {
         "rank": 13,
-        "id": "1089294040",
-        "title": "Capital One Shopping: Save Now"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 14,
-        "id": "284815942",
-        "title": "Google"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 15,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 16,
@@ -84,33 +84,33 @@
       },
       {
         "rank": 17,
-        "id": "6445905219",
-        "title": "DramaBox - Stream Drama Shorts"
-      },
-      {
-        "rank": 18,
-        "id": "1111876388",
-        "title": "T-Life"
-      },
-      {
-        "rank": 19,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 20,
         "id": "1636235979",
         "title": "ReelShort - Stream Drama & TV"
       },
       {
-        "rank": 21,
+        "rank": 18,
         "id": "908126679",
         "title": "ParentSquare"
       },
       {
-        "rank": 22,
+        "rank": 19,
+        "id": "6445905219",
+        "title": "DramaBox - Stream Drama Shorts"
+      },
+      {
+        "rank": 20,
         "id": "585027354",
         "title": "Google Maps"
+      },
+      {
+        "rank": 21,
+        "id": "1111876388",
+        "title": "T-Life"
+      },
+      {
+        "rank": 22,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
       },
       {
         "rank": 25,
-        "id": "878577184",
-        "title": "SHEIN - Shopping Online"
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
       }
     ],
     "paid": [

@@ -193398,5 +193398,133 @@
     "position": 25,
     "from": "Wipr 2",
     "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "TikTok Pro - Events",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Capital One Mobile",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Capital One Shopping: Save Now"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Capital One Shopping: Save Now",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "T-Life",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "ParentSquare",
+    "to": "T-Life"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-07-31T16:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "SHEIN - Shopping Online",
+    "to": "Shop: All your favorite brands"
   }
 ]
