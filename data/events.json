@@ -195238,5 +195238,229 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "Netflix Game Controller",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "TikTok Pro - Events",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Atom - Movie Tickets & Times",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Atom - Movie Tickets & Times"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "WhatsApp Messenger",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "T-Life",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Uber - Request a ride",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Meta AI",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "AMC Theatres: Movies & More",
+    "to": "T-Life"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Gmail - Email by Google",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Paprika Recipe Manager 3",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "RadarScope",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Moment Pro Camera II",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Stylebook",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pocket God",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "imo video calls and chat HD",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Air & Space Fitness Calculator"
+  },
+  {
+    "ts": "2026-08-01T17:00:16Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Goblin Tools",
+    "to": "Koala Sampler â¢ Beat Maker"
   }
 ]
