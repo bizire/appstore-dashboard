@@ -195078,5 +195078,165 @@
     "position": 25,
     "from": "Spirit Talker Â®",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "AMC Theatres: Movies & More",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "ParentSquare",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "AMC Theatres: Movies & More"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Meta AI",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PeakFinder",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Stylebook",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Goblin Tools",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Spirit Talker Â®",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-01T14:00:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Goblin Tools"
   }
 ]
