@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-01T07:30:09Z",
+  "updated_at": "2026-08-01T07:45:07Z",
   "charts": {
     "free": [
       {
         "rank": 1,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
+        "rank": 2,
         "id": "6741796873",
         "title": "TikTok Pro - Events"
       },
       {
-        "rank": 2,
+        "rank": 3,
         "id": "407558537",
         "title": "Capital One Mobile"
-      },
-      {
-        "rank": 3,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
       },
       {
         "rank": 4,
@@ -44,18 +44,18 @@
       },
       {
         "rank": 9,
-        "id": "284815942",
-        "title": "Google"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 10,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 11,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 12,
@@ -64,53 +64,53 @@
       },
       {
         "rank": 13,
-        "id": "1111876388",
-        "title": "T-Life"
-      },
-      {
-        "rank": 14,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 15,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
-        "rank": 16,
-        "id": "908126679",
-        "title": "ParentSquare"
-      },
-      {
-        "rank": 17,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 18,
+        "rank": 14,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 19,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "rank": 15,
+        "id": "1111876388",
+        "title": "T-Life"
       },
       {
-        "rank": 20,
+        "rank": 16,
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
+      },
+      {
+        "rank": 17,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 18,
         "id": "509199715",
         "title": "AMC Theatres: Movies & More"
       },
       {
-        "rank": 21,
+        "rank": 19,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
+        "rank": 20,
+        "id": "908126679",
+        "title": "ParentSquare"
+      },
+      {
+        "rank": 21,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
         "rank": 22,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "6445905219",
+        "title": "DramaBox - Stream Drama Shorts"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 25,
-        "id": "1089294040",
-        "title": "Capital One Shopping: Save Now"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       }
     ],
     "paid": [
@@ -161,53 +161,53 @@
       },
       {
         "rank": 7,
-        "id": "6764665158",
-        "title": "Reelo - Media Hub"
-      },
-      {
-        "rank": 8,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 9,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 10,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
-        "rank": 11,
+        "rank": 8,
+        "id": "6764665158",
+        "title": "Reelo - Media Hub"
+      },
+      {
+        "rank": 9,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 10,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 12,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "rank": 11,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 13,
+        "rank": 12,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 14,
+        "id": "6779987526",
+        "title": "Parchment: Agenda & Daily Note"
+      },
+      {
         "rank": 15,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 16,
-        "id": "6779987526",
-        "title": "Parchment: Agenda & Daily Note"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 17,
@@ -216,43 +216,43 @@
       },
       {
         "rank": 18,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 19,
-        "id": "301387274",
-        "title": "Pocket God"
-      },
-      {
-        "rank": 20,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 21,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
-        "rank": 22,
-        "id": "1569922923",
-        "title": "Air & Space Fitness Calculator"
+        "rank": 19,
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
-        "rank": 23,
+        "rank": 20,
         "id": "335709058",
         "title": "Stylebook"
       },
       {
+        "rank": 21,
+        "id": "1449584007",
+        "title": "Koala Sampler â¢ Beat Maker"
+      },
+      {
+        "rank": 22,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
+        "rank": 23,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
         "rank": 24,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 25,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       }
     ]
   }
