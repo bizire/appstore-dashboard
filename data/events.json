@@ -195462,5 +195462,269 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Capital One Mobile",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Claude by Anthropic",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Meta AI",
+    "to": "T-Life"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "T-Life",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Stylebook",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Streaks",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Moment Pro Camera II",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "MilGPS",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Wipr 2",
+    "to": "Roadside America"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-01T20:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Goblin Tools"
   }
 ]
