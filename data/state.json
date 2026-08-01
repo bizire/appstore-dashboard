@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T22:15:09Z",
+  "updated_at": "2026-08-01T22:30:09Z",
   "charts": {
     "free": [
       {
@@ -54,28 +54,28 @@
       },
       {
         "rank": 11,
-        "id": "6477489729",
-        "title": "Google Gemini"
-      },
-      {
-        "rank": 12,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 13,
         "id": "6445905219",
         "title": "DramaBox - Stream Drama Shorts"
       },
       {
+        "rank": 12,
+        "id": "6477489729",
+        "title": "Google Gemini"
+      },
+      {
+        "rank": 13,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
         "rank": 14,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 15,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 16,
@@ -89,8 +89,8 @@
       },
       {
         "rank": 18,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "1111876388",
+        "title": "T-Life"
       },
       {
         "rank": 19,
@@ -99,33 +99,33 @@
       },
       {
         "rank": 20,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 21,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
-      },
-      {
-        "rank": 22,
-        "id": "1111876388",
-        "title": "T-Life"
-      },
-      {
-        "rank": 23,
-        "id": "544007664",
-        "title": "YouTube"
-      },
-      {
-        "rank": 24,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
+        "rank": 21,
+        "id": "389801252",
+        "title": "Instagram"
+      },
+      {
+        "rank": 22,
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
+      },
+      {
+        "rank": 23,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 24,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
         "rank": 25,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
+        "id": "509199715",
+        "title": "AMC Theatres: Movies & More"
       }
     ],
     "paid": [
@@ -141,13 +141,13 @@
       },
       {
         "rank": 3,
-        "id": "6785557805",
-        "title": "Antizuck Smart Glasses Scanner"
+        "id": "373493387",
+        "title": "AnkiMobile Flashcards"
       },
       {
         "rank": 4,
-        "id": "373493387",
-        "title": "AnkiMobile Flashcards"
+        "id": "6785557805",
+        "title": "Antizuck Smart Glasses Scanner"
       },
       {
         "rank": 5,
@@ -161,13 +161,13 @@
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "6764665158",
+        "title": "Reelo - Media Hub"
       },
       {
         "rank": 8,
-        "id": "6764665158",
-        "title": "Reelo - Media Hub"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 9,
@@ -186,18 +186,18 @@
       },
       {
         "rank": 12,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
+        "rank": 13,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
-        "rank": 13,
+        "rank": 14,
         "id": "432850619",
         "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 14,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
       },
       {
         "rank": 15,
@@ -206,18 +206,18 @@
       },
       {
         "rank": 16,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
+      },
+      {
+        "rank": 17,
         "id": "335709058",
         "title": "Stylebook"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "id": "6779987526",
         "title": "Parchment: Agenda & Daily Note"
-      },
-      {
-        "rank": 18,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 19,
@@ -226,33 +226,33 @@
       },
       {
         "rank": 20,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 21,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 22,
-        "id": "1569922923",
-        "title": "Air & Space Fitness Calculator"
-      },
-      {
-        "rank": 23,
         "id": "347393479",
         "title": "Roadside America"
       },
       {
+        "rank": 22,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 23,
+        "id": "1569922923",
+        "title": "Air & Space Fitness Calculator"
+      },
+      {
         "rank": 24,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 25,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "405835358",
+        "title": "MilGPS"
       }
     ]
   }
