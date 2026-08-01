@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-01T05:30:09Z",
+  "updated_at": "2026-08-01T05:45:09Z",
   "charts": {
     "free": [
       {
         "rank": 1,
-        "id": "407558537",
-        "title": "Capital One Mobile"
-      },
-      {
-        "rank": 2,
         "id": "6741796873",
         "title": "TikTok Pro - Events"
       },
       {
+        "rank": 2,
+        "id": "407558537",
+        "title": "Capital One Mobile"
+      },
+      {
         "rank": 3,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 4,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 5,
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 10,
-        "id": "284815942",
-        "title": "Google"
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
       },
       {
         "rank": 11,
@@ -69,38 +69,38 @@
       },
       {
         "rank": 14,
-        "id": "908126679",
-        "title": "ParentSquare"
-      },
-      {
-        "rank": 15,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 16,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 15,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
+        "rank": 16,
+        "id": "908126679",
+        "title": "ParentSquare"
+      },
+      {
         "rank": 17,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 18,
-        "id": "1089294040",
-        "title": "Capital One Shopping: Save Now"
-      },
-      {
-        "rank": 19,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
       },
       {
+        "rank": 19,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
         "rank": 20,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "509199715",
+        "title": "AMC Theatres: Movies & More"
       },
       {
         "rank": 21,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 23,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 24,
-        "id": "6445905219",
-        "title": "DramaBox - Stream Drama Shorts"
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
       },
       {
         "rank": 25,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "1089294040",
+        "title": "Capital One Shopping: Save Now"
       }
     ],
     "paid": [
@@ -176,8 +176,8 @@
       },
       {
         "rank": 10,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 11,
@@ -186,8 +186,8 @@
       },
       {
         "rank": 12,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 13,
@@ -196,18 +196,18 @@
       },
       {
         "rank": 14,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 15,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "963034692",
         "title": "Streaks"
+      },
+      {
+        "rank": 16,
+        "id": "6779987526",
+        "title": "Parchment: Agenda & Daily Note"
       },
       {
         "rank": 17,
@@ -216,43 +216,43 @@
       },
       {
         "rank": 18,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
+        "rank": 19,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
-        "rank": 19,
-        "id": "1569922923",
-        "title": "Air & Space Fitness Calculator"
-      },
-      {
         "rank": 20,
-        "id": "335709058",
-        "title": "Stylebook"
-      },
-      {
-        "rank": 21,
-        "id": "6779987526",
-        "title": "Parchment: Agenda & Daily Note"
-      },
-      {
-        "rank": 22,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 23,
+        "rank": 21,
         "id": "6449003064",
         "title": "Goblin Tools"
       },
       {
+        "rank": 22,
+        "id": "1569922923",
+        "title": "Air & Space Fitness Calculator"
+      },
+      {
+        "rank": 23,
+        "id": "335709058",
+        "title": "Stylebook"
+      },
+      {
         "rank": 24,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 25,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }
