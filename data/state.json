@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T13:45:10Z",
+  "updated_at": "2026-08-02T14:00:15Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "1574452924",
-        "title": "Watch Duty: Wildfire & Floods"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 6,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1574452924",
+        "title": "Watch Duty: Wildfire & Floods"
       },
       {
         "rank": 7,
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "926058555",
-        "title": "Atom - Movie Tickets & Times"
+        "id": "6445905219",
+        "title": "DramaBox - Stream Drama Shorts"
       },
       {
         "rank": 10,
-        "id": "6445905219",
-        "title": "DramaBox - Stream Drama Shorts"
+        "id": "926058555",
+        "title": "Atom - Movie Tickets & Times"
       },
       {
         "rank": 11,
@@ -69,13 +69,13 @@
       },
       {
         "rank": 14,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 15,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 16,
@@ -84,8 +84,8 @@
       },
       {
         "rank": 17,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 18,
@@ -99,18 +99,18 @@
       },
       {
         "rank": 20,
+        "id": "6670430706",
+        "title": "DramaWave - Dramas & Reels"
+      },
+      {
+        "rank": 21,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 21,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
         "rank": 22,
-        "id": "6670430706",
-        "title": "DramaWave - Dramas & Reels"
+        "id": "1636235979",
+        "title": "ReelShort - Stream Drama & TV"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "509199715",
-        "title": "AMC Theatres: Movies & More"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 25,
-        "id": "1636235979",
-        "title": "ReelShort - Stream Drama & TV"
+        "id": "509199715",
+        "title": "AMC Theatres: Movies & More"
       }
     ],
     "paid": [
@@ -211,18 +211,18 @@
       },
       {
         "rank": 17,
-        "id": "335709058",
-        "title": "Stylebook"
-      },
-      {
-        "rank": 18,
         "id": "6779987526",
         "title": "Parchment: Agenda & Daily Note"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 19,
+        "id": "335709058",
+        "title": "Stylebook"
       },
       {
         "rank": 20,
@@ -241,8 +241,8 @@
       },
       {
         "rank": 23,
-        "id": "347393479",
-        "title": "Roadside America"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       }
     ]
   }

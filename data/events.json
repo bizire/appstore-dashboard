@@ -196894,5 +196894,141 @@
     "position": 25,
     "from": "Cloud Baby Monitor",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Watch Duty: Wildfire & Floods",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Watch Duty: Wildfire & Floods"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Atom - Movie Tickets & Times",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Atom - Movie Tickets & Times"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "WhatsApp Messenger",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "AMC Theatres: Movies & More",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "AMC Theatres: Movies & More"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Stylebook",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Roadside America",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-02T14:00:15Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Wipr 2",
+    "to": "Goblin Tools"
   }
 ]
