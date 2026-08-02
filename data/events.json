@@ -197030,5 +197030,189 @@
     "position": 25,
     "from": "Wipr 2",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Uber - Request a ride",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Google Maps",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Claude by Anthropic",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "AMC Theatres: Movies & More",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Shot Tracer",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "imo video calls and chat HD",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-02T17:00:13Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Goblin Tools",
+    "to": "Shot Tracer"
   }
 ]
