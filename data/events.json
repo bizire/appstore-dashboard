@@ -197870,5 +197870,245 @@
     "position": 25,
     "from": "Wipr 2",
     "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Watch Duty: Wildfire & Floods",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Watch Duty: Wildfire & Floods"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "WhatsApp Messenger",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Claude by Anthropic",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Gmail - Email by Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Instagram",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Life360: Family Safety & GPS",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "RadarScope",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Reelo - Media Hub",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Moment Pro Camera II",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PeakFinder",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "SkyViewÂ®",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Shot Tracer",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "imo video calls and chat HD",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Spirit Talker Â®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-03T07:30:11Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Goblin Tools",
+    "to": "Pocket God"
   }
 ]
