@@ -198318,5 +198318,149 @@
     "position": 23,
     "from": "Google Maps",
     "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Watch Duty: Wildfire & Floods",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "Watch Duty: Wildfire & Floods"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "SHEIN - Shopping Online",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "SHEIN - Shopping Online"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Life360: Family Safety & GPS",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Streaks",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Moment Pro Camera II",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Shot Tracer",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Stylebook",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Spirit Talker Â®",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Goblin Tools",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "MilGPS",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-03T10:30:10Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "imo video calls and chat HD"
   }
 ]
