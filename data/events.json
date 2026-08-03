@@ -197534,5 +197534,141 @@
     "position": 25,
     "from": "Air & Space Fitness Calculator",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Watch Duty: Wildfire & Floods",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Watch Duty: Wildfire & Floods"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Atom - Movie Tickets & Times",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Atom - Movie Tickets & Times"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Claude by Anthropic",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "WhatsApp Messenger",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Meta AI",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-08-03T02:30:09Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "DramaWave - Dramas & Reels"
   }
 ]
