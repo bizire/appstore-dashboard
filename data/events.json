@@ -197390,5 +197390,149 @@
     "position": 25,
     "from": "Shot Tracer",
     "to": "Air & Space Fitness Calculator"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Reelo - Media Hub",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "RadarScope",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Stylebook",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Spirit Talker Â®",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "imo video calls and chat HD",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Shot Tracer",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Wipr 2",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Koala Sampler â¢ Beat Maker",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-03T02:00:12Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Air & Space Fitness Calculator",
+    "to": "Wipr 2"
   }
 ]
