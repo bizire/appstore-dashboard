@@ -199454,5 +199454,285 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "ParentSquare",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Dunkin'",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Microsoft Authenticator",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Gemini",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Claude by Anthropic",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Dunkin'"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Instagram",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Streaks",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Shot Tracer",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Reelo - Media Hub",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "MilGPS",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "FL Studio Mobile",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pocket God",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Stylebook",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-08-04T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "LiveATC Air Radio"
   }
 ]
