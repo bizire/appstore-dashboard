@@ -200486,5 +200486,109 @@
     "position": 25,
     "from": "PhotoPills",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "ParentSquare",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Claude by Anthropic",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Microsoft Authenticator",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Meta AI",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "SHEIN - Shopping Online",
+    "to": "Telegram Messenger"
+  },
+  {
+    "ts": "2026-08-04T17:00:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "SHEIN - Shopping Online"
   }
 ]
