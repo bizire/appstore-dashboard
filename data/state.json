@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T10:15:03Z",
+  "updated_at": "2026-08-04T10:30:03Z",
   "charts": {
     "free": [
       {
@@ -156,23 +156,23 @@
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 7,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
+        "rank": 7,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
         "rank": 8,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "6764665158",
+        "title": "Reelo - Media Hub"
       },
       {
         "rank": 9,
-        "id": "6764665158",
-        "title": "Reelo - Media Hub"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       },
       {
         "rank": 10,
@@ -206,53 +206,53 @@
       },
       {
         "rank": 16,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 17,
-        "id": "6449003064",
-        "title": "Goblin Tools"
-      },
-      {
-        "rank": 18,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 19,
-        "id": "6779987526",
-        "title": "Parchment: Agenda & Daily Note"
+        "rank": 17,
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
-        "rank": 20,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 21,
+        "rank": 18,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
+        "rank": 19,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
+        "rank": 20,
+        "id": "6779987526",
+        "title": "Parchment: Agenda & Daily Note"
+      },
+      {
+        "rank": 21,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
         "rank": 22,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
+        "rank": 23,
         "id": "6785557805",
         "title": "Antizuck Smart Glasses Scanner"
       },
       {
-        "rank": 23,
-        "id": "335709058",
-        "title": "Stylebook"
-      },
-      {
         "rank": 24,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 25,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "596026805",
+        "title": "PhotoPills"
       }
     ]
   }
