@@ -200902,5 +200902,93 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-08-04T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-04T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "ParentSquare",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-04T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-04T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "WhatsApp Messenger",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-04T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Authenticator",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-04T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-04T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-04T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-04T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Instagram",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-04T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Facebook",
+    "to": "Microsoft Outlook"
+  },
+  {
+    "ts": "2026-08-04T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Teams",
+    "to": "Instagram"
   }
 ]
