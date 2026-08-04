@@ -199126,5 +199126,125 @@
     "position": 25,
     "from": "imo video calls and chat HD",
     "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "ParentSquare",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Shot Tracer",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Reelo - Media Hub",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "MilGPS",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "RadarScope",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Pocket God",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "FL Studio Mobile",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-04T00:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Spirit Talker Â®",
+    "to": "LiveATC Air Radio"
   }
 ]
