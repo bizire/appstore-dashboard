@@ -202814,5 +202814,277 @@
     "position": 25,
     "from": "Pocket God",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Gmail - Email by Google",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Claude by Anthropic",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Authenticator",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Netflix Game Controller",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Gemini",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Instagram",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Microsoft Teams",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Shot Tracer",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Reelo - Media Hub",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Moment Pro Camera II",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Threema. The Secure Messenger",
+    "to": "Pit Stop: Road Trip Exit Guide"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "FL Studio Mobile",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Pit Stop: Road Trip Exit Guide",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Wipr 2",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PhotoPills",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-05T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "PhotoPills"
   }
 ]
