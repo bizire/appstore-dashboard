@@ -201110,5 +201110,37 @@
     "position": 25,
     "from": "Antizuck Smart Glasses Scanner",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-05T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Microsoft Authenticator",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-05T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-05T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Teams",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-05T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Teams"
   }
 ]

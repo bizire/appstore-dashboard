@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T01:30:03Z",
+  "updated_at": "2026-08-05T01:45:03Z",
   "charts": {
     "free": [
       {
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 9,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 10,
@@ -104,13 +104,13 @@
       },
       {
         "rank": 21,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 22,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 23,
