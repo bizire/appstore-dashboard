@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:30:03Z",
+  "updated_at": "2026-08-06T10:45:03Z",
   "charts": {
     "free": [
       {
@@ -29,23 +29,23 @@
       },
       {
         "rank": 6,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
-      },
-      {
-        "rank": 7,
         "id": "333903271",
         "title": "X"
       },
       {
+        "rank": 7,
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
+      },
+      {
         "rank": 8,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 9,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 10,
@@ -69,18 +69,18 @@
       },
       {
         "rank": 14,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 15,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "284815942",
         "title": "Google"
+      },
+      {
+        "rank": 16,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 17,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
-        "id": "1223471316",
-        "title": "Shop: All your favorite brands"
-      },
-      {
-        "rank": 23,
-        "id": "6445905219",
-        "title": "DramaBox - Stream Drama Shorts"
-      },
-      {
-        "rank": 24,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 23,
+        "id": "1223471316",
+        "title": "Shop: All your favorite brands"
+      },
+      {
+        "rank": 24,
+        "id": "6445905219",
+        "title": "DramaBox - Stream Drama Shorts"
+      },
+      {
         "rank": 25,
-        "id": "1558240027",
-        "title": "Meta AI"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
@@ -156,8 +156,8 @@
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
@@ -166,8 +166,8 @@
       },
       {
         "rank": 8,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 9,
@@ -181,23 +181,23 @@
       },
       {
         "rank": 11,
-        "id": "6795296025",
-        "title": "Pit Stop: Road Trip Exit Guide"
-      },
-      {
-        "rank": 12,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
+        "rank": 12,
+        "id": "6795296025",
+        "title": "Pit Stop: Road Trip Exit Guide"
+      },
+      {
         "rank": 13,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "6764665158",
+        "title": "Reelo - Media Hub"
       },
       {
         "rank": 14,
-        "id": "6764665158",
-        "title": "Reelo - Media Hub"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       },
       {
         "rank": 15,
@@ -206,8 +206,8 @@
       },
       {
         "rank": 16,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "6779987526",
+        "title": "Parchment: Agenda & Daily Note"
       },
       {
         "rank": 17,
@@ -216,8 +216,8 @@
       },
       {
         "rank": 18,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 19,
@@ -226,8 +226,8 @@
       },
       {
         "rank": 20,
-        "id": "6779987526",
-        "title": "Parchment: Agenda & Daily Note"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 21,
@@ -236,13 +236,13 @@
       },
       {
         "rank": 22,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 23,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       },
       {
         "rank": 24,

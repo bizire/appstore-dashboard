@@ -203814,5 +203814,181 @@
     "position": 25,
     "from": "AutoSleep: Watch Sleep Tracker",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "X",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Netflix Game Controller",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Shop: All your favorite brands",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Google Maps",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Meta AI",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Pit Stop: Road Trip Exit Guide",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "MilGPS",
+    "to": "Pit Stop: Road Trip Exit Guide"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Moment Pro Camera II",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Reelo - Media Hub",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-06T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Wipr 2",
+    "to": "Solocator - GPS Field Camera"
   }
 ]
