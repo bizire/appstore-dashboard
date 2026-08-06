@@ -203678,5 +203678,141 @@
     "position": 25,
     "from": "ClassDojo",
     "to": "Meta AI"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Shot Tracer",
+    "to": "Production 02074"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "MilGPS",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "SkyViewÂ®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Pit Stop: Road Trip Exit Guide"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Reelo - Media Hub",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Pit Stop: Road Trip Exit Guide",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Production 02074",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Moment Pro Camera II",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Solocator - GPS Field Camera",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "PeakFinder",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "RadarScope",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Goblin Tools",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-06T07:30:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Goblin Tools"
   }
 ]
