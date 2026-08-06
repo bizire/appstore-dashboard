@@ -203990,5 +203990,109 @@
     "position": 23,
     "from": "Wipr 2",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ParentSquare",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Capital One Mobile",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Netflix Game Controller",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Gemini",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Shop: All your favorite brands",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-08-06T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "DramaBox - Stream Drama Shorts"
   }
 ]
