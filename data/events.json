@@ -204758,5 +204758,141 @@
     "position": 25,
     "from": "Facebook",
     "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Production 02074",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "MilGPS",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "Production 02074"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Shot Tracer",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Solocator - GPS Field Camera",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Pit Stop: Road Trip Exit Guide",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Pit Stop: Road Trip Exit Guide"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Reelo - Media Hub",
+    "to": "StopTheScript"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Moment Pro Camera II",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Wipr 2",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PeakFinder",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-06T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "Threema. The Secure Messenger"
   }
 ]
