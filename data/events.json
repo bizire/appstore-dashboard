@@ -204342,5 +204342,285 @@
     "position": 25,
     "from": "Spirit Talker Â®",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Netflix Game Controller",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "WhatsApp Messenger",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Meta AI",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "VPN - Super Unlimited Proxy",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Shot Tracer",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Pit Stop: Road Trip Exit Guide",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "MilGPS",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Reelo - Media Hub",
+    "to": "Pit Stop: Road Trip Exit Guide"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Parchment: Agenda & Daily Note"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Parchment: Agenda & Daily Note",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wipr 2",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PeakFinder",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "imo video calls and chat HD",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-06T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
   }
 ]
