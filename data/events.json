@@ -205974,5 +205974,149 @@
     "position": 25,
     "from": "Pit Stop: Road Trip Exit Guide",
     "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Gemini",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Authenticator",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Shop: All your favorite brands",
+    "to": "VPN - Super Unlimited Proxy"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "VPN - Super Unlimited Proxy",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Shot Tracer",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Reelo - Media Hub",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Kan Do: Project Management",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Kan Do: Project Management"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Moment Pro Camera II",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "PeakFinder",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-07T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
   }
 ]
