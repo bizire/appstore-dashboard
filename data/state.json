@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T01:15:04Z",
+  "updated_at": "2026-08-07T01:30:03Z",
   "charts": {
     "free": [
       {
@@ -24,43 +24,43 @@
       },
       {
         "rank": 5,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 6,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
       },
       {
-        "rank": 7,
-        "id": "333903271",
-        "title": "X"
+        "rank": 6,
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "284815942",
         "title": "Google"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
+        "rank": 10,
+        "id": "333903271",
+        "title": "X"
+      },
+      {
         "rank": 11,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 12,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 13,
@@ -69,18 +69,18 @@
       },
       {
         "rank": 14,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
-      },
-      {
-        "rank": 15,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
+      },
+      {
+        "rank": 16,
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 17,
@@ -89,43 +89,43 @@
       },
       {
         "rank": 18,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
-      },
-      {
-        "rank": 19,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
-      },
-      {
-        "rank": 20,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 21,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 22,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 23,
         "id": "552602056",
         "title": "ClassDojo"
       },
       {
+        "rank": 19,
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
+      },
+      {
+        "rank": 20,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
+        "rank": 21,
+        "id": "585027354",
+        "title": "Google Maps"
+      },
+      {
+        "rank": 22,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
+      },
+      {
+        "rank": 23,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 24,
-        "id": "389801252",
-        "title": "Instagram"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 25,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "389801252",
+        "title": "Instagram"
       }
     ],
     "paid": [
