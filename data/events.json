@@ -206238,5 +206238,133 @@
     "position": 25,
     "from": "RadarScope",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Netflix Game Controller",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "X",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Claude by Anthropic",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "WhatsApp Messenger",
+    "to": "ClassDojo"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "ClassDojo",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Meta AI",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "VPN - Super Unlimited Proxy",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "Meta AI"
+  },
+  {
+    "ts": "2026-08-07T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Shop: All your favorite brands"
   }
 ]
