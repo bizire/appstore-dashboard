@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T11:00:03Z",
+  "updated_at": "2026-08-08T11:15:03Z",
   "charts": {
     "free": [
       {
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 8,
@@ -176,33 +176,33 @@
       },
       {
         "rank": 10,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 11,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 12,
         "id": "6764665158",
         "title": "Reelo - Media Hub"
       },
       {
-        "rank": 13,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "rank": 11,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 14,
+        "rank": 12,
+        "id": "288419283",
+        "title": "RadarScope"
+      },
+      {
+        "rank": 13,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 14,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
         "rank": 15,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 16,
@@ -211,18 +211,18 @@
       },
       {
         "rank": 17,
-        "id": "1588394487",
-        "title": "StopTheScript"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       },
       {
         "rank": 18,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 19,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "1588394487",
+        "title": "StopTheScript"
       },
       {
         "rank": 20,
@@ -241,13 +241,13 @@
       },
       {
         "rank": 23,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 24,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 25,
