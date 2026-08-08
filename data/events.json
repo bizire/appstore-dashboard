@@ -207190,5 +207190,317 @@
     "position": 25,
     "from": "DoorDash: Food, Grocery, More",
     "to": "Ticketmasterï¼Buy, Sell Tickets"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ParentSquare",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Capital One Mobile",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Gmail - Email by Google",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Gemini",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Claude by Anthropic",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "ClassDojo",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "ClassDojo"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "X",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Ticketmasterï¼Buy, Sell Tickets"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Ticketmasterï¼Buy, Sell Tickets",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "2nd",
+    "position": 2,
+    "from": "HotSchedules",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 3,
+    "from": "Wildwood: Follow the Crows",
+    "to": "HotSchedules"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Shot Tracer",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "SkyViewÂ®",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "StopTheScript",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Kan Do: Project Management",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Reelo - Media Hub",
+    "to": "Kan Do: Project Management"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "MilGPS",
+    "to": "StopTheScript"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PeakFinder",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "LiveATC Air Radio",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Streaks",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PhotoPills",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-08T08:15:04Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Moment Pro Camera II",
+    "to": "Solocator - GPS Field Camera"
   }
 ]
