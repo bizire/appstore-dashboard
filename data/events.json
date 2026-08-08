@@ -208230,5 +208230,285 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "ParentSquare",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Gemini",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Claude by Anthropic",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "X",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Uber - Request a ride",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Walmart: Shopping & Savings",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Meta AI",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Shot Tracer",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Reelo - Media Hub",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "RadarScope",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Moment Pro Camera II",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Kan Do: Project Management",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "LiveATC Air Radio",
+    "to": "Kan Do: Project Management"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "StopTheScript",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Wipr 2",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-08T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Solocator - GPS Field Camera",
+    "to": "PhotoPills"
   }
 ]
