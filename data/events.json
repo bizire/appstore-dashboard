@@ -209030,5 +209030,317 @@
     "position": 25,
     "from": "Wipr 2",
     "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Threads",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Gemini",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Maps",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Claude by Anthropic",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Uber - Request a ride",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "ParentSquare",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Life360: Family Safety & GPS",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Instagram",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Shot Tracer",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "RadarScope",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Reelo - Media Hub",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Threema. The Secure Messenger",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "MilGPS",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Wipr 2",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Streaks",
+    "to": "Kan Do: Project Management"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Spirit Talker Â®",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Kan Do: Project Management",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-09T07:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "PhotoPills",
+    "to": "MilGPS"
   }
 ]
