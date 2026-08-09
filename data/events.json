@@ -208510,5 +208510,237 @@
     "position": 25,
     "from": "Solocator - GPS Field Camera",
     "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "DealSeek: Coupons & Discounts",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "ParentSquare",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Maps",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "DealSeek: Coupons & Discounts"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Gmail - Email by Google",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Instagram",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "YouTube",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Facebook",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "SkyViewÂ®",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "RadarScope",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "MilGPS",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Kan Do: Project Management",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Streaks",
+    "to": "Kan Do: Project Management"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "imo video calls and chat HD",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Wipr 2",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-09T01:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "PhotoPills",
+    "to": "Wipr 2"
   }
 ]
