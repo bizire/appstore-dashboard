@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T22:45:03Z",
+  "updated_at": "2026-08-09T23:00:03Z",
   "charts": {
     "free": [
       {
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 7,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 8,
@@ -181,8 +181,8 @@
       },
       {
         "rank": 11,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 12,
@@ -191,8 +191,8 @@
       },
       {
         "rank": 13,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 14,
@@ -206,53 +206,53 @@
       },
       {
         "rank": 16,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 17,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
-        "rank": 18,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 19,
+        "rank": 17,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
-        "rank": 20,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "rank": 18,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 21,
+        "rank": 19,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
-        "rank": 22,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "rank": 20,
+        "id": "6795152195",
+        "title": "Kan Do: Project Management"
       },
       {
-        "rank": 23,
+        "rank": 21,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 24,
+        "rank": 22,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
+        "rank": 23,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
+        "rank": 24,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
         "rank": 25,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "596026805",
+        "title": "PhotoPills"
       }
     ]
   }
