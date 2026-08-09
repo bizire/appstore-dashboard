@@ -209750,5 +209750,213 @@
     "position": 25,
     "from": "PhotoPills",
     "to": "NightCap Camera"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Uber - Request a ride",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "WhatsApp Messenger",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "X",
+    "to": "DramaBox - Stream Drama Shorts"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DramaBox - Stream Drama Shorts",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Walmart: Shopping & Savings",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Life360: Family Safety & GPS",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Streaks",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pocket God",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Wipr 2",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PhotoPills",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-09T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "NightCap Camera",
+    "to": "MilGPS"
   }
 ]
