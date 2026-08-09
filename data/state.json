@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T10:15:02Z",
+  "updated_at": "2026-08-09T10:30:03Z",
   "charts": {
     "free": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "rank": 5,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 6,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 7,
@@ -54,18 +54,18 @@
       },
       {
         "rank": 11,
+        "id": "6477489729",
+        "title": "Google Gemini"
+      },
+      {
+        "rank": 12,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "id": "1488269261",
         "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 13,
-        "id": "6477489729",
-        "title": "Google Gemini"
       },
       {
         "rank": 14,
@@ -84,28 +84,28 @@
       },
       {
         "rank": 17,
+        "id": "6670430706",
+        "title": "DramaWave - Dramas & Reels"
+      },
+      {
+        "rank": 18,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 18,
+        "rank": 19,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
-        "rank": 19,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
         "rank": 20,
-        "id": "6745274862",
-        "title": "DealSeek: Coupons & Discounts"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 21,
-        "id": "6670430706",
-        "title": "DramaWave - Dramas & Reels"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 22,
@@ -114,8 +114,8 @@
       },
       {
         "rank": 23,
-        "id": "333903271",
-        "title": "X"
+        "id": "6745274862",
+        "title": "DealSeek: Coupons & Discounts"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "908126679",
-        "title": "ParentSquare"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
@@ -176,23 +176,23 @@
       },
       {
         "rank": 10,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 11,
         "id": "6764665158",
         "title": "Reelo - Media Hub"
       },
       {
-        "rank": 11,
+        "rank": 12,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
-        "rank": 12,
+        "rank": 13,
         "id": "1140451547",
         "title": "Shot Tracer"
-      },
-      {
-        "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
       },
       {
         "rank": 14,
@@ -201,23 +201,23 @@
       },
       {
         "rank": 15,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 16,
         "id": "1536762482",
         "title": "Spirit Talker Â®"
       },
       {
+        "rank": 16,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
         "rank": 17,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 18,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 19,
@@ -226,33 +226,33 @@
       },
       {
         "rank": 20,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 21,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
-      },
-      {
-        "rank": 22,
-        "id": "6795152195",
-        "title": "Kan Do: Project Management"
-      },
-      {
-        "rank": 23,
-        "id": "596026805",
-        "title": "PhotoPills"
-      },
-      {
-        "rank": 24,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
+        "rank": 21,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
+        "rank": 22,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
+        "rank": 23,
+        "id": "754105884",
+        "title": "NightCap Camera"
+      },
+      {
+        "rank": 24,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
         "rank": 25,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "596026805",
+        "title": "PhotoPills"
       }
     ]
   }
