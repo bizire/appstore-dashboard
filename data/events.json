@@ -213502,5 +213502,93 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-11T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-11T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "My Earthquake Alerts Pro",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-11T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "RadarScope",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-08-11T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Reelo - Media Hub",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-11T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-11T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "FL Studio Mobile",
+    "to": "Reelo - Media Hub"
+  },
+  {
+    "ts": "2026-08-11T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-11T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-11T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PhotoPills",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-11T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-11T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Threema. The Secure Messenger"
   }
 ]
