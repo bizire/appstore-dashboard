@@ -212782,5 +212782,133 @@
     "position": 25,
     "from": "Wipr 2",
     "to": "Phonograms by SEI"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Procreate Pocket",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Earthquake Network",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "RadarScope",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "SkyViewÂ®",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "My Earthquake Alerts Pro",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "MilGPS",
+    "to": "NightCap Camera"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "QuickBend: Conduit Bending",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Shot Tracer",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Threema. The Secure Messenger",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Wipr 2",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-11T08:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Phonograms by SEI",
+    "to": "LiveATC Air Radio"
   }
 ]
