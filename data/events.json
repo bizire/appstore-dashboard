@@ -213814,5 +213814,101 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-11T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-11T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "RadarScope",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-11T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "SkyViewÂ®",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-08-11T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "My Earthquake Alerts Pro",
+    "to": "NightCap Camera"
+  },
+  {
+    "ts": "2026-08-11T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "NightCap Camera",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-11T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PeakFinder",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-11T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-11T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Streaks",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-11T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-11T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "MilGPS",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-11T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Solocator - GPS Field Camera",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-11T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Foundations Memory Work C3"
   }
 ]
