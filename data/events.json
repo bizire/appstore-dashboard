@@ -212910,5 +212910,77 @@
     "position": 25,
     "from": "Phonograms by SEI",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-11T08:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-11T08:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Gemini",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-11T08:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Authenticator",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-11T08:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-11T08:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-11T08:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-11T08:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Walmart: Shopping & Savings",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-11T08:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Life360: Family Safety & GPS",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-11T08:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "X",
+    "to": "Life360: Family Safety & GPS"
   }
 ]

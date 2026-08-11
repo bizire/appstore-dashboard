@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T08:30:03Z",
+  "updated_at": "2026-08-11T08:45:02Z",
   "charts": {
     "free": [
       {
@@ -64,13 +64,13 @@
       },
       {
         "rank": 13,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 14,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 15,
@@ -84,33 +84,33 @@
       },
       {
         "rank": 17,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 18,
-        "id": "6670430706",
-        "title": "DramaWave - Dramas & Reels"
-      },
-      {
-        "rank": 19,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 20,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
+        "rank": 18,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 19,
+        "id": "6670430706",
+        "title": "DramaWave - Dramas & Reels"
+      },
+      {
+        "rank": 20,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
         "rank": 21,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 22,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 23,
@@ -119,8 +119,8 @@
       },
       {
         "rank": 24,
-        "id": "333903271",
-        "title": "X"
+        "id": "384830320",
+        "title": "Life360: Family Safety & GPS"
       },
       {
         "rank": 25,
