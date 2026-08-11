@@ -213742,5 +213742,77 @@
     "position": 25,
     "from": "Walmart: Shopping & Savings",
     "to": "Facebook"
+  },
+  {
+    "ts": "2026-08-11T20:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Reelo - Media Hub",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-11T20:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "FL Studio Mobile",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-11T20:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Streaks",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-11T20:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Moment Pro Camera II",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-11T20:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-11T20:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "MilGPS",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-11T20:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Solocator - GPS Field Camera",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-11T20:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PhotoPills",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-11T20:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
   }
 ]
