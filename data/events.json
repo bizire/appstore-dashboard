@@ -215606,5 +215606,229 @@
     "position": 25,
     "from": "Solocator - GPS Field Camera",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Microsoft Authenticator",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Capital One Mobile",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Microsoft Teams",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "Microsoft Outlook"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Outlook",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "Wildwood: Follow the Crows",
+    "to": "Solar Snap"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Procreate Pocket",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "NightCap Camera",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "NightCap Camera"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Solar Snap",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Earthquake Network",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "RadarScope",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PeakFinder",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Monash FODMAP Diet",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "My Earthquake Alerts Pro",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Streaks",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "MilGPS",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Solocator - GPS Field Camera",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Moment Pro Camera II",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-12T23:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "imo video calls and chat HD"
   }
 ]
