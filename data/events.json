@@ -215214,5 +215214,125 @@
     "position": 25,
     "from": "Pocket God",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "TikTok Pro - Events",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "7 Brew Coffee",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "ClassDojo"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "ClassDojo",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Capital One Mobile",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Netflix Game Controller",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "X",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Authenticator",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Taco Bell Fast Food & Delivery",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-12T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Google Maps",
+    "to": "Microsoft Teams"
   }
 ]
