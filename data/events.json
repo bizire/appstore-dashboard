@@ -216166,5 +216166,117 @@
     "position": 25,
     "from": "X",
     "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "Wildwood: Follow the Crows",
+    "to": "NightCap Camera"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Solar Snap",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "NightCap Camera",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "SkyViewÂ®",
+    "to": "Solar Snap"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Earthquake Network",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PhotoPills",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Streaks",
+    "to": "U.S. Lighthouse Guide"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "My Earthquake Alerts Pro",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Moment Pro Camera II",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "U.S. Lighthouse Guide",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Plezy: Media Server Client"
+  },
+  {
+    "ts": "2026-08-13T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Threema. The Secure Messenger"
   }
 ]
