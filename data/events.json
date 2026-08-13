@@ -217390,5 +217390,229 @@
     "position": 25,
     "from": "Whatnot: Shop, Sell, Connect",
     "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Capital One Mobile",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Authenticator",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Gemini",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Microsoft Teams",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Facebook",
+    "to": "Microsoft Outlook"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "YouTube",
+    "to": "Circle K"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "2nd",
+    "position": 2,
+    "from": "NightCap Camera",
+    "to": "HotSchedules"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 3,
+    "from": "HotSchedules",
+    "to": "NightCap Camera"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "SkyViewÂ®",
+    "to": "AnkiMobile Flashcards"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "AnkiMobile Flashcards",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Earthquake Network",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Solar Snap",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "MilGPS",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Plezy: Media Server Client",
+    "to": "Solar Snap"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Monash FODMAP Diet",
+    "to": "Plezy: Media Server Client"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "U.S. Lighthouse Guide",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "PeakFinder",
+    "to": "U.S. Lighthouse Guide"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Streaks",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-13T22:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "FL Studio Mobile"
   }
 ]
