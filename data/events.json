@@ -216278,5 +216278,261 @@
     "position": 25,
     "from": "AutoSleep: Watch Sleep Tracker",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "ClassDojo",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Capital One Mobile",
+    "to": "ClassDojo"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Netflix Game Controller",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Gmail - Email by Google",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Microsoft Authenticator",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Claude by Anthropic",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "PineDrama - Short Dramas",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Walmart: Shopping & Savings",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Teams",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Google Maps",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 3,
+    "from": "AnkiMobile Flashcards",
+    "to": "NightCap Camera"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "NightCap Camera",
+    "to": "AnkiMobile Flashcards"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Wildwood: Follow the Crows",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Procreate Pocket",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "RadarScope",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PhotoPills",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "PeakFinder",
+    "to": "Plezy: Media Server Client"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "QuickBend: Conduit Bending",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Moment Pro Camera II",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Streaks",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "My Earthquake Alerts Pro",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Plezy: Media Server Client",
+    "to": "SkySafari 8 Pro"
+  },
+  {
+    "ts": "2026-08-13T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "AutoSleep: Watch Sleep Tracker"
   }
 ]
