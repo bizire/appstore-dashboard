@@ -215830,5 +215830,205 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Teams",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Microsoft Outlook"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Outlook",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "X",
+    "to": "Shop: All your favorite brands"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: All your favorite brands",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "PineDrama - Short Dramas",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "Solar Snap",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Wildwood: Follow the Crows",
+    "to": "Solar Snap"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Procreate Pocket",
+    "to": "NightCap Camera"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "NightCap Camera",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "SkyViewÂ®",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "My Earthquake Alerts Pro",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Streaks",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "FL Studio Mobile",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Moment Pro Camera II",
+    "to": "U.S. Lighthouse Guide"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-13T01:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "AutoSleep: Watch Sleep Tracker"
   }
 ]
