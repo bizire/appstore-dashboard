@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T19:00:03Z",
+  "updated_at": "2026-08-13T19:15:04Z",
   "charts": {
     "free": [
       {
@@ -156,18 +156,18 @@
       },
       {
         "rank": 6,
-        "id": "916366645",
-        "title": "Procreate Pocket"
-      },
-      {
-        "rank": 7,
         "id": "6786316806",
         "title": "Wildwood: Follow the Crows"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
+      },
+      {
+        "rank": 8,
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 9,
@@ -186,38 +186,38 @@
       },
       {
         "rank": 12,
-        "id": "1599230728",
-        "title": "Solar Snap"
-      },
-      {
-        "rank": 13,
         "id": "1449893235",
         "title": "Earthquake Network"
       },
       {
-        "rank": 14,
+        "rank": 13,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
+        "rank": 14,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
         "rank": 15,
+        "id": "1599230728",
+        "title": "Solar Snap"
+      },
+      {
+        "rank": 16,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
-        "rank": 16,
+        "rank": 17,
         "id": "6754315964",
         "title": "Plezy: Media Server Client"
       },
       {
-        "rank": 17,
+        "rank": 18,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 18,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 19,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "6752672420",
-        "title": "SkySafari 8 Pro"
-      },
-      {
-        "rank": 22,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 25,
+        "rank": 24,
         "id": "432850619",
         "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 25,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }
