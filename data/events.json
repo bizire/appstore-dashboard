@@ -216534,5 +216534,181 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Capital One Mobile",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "ClassDojo",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "ClassDojo"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Authenticator",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "WhatsApp Messenger",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "X",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Life360: Family Safety & GPS",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "AnkiMobile Flashcards",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "AnkiMobile Flashcards"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Solar Snap",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PhotoPills",
+    "to": "Solar Snap"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Moment Pro Camera II",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Streaks",
+    "to": "SkySafari 8 Pro"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "FL Studio Mobile",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-13T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "SkySafari 8 Pro",
+    "to": "FL Studio Mobile"
   }
 ]
