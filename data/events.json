@@ -218750,5 +218750,221 @@
     "position": 25,
     "from": "FORScan Lite - for Ford, Mazda",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Claude by Anthropic",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Netflix Game Controller",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "X",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Authenticator",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Maps",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Shop: Track, Pay, Discover",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Wildwood: Follow the Crows",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Paprika Recipe Manager 3",
+    "to": "å¡å°"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PhotoPills",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Earthquake Network",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Moment Pro Camera II",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "å¡å°",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "MilGPS",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Plezy: Media Server Client",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "My Earthquake Alerts Pro",
+    "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-08-14T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "Plezy: Media Server Client"
   }
 ]
