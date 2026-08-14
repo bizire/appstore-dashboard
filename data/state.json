@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T07:00:03Z",
+  "updated_at": "2026-08-14T07:15:03Z",
   "charts": {
     "free": [
       {
@@ -156,13 +156,13 @@
       },
       {
         "rank": 6,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 7,
-        "id": "916366645",
-        "title": "Procreate Pocket"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 8,
@@ -181,8 +181,8 @@
       },
       {
         "rank": 11,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 12,
@@ -191,18 +191,18 @@
       },
       {
         "rank": 13,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "596026805",
+        "title": "PhotoPills"
       },
       {
         "rank": 14,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "1449893235",
+        "title": "Earthquake Network"
       },
       {
         "rank": 15,
-        "id": "1449893235",
-        "title": "Earthquake Network"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 16,
@@ -211,18 +211,18 @@
       },
       {
         "rank": 17,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 18,
-        "id": "6754315964",
-        "title": "Plezy: Media Server Client"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       },
       {
         "rank": 19,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "6754315964",
+        "title": "Plezy: Media Server Client"
       },
       {
         "rank": 22,
-        "id": "1599230728",
-        "title": "Solar Snap"
+        "id": "975770717",
+        "title": "My Earthquake Alerts Pro"
       },
       {
         "rank": 23,
-        "id": "1175031995",
-        "title": "My Lightning Tracker Pro"
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 24,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 25,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1175031995",
+        "title": "My Lightning Tracker Pro"
       }
     ]
   }

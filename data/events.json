@@ -218062,5 +218062,117 @@
     "position": 24,
     "from": "Microsoft Outlook",
     "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Procreate Pocket",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PhotoPills",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Paprika Recipe Manager 3",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Earthquake Network",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Plezy: Media Server Client",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Moment Pro Camera II",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "FL Studio Mobile",
+    "to": "Plezy: Media Server Client"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Solar Snap",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "My Lightning Tracker Pro",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-14T07:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "My Lightning Tracker Pro"
   }
 ]
