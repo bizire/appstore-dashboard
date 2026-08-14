@@ -218582,5 +218582,173 @@
     "position": 25,
     "from": "My Lightning Tracker Pro",
     "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Capital One Mobile",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "ClassDojo",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Claude by Anthropic",
+    "to": "ClassDojo"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Netflix Game Controller",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "WhatsApp Messenger",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Gmail - Email by Google",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "X",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Microsoft Authenticator",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Shop: Track, Pay, Discover"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "MilGPS",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Moment Pro Camera II",
+    "to": "å¡å°"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PeakFinder",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Plezy: Media Server Client",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "Plezy: Media Server Client"
+  },
+  {
+    "ts": "2026-08-14T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "Threema. The Secure Messenger"
   }
 ]
