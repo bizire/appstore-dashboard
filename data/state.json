@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T04:15:03Z",
+  "updated_at": "2026-08-14T04:30:03Z",
   "charts": {
     "free": [
       {
@@ -156,18 +156,18 @@
       },
       {
         "rank": 6,
-        "id": "6786316806",
-        "title": "Wildwood: Follow the Crows"
-      },
-      {
-        "rank": 7,
         "id": "497716362",
         "title": "TonalEnergy Tuner & Metronome"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "id": "916366645",
         "title": "Procreate Pocket"
+      },
+      {
+        "rank": 8,
+        "id": "6786316806",
+        "title": "Wildwood: Follow the Crows"
       },
       {
         "rank": 9,
@@ -186,33 +186,33 @@
       },
       {
         "rank": 12,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 13,
-        "id": "1449893235",
-        "title": "Earthquake Network"
-      },
-      {
-        "rank": 14,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 15,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 16,
+        "rank": 13,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
+        "rank": 14,
         "id": "1010311475",
         "title": "QuickBend: Conduit Bending"
       },
       {
+        "rank": 15,
+        "id": "1449893235",
+        "title": "Earthquake Network"
+      },
+      {
+        "rank": 16,
+        "id": "405835358",
+        "title": "MilGPS"
+      },
+      {
         "rank": 17,
-        "id": "1599230728",
-        "title": "Solar Snap"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 18,
@@ -221,8 +221,8 @@
       },
       {
         "rank": 19,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       },
       {
         "rank": 20,
@@ -231,18 +231,18 @@
       },
       {
         "rank": 21,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 22,
-        "id": "6781851661",
-        "title": "U.S. Lighthouse Guide"
+        "id": "1599230728",
+        "title": "Solar Snap"
       },
       {
         "rank": 23,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1175031995",
+        "title": "My Lightning Tracker Pro"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "1175031995",
-        "title": "My Lightning Tracker Pro"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }
