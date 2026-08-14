@@ -219254,5 +219254,149 @@
     "position": 25,
     "from": "Plezy: Media Server Client",
     "to": "PDG PROmote 2026+"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Gmail - Email by Google",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Microsoft Authenticator",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Claude by Anthropic",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "ClassDojo"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "ClassDojo",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Wildwood: Follow the Crows",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Earthquake Network",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PhotoPills",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "PeakFinder",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-14T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Threema. The Secure Messenger"
   }
 ]
