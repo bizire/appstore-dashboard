@@ -220822,5 +220822,149 @@
     "position": 24,
     "from": "Threema. The Secure Messenger",
     "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "ParentSquare",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Capital One Mobile",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Claude by Anthropic",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Maps",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "X",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "PineDrama - Short Dramas",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Gmail - Email by Google",
+    "to": "YouTube"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Facebook"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-15T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Whatnot: Shop, Sell, Connect"
   }
 ]
