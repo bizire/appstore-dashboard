@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T04:00:02Z",
+  "updated_at": "2026-08-15T04:15:03Z",
   "charts": {
     "free": [
       {
@@ -146,23 +146,23 @@
       },
       {
         "rank": 4,
-        "id": "916366645",
-        "title": "Procreate Pocket"
-      },
-      {
-        "rank": 5,
         "id": "6786316806",
         "title": "Wildwood: Follow the Crows"
       },
       {
+        "rank": 5,
+        "id": "916366645",
+        "title": "Procreate Pocket"
+      },
+      {
         "rank": 6,
-        "id": "754105884",
-        "title": "NightCap Camera"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 7,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "754105884",
+        "title": "NightCap Camera"
       },
       {
         "rank": 8,
@@ -176,8 +176,8 @@
       },
       {
         "rank": 10,
-        "id": "6797458927",
-        "title": "å¡å°"
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
       },
       {
         "rank": 11,
@@ -186,8 +186,8 @@
       },
       {
         "rank": 12,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
+        "id": "6797458927",
+        "title": "å¡å°"
       },
       {
         "rank": 13,
@@ -196,23 +196,23 @@
       },
       {
         "rank": 14,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 15,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 16,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 17,
+        "rank": 15,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
+      },
+      {
+        "rank": 16,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 17,
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 18,
@@ -231,18 +231,18 @@
       },
       {
         "rank": 21,
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 22,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 22,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
-      },
-      {
         "rank": 23,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "975770717",
+        "title": "My Earthquake Alerts Pro"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "482303584",
-        "title": "PDG PROmote 2026+"
+        "id": "582584117",
+        "title": "Solocator - GPS Field Camera"
       }
     ]
   }
