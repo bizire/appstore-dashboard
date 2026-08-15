@@ -220966,5 +220966,85 @@
     "position": 25,
     "from": "TikTok - Videos, Shop & LIVE",
     "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-15T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Earthquake Network",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-15T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-15T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "RadarScope",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-15T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "My Earthquake Alerts Pro",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-15T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "FL Studio Mobile",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-08-15T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Shot Tracer",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-15T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "QuickBend: Conduit Bending",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-15T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "MilGPS",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-15T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "PhotoPills",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-15T20:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "PhotoPills"
   }
 ]
