@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T16:15:03Z",
+  "updated_at": "2026-08-15T16:30:03Z",
   "charts": {
     "free": [
       {
@@ -9,13 +9,13 @@
       },
       {
         "rank": 2,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
+        "id": "6448311069",
+        "title": "ChatGPT"
       },
       {
         "rank": 3,
-        "id": "6448311069",
-        "title": "ChatGPT"
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
       },
       {
         "rank": 4,
@@ -54,13 +54,13 @@
       },
       {
         "rank": 11,
-        "id": "284815942",
-        "title": "Google"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 12,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 13,
@@ -69,8 +69,8 @@
       },
       {
         "rank": 14,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
+        "id": "6670430706",
+        "title": "DramaWave - Dramas & Reels"
       },
       {
         "rank": 15,
@@ -79,28 +79,28 @@
       },
       {
         "rank": 16,
-        "id": "333903271",
-        "title": "X"
-      },
-      {
-        "rank": 17,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
+        "rank": 17,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
         "rank": 18,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 19,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
       },
       {
         "rank": 20,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
         "rank": 21,
@@ -109,23 +109,23 @@
       },
       {
         "rank": 22,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
+        "rank": 23,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
-        "rank": 23,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
-      },
-      {
         "rank": 24,
-        "id": "6670430706",
-        "title": "DramaWave - Dramas & Reels"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
         "rank": 25,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
@@ -151,18 +151,18 @@
       },
       {
         "rank": 5,
+        "id": "6797458927",
+        "title": "å¡å°"
+      },
+      {
+        "rank": 6,
         "id": "6786316806",
         "title": "Wildwood: Follow the Crows"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "id": "404990064",
         "title": "SkyViewÂ®"
-      },
-      {
-        "rank": 7,
-        "id": "6797458927",
-        "title": "å¡å°"
       },
       {
         "rank": 8,
@@ -186,53 +186,53 @@
       },
       {
         "rank": 12,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 13,
-        "id": "6785557805",
-        "title": "Antizuck Smart Glasses Scanner"
-      },
-      {
-        "rank": 14,
         "id": "357421934",
         "title": "PeakFinder"
       },
       {
-        "rank": 15,
+        "rank": 13,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
+        "rank": 14,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
-        "rank": 16,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "rank": 15,
+        "id": "6785557805",
+        "title": "Antizuck Smart Glasses Scanner"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 18,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 19,
+        "rank": 17,
         "id": "975770717",
         "title": "My Earthquake Alerts Pro"
       },
       {
+        "rank": 18,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 19,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
         "rank": 20,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 21,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 22,
@@ -241,13 +241,13 @@
       },
       {
         "rank": 23,
-        "id": "596026805",
-        "title": "PhotoPills"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 24,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "596026805",
+        "title": "PhotoPills"
       },
       {
         "rank": 25,

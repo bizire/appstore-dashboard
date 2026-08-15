@@ -220590,5 +220590,237 @@
     "position": 25,
     "from": "StoryReel: Exclusive Drama",
     "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "TikTok Pro - Events",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ChatGPT",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "X",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Uber - Request a ride",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Wildwood: Follow the Crows",
+    "to": "å¡å°"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "SkyViewÂ®",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "å¡å°",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Moment Pro Camera II",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "RadarScope",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Monash FODMAP Diet",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Shot Tracer",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "My Earthquake Alerts Pro",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "MilGPS",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "QuickBend: Conduit Bending",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "PhotoPills",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-15T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "PhotoPills"
   }
 ]
