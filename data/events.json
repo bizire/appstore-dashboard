@@ -220198,5 +220198,205 @@
     "position": 25,
     "from": "Solocator - GPS Field Camera",
     "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Capital One Mobile",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "X",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Ticketmasterï¼Buy, Sell Tickets",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Uber - Request a ride",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "Ticketmasterï¼Buy, Sell Tickets"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Life360: Family Safety & GPS",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "PineDrama - Short Dramas",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "RadarScope",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Earthquake Network",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "PeakFinder",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "MilGPS",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Shot Tracer",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "PhotoPills",
+    "to": "My Earthquake Alerts Pro"
+  },
+  {
+    "ts": "2026-08-15T11:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "My Earthquake Alerts Pro",
+    "to": "PhotoPills"
   }
 ]
