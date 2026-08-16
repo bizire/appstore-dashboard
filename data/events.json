@@ -222694,5 +222694,101 @@
     "position": 25,
     "from": "Koala Sampler â¢ Beat Maker",
     "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-16T19:15:02Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-08-16T19:15:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ChatGPT",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-16T19:15:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "TikTok Pro - Events",
+    "to": "iNaturalist"
+  },
+  {
+    "ts": "2026-08-16T19:15:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Paramount+",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-08-16T19:15:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "iNaturalist",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-16T19:15:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-08-16T19:15:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-16T19:15:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Uber - Request a ride",
+    "to": "Freecash - Get Paid Real Money"
+  },
+  {
+    "ts": "2026-08-16T19:15:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-16T19:15:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "X",
+    "to": "VibeShort: AI Short Dramas"
+  },
+  {
+    "ts": "2026-08-16T19:15:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-16T19:15:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Capital One Mobile",
+    "to": "Walmart: Shopping & Savings"
   }
 ]

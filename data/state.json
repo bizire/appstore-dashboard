@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T19:00:04Z",
+  "updated_at": "2026-08-16T19:15:02Z",
   "charts": {
     "free": [
       {
@@ -9,33 +9,33 @@
       },
       {
         "rank": 2,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
-      },
-      {
-        "rank": 3,
         "id": "6448311069",
         "title": "ChatGPT"
       },
       {
+        "rank": 3,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
+      },
+      {
         "rank": 4,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
-      },
-      {
-        "rank": 5,
-        "id": "530168168",
-        "title": "Paramount+"
-      },
-      {
-        "rank": 6,
         "id": "6475737561",
         "title": "iNaturalist"
       },
       {
-        "rank": 7,
+        "rank": 5,
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
+      },
+      {
+        "rank": 6,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
+      },
+      {
+        "rank": 7,
+        "id": "530168168",
+        "title": "Paramount+"
       },
       {
         "rank": 8,
@@ -79,13 +79,13 @@
       },
       {
         "rank": 16,
-        "id": "1673567402",
-        "title": "Freecash - Get Paid Real Money"
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
       },
       {
         "rank": 17,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "1673567402",
+        "title": "Freecash - Get Paid Real Money"
       },
       {
         "rank": 18,
@@ -104,8 +104,8 @@
       },
       {
         "rank": 21,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
         "rank": 22,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "333903271",
-        "title": "X"
+        "id": "6758667154",
+        "title": "VibeShort: AI Short Dramas"
       },
       {
         "rank": 24,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "407558537",
+        "title": "Capital One Mobile"
       },
       {
         "rank": 25,
-        "id": "407558537",
-        "title": "Capital One Mobile"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       }
     ],
     "paid": [
