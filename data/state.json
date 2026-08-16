@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T10:00:03Z",
+  "updated_at": "2026-08-16T10:15:03Z",
   "charts": {
     "free": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 8,
-        "id": "6446901002",
-        "title": "Threads"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 9,
@@ -59,13 +59,13 @@
       },
       {
         "rank": 12,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "id": "368677368",
+        "title": "Uber - Request a ride"
       },
       {
         "rank": 13,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "6670430706",
+        "title": "DramaWave - Dramas & Reels"
       },
       {
         "rank": 14,
@@ -74,58 +74,58 @@
       },
       {
         "rank": 15,
-        "id": "6670430706",
-        "title": "DramaWave - Dramas & Reels"
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
       },
       {
         "rank": 16,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
-      },
-      {
-        "rank": 17,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 18,
+        "rank": 17,
         "id": "585027354",
         "title": "Google Maps"
       },
       {
-        "rank": 19,
+        "rank": 18,
         "id": "1673567402",
         "title": "Freecash - Get Paid Real Money"
       },
       {
-        "rank": 20,
-        "id": "407558537",
-        "title": "Capital One Mobile"
+        "rank": 19,
+        "id": "1488269261",
+        "title": "Whatnot: Shop, Sell, Connect"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 22,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
+        "rank": 21,
+        "id": "333903271",
+        "title": "X"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "6473753684",
         "title": "Claude by Anthropic"
       },
       {
+        "rank": 23,
+        "id": "407558537",
+        "title": "Capital One Mobile"
+      },
+      {
         "rank": 24,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "384830320",
+        "title": "Life360: Family Safety & GPS"
       },
       {
         "rank": 25,
-        "id": "333903271",
-        "title": "X"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       }
     ],
     "paid": [
