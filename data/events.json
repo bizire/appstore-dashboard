@@ -223262,5 +223262,85 @@
     "position": 25,
     "from": "FORScan Lite - for Ford, Mazda",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-17T02:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-17T02:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-17T02:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-17T02:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "PineDrama - Short Dramas",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-17T02:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "VibeShort: AI Short Dramas"
+  },
+  {
+    "ts": "2026-08-17T02:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-17T02:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-17T02:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Walmart: Shopping & Savings",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-17T02:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "VibeShort: AI Short Dramas",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-17T02:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Claude by Anthropic",
+    "to": "Freecash - Get Paid Real Money"
   }
 ]
