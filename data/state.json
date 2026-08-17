@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:45:03Z",
+  "updated_at": "2026-08-17T14:00:03Z",
   "charts": {
     "free": [
       {
@@ -39,13 +39,13 @@
       },
       {
         "rank": 8,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 9,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 10,
@@ -69,13 +69,13 @@
       },
       {
         "rank": 14,
-        "id": "284815942",
-        "title": "Google"
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
       },
       {
         "rank": 15,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 16,
@@ -99,18 +99,18 @@
       },
       {
         "rank": 20,
-        "id": "530168168",
-        "title": "Paramount+"
-      },
-      {
-        "rank": 21,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
+        "rank": 21,
+        "id": "333903271",
+        "title": "X"
+      },
+      {
         "rank": 22,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "333903271",
-        "title": "X"
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
         "rank": 25,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "530168168",
+        "title": "Paramount+"
       }
     ],
     "paid": [
@@ -151,13 +151,13 @@
       },
       {
         "rank": 5,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "6786316806",
+        "title": "Wildwood: Follow the Crows"
       },
       {
         "rank": 6,
-        "id": "6786316806",
-        "title": "Wildwood: Follow the Crows"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 7,
@@ -186,13 +186,13 @@
       },
       {
         "rank": 12,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 14,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "301387274",
-        "title": "Pocket God"
-      },
-      {
-        "rank": 24,
         "id": "1581140954",
         "title": "Noir - Dark Mode for Safari"
       },
       {
+        "rank": 24,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
         "rank": 25,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "id": "1662217862",
+        "title": "Wipr 2"
       }
     ]
   }

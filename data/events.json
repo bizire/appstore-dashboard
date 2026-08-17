@@ -224038,5 +224038,133 @@
     "position": 25,
     "from": "My Earthquake Alerts Pro",
     "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Paramount+",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "WhatsApp Messenger",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "X",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Maps",
+    "to": "Paramount+"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Wildwood: Follow the Crows",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Pocket God",
+    "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-08-17T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Spirit Talker Â®",
+    "to": "Wipr 2"
   }
 ]
