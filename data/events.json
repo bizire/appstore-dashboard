@@ -224470,5 +224470,285 @@
     "position": 25,
     "from": "Wipr 2",
     "to": "Noir - Dark Mode for Safari"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "iNaturalist",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "VibeShort: AI Short Dramas",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "VibeShort: AI Short Dramas"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "PineDrama - Short Dramas",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Gemini",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google",
+    "to": "iNaturalist"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Claude by Anthropic",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Authenticator",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "WhatsApp Messenger",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Freecash - Get Paid Real Money",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Gmail - Email by Google",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "X",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "ParentSquare",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "SkyViewÂ®",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Wildwood: Follow the Crows",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Moment Pro Camera II",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Monash FODMAP Diet",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Shot Tracer",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "å¡å°",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Gridiron 2026 College Football"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Gridiron 2026 College Football",
+    "to": "å¡å°"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "LiveATC Air Radio",
+    "to": "Foundations Memory Work C3"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Stylebook",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "QuickBend: Conduit Bending",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-17T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Noir - Dark Mode for Safari",
+    "to": "Prepware Aviation Maintenance"
   }
 ]
