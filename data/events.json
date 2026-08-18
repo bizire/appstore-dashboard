@@ -226006,5 +226006,181 @@
     "position": 24,
     "from": "Foundations Memory Work C3",
     "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "VibeShort: AI Short Dramas",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "VibeShort: AI Short Dramas"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Microsoft Authenticator",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Claude by Anthropic",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Gmail - Email by Google",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Canvas by Instructure",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Shop: Track, Pay, Discover",
+    "to": "Canvas by Instructure"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Maps",
+    "to": "Shop: Track, Pay, Discover"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Gridiron 2026 College Football",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "Gridiron 2026 College Football"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "PeakFinder",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "RadarScope",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Earthquake Network",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Prepware Aviation Maintenance",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Things 3",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Shot Tracer",
+    "to": "Prepware Aviation Maintenance"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-18T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Stylebook",
+    "to": "imo video calls and chat HD"
   }
 ]
