@@ -225038,5 +225038,101 @@
     "position": 25,
     "from": "Prepware Aviation Maintenance",
     "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-18T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "VibeShort: AI Short Dramas",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-18T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "VibeShort: AI Short Dramas"
+  },
+  {
+    "ts": "2026-08-18T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-18T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "ParentSquare",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-18T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-18T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Gemini",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-18T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DramaWave - Dramas & Reels",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-18T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "DramaWave - Dramas & Reels"
+  },
+  {
+    "ts": "2026-08-18T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Capital One Mobile",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-18T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "PineDrama - Short Dramas",
+    "to": "Canvas by Instructure"
+  },
+  {
+    "ts": "2026-08-18T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "iNaturalist",
+    "to": "Microsoft Outlook"
+  },
+  {
+    "ts": "2026-08-18T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Canvas by Instructure",
+    "to": "PineDrama - Short Dramas"
   }
 ]
