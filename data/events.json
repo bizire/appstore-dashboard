@@ -228030,5 +228030,93 @@
     "position": 25,
     "from": "GroupMe",
     "to": "Canvas by Instructure"
+  },
+  {
+    "ts": "2026-08-19T13:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-08-19T13:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Procreate Pocket",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-19T13:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-19T13:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Monash FODMAP Diet",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-19T13:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "RadarScope",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-19T13:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Gridiron 2026 College Football",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-19T13:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PeakFinder",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-19T13:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Tenuto",
+    "to": "Gridiron 2026 College Football"
+  },
+  {
+    "ts": "2026-08-19T13:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Foundations Memory Work C3",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-19T13:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Tenuto"
+  },
+  {
+    "ts": "2026-08-19T13:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "Foundations Memory Work C3"
   }
 ]
