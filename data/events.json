@@ -227910,5 +227910,125 @@
     "position": 25,
     "from": "Shot Tracer",
     "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "TikTok Pro - Events",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "7 Brew Coffee",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Netflix Game Controller",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Claude by Anthropic",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Capital One Mobile",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "ClassDojo",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "PineDrama - Short Dramas",
+    "to": "ClassDojo"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Canvas by Instructure",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-19T13:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "GroupMe",
+    "to": "Canvas by Instructure"
   }
 ]
