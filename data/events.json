@@ -229862,5 +229862,149 @@
     "position": 25,
     "from": "AutoSleep: Watch Sleep Tracker",
     "to": "iReal Pro"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "7 Brew Coffee",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Netflix Game Controller",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Microsoft Authenticator",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "GroupMe",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Microsoft Teams",
+    "to": "GroupMe"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Canvas by Instructure",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "Procreate Pocket",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Monash FODMAP Diet",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Moment Pro Camera II",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Prepware Aviation Maintenance",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "Prepware Aviation Maintenance"
+  },
+  {
+    "ts": "2026-08-20T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "iReal Pro",
+    "to": "Practice Lock"
   }
 ]

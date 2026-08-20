@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T13:45:03Z",
+  "updated_at": "2026-08-20T14:00:03Z",
   "charts": {
     "free": [
       {
@@ -14,13 +14,13 @@
       },
       {
         "rank": 3,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
+        "id": "6762023973",
+        "title": "7 Brew Coffee"
       },
       {
         "rank": 4,
-        "id": "6762023973",
-        "title": "7 Brew Coffee"
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
       },
       {
         "rank": 5,
@@ -54,8 +54,8 @@
       },
       {
         "rank": 11,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 12,
@@ -64,28 +64,28 @@
       },
       {
         "rank": 13,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 14,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 15,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "rank": 14,
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 17,
+        "rank": 16,
         "id": "310633997",
         "title": "WhatsApp Messenger"
+      },
+      {
+        "rank": 17,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
         "rank": 18,
@@ -114,18 +114,18 @@
       },
       {
         "rank": 23,
-        "id": "392796698",
-        "title": "GroupMe"
-      },
-      {
-        "rank": 24,
         "id": "1113153706",
         "title": "Microsoft Teams"
       },
       {
+        "rank": 24,
+        "id": "392796698",
+        "title": "GroupMe"
+      },
+      {
         "rank": 25,
-        "id": "480883488",
-        "title": "Canvas by Instructure"
+        "id": "585027354",
+        "title": "Google Maps"
       }
     ],
     "paid": [
@@ -146,13 +146,13 @@
       },
       {
         "rank": 4,
-        "id": "497716362",
-        "title": "TonalEnergy Tuner & Metronome"
+        "id": "916366645",
+        "title": "Procreate Pocket"
       },
       {
         "rank": 5,
-        "id": "916366645",
-        "title": "Procreate Pocket"
+        "id": "497716362",
+        "title": "TonalEnergy Tuner & Metronome"
       },
       {
         "rank": 6,
@@ -181,13 +181,13 @@
       },
       {
         "rank": 11,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       },
       {
         "rank": 12,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 13,
@@ -236,13 +236,13 @@
       },
       {
         "rank": 22,
-        "id": "338893931",
-        "title": "Prepware Aviation Maintenance"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       },
       {
         "rank": 23,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "338893931",
+        "title": "Prepware Aviation Maintenance"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "298206806",
-        "title": "iReal Pro"
+        "id": "1555509600",
+        "title": "Practice Lock"
       }
     ]
   }
