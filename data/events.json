@@ -229374,5 +229374,269 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "7 Brew Coffee",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Google Gemini",
+    "to": "VibeShort: AI Short Dramas"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "VibeShort: AI Short Dramas",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "X",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Authenticator",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Netflix Game Controller",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "ClassDojo",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "GroupMe",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Teams",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Capital One Mobile",
+    "to": "ClassDojo"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "WhatsApp Messenger",
+    "to": "GroupMe"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Gmail - Email by Google",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Canvas by Instructure",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "PineDrama - Short Dramas",
+    "to": "Canvas by Instructure"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Monash FODMAP Diet",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Moment Pro Camera II",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "SkyViewÂ®",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Prepware Aviation Maintenance",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "PeakFinder",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Shot Tracer",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Things 3",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "RadarScope",
+    "to": "Prepware Aviation Maintenance"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Streaks",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Foundations Memory Work C3",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-20T09:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Gridiron 2026 College Football",
+    "to": "iReal Pro"
   }
 ]
