@@ -231982,5 +231982,253 @@
     "position": 25,
     "from": "Microsoft Teams",
     "to": "ClassDojo"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "TikTok Pro - Events",
+    "to": "K8CHEN PRO"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "K8CHEN PRO",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "ParentSquare",
+    "to": "VibeShort: AI Short Dramas"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "VibeShort: AI Short Dramas",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Claude by Anthropic",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "PineDrama - Short Dramas",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Netflix Game Controller",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "X",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Authenticator",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Capital One Mobile",
+    "to": "ClassDojo"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "GroupMe",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "ClassDojo",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Moment Pro Camera II",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "RadarScope",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Shot Tracer",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Things 3",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Threema. The Secure Messenger",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Tenuto",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-21T16:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "imo video calls and chat HD"
   }
 ]
