@@ -231846,5 +231846,141 @@
     "position": 25,
     "from": "Tenuto",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "K8CHEN PRO"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "ParentSquare",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "VibeShort: AI Short Dramas",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "VibeShort: AI Short Dramas"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "K8CHEN PRO",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Netflix Game Controller",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "PineDrama - Short Dramas",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Gmail - Email by Google",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "GroupMe",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "ClassDojo",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Capital One Mobile",
+    "to": "GroupMe"
+  },
+  {
+    "ts": "2026-08-21T14:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Teams",
+    "to": "ClassDojo"
   }
 ]
