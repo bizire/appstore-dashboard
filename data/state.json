@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T01:00:03Z",
+  "updated_at": "2026-08-22T01:15:03Z",
   "charts": {
     "free": [
       {
@@ -44,13 +44,13 @@
       },
       {
         "rank": 9,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 10,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 11,
@@ -74,8 +74,8 @@
       },
       {
         "rank": 15,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
       },
       {
         "rank": 16,
@@ -84,8 +84,8 @@
       },
       {
         "rank": 17,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "1113153706",
+        "title": "Microsoft Teams"
       },
       {
         "rank": 18,
@@ -104,13 +104,13 @@
       },
       {
         "rank": 21,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "407558537",
+        "title": "Capital One Mobile"
       },
       {
         "rank": 22,
-        "id": "407558537",
-        "title": "Capital One Mobile"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       },
       {
         "rank": 23,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "951937596",
-        "title": "Microsoft Outlook"
+        "id": "392796698",
+        "title": "GroupMe"
       },
       {
         "rank": 25,
-        "id": "392796698",
-        "title": "GroupMe"
+        "id": "951937596",
+        "title": "Microsoft Outlook"
       }
     ],
     "paid": [
