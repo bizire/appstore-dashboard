@@ -233502,5 +233502,165 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "Tenuto"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "ChatGPT",
+    "to": "NBA 2K HQ"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "7 Brew Coffee",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "ParentSquare",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "WhatsApp Messenger",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Gmail - Email by Google",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "PineDrama - Short Dramas",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Capital One Mobile",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-22T07:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Ticketmasterï¼Buy, Sell Tickets",
+    "to": "X"
   }
 ]
