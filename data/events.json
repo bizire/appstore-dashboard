@@ -234230,5 +234230,133 @@
     "position": 25,
     "from": "Tenuto",
     "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "TikTok Pro - Events",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "7 Brew Coffee",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Netflix Game Controller",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google Gemini",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "PineDrama - Short Dramas",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google",
+    "to": "VibeShort: AI Short Dramas"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "VibeShort: AI Short Dramas",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Claude by Anthropic",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Uber - Request a ride",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "ParentSquare",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-22T17:00:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "ParentSquare"
   }
 ]
