@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T13:00:03Z",
+  "updated_at": "2026-08-22T13:15:03Z",
   "charts": {
     "free": [
       {
@@ -131,13 +131,13 @@
     "paid": [
       {
         "rank": 1,
-        "id": "294934058",
-        "title": "HotSchedules"
+        "id": "932747118",
+        "title": "Shadowrocket"
       },
       {
         "rank": 2,
-        "id": "932747118",
-        "title": "Shadowrocket"
+        "id": "294934058",
+        "title": "HotSchedules"
       },
       {
         "rank": 3,
@@ -191,23 +191,23 @@
       },
       {
         "rank": 13,
-        "id": "1449893235",
-        "title": "Earthquake Network"
-      },
-      {
-        "rank": 14,
         "id": "6748837351",
         "title": "Moment Pro Camera II"
       },
       {
+        "rank": 14,
+        "id": "1449893235",
+        "title": "Earthquake Network"
+      },
+      {
         "rank": 15,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 16,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 17,
@@ -221,38 +221,38 @@
       },
       {
         "rank": 19,
-        "id": "405835358",
-        "title": "MilGPS"
-      },
-      {
-        "rank": 20,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
       },
       {
-        "rank": 21,
+        "rank": 20,
         "id": "963034692",
         "title": "Streaks"
       },
       {
-        "rank": 22,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "rank": 21,
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "904237743",
         "title": "Things 3"
       },
       {
+        "rank": 24,
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
+      },
+      {
         "rank": 25,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "459313476",
+        "title": "Tenuto"
       }
     ]
   }
