@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T04:15:03Z",
+  "updated_at": "2026-08-23T04:30:03Z",
   "charts": {
     "free": [
       {
@@ -14,98 +14,98 @@
       },
       {
         "rank": 3,
-        "id": "6762023973",
-        "title": "7 Brew Coffee"
-      },
-      {
-        "rank": 4,
-        "id": "6741796873",
-        "title": "TikTok Pro - Events"
-      },
-      {
-        "rank": 5,
-        "id": "632064380",
-        "title": "Vinted: Pre-loved marketplace"
-      },
-      {
-        "rank": 6,
-        "id": "1636235979",
-        "title": "ReelShort - Stream Drama & TV"
-      },
-      {
-        "rank": 7,
         "id": "6447582581",
         "title": "Netflix Game Controller"
       },
       {
+        "rank": 4,
+        "id": "6446202561",
+        "title": "KICK - Live Streaming"
+      },
+      {
+        "rank": 5,
+        "id": "6762023973",
+        "title": "7 Brew Coffee"
+      },
+      {
+        "rank": 6,
+        "id": "6741796873",
+        "title": "TikTok Pro - Events"
+      },
+      {
+        "rank": 7,
+        "id": "632064380",
+        "title": "Vinted: Pre-loved marketplace"
+      },
+      {
         "rank": 8,
+        "id": "1636235979",
+        "title": "ReelShort - Stream Drama & TV"
+      },
+      {
+        "rank": 9,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "id": "1641486558",
         "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 10,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
         "rank": 11,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 12,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 13,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
-      },
-      {
-        "rank": 14,
-        "id": "585027354",
-        "title": "Google Maps"
-      },
-      {
-        "rank": 15,
-        "id": "6477489729",
-        "title": "Google Gemini"
-      },
-      {
-        "rank": 16,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
-      },
-      {
-        "rank": 17,
         "id": "6754134922",
         "title": "PineDrama - Short Dramas"
       },
       {
-        "rank": 18,
-        "id": "6758667154",
-        "title": "VibeShort: AI Short Dramas"
+        "rank": 12,
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
-        "rank": 19,
+        "rank": 13,
         "id": "719972451",
         "title": "DoorDash: Food, Grocery, More"
       },
       {
+        "rank": 14,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
+        "rank": 15,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 16,
+        "id": "555376968",
+        "title": "ESPN Fantasy Sports & More"
+      },
+      {
+        "rank": 17,
+        "id": "368677368",
+        "title": "Uber - Request a ride"
+      },
+      {
+        "rank": 18,
+        "id": "6477489729",
+        "title": "Google Gemini"
+      },
+      {
+        "rank": 19,
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
+      },
+      {
         "rank": 20,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 21,
-        "id": "835599320",
-        "title": "TikTok - Videos, Shop & LIVE"
+        "id": "6758667154",
+        "title": "VibeShort: AI Short Dramas"
       },
       {
         "rank": 22,
@@ -114,30 +114,30 @@
       },
       {
         "rank": 23,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
-      },
-      {
-        "rank": 24,
         "id": "338137227",
         "title": "Walmart: Shopping & Savings"
       },
       {
+        "rank": 24,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
         "rank": 25,
-        "id": "333903271",
-        "title": "X"
+        "id": "384830320",
+        "title": "Life360: Family Safety & GPS"
       }
     ],
     "paid": [
       {
         "rank": 1,
-        "id": "932747118",
-        "title": "Shadowrocket"
+        "id": "294934058",
+        "title": "HotSchedules"
       },
       {
         "rank": 2,
-        "id": "294934058",
-        "title": "HotSchedules"
+        "id": "932747118",
+        "title": "Shadowrocket"
       },
       {
         "rank": 3,
@@ -206,13 +206,13 @@
       },
       {
         "rank": 16,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 17,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
         "rank": 18,
@@ -221,38 +221,38 @@
       },
       {
         "rank": 19,
-        "id": "1449893235",
-        "title": "Earthquake Network"
-      },
-      {
-        "rank": 20,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 21,
-        "id": "1400579543",
-        "title": "imo video calls and chat HD"
-      },
-      {
-        "rank": 22,
         "id": "6797274503",
         "title": "Gridiron 2026 College Football"
       },
       {
+        "rank": 20,
+        "id": "1449893235",
+        "title": "Earthquake Network"
+      },
+      {
+        "rank": 21,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 22,
+        "id": "1175031995",
+        "title": "My Lightning Tracker Pro"
+      },
+      {
         "rank": 23,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "335709058",
+        "title": "Stylebook"
       },
       {
         "rank": 24,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 25,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "904237743",
+        "title": "Things 3"
       }
     ]
   }
