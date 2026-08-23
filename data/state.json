@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T19:30:03Z",
+  "updated_at": "2026-08-23T19:45:03Z",
   "charts": {
     "free": [
       {
@@ -156,18 +156,18 @@
       },
       {
         "rank": 6,
-        "id": "6786316806",
-        "title": "Wildwood: Follow the Crows"
-      },
-      {
-        "rank": 7,
         "id": "1303222868",
         "title": "Paprika Recipe Manager 3"
       },
       {
-        "rank": 8,
+        "rank": 7,
         "id": "6785557805",
         "title": "Antizuck Smart Glasses Scanner"
+      },
+      {
+        "rank": 8,
+        "id": "6786316806",
+        "title": "Wildwood: Follow the Crows"
       },
       {
         "rank": 9,
@@ -191,13 +191,13 @@
       },
       {
         "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 14,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       },
       {
         "rank": 15,
@@ -206,8 +206,8 @@
       },
       {
         "rank": 16,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "432850619",
+        "title": "FL Studio Mobile"
       },
       {
         "rank": 17,
@@ -231,18 +231,18 @@
       },
       {
         "rank": 21,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 22,
         "id": "335709058",
         "title": "Stylebook"
       },
       {
-        "rank": 23,
+        "rank": 22,
         "id": "578665578",
         "title": "Threema. The Secure Messenger"
+      },
+      {
+        "rank": 23,
+        "id": "1400579543",
+        "title": "imo video calls and chat HD"
       },
       {
         "rank": 24,
