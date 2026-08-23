@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T13:45:03Z",
+  "updated_at": "2026-08-23T14:00:03Z",
   "charts": {
     "free": [
       {
@@ -131,13 +131,13 @@
     "paid": [
       {
         "rank": 1,
-        "id": "294934058",
-        "title": "HotSchedules"
+        "id": "932747118",
+        "title": "Shadowrocket"
       },
       {
         "rank": 2,
-        "id": "932747118",
-        "title": "Shadowrocket"
+        "id": "294934058",
+        "title": "HotSchedules"
       },
       {
         "rank": 3,
@@ -191,18 +191,18 @@
       },
       {
         "rank": 13,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
-      },
-      {
-        "rank": 14,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
+        "rank": 14,
+        "id": "1140451547",
+        "title": "Shot Tracer"
+      },
+      {
         "rank": 15,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
       },
       {
         "rank": 16,
@@ -211,18 +211,18 @@
       },
       {
         "rank": 17,
-        "id": "1140451547",
-        "title": "Shot Tracer"
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
       },
       {
         "rank": 18,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 19,
-        "id": "335709058",
-        "title": "Stylebook"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 20,
@@ -231,8 +231,8 @@
       },
       {
         "rank": 21,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "335709058",
+        "title": "Stylebook"
       },
       {
         "rank": 22,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
-        "id": "6797274503",
-        "title": "Gridiron 2026 College Football"
+        "id": "301387274",
+        "title": "Pocket God"
       },
       {
         "rank": 24,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 25,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       }
     ]
   }
