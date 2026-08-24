@@ -237678,5 +237678,165 @@
     "position": 25,
     "from": "Uber - Request a ride",
     "to": "VibeShort: AI Short Dramas"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "TikTok Pro - Events",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "Canvas by Instructure"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "PineDrama - Short Dramas",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "X",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Claude by Anthropic",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Canvas by Instructure",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "WhatsApp Messenger",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Life360: Family Safety & GPS",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-24T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "VibeShort: AI Short Dramas",
+    "to": "Life360: Family Safety & GPS"
   }
 ]
