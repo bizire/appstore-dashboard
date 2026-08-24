@@ -237102,5 +237102,117 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "Pocket God"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "7 Brew Coffee",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ChatGPT",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "PineDrama - Short Dramas",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "WhatsApp Messenger",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Gemini",
+    "to": "Canvas by Instructure"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Claude by Anthropic",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "X",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Maps",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Gmail - Email by Google",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-24T07:30:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Instagram",
+    "to": "Uber - Request a ride"
   }
 ]
