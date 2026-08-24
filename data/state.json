@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T10:15:03Z",
+  "updated_at": "2026-08-24T10:30:03Z",
   "charts": {
     "free": [
       {
@@ -74,13 +74,13 @@
       },
       {
         "rank": 15,
-        "id": "284815942",
-        "title": "Google"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 16,
-        "id": "480883488",
-        "title": "Canvas by Instructure"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 17,
@@ -89,38 +89,38 @@
       },
       {
         "rank": 18,
-        "id": "333903271",
-        "title": "X"
+        "id": "480883488",
+        "title": "Canvas by Instructure"
       },
       {
         "rank": 19,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
-      },
-      {
-        "rank": 20,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
-      },
-      {
-        "rank": 21,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 22,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
+        "rank": 20,
+        "id": "338137227",
+        "title": "Walmart: Shopping & Savings"
       },
       {
-        "rank": 23,
+        "rank": 21,
         "id": "6761538521",
         "title": "StoryReel: Exclusive Drama"
       },
       {
+        "rank": 22,
+        "id": "384830320",
+        "title": "Life360: Family Safety & GPS"
+      },
+      {
+        "rank": 23,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
         "rank": 24,
-        "id": "1488269261",
-        "title": "Whatnot: Shop, Sell, Connect"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 25,

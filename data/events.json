@@ -237366,5 +237366,77 @@
     "position": 25,
     "from": "Pocket God",
     "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-24T10:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-24T10:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Canvas by Instructure",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-24T10:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "X",
+    "to": "Canvas by Instructure"
+  },
+  {
+    "ts": "2026-08-24T10:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Walmart: Shopping & Savings",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-24T10:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Life360: Family Safety & GPS",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-24T10:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "WhatsApp Messenger",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-24T10:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-08-24T10:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-24T10:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Google Maps"
   }
 ]
