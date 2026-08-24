@@ -237566,5 +237566,69 @@
     "position": 25,
     "from": "MilGPS",
     "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-08-24T13:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "FL Studio Mobile",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-24T13:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "RadarScope",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-24T13:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Goblin Tools",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-24T13:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Stylebook",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-08-24T13:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-24T13:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Pocket God",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-24T13:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "MilGPS",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-24T13:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "LiveATC Air Radio",
+    "to": "MilGPS"
   }
 ]

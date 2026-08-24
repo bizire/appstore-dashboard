@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T13:00:03Z",
+  "updated_at": "2026-08-24T13:15:03Z",
   "charts": {
     "free": [
       {
@@ -196,18 +196,18 @@
       },
       {
         "rank": 14,
+        "id": "6449003064",
+        "title": "Goblin Tools"
+      },
+      {
+        "rank": 15,
         "id": "432850619",
         "title": "FL Studio Mobile"
       },
       {
-        "rank": 15,
+        "rank": 16,
         "id": "288419283",
         "title": "RadarScope"
-      },
-      {
-        "rank": 16,
-        "id": "6449003064",
-        "title": "Goblin Tools"
       },
       {
         "rank": 17,
@@ -221,28 +221,28 @@
       },
       {
         "rank": 19,
-        "id": "335709058",
-        "title": "Stylebook"
-      },
-      {
-        "rank": 20,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 21,
         "id": "301387274",
         "title": "Pocket God"
       },
       {
+        "rank": 20,
+        "id": "335709058",
+        "title": "Stylebook"
+      },
+      {
+        "rank": 21,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
+      },
+      {
         "rank": 22,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 23,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 24,
