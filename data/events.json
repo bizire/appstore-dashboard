@@ -237950,5 +237950,301 @@
     "position": 25,
     "from": "Spirit Talker Â®",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "1st",
+    "position": 1,
+    "from": "NBA 2K HQ",
+    "to": "ChatGPT"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "ChatGPT",
+    "to": "NBA 2K HQ"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Netflix Game Controller",
+    "to": "Canvas by Instructure"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "TikTok Pro - Events",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Canvas by Instructure",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Threads",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "PineDrama - Short Dramas",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Gemini",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Claude by Anthropic",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "X",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Microsoft Authenticator",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Capital One Mobile",
+    "to": "Microsoft Outlook"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Uber - Request a ride",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Life360: Family Safety & GPS",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Wildwood: Follow the Crows",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "SkyViewÂ®",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Earthquake Network",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Goblin Tools",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Monash FODMAP Diet",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "RadarScope",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Shot Tracer",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Moment Pro Camera II",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pocket God",
+    "to": "Foundations Memory Work C3"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Stylebook",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "MilGPS",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Spirit Talker Â®",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-24T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Things 3"
   }
 ]
