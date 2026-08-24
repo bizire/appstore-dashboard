@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T10:30:03Z",
+  "updated_at": "2026-08-24T10:45:03Z",
   "charts": {
     "free": [
       {
@@ -131,13 +131,13 @@
     "paid": [
       {
         "rank": 1,
-        "id": "294934058",
-        "title": "HotSchedules"
+        "id": "932747118",
+        "title": "Shadowrocket"
       },
       {
         "rank": 2,
-        "id": "932747118",
-        "title": "Shadowrocket"
+        "id": "294934058",
+        "title": "HotSchedules"
       },
       {
         "rank": 3,
@@ -156,23 +156,23 @@
       },
       {
         "rank": 6,
-        "id": "1303222868",
-        "title": "Paprika Recipe Manager 3"
-      },
-      {
-        "rank": 7,
         "id": "6786316806",
         "title": "Wildwood: Follow the Crows"
       },
       {
+        "rank": 7,
+        "id": "1303222868",
+        "title": "Paprika Recipe Manager 3"
+      },
+      {
         "rank": 8,
-        "id": "6785557805",
-        "title": "Antizuck Smart Glasses Scanner"
+        "id": "404990064",
+        "title": "SkyViewÂ®"
       },
       {
         "rank": 9,
-        "id": "404990064",
-        "title": "SkyViewÂ®"
+        "id": "6785557805",
+        "title": "Antizuck Smart Glasses Scanner"
       },
       {
         "rank": 10,
@@ -181,28 +181,28 @@
       },
       {
         "rank": 11,
-        "id": "586149216",
-        "title": "Monash FODMAP Diet"
+        "id": "963034692",
+        "title": "Streaks"
       },
       {
         "rank": 12,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 13,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
-      },
-      {
-        "rank": 14,
         "id": "1449893235",
         "title": "Earthquake Network"
       },
       {
+        "rank": 13,
+        "id": "586149216",
+        "title": "Monash FODMAP Diet"
+      },
+      {
+        "rank": 14,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
         "rank": 15,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
         "rank": 16,
@@ -226,23 +226,23 @@
       },
       {
         "rank": 20,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
-      },
-      {
-        "rank": 21,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
+        "rank": 21,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
         "rank": 22,
-        "id": "892347083",
-        "title": "FORScan Lite - for Ford, Mazda"
+        "id": "405835358",
+        "title": "MilGPS"
       },
       {
         "rank": 23,
-        "id": "6797274503",
-        "title": "Gridiron 2026 College Football"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "405835358",
-        "title": "MilGPS"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       }
     ]
   }
