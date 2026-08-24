@@ -237630,5 +237630,53 @@
     "position": 23,
     "from": "LiveATC Air Radio",
     "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-24T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-24T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Threads",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-24T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Walmart: Shopping & Savings",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-24T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-24T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Google Maps",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-24T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Uber - Request a ride",
+    "to": "VibeShort: AI Short Dramas"
   }
 ]
