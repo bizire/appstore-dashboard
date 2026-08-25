@@ -238886,5 +238886,173 @@
     "position": 24,
     "from": "X",
     "to": "Sleeper Sports"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "1st",
+    "position": 1,
+    "from": "Shadowrocket",
+    "to": "HotSchedules"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "2nd",
+    "position": 2,
+    "from": "HotSchedules",
+    "to": "Shadowrocket"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 4,
+    "from": "Procreate Pocket",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Foundations Memory Work C3",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "PeakFinder",
+    "to": "Foundations Memory Work C3"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "SkyViewÂ®",
+    "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "MilGPS",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Earthquake Network",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Goblin Tools",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "FL Studio Mobile",
+    "to": "Prepware Aviation Maintenance"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "RadarScope",
+    "to": "Tenuto"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Shot Tracer",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Solocator - GPS Field Camera",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Things 3",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Moment Pro Camera II",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Prepware Aviation Maintenance",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-25T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "iReal Pro"
   }
 ]
