@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T04:15:03Z",
+  "updated_at": "2026-08-25T04:30:02Z",
   "charts": {
     "free": [
       {
@@ -14,18 +14,18 @@
       },
       {
         "rank": 3,
-        "id": "6762023973",
-        "title": "7 Brew Coffee"
-      },
-      {
-        "rank": 4,
         "id": "632064380",
         "title": "Vinted: Pre-loved marketplace"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "id": "6741796873",
         "title": "TikTok Pro - Events"
+      },
+      {
+        "rank": 5,
+        "id": "6762023973",
+        "title": "7 Brew Coffee"
       },
       {
         "rank": 6,
@@ -34,53 +34,53 @@
       },
       {
         "rank": 7,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 8,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 9,
         "id": "518684914",
         "title": "Depop - Buy & Sell Clothes"
       },
       {
-        "rank": 10,
-        "id": "1636235979",
-        "title": "ReelShort - Stream Drama & TV"
-      },
-      {
-        "rank": 11,
+        "rank": 8,
         "id": "6447582581",
         "title": "Netflix Game Controller"
       },
       {
+        "rank": 9,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
+        "rank": 10,
+        "id": "555376968",
+        "title": "ESPN Fantasy Sports & More"
+      },
+      {
+        "rank": 11,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
+      },
+      {
         "rank": 12,
-        "id": "284815942",
-        "title": "Google"
-      },
-      {
-        "rank": 13,
-        "id": "310633997",
-        "title": "WhatsApp Messenger"
-      },
-      {
-        "rank": 14,
-        "id": "6446901002",
-        "title": "Threads"
-      },
-      {
-        "rank": 15,
         "id": "407558537",
         "title": "Capital One Mobile"
       },
       {
+        "rank": 13,
+        "id": "284815942",
+        "title": "Google"
+      },
+      {
+        "rank": 14,
+        "id": "908126679",
+        "title": "ParentSquare"
+      },
+      {
+        "rank": 15,
+        "id": "310633997",
+        "title": "WhatsApp Messenger"
+      },
+      {
         "rank": 16,
-        "id": "555376968",
-        "title": "ESPN Fantasy Sports & More"
+        "id": "6446901002",
+        "title": "Threads"
       },
       {
         "rank": 17,
@@ -94,33 +94,33 @@
       },
       {
         "rank": 19,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "1636235979",
+        "title": "ReelShort - Stream Drama & TV"
       },
       {
         "rank": 20,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
-      },
-      {
-        "rank": 21,
-        "id": "908126679",
-        "title": "ParentSquare"
-      },
-      {
-        "rank": 22,
         "id": "6754134922",
         "title": "PineDrama - Short Dramas"
       },
       {
+        "rank": 21,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
+        "rank": 22,
+        "id": "333903271",
+        "title": "X"
+      },
+      {
         "rank": 23,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
       },
       {
         "rank": 24,
-        "id": "333903271",
-        "title": "X"
+        "id": "987367543",
+        "title": "Sleeper Sports"
       },
       {
         "rank": 25,
