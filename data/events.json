@@ -240094,5 +240094,149 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "Antizuck Smart Glasses Scanner"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Microsoft Authenticator",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Dunkin'"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Capital One Mobile",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "ParentSquare",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "PineDrama - Short Dramas",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Netflix Game Controller",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "X",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "WhatsApp Messenger",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Outlook"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Google Maps",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-25T19:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Outlook",
+    "to": "Gmail - Email by Google"
   }
 ]
