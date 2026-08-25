@@ -240374,5 +240374,141 @@
     "position": 25,
     "from": "Antizuck Smart Glasses Scanner",
     "to": "iReal Pro"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Canvas by Instructure",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Microsoft Authenticator",
+    "to": "Canvas by Instructure"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Capital One Mobile",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Claude by Anthropic",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Dunkin'",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "ParentSquare",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google",
+    "to": "Dunkin'"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Microsoft Teams",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "WhatsApp Messenger",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "PineDrama - Short Dramas",
+    "to": "Microsoft Outlook"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Microsoft Outlook",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-25T22:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Gmail - Email by Google",
+    "to": "TikTok - Videos, Shop & LIVE"
   }
 ]
