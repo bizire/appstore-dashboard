@@ -242310,5 +242310,101 @@
     "position": 25,
     "from": "Shot Tracer",
     "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-26T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "SkyViewÂ®",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-26T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "MilGPS",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-26T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Streaks",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-26T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "RadarScope",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-26T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Wipr 2",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-26T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Solocator - GPS Field Camera",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-26T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Wildwood: Follow the Crows",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-26T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PeakFinder",
+    "to": "Prepware Aviation Maintenance"
+  },
+  {
+    "ts": "2026-08-26T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "FL Studio Mobile",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-26T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Prepware Aviation Maintenance",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-26T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "imo video calls and chat HD",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-26T22:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Stylebook",
+    "to": "iReal Pro"
   }
 ]
