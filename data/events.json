@@ -241918,5 +241918,141 @@
     "position": 24,
     "from": "LiveATC Air Radio",
     "to": "Tenuto"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Claude by Anthropic",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Canvas by Instructure",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "7 Brew Coffee",
+    "to": "Canvas by Instructure"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "PineDrama - Short Dramas",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Capital One Mobile",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "ParentSquare",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Microsoft Authenticator",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Netflix Game Controller",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Microsoft Teams",
+    "to": "Microsoft Outlook"
+  },
+  {
+    "ts": "2026-08-26T16:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Shop: Track, Pay, Discover"
   }
 ]
