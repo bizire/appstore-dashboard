@@ -240774,5 +240774,285 @@
     "position": 25,
     "from": "TikTok - Videos, Shop & LIVE",
     "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "7 Brew Coffee",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Microsoft Authenticator",
+    "to": "Canvas by Instructure"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Canvas by Instructure",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Capital One Mobile",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "ParentSquare",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Threads",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Microsoft Teams",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Dunkin'",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Outlook",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "PineDrama - Short Dramas",
+    "to": "Microsoft Outlook"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Google Maps",
+    "to": "GroupMe"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "1st",
+    "position": 1,
+    "from": "Shadowrocket",
+    "to": "HotSchedules"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "2nd",
+    "position": 2,
+    "from": "HotSchedules",
+    "to": "Shadowrocket"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "MilGPS",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Foundations Memory Work C3",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Wildwood: Follow the Crows",
+    "to": "Foundations Memory Work C3"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Prepware Aviation Maintenance",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "SkyViewÂ®",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Things 3",
+    "to": "Prepware Aviation Maintenance"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Moment Pro Camera II",
+    "to": "Tenuto"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Tenuto",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Shot Tracer",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Antizuck Smart Glasses Scanner",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Threema. The Secure Messenger",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-26T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "imo video calls and chat HD",
+    "to": "iReal Pro"
   }
 ]
