@@ -241054,5 +241054,293 @@
     "position": 25,
     "from": "imo video calls and chat HD",
     "to": "iReal Pro"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "7 Brew Coffee",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "ParentSquare",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Microsoft Authenticator",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Capital One Mobile",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Threads",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "WhatsApp Messenger",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Claude by Anthropic",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "PineDrama - Short Dramas",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Netflix Game Controller",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Microsoft Teams",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "X",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Microsoft Outlook",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "GroupMe",
+    "to": "Sleeper Sports"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Monash FODMAP Diet",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "MilGPS",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Wildwood: Follow the Crows",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "SkyViewÂ®",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Foundations Memory Work C3",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Streaks",
+    "to": "Foundations Memory Work C3"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Things 3",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Prepware Aviation Maintenance",
+    "to": "iReal Pro"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Tenuto",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Shot Tracer",
+    "to": "Prepware Aviation Maintenance"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Goblin Tools",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Moment Pro Camera II",
+    "to": "Tenuto"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Wipr 2",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-26T07:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "iReal Pro",
+    "to": "Shot Tracer"
   }
 ]
