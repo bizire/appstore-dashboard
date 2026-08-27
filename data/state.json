@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T13:45:03Z",
+  "updated_at": "2026-08-27T14:00:03Z",
   "charts": {
     "free": [
       {
@@ -24,18 +24,18 @@
       },
       {
         "rank": 5,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 6,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 7,
+        "rank": 6,
         "id": "6473753684",
         "title": "Claude by Anthropic"
+      },
+      {
+        "rank": 7,
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 8,
@@ -59,8 +59,8 @@
       },
       {
         "rank": 12,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
+        "id": "6762023973",
+        "title": "7 Brew Coffee"
       },
       {
         "rank": 13,
@@ -69,53 +69,53 @@
       },
       {
         "rank": 14,
-        "id": "480883488",
-        "title": "Canvas by Instructure"
-      },
-      {
-        "rank": 15,
-        "id": "555376968",
-        "title": "ESPN Fantasy Sports & More"
-      },
-      {
-        "rank": 16,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
-        "rank": 17,
-        "id": "6762023973",
-        "title": "7 Brew Coffee"
+        "rank": 15,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
-        "rank": 18,
-        "id": "407558537",
-        "title": "Capital One Mobile"
-      },
-      {
-        "rank": 19,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 20,
+        "rank": 16,
         "id": "333903271",
         "title": "X"
       },
       {
-        "rank": 21,
-        "id": "422689480",
-        "title": "Gmail - Email by Google"
+        "rank": 17,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
-        "rank": 22,
+        "rank": 18,
+        "id": "480883488",
+        "title": "Canvas by Instructure"
+      },
+      {
+        "rank": 19,
+        "id": "407558537",
+        "title": "Capital One Mobile"
+      },
+      {
+        "rank": 20,
+        "id": "555376968",
+        "title": "ESPN Fantasy Sports & More"
+      },
+      {
+        "rank": 21,
         "id": "6761538521",
         "title": "StoryReel: Exclusive Drama"
       },
       {
+        "rank": 22,
+        "id": "422689480",
+        "title": "Gmail - Email by Google"
+      },
+      {
         "rank": 23,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 24,
