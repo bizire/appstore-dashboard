@@ -242534,5 +242534,125 @@
     "position": 25,
     "from": "Shop: Track, Pay, Discover",
     "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Wildwood: Follow the Crows",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "RadarScope",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Streaks",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "SkyViewÂ®",
+    "to": "Foundations Memory Work C3"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Wipr 2",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Prepware Aviation Maintenance"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Foundations Memory Work C3",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Prepware Aviation Maintenance",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "PeakFinder",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "FL Studio Mobile",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Things 3",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Goblin Tools",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-27T01:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "iReal Pro",
+    "to": "LiveATC Air Radio"
   }
 ]
