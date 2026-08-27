@@ -242654,5 +242654,109 @@
     "position": 25,
     "from": "iReal Pro",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "7 Brew Coffee",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Microsoft Teams",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Claude by Anthropic",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "ParentSquare",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Canvas by Instructure",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Gemini",
+    "to": "Canvas by Instructure"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Outlook",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Microsoft Outlook"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "X",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-27T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "GroupMe"
   }
 ]
