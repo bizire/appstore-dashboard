@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T10:45:03Z",
+  "updated_at": "2026-08-27T11:00:03Z",
   "charts": {
     "free": [
       {
@@ -29,68 +29,68 @@
       },
       {
         "rank": 6,
-        "id": "6473753684",
-        "title": "Claude by Anthropic"
-      },
-      {
-        "rank": 7,
         "id": "6446901002",
         "title": "Threads"
       },
       {
-        "rank": 8,
-        "id": "908126679",
-        "title": "ParentSquare"
+        "rank": 7,
+        "id": "6473753684",
+        "title": "Claude by Anthropic"
       },
       {
-        "rank": 9,
+        "rank": 8,
         "id": "6477489729",
         "title": "Google Gemini"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "id": "284815942",
         "title": "Google"
       },
       {
+        "rank": 10,
+        "id": "908126679",
+        "title": "ParentSquare"
+      },
+      {
         "rank": 11,
-        "id": "983156458",
-        "title": "Microsoft Authenticator"
-      },
-      {
-        "rank": 12,
-        "id": "480883488",
-        "title": "Canvas by Instructure"
-      },
-      {
-        "rank": 13,
-        "id": "555376968",
-        "title": "ESPN Fantasy Sports & More"
-      },
-      {
-        "rank": 14,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
-        "rank": 15,
-        "id": "6762023973",
-        "title": "7 Brew Coffee"
+        "rank": 12,
+        "id": "983156458",
+        "title": "Microsoft Authenticator"
       },
       {
-        "rank": 16,
+        "rank": 13,
         "id": "6754134922",
         "title": "PineDrama - Short Dramas"
       },
       {
+        "rank": 14,
+        "id": "480883488",
+        "title": "Canvas by Instructure"
+      },
+      {
+        "rank": 15,
+        "id": "555376968",
+        "title": "ESPN Fantasy Sports & More"
+      },
+      {
+        "rank": 16,
+        "id": "1500855883",
+        "title": "CapCut: Photo & Video Editor"
+      },
+      {
         "rank": 17,
-        "id": "407558537",
-        "title": "Capital One Mobile"
+        "id": "6762023973",
+        "title": "7 Brew Coffee"
       },
       {
         "rank": 18,
-        "id": "1500855883",
-        "title": "CapCut: Photo & Video Editor"
+        "id": "407558537",
+        "title": "Capital One Mobile"
       },
       {
         "rank": 19,
@@ -104,28 +104,28 @@
       },
       {
         "rank": 21,
-        "id": "392796698",
-        "title": "GroupMe"
-      },
-      {
-        "rank": 22,
         "id": "422689480",
         "title": "Gmail - Email by Google"
       },
       {
-        "rank": 23,
-        "id": "1113153706",
-        "title": "Microsoft Teams"
+        "rank": 22,
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
       },
       {
-        "rank": 24,
+        "rank": 23,
         "id": "6447582581",
         "title": "Netflix Game Controller"
       },
       {
+        "rank": 24,
+        "id": "1113153706",
+        "title": "Microsoft Teams"
+      },
+      {
         "rank": 25,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
+        "id": "392796698",
+        "title": "GroupMe"
       }
     ],
     "paid": [
@@ -166,68 +166,68 @@
       },
       {
         "rank": 8,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 9,
         "id": "404990064",
         "title": "SkyViewÂ®"
       },
       {
+        "rank": 9,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
+      },
+      {
         "rank": 10,
-        "id": "288419283",
-        "title": "RadarScope"
-      },
-      {
-        "rank": 11,
-        "id": "6786316806",
-        "title": "Wildwood: Follow the Crows"
-      },
-      {
-        "rank": 12,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
-        "rank": 13,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "rank": 11,
+        "id": "288419283",
+        "title": "RadarScope"
       },
       {
-        "rank": 14,
+        "rank": 12,
+        "id": "6786316806",
+        "title": "Wildwood: Follow the Crows"
+      },
+      {
+        "rank": 13,
         "id": "405835358",
         "title": "MilGPS"
       },
       {
+        "rank": 14,
+        "id": "432850619",
+        "title": "FL Studio Mobile"
+      },
+      {
         "rank": 15,
-        "id": "338893931",
-        "title": "Prepware Aviation Maintenance"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 16,
-        "id": "459313476",
-        "title": "Tenuto"
-      },
-      {
-        "rank": 17,
-        "id": "298206806",
-        "title": "iReal Pro"
-      },
-      {
-        "rank": 18,
         "id": "963034692",
         "title": "Streaks"
       },
       {
+        "rank": 17,
+        "id": "338893931",
+        "title": "Prepware Aviation Maintenance"
+      },
+      {
+        "rank": 18,
+        "id": "459313476",
+        "title": "Tenuto"
+      },
+      {
         "rank": 19,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "298206806",
+        "title": "iReal Pro"
       },
       {
         "rank": 20,
-        "id": "432850619",
-        "title": "FL Studio Mobile"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 21,
@@ -241,18 +241,18 @@
       },
       {
         "rank": 23,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 24,
         "id": "501527692",
         "title": "Foundations Memory Work C3"
       },
       {
-        "rank": 24,
+        "rank": 25,
         "id": "582584117",
         "title": "Solocator - GPS Field Camera"
-      },
-      {
-        "rank": 25,
-        "id": "904237743",
-        "title": "Things 3"
       }
     ]
   }
