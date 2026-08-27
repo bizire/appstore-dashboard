@@ -242758,5 +242758,269 @@
     "position": 25,
     "from": "ESPN Fantasy Sports & More",
     "to": "GroupMe"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Microsoft Authenticator",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "7 Brew Coffee",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "WhatsApp Messenger",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Teams",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Claude by Anthropic",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Gemini",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "GroupMe"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Microsoft Outlook",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "PineDrama - Short Dramas",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Google Maps",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "GroupMe",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "1st",
+    "position": 1,
+    "from": "Shadowrocket",
+    "to": "HotSchedules"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "2nd",
+    "position": 2,
+    "from": "HotSchedules",
+    "to": "Shadowrocket"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "MilGPS",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "RadarScope",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Foundations Memory Work C3",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Streaks",
+    "to": "Prepware Aviation Maintenance"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Prepware Aviation Maintenance",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Foundations Memory Work C3"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Wipr 2",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "SkyViewÂ®",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Goblin Tools",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "FL Studio Mobile",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Things 3",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Tenuto",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Threema. The Secure Messenger",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-27T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Tenuto"
   }
 ]
