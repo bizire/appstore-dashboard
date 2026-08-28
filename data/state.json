@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T13:00:03Z",
+  "updated_at": "2026-08-28T13:45:03Z",
   "charts": {
     "free": [
       {
@@ -34,13 +34,13 @@
       },
       {
         "rank": 7,
-        "id": "284815942",
-        "title": "Google"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 8,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "284815942",
+        "title": "Google"
       },
       {
         "rank": 9,
@@ -54,43 +54,43 @@
       },
       {
         "rank": 11,
-        "id": "6754134922",
-        "title": "PineDrama - Short Dramas"
-      },
-      {
-        "rank": 12,
-        "id": "555376968",
-        "title": "ESPN Fantasy Sports & More"
-      },
-      {
-        "rank": 13,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 12,
+        "id": "6754134922",
+        "title": "PineDrama - Short Dramas"
+      },
+      {
+        "rank": 13,
+        "id": "6762023973",
+        "title": "7 Brew Coffee"
+      },
+      {
         "rank": 14,
-        "id": "908126679",
-        "title": "ParentSquare"
+        "id": "555376968",
+        "title": "ESPN Fantasy Sports & More"
       },
       {
         "rank": 15,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
-      },
-      {
-        "rank": 16,
         "id": "333903271",
         "title": "X"
       },
       {
+        "rank": 16,
+        "id": "908126679",
+        "title": "ParentSquare"
+      },
+      {
         "rank": 17,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
       },
       {
         "rank": 18,
-        "id": "6447582581",
-        "title": "Netflix Game Controller"
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
       },
       {
         "rank": 19,
@@ -99,8 +99,8 @@
       },
       {
         "rank": 20,
-        "id": "6762023973",
-        "title": "7 Brew Coffee"
+        "id": "585027354",
+        "title": "Google Maps"
       },
       {
         "rank": 21,
@@ -119,13 +119,13 @@
       },
       {
         "rank": 24,
-        "id": "585027354",
-        "title": "Google Maps"
+        "id": "6447582581",
+        "title": "Netflix Game Controller"
       },
       {
         "rank": 25,
-        "id": "392796698",
-        "title": "GroupMe"
+        "id": "1636235979",
+        "title": "ReelShort - Stream Drama & TV"
       }
     ],
     "paid": [
@@ -231,13 +231,13 @@
       },
       {
         "rank": 21,
-        "id": "1449893235",
-        "title": "Earthquake Network"
+        "id": "1662217862",
+        "title": "Wipr 2"
       },
       {
         "rank": 22,
-        "id": "6786316806",
-        "title": "Wildwood: Follow the Crows"
+        "id": "949490225",
+        "title": "Print to Size"
       },
       {
         "rank": 23,
@@ -246,13 +246,13 @@
       },
       {
         "rank": 24,
-        "id": "949490225",
-        "title": "Print to Size"
+        "id": "1449893235",
+        "title": "Earthquake Network"
       },
       {
         "rank": 25,
-        "id": "582584117",
-        "title": "Solocator - GPS Field Camera"
+        "id": "6786316806",
+        "title": "Wildwood: Follow the Crows"
       }
     ]
   }

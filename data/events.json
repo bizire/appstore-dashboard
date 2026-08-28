@@ -245766,5 +245766,141 @@
     "position": 25,
     "from": "LiveATC Air Radio",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "PineDrama - Short Dramas",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "ParentSquare",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "X",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Netflix Game Controller",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "7 Brew Coffee",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Google Maps",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "GroupMe",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Earthquake Network",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Wildwood: Follow the Crows",
+    "to": "Print to Size"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Print to Size",
+    "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-28T13:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Wildwood: Follow the Crows"
   }
 ]
