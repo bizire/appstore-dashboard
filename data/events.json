@@ -245558,5 +245558,213 @@
     "position": 25,
     "from": "Foundations Memory Work C3",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "ParentSquare",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "PineDrama - Short Dramas",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "7 Brew Coffee",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Netflix Game Controller",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Microsoft Authenticator",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "X",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Gmail - Email by Google",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "GroupMe",
+    "to": "Netflix"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Netflix",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Microsoft Teams",
+    "to": "GroupMe"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "paid",
+    "type": "1st",
+    "position": 1,
+    "from": "HotSchedules",
+    "to": "Shadowrocket"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "paid",
+    "type": "2nd",
+    "position": 2,
+    "from": "Shadowrocket",
+    "to": "HotSchedules"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "RadarScope",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "QuickBend: Conduit Bending",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "FL Studio Mobile",
+    "to": "iMoonCamera3"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "iMoonCamera3",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Wildwood: Follow the Crows",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Goblin Tools",
+    "to": "Print to Size"
+  },
+  {
+    "ts": "2026-08-28T10:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Solocator - GPS Field Camera"
   }
 ]
