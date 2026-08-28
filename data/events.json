@@ -244942,5 +244942,293 @@
     "position": 25,
     "from": "iReal Pro",
     "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "NBA 2K HQ",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "TikTok Pro - Events",
+    "to": "NBA 2K HQ"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "Microsoft Authenticator",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Claude by Anthropic",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "7 Brew Coffee",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Microsoft Teams",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Threads",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "ParentSquare",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google Gemini",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Capital One Mobile",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Google Maps",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "Netflix"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Canvas by Instructure",
+    "to": "Chipotle"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "PineDrama - Short Dramas",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "1st",
+    "position": 1,
+    "from": "Shadowrocket",
+    "to": "HotSchedules"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "2nd",
+    "position": 2,
+    "from": "HotSchedules",
+    "to": "Shadowrocket"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "QuickBend: Conduit Bending",
+    "to": "SkyViewÂ®"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "RadarScope",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Solocator - GPS Field Camera",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "MilGPS",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "SkyViewÂ®",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Prepware Aviation Maintenance",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Wildwood: Follow the Crows",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "FL Studio Mobile",
+    "to": "MilGPS"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Foundations Memory Work C3",
+    "to": "Prepware Aviation Maintenance"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Tenuto",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Streaks",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Moment Pro Camera II",
+    "to": "Tenuto"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "iReal Pro",
+    "to": "My Lightning Tracker Pro"
+  },
+  {
+    "ts": "2026-08-28T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "LiveATC Air Radio",
+    "to": "Foundations Memory Work C3"
   }
 ]
