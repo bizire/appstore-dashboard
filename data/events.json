@@ -246166,5 +246166,269 @@
     "position": 25,
     "from": "Wildwood: Follow the Crows",
     "to": "Earthquake Network"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google Gemini",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Google",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "WhatsApp Messenger",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Microsoft Authenticator",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "PineDrama - Short Dramas",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "ParentSquare",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "X",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Teams",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Gmail - Email by Google",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Capital One Mobile",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Netflix",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PhotoPills",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "QuickBend: Conduit Bending",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Moment Pro Camera II",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "PeakFinder",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "iMoonCamera3",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Print to Size",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Goblin Tools",
+    "to": "Print to Size"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Solocator - GPS Field Camera",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Wipr 2",
+    "to": "Foundations Memory Work C3"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "SkySafari 8 Pro",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Things 3",
+    "to": "iMoonCamera3"
+  },
+  {
+    "ts": "2026-08-28T19:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Earthquake Network",
+    "to": "MilGPS"
   }
 ]
