@@ -245902,5 +245902,269 @@
     "position": 25,
     "from": "Solocator - GPS Field Camera",
     "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google Gemini",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Google",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "PineDrama - Short Dramas",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "7 Brew Coffee",
+    "to": "Microsoft Authenticator"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "X",
+    "to": "ParentSquare"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "ParentSquare",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Gmail - Email by Google",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Microsoft Authenticator",
+    "to": "Microsoft Teams"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Netflix",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Capital One Mobile",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Netflix Game Controller",
+    "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "Netflix"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 5,
+    "from": "TonalEnergy Tuner & Metronome",
+    "to": "Procreate Pocket"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Procreate Pocket",
+    "to": "TonalEnergy Tuner & Metronome"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "PhotoPills",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Monash FODMAP Diet",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "FL Studio Mobile",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "Moment Pro Camera II",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "RadarScope",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "PeakFinder",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "iMoonCamera3",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "QuickBend: Conduit Bending",
+    "to": "iMoonCamera3"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "SkySafari 8 Pro",
+    "to": "Print to Size"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Wipr 2",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Print to Size",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Things 3",
+    "to": "SkySafari 8 Pro"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Earthquake Network",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-28T16:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Wildwood: Follow the Crows",
+    "to": "Earthquake Network"
   }
 ]
