@@ -247494,5 +247494,253 @@
     "position": 25,
     "from": "FORScan Lite - for Ford, Mazda",
     "to": "iReal Pro"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Threads",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Claude by Anthropic",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google Gemini",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "7 Brew Coffee",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "WhatsApp Messenger",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Uber - Request a ride",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "X",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Life360: Family Safety & GPS",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Capital One Mobile",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "1st",
+    "position": 1,
+    "from": "HotSchedules",
+    "to": "Shadowrocket"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "2nd",
+    "position": 2,
+    "from": "Shadowrocket",
+    "to": "HotSchedules"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "NightCap Camera: Long Exposure",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "Paprika Recipe Manager 3",
+    "to": "NightCap Camera: Long Exposure"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "RadarScope",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Moment Pro Camera II",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Gridiron 2026 College Football",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "PhotoPills",
+    "to": "Taskmaster The App"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "LiveATC Air Radio",
+    "to": "Gridiron 2026 College Football"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Solocator - GPS Field Camera",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Taskmaster The App",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Goblin Tools",
+    "to": "Koala Sampler â¢ Beat Maker"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "FORScan Lite - for Ford, Mazda",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-29T10:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "iReal Pro",
+    "to": "Solocator - GPS Field Camera"
   }
 ]
