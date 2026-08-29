@@ -247014,5 +247014,149 @@
     "position": 25,
     "from": "X",
     "to": "Capital One Mobile"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "NightCap Camera: Long Exposure",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 8,
+    "from": "Monash FODMAP Diet",
+    "to": "NightCap Camera: Long Exposure"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Paprika Recipe Manager 3",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "RadarScope",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "PeakFinder",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "FL Studio Mobile",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Solocator - GPS Field Camera",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Moment Pro Camera II",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Wildwood: Follow the Crows",
+    "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "PhotoPills",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Gridiron 2026 College Football"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Goblin Tools",
+    "to": "PhotoPills"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Print to Size",
+    "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "LiveATC Air Radio",
+    "to": "Print to Size"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Streaks",
+    "to": "AutoSleep: Watch Sleep Tracker"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Foundations Memory Work C3",
+    "to": "Goblin Tools"
+  },
+  {
+    "ts": "2026-08-29T04:45:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "FORScan Lite - for Ford, Mazda"
   }
 ]
