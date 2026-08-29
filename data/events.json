@@ -248486,5 +248486,149 @@
     "position": 25,
     "from": "Threema. The Secure Messenger",
     "to": "Solocator - GPS Field Camera"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Threads",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "Google",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "WhatsApp Messenger",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "NBA 2K HQ",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Netflix Game Controller",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "PineDrama - Short Dramas",
+    "to": "NBA 2K HQ"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Claude by Anthropic",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Maps",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Gemini",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Gmail - Email by Google",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Instagram",
+    "to": "Gmail - Email by Google"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Uber - Request a ride",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "X",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-29T22:45:02Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "YouTube",
+    "to": "DoorDash: Food, Grocery, More"
   }
 ]
