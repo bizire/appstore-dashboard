@@ -249742,5 +249742,85 @@
     "position": 25,
     "from": "Walmart: Shopping & Savings",
     "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-30T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Moment Pro Camera II",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-08-30T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Spirit Talker Â®",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-30T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Pocket God"
+  },
+  {
+    "ts": "2026-08-30T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Things 3",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-30T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pocket God",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-30T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Taskmaster The App",
+    "to": "NightCap Camera: Long Exposure"
+  },
+  {
+    "ts": "2026-08-30T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "NightCap Camera: Long Exposure",
+    "to": "Taskmaster The App"
+  },
+  {
+    "ts": "2026-08-30T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Streaks",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-30T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Shot Tracer",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-30T14:00:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "PhotoPills",
+    "to": "Streaks"
   }
 ]
