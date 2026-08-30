@@ -249822,5 +249822,85 @@
     "position": 25,
     "from": "PhotoPills",
     "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-30T14:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-30T14:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "NBA 2K HQ",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-30T14:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Google",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-30T14:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "NBA 2K HQ"
+  },
+  {
+    "ts": "2026-08-30T14:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-30T14:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Gemini",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-30T14:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Claude by Anthropic",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-30T14:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Life360: Family Safety & GPS",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-30T14:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Life360: Family Safety & GPS"
+  },
+  {
+    "ts": "2026-08-30T14:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Whatnot: Shop, Sell, Connect"
   }
 ]
