@@ -249902,5 +249902,141 @@
     "position": 25,
     "from": "TikTok - Videos, Shop & LIVE",
     "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Netflix Game Controller",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "TikTok Pro - Events",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 5,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "TikTok Pro - Events"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "Threads",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "7 Brew Coffee",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Uber - Request a ride",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "NBA 2K HQ",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Gemini",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "NBA 2K HQ"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "X",
+    "to": "MapQuest GPS Navigation & Maps"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Life360: Family Safety & GPS",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-30T16:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "TikTok - Videos, Shop & LIVE"
   }
 ]
