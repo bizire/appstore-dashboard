@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T10:15:03Z",
+  "updated_at": "2026-08-30T10:30:02Z",
   "charts": {
     "free": [
       {
@@ -39,28 +39,28 @@
       },
       {
         "rank": 8,
-        "id": "6762023973",
-        "title": "7 Brew Coffee"
-      },
-      {
-        "rank": 9,
-        "id": "518684914",
-        "title": "Depop - Buy & Sell Clothes"
-      },
-      {
-        "rank": 10,
         "id": "6446901002",
         "title": "Threads"
       },
       {
+        "rank": 9,
+        "id": "6762023973",
+        "title": "7 Brew Coffee"
+      },
+      {
+        "rank": 10,
+        "id": "368677368",
+        "title": "Uber - Request a ride"
+      },
+      {
         "rank": 11,
-        "id": "6745190566",
-        "title": "NBA 2K HQ"
+        "id": "518684914",
+        "title": "Depop - Buy & Sell Clothes"
       },
       {
         "rank": 12,
-        "id": "368677368",
-        "title": "Uber - Request a ride"
+        "id": "6745190566",
+        "title": "NBA 2K HQ"
       },
       {
         "rank": 13,
@@ -69,23 +69,23 @@
       },
       {
         "rank": 14,
-        "id": "719972451",
-        "title": "DoorDash: Food, Grocery, More"
-      },
-      {
-        "rank": 15,
         "id": "1500855883",
         "title": "CapCut: Photo & Video Editor"
       },
       {
+        "rank": 15,
+        "id": "719972451",
+        "title": "DoorDash: Food, Grocery, More"
+      },
+      {
         "rank": 16,
-        "id": "6761538521",
-        "title": "StoryReel: Exclusive Drama"
+        "id": "6477489729",
+        "title": "Google Gemini"
       },
       {
         "rank": 17,
-        "id": "6477489729",
-        "title": "Google Gemini"
+        "id": "6761538521",
+        "title": "StoryReel: Exclusive Drama"
       },
       {
         "rank": 18,
@@ -99,23 +99,23 @@
       },
       {
         "rank": 20,
-        "id": "1641486558",
-        "title": "Temu: Shop Like a Billionaire"
-      },
-      {
-        "rank": 21,
         "id": "310633997",
         "title": "WhatsApp Messenger"
       },
       {
+        "rank": 21,
+        "id": "1641486558",
+        "title": "Temu: Shop Like a Billionaire"
+      },
+      {
         "rank": 22,
-        "id": "384830320",
-        "title": "Life360: Family Safety & GPS"
+        "id": "333903271",
+        "title": "X"
       },
       {
         "rank": 23,
-        "id": "333903271",
-        "title": "X"
+        "id": "384830320",
+        "title": "Life360: Family Safety & GPS"
       },
       {
         "rank": 24,
@@ -124,8 +124,8 @@
       },
       {
         "rank": 25,
-        "id": "338137227",
-        "title": "Walmart: Shopping & Savings"
+        "id": "835599320",
+        "title": "TikTok - Videos, Shop & LIVE"
       }
     ],
     "paid": [
