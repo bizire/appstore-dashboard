@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T16:15:03Z",
+  "updated_at": "2026-08-30T16:30:03Z",
   "charts": {
     "free": [
       {
@@ -166,13 +166,13 @@
       },
       {
         "rank": 8,
-        "id": "6786316806",
-        "title": "Wildwood: Follow the Crows"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 9,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "6786316806",
+        "title": "Wildwood: Follow the Crows"
       },
       {
         "rank": 10,
@@ -206,8 +206,8 @@
       },
       {
         "rank": 16,
-        "id": "301387274",
-        "title": "Pocket God"
+        "id": "317809458",
+        "title": "LiveATC Air Radio"
       },
       {
         "rank": 17,
@@ -216,8 +216,8 @@
       },
       {
         "rank": 18,
-        "id": "317809458",
-        "title": "LiveATC Air Radio"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 19,
@@ -226,33 +226,33 @@
       },
       {
         "rank": 20,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
+        "rank": 21,
         "id": "904237743",
         "title": "Things 3"
       },
       {
-        "rank": 21,
-        "id": "754105884",
-        "title": "NightCap Camera: Long Exposure"
-      },
-      {
         "rank": 22,
-        "id": "1553774029",
-        "title": "Taskmaster The App"
-      },
-      {
-        "rank": 23,
         "id": "1400579543",
         "title": "imo video calls and chat HD"
       },
       {
+        "rank": 23,
+        "id": "1553774029",
+        "title": "Taskmaster The App"
+      },
+      {
         "rank": 24,
-        "id": "1662217862",
-        "title": "Wipr 2"
+        "id": "754105884",
+        "title": "NightCap Camera: Long Exposure"
       },
       {
         "rank": 25,
-        "id": "963034692",
-        "title": "Streaks"
+        "id": "1662217862",
+        "title": "Wipr 2"
       }
     ]
   }
