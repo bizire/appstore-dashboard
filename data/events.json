@@ -250118,5 +250118,253 @@
     "position": 25,
     "from": "Streaks",
     "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "PineDrama - Short Dramas",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "7 Brew Coffee",
+    "to": "PineDrama - Short Dramas"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Threads",
+    "to": "MapQuest GPS Navigation & Maps"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Google",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Google Gemini",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Uber - Request a ride",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Google Maps",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "NBA 2K HQ",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Uber - Request a ride"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "WhatsApp Messenger",
+    "to": "NBA 2K HQ"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "MapQuest GPS Navigation & Maps",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Whatnot: Shop, Sell, Connect",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Whatnot: Shop, Sell, Connect"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Wildwood: Follow the Crows",
+    "to": "Foggy: Bay Area Fog Tracker"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "Gridiron 2026 College Football",
+    "to": "Wildwood: Follow the Crows"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "RadarScope",
+    "to": "Gridiron 2026 College Football"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Spirit Talker Â®",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "LiveATC Air Radio",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Shot Tracer",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "QuickBend: Conduit Bending",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Pocket God",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Things 3",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "imo video calls and chat HD",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "Taskmaster The App",
+    "to": "Stylebook"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "NightCap Camera: Long Exposure",
+    "to": "imo video calls and chat HD"
+  },
+  {
+    "ts": "2026-08-30T19:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Wipr 2",
+    "to": "Pocket God"
   }
 ]
