@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T04:00:03Z",
+  "updated_at": "2026-08-30T04:15:03Z",
   "charts": {
     "free": [
       {
@@ -171,13 +171,13 @@
       },
       {
         "rank": 9,
-        "id": "6797274503",
-        "title": "Gridiron 2026 College Football"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 10,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "6797274503",
+        "title": "Gridiron 2026 College Football"
       },
       {
         "rank": 11,
@@ -191,38 +191,38 @@
       },
       {
         "rank": 13,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
-      },
-      {
-        "rank": 14,
         "id": "288419283",
         "title": "RadarScope"
       },
       {
-        "rank": 15,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
+        "rank": 14,
+        "id": "1010311475",
+        "title": "QuickBend: Conduit Bending"
       },
       {
-        "rank": 16,
+        "rank": 15,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
+        "rank": 16,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
         "rank": 17,
-        "id": "754105884",
-        "title": "NightCap Camera: Long Exposure"
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
       },
       {
         "rank": 18,
-        "id": "1553774029",
-        "title": "Taskmaster The App"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 19,
-        "id": "6449003064",
-        "title": "Goblin Tools"
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
         "rank": 20,
@@ -231,28 +231,28 @@
       },
       {
         "rank": 21,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 22,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 23,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 24,
         "id": "1662217862",
         "title": "Wipr 2"
       },
       {
+        "rank": 22,
+        "id": "892347083",
+        "title": "FORScan Lite - for Ford, Mazda"
+      },
+      {
+        "rank": 23,
+        "id": "1553774029",
+        "title": "Taskmaster The App"
+      },
+      {
+        "rank": 24,
+        "id": "754105884",
+        "title": "NightCap Camera: Long Exposure"
+      },
+      {
         "rank": 25,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       }
     ]
   }

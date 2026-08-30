@@ -248990,5 +248990,117 @@
     "position": 25,
     "from": "PhotoPills",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 9,
+    "from": "Gridiron 2026 College Football",
+    "to": "PeakFinder"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 10,
+    "from": "PeakFinder",
+    "to": "Gridiron 2026 College Football"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 13,
+    "from": "QuickBend: Conduit Bending",
+    "to": "RadarScope"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "RadarScope",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Moment Pro Camera II",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "LiveATC Air Radio",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "NightCap Camera: Long Exposure",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "Taskmaster The App",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 19,
+    "from": "Goblin Tools",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Things 3",
+    "to": "Wipr 2"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Shot Tracer",
+    "to": "FORScan Lite - for Ford, Mazda"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "Taskmaster The App"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "Wipr 2",
+    "to": "NightCap Camera: Long Exposure"
+  },
+  {
+    "ts": "2026-08-30T04:15:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 25,
+    "from": "Threema. The Secure Messenger",
+    "to": "Goblin Tools"
   }
 ]
