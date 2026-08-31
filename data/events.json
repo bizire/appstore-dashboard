@@ -250862,5 +250862,293 @@
     "position": 25,
     "from": "QuickBend: Conduit Bending",
     "to": "Threema. The Secure Messenger"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "2nd",
+    "position": 2,
+    "from": "Vinted: Pre-loved marketplace",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "Vinted: Pre-loved marketplace"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "Netflix Game Controller",
+    "to": "MapQuest GPS Navigation & Maps"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 7,
+    "from": "7 Brew Coffee",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 8,
+    "from": "MapQuest GPS Navigation & Maps",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Google",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "WhatsApp Messenger",
+    "to": "Google"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "Threads",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Sleeper - Fantasy Sports"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Google Gemini",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "Claude by Anthropic",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "PopDrama"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Google Maps",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "PopDrama",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Sleeper - Fantasy Sports",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Instagram",
+    "to": "Walmart: Shopping & Savings"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "Walmart: Shopping & Savings",
+    "to": "NBA 2K HQ"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 6,
+    "from": "Paprika Recipe Manager 3",
+    "to": "Foggy: Bay Area Fog Tracker"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 7,
+    "from": "Foggy: Bay Area Fog Tracker",
+    "to": "Paprika Recipe Manager 3"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 11,
+    "from": "FL Studio Mobile",
+    "to": "Monash FODMAP Diet"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 12,
+    "from": "Monash FODMAP Diet",
+    "to": "FL Studio Mobile"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 14,
+    "from": "Gridiron 2026 College Football",
+    "to": "Streaks"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 15,
+    "from": "Moment Pro Camera II",
+    "to": "Shot Tracer"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 16,
+    "from": "Streaks",
+    "to": "Things 3"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 17,
+    "from": "Shot Tracer",
+    "to": "Gridiron 2026 College Football"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 18,
+    "from": "LiveATC Air Radio",
+    "to": "Moment Pro Camera II"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 20,
+    "from": "Things 3",
+    "to": "Lysoniq"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 21,
+    "from": "Spirit Talker Â®",
+    "to": "LiveATC Air Radio"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 22,
+    "from": "Pocket God",
+    "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 23,
+    "from": "AutoSleep: Watch Sleep Tracker",
+    "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-31T04:30:03Z",
+    "chart": "paid",
+    "type": "other",
+    "position": 24,
+    "from": "imo video calls and chat HD",
+    "to": "AutoSleep: Watch Sleep Tracker"
   }
 ]
