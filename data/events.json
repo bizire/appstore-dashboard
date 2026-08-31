@@ -251646,5 +251646,109 @@
     "position": 25,
     "from": "Goblin Tools",
     "to": "Spirit Talker Â®"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "Netflix Game Controller",
+    "to": "MapQuest GPS Navigation & Maps"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 6,
+    "from": "MapQuest GPS Navigation & Maps",
+    "to": "Netflix Game Controller"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 9,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 10,
+    "from": "Threads",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "7 Brew Coffee",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "Claude by Anthropic",
+    "to": "7 Brew Coffee"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Sleeper - Fantasy Sports",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "WhatsApp Messenger",
+    "to": "Sleeper - Fantasy Sports"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "NBA 2K HQ",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Google Maps",
+    "to": "NBA 2K HQ"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "DoorDash: Food, Grocery, More",
+    "to": "X"
+  },
+  {
+    "ts": "2026-08-31T13:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "X",
+    "to": "DoorDash: Food, Grocery, More"
   }
 ]
