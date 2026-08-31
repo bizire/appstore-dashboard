@@ -250654,5 +250654,141 @@
     "position": 25,
     "from": "Pocket God",
     "to": "QuickBend: Conduit Bending"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 3,
+    "from": "ReelShort - Stream Drama & TV",
+    "to": "ESPN Fantasy Sports & More"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 4,
+    "from": "ESPN Fantasy Sports & More",
+    "to": "ReelShort - Stream Drama & TV"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 11,
+    "from": "Threads",
+    "to": "WhatsApp Messenger"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 12,
+    "from": "WhatsApp Messenger",
+    "to": "Threads"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 13,
+    "from": "CapCut: Photo & Video Editor",
+    "to": "Depop - Buy & Sell Clothes"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 14,
+    "from": "Depop - Buy & Sell Clothes",
+    "to": "CapCut: Photo & Video Editor"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 15,
+    "from": "StoryReel: Exclusive Drama",
+    "to": "Google Gemini"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 16,
+    "from": "Google Gemini",
+    "to": "Temu: Shop Like a Billionaire"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 17,
+    "from": "Temu: Shop Like a Billionaire",
+    "to": "StoryReel: Exclusive Drama"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 18,
+    "from": "TikTok - Videos, Shop & LIVE",
+    "to": "Claude by Anthropic"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 19,
+    "from": "Google Maps",
+    "to": "TikTok - Videos, Shop & LIVE"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 20,
+    "from": "Claude by Anthropic",
+    "to": "Google Maps"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 21,
+    "from": "Instagram",
+    "to": "PopDrama"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 22,
+    "from": "Gmail - Email by Google",
+    "to": "Sleeper - Fantasy Sports"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 23,
+    "from": "Uber - Request a ride",
+    "to": "Instagram"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 24,
+    "from": "Facebook",
+    "to": "DoorDash: Food, Grocery, More"
+  },
+  {
+    "ts": "2026-08-31T01:30:03Z",
+    "chart": "free",
+    "type": "other",
+    "position": 25,
+    "from": "NBA 2K HQ",
+    "to": "Walmart: Shopping & Savings"
   }
 ]
