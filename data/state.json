@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T01:30:03Z",
+  "updated_at": "2026-08-31T01:45:03Z",
   "charts": {
     "free": [
       {
@@ -171,13 +171,13 @@
       },
       {
         "rank": 9,
-        "id": "357421934",
-        "title": "PeakFinder"
+        "id": "6786316806",
+        "title": "Wildwood: Follow the Crows"
       },
       {
         "rank": 10,
-        "id": "6786316806",
-        "title": "Wildwood: Follow the Crows"
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 11,
@@ -211,8 +211,8 @@
       },
       {
         "rank": 17,
-        "id": "904237743",
-        "title": "Things 3"
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
         "rank": 18,
@@ -221,28 +221,28 @@
       },
       {
         "rank": 19,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 20,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
-      },
-      {
-        "rank": 21,
-        "id": "1164801111",
-        "title": "AutoSleep: Watch Sleep Tracker"
-      },
-      {
-        "rank": 22,
         "id": "335709058",
         "title": "Stylebook"
       },
       {
-        "rank": 23,
+        "rank": 20,
+        "id": "904237743",
+        "title": "Things 3"
+      },
+      {
+        "rank": 21,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
+        "rank": 22,
         "id": "301387274",
         "title": "Pocket God"
+      },
+      {
+        "rank": 23,
+        "id": "1164801111",
+        "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
         "rank": 24,
@@ -251,8 +251,8 @@
       },
       {
         "rank": 25,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "id": "578665578",
+        "title": "Threema. The Secure Messenger"
       }
     ]
   }
