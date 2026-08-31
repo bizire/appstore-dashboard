@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T07:00:03Z",
+  "updated_at": "2026-08-31T07:15:03Z",
   "charts": {
     "free": [
       {
@@ -131,13 +131,13 @@
     "paid": [
       {
         "rank": 1,
-        "id": "932747118",
-        "title": "Shadowrocket"
+        "id": "294934058",
+        "title": "HotSchedules"
       },
       {
         "rank": 2,
-        "id": "294934058",
-        "title": "HotSchedules"
+        "id": "932747118",
+        "title": "Shadowrocket"
       },
       {
         "rank": 3,
@@ -176,18 +176,18 @@
       },
       {
         "rank": 10,
-        "id": "357421934",
-        "title": "PeakFinder"
-      },
-      {
-        "rank": 11,
         "id": "586149216",
         "title": "Monash FODMAP Diet"
       },
       {
-        "rank": 12,
+        "rank": 11,
         "id": "432850619",
         "title": "FL Studio Mobile"
+      },
+      {
+        "rank": 12,
+        "id": "357421934",
+        "title": "PeakFinder"
       },
       {
         "rank": 13,
@@ -196,63 +196,63 @@
       },
       {
         "rank": 14,
-        "id": "963034692",
-        "title": "Streaks"
-      },
-      {
-        "rank": 15,
-        "id": "1140451547",
-        "title": "Shot Tracer"
-      },
-      {
-        "rank": 16,
-        "id": "904237743",
-        "title": "Things 3"
-      },
-      {
-        "rank": 17,
-        "id": "6797274503",
-        "title": "Gridiron 2026 College Football"
-      },
-      {
-        "rank": 18,
-        "id": "6748837351",
-        "title": "Moment Pro Camera II"
-      },
-      {
-        "rank": 19,
-        "id": "335709058",
-        "title": "Stylebook"
-      },
-      {
-        "rank": 20,
         "id": "6746699177",
         "title": "Lysoniq"
       },
       {
-        "rank": 21,
+        "rank": 15,
+        "id": "963034692",
+        "title": "Streaks"
+      },
+      {
+        "rank": 16,
+        "id": "6748837351",
+        "title": "Moment Pro Camera II"
+      },
+      {
+        "rank": 17,
         "id": "317809458",
         "title": "LiveATC Air Radio"
       },
       {
-        "rank": 22,
-        "id": "1536762482",
-        "title": "Spirit Talker Â®"
+        "rank": 18,
+        "id": "904237743",
+        "title": "Things 3"
       },
       {
-        "rank": 23,
-        "id": "1010311475",
-        "title": "QuickBend: Conduit Bending"
+        "rank": 19,
+        "id": "1140451547",
+        "title": "Shot Tracer"
       },
       {
-        "rank": 24,
+        "rank": 20,
+        "id": "335709058",
+        "title": "Stylebook"
+      },
+      {
+        "rank": 21,
         "id": "1164801111",
         "title": "AutoSleep: Watch Sleep Tracker"
       },
       {
+        "rank": 22,
+        "id": "6797274503",
+        "title": "Gridiron 2026 College Football"
+      },
+      {
+        "rank": 23,
+        "id": "301387274",
+        "title": "Pocket God"
+      },
+      {
+        "rank": 24,
+        "id": "1536762482",
+        "title": "Spirit Talker Â®"
+      },
+      {
         "rank": 25,
-        "id": "578665578",
-        "title": "Threema. The Secure Messenger"
+        "id": "6449003064",
+        "title": "Goblin Tools"
       }
     ]
   }
